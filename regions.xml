@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<regions>
+  <region name="South America" /> 
+  <region name="North America" /> 
+  <region name="Central America" /> 
+  <region name="Caribbean" /> 
+  <region name="Oceania" /> 
+  <region name="Eastern Europe" /> 
+  <region name="Southern Europe" /> 
+  <region name="Western Europe" /> 
+  <region name="Africa" /> 
+  <region name="Asia" /> 
+  <region name="Middle East" /> 
+  <region name="Great Britain" /> 
+  <region name="Scandinavia" /> 
+</regions>

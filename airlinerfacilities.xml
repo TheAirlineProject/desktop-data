@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facilities>
+  <facility name="No Audio" type="Audio" fromyear="1950">
+    <level service="0"></level>
+    <seats percent="0" price="0" uses="1"></seats>
+  </facility>
+  <facility name="Stadard Audio on demand" type="Audio" fromyear="1982">
+    <level service="30"></level>
+    <seats percent="100" price="900" uses="1"></seats>
+  </facility>
+  <facility name="Extended Audio on demand" type="Audio" fromyear="1995">
+    <level service="65"></level>
+    <seats percent="100" price="1200" uses="1"></seats>
+  </facility>
+  <facility name="Standard Seats" type="Seat" fromyear="1950">
+    <level service="0"></level>
+    <seats percent="0" price="0" uses="1"></seats>
+  </facility>
+  <facility name="Luxury Seats" type="Seat" fromyear="1990">
+    <level service="50"></level>
+    <seats percent="100" price="1000" uses="2"></seats>
+  </facility>
+  <facility name="Full-flat Seats" type="Seat" fromyear="1997">
+    <level service="75"></level>
+    <seats percent="100" price="1200" uses="3"></seats>
+  </facility>
+  <facility name="Full-flat Beds" type="Seat" fromyear="1999">
+    <level service="100"></level>
+    <seats percent="100" price="1300" uses="3"></seats>
+  </facility>
+  <facility name="No Video" type="Video" fromyear="1950">
+    <level service="0"></level>
+    <seats percent="0" price="0" uses="1"></seats>
+  </facility>
+  <facility name="In-flight Movies system" type="Video" fromyear="1965">
+    <level service="30"></level>
+    <seats percent="20" price="400" uses="1"></seats>
+  </facility>
+  <facility name="Standard PTV" type="Video" fromyear="1988">
+    <level service="40"></level>
+    <seats percent="100" price="300" uses="1"></seats>
+  </facility>
+  <facility name="Extended PTV" type="Video" fromyear="1997">
+    <level service="100"></level>
+    <seats percent="100" price="1200" uses="1"></seats>
+  </facility>
+</facilities>

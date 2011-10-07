@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Airbus" name="Airbus A310-300" price="25000000">
+    <specs wingspan="43.9" length="46.66" range="9600" speed="850" consumption="0.033"/>
+    <capacity passengers="240" cockpitcrew="2"/>
+    <produced from="1983" to="2007"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A318-100" price="65000000">
+    <specs wingspan="34.10" length="31.44" range="5700" speed="828" consumption="0.040"/>
+    <capacity passengers="107" cockpitcrew="2"/>
+    <produced from="1999" to="2018"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A319-100" price="78000000">
+    <specs wingspan="34.10" length="33.84" range="6700" speed="828" consumption="0.029"/>
+    <capacity passengers="124" cockpitcrew="2"/>
+    <produced from="1992" to="2013"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A320-200" price="85000000">
+    <specs wingspan="34.10" length="37.57" range="5900" speed="828" consumption="0.027"/>
+    <capacity passengers="150" cockpitcrew="2"/>
+    <produced from="1988" to="2013"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A321-200" price="100000000">
+    <specs wingspan="34.10" length="44.51" range="5600" speed="828" consumption="0.020"/>
+    <capacity passengers="185" cockpitcrew="2"/>
+    <produced from="1988" to="2017"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A330-200" price="201000000">
+    <specs wingspan="60.30" length="58.82" range="13430" speed="871" consumption="0.035"/>
+    <capacity passengers="293" cockpitcrew="2"/>
+    <produced from="1998" to="2018"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A330-300" price="223000000">
+    <specs wingspan="60.30" length="63.69" range="10830" speed="871" consumption="0.027"/>
+    <capacity passengers="335" cockpitcrew="2"/>
+    <produced from="1994" to="2015"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A340-300" price="238000000">
+    <specs wingspan="60.3" length="59.39" range="13700" speed="871" consumption="0.037"/>
+    <capacity passengers="295" cockpitcrew="2"/>
+    <produced from="1991" to="2017"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A380-800" price="375000000">
+    <specs wingspan="79.75" length="72.73" range="15400" speed="945" consumption="0.032"/>
+    <capacity passengers="644" cockpitcrew="2"/>
+    <produced from="2004" to="2025"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 717-200" price="46000000">
+    <specs wingspan="28.47" length="37.80" range="2800" speed="825" consumption="0.030"/>
+    <capacity passengers="106" cockpitcrew="2"/>
+    <produced from="1998" to="2006"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 737-700" price="68000000">
+    <specs wingspan="35.70" length="33.60" range="6230" speed="828" consumption="0.033"/>
+    <capacity passengers="128" cockpitcrew="2"/>
+    <produced from="1993" to="2012"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 737-800" price="80000000">
+    <specs wingspan="35.70" length="39.50" range="5665" speed="828" consumption="0.028"/>
+    <capacity passengers="160" cockpitcrew="2"/>
+    <produced from="1994" to="2014"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 737-900ER" price="86000000">
+    <specs wingspan="35.70" length="42.10" range="5925" speed="823" consumption="0.029"/>
+    <capacity passengers="174" cockpitcrew="2"/>
+    <produced from="2005" to="2020"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 747-400" price="228000000">
+    <specs wingspan="64.40" length="70.60" range="13450" speed="913" consumption="0.031"/>
+    <capacity passengers="524" cockpitcrew="2"/>
+    <produced from="1989" to="2007"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 747-8" price="318000000">
+    <specs wingspan="68.50" length="76.25" range="14815" speed="918" consumption="0.035"/>
+    <capacity passengers="467" cockpitcrew="2"/>
+    <produced from="2011" to="2025"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 757-200" price="65000000">
+    <specs wingspan="38.05" length="47.32" range="7222" speed="850" consumption="0.026"/>
+    <capacity passengers="234" cockpitcrew="2"/>
+    <produced from="1982" to="2004"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 767-200" price="130000000">
+    <specs wingspan="47.60" length="48.50" range="7300" speed="851" consumption="0.039"/>
+    <capacity passengers="224" cockpitcrew="2"/>
+    <produced from="1982" to="2015"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 767-400ER" price="180000000">
+    <specs wingspan="51.90" length="61.40" range="10415" speed="851" consumption="0.029"/>
+    <capacity passengers="304" cockpitcrew="2"/>
+    <produced from="2000" to="2020"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 777-200ER" price="232000000">
+    <specs wingspan="60.90" length="63.70" range="14310" speed="905" consumption="0.030"/>
+    <capacity passengers="400" cockpitcrew="2"/>
+    <produced from="1993" to="2012"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ900 NG" price="30000000">
+    <specs wingspan="24.85" length="36.40" range="2500" speed="882" consumption="0.017"/>
+    <capacity passengers="88" cockpitcrew="2"/>
+    <produced from="2007" to="2025"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-400" price="27000000">
+    <specs wingspan="28.40" length="32.81" range="2522" speed="667" consumption="0.033"/>
+    <capacity passengers="78" cockpitcrew="2"/>
+    <produced from="2000" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-170" price="29000000">
+    <specs wingspan="26.00" length="29.90" range="3334" speed="890" consumption="0.021"/>
+    <capacity passengers="78" cockpitcrew="2"/>
+    <produced from="2002" to="2019"/>
+  </airliner>
+  <airliner manufacturer="ATR" name="ATR 42-500" price="14000000">
+    <specs wingspan="24.57" length="22.67" range="1611" speed="555" consumption="0.019"/>
+    <capacity passengers="46" cockpitcrew="2"/>
+    <produced from="1995" to="2013"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD-87" price="44000000">
+    <specs wingspan="32.87" length="39.75" range="4390" speed="811" consumption="0.048"/>
+    <capacity passengers="130" cockpitcrew="2"/>
+    <produced from="1979" to="1999"/>
+  </airliner>
+</airliners>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manufacturers>
+  <manufacturer name="Airbus" shortname="Airbus" country="France"/>
+  <manufacturer name="The Boeing Company" shortname="Boeing" country="United States"/>
+  <manufacturer name="Bombardier Aerospace" shortname="Bombardier" country="Canada"/>
+  <manufacturer name="Empresa Brasileira de Aeronáutica" shortname="Embraer" country="Brazil"/>
+  <manufacturer name="Avions de Transport Régional" shortname="ATR" country="Italy"/>
+  <manufacturer name="McDonnell Douglas" shortname="MD" country="United States"/>
+  <manufacturer name="Douglas" shortname="Douglas" country="United States"/>
+  <manufacturer name="Fokker" shortname="Fokker" country="Netherlands"/>
+  <manufacturer name="British Aerospace" shortname="BAe" country="United Kingdom"/>
+  <manufacturer name="Beechcraft" shortname="Beechcraft" country="United States"/>
+  <manufacturer name="Dornier Flugzeugwerke" shortname="Dornier" country="Germany"/>
+  <manufacturer name="Fairchild Dornier" shortname="FD" country="United States"/>
+</manufacturers>

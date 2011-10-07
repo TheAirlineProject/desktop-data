@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--For each type there must be one with typelevel == 0 -->
+<facilities>
+  <facility name="None" shortname="Service None" type="Service" typelevel="0" price="0">
+    <level service="0" luxury="0"></level>
+  </facility>
+  <facility name="None" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
+    <level service="0" luxury="0"></level>
+  </facility>
+  <facility name="Basic Service Center" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="500000">
+    <level service="3" luxury="0"></level>
+  </facility>
+ <facility name="Service Center" shortname="ServiceCenter" type="Service" typelevel="2" price="1000000">
+    <level service="7" luxury="0"></level>
+  </facility>
+  <facility name="Large Service Center" shortname="Large ServiceCenter" type="Service" typelevel="3" price="3000000">
+    <level service="10" luxury="0"></level>
+  </facility>
+  <facility name="Business Lounge" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
+    <level service="0" luxury="5"></level>
+  </facility>
+  <facility name="First Class Lounge" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
+    <level service="0" luxury="10"></level>
+  </facility>
+</facilities>
