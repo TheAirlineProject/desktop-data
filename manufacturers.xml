@@ -12,4 +12,8 @@
   <manufacturer name="Beechcraft" shortname="Beechcraft" country="United States"/>
   <manufacturer name="Dornier Flugzeugwerke" shortname="Dornier" country="Germany"/>
   <manufacturer name="Fairchild Dornier" shortname="FD" country="United States"/>
+  <manufacturer name="Saab AB" shortname="Saab" country="Sweden"/>
+  <manufacturer name="Lockheed Corporation" shortname="Lockheed" country="United States"/>
+  <manufacturer name="British Aircraft Corporation" shortname="BAC" country="United Kingdom"/>
+  <manufacturer name="Convair" shortname="Convair" country="United States"/>
 </manufacturers>
