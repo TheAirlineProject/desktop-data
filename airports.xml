@@ -3618,4 +3618,31 @@
     <size value="Very_small" />
     <gates value="8" />
   </airport>
+  <airport name="Karup Airport" iata="KRP" type="Domestic">
+    <town town="Karup" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°17'59''N" />
+      <longitude value="009°07'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <gates value="3" />
+  </airport>
+  <airport name="King Shaka International Airport" iata="DUR" type="International">
+    <town town="Durban" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="029°58'11''S" />
+      <longitude value="030°57'02''E" />
+    </coordinates>
+    <size value="Small" />
+    <gates value="34" />
+  </airport>
+  <airport name="Mafikeng International Airport" iata="MBD" type="International">
+    <town town="Mmabatho" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="025°47'53''S" />
+      <longitude value="025°32'53''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <gates value="6" />
+  </airport>
 </airports>
