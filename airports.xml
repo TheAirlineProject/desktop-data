@@ -2070,7 +2070,7 @@
     <size value="Largest" />
     <gates value="186" />
   </airport>
-  <airport name="The William B Hartsfield Atlanta International" iata="ATL" type="International">
+  <airport name="Hartsfield-Jackson Atlanta International Airport" iata="ATL" type="International">
     <town town="Atlanta, GA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="033°38'25''N" />
