@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translator>
+<Region name="General">
+		<Text uid="100">
+			<en-GB>Ok</en-GB>
+			<de-DE>Okay</de-DE>
+			<en-US>Ok</en-US>
+		</Text>
+		<Text uid="101">
+			<en-GB>Cancel</en-GB>
+			<de-DE>Abbrechen</de-DE>
+			<en-US>Cancel</en-US>
+		</Text>
+		<Text uid="102">
+			<en-GB>Redo</en-GB>
+			<de-DE>Wiederholen</de-DE>
+			<en-US>Redo</en-US>
+		</Text>
+		<Text uid="103">
+			<en-GB>Undo</en-GB>
+			<de-DE>Rückgängig</de-DE>
+			<en-US>Undo</en-US>
+		</Text>
+		<Text uid="104">
+			<en-GB>Add</en-GB>
+			<de-DE>Hinzufügen</de-DE>
+			<en-US>Add</en-US>
+		</Text>
+		<Text uid="105">
+			<en-GB>Remove</en-GB>
+			<de-DE>Entfernen</de-DE>
+			<en-US>Remove</en-US>
+		</Text>
+		<Text uid="106">
+			<en-GB>Yes</en-GB>
+			<de-DE>Ja</de-DE>
+			<en-US>Yes</en-US>
+		</Text>
+		<Text uid="107">
+			<en-GB>No</en-GB>
+			<de-DE>Nein</de-DE>
+			<en-US>No</en-US>
+		</Text>
+		<Text uid="108">
+			<en-GB>Reset</en-GB>
+			<de-DE>Zurücksetzen</de-DE>
+			<en-US>Reset</en-US>
+		</Text>
+		<Text uid="1000">
+			<en-GB>Untranslated Title</en-GB>
+			<de-DE>Nicht übersetzter Titel</de-DE>
+			<en-US>Untranslated Title</en-US>
+		</Text>
+</Region>
+<Region name="PopUpTimeTable">
+		<Text uid="1000">
+			<en-GB>Route Timetable</en-GB>
+			<de-DE>Zeitplanung Route</de-DE>
+			<en-US>Route Timetable</en-US>
+		</Text>
+</Region>
+<Region name="PopUpRouteFacilities">
+		<Text uid="1000">
+			<en-GB>Change airliner class facilities</en-GB>
+			<de-DE>Ändern der Ausstattung der Reiseklassen im Flugzeug</de-DE>
+			<en-US>Change airliner class facilities</en-US>
+		</Text>
+		<Text uid="1001">
+			<en-GB>Food on board</en-GB>
+			<de-DE>Speisenangebot</de-DE>
+			<en-US>Food on board</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Drinks on board</en-GB>
+			<de-DE>Getränkeangebot</de-DE>
+			<en-US>Drinks on board</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Cabin crew on board</en-GB>
+			<de-DE>Kabinenpersonal</de-DE>
+			<en-US>Cabin crew on board</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Type of seating</en-GB>
+			<de-DE>Sitzqualität</de-DE>
+			<en-US>Type of seating</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Fare price</en-GB>
+			<de-DE>Flugpreis</de-DE>
+			<en-US>Fare price</en-US>
+		</Text>
+</Region>
+<Region name="PopUpSave">
+		<Text uid="1000">
+			<en-GB>Save game</en-GB>
+			<de-DE>Spiel speichern</de-DE>
+			<en-US>Save game</en-US>
+		</Text>
+</Region>
+<Region name="PopUpMap">
+		<Text uid="1000">
+			<en-GB>Map</en-GB>
+			<de-DE>Karte</de-DE>
+			<en-US>Map</en-US>
+		</Text>
+</Region>
+<Region name="PopUpLoan">
+		<Text uid="1000">
+			<en-GB>Apply for a loan</en-GB>
+			<en-US>Apply for a loan</en-US>
+		</Text>
+</Region>
+<Region name="PopUpEditAirlinerName">
+		<Text uid="1000">
+			<en-GB>Airliner name</en-GB>
+			<de-DE>Flugzeugname</de-DE>
+			<en-US>Airliner name</en-US>
+		</Text>
+</Region>
+<Region name="PageRoutes">
+		<Text uid="200">
+			<en-GB>Create new route</en-GB>
+			<de-DE>Neue Flugroute erzeugen</de-DE>
+			<en-US>Create new route</en-US>
+		</Text>
+		<Text uid="201">
+			<en-GB>Routes map</en-GB>
+			<de-DE>Routenkarte</de-DE>
+			<en-US>Routes map</en-US>
+		</Text>
+		<Text uid="1000">
+			<en-GB>Routes</en-GB>
+			<de-DE>Flugrouten</de-DE>
+			<en-US>Routes</en-US>
+		</Text>
+		<Text uid="1001">
+			<en-GB>Airline Routes</en-GB>
+			<de-DE>Flugrouten</de-DE>
+			<en-US>Airline Routes</en-US>
+		</Text>
+</Region>
+<Region name="PageFleetAirliner">
+		<Text uid="1000">
+			<en-GB>Fleet Airliner</en-GB>
+			<de-DE>Flottenflugzeug</de-DE>
+			<en-US>Fleet Airliner</en-US>
+		</Text>
+</Region>
+<Region name="PageAirliners">
+		<Text uid="1000">
+			<en-GB>Airliners</en-GB>
+			<de-DE>Flugzeuge</de-DE>
+			<en-US>Airliners</en-US>
+		</Text>
+</Region>
+<Region name="PageAirport">
+		<Text uid="1000">
+			<en-GB>Airport</en-GB>
+			<de-DE>Flughafen</de-DE>
+			<en-US>Airport</en-US>
+		</Text>
+</Region>
+<Region name="PageAirports">
+		<Text uid="1000">
+			<en-GB>Airports</en-GB>
+			<de-DE>Flughäfen</de-DE>
+			<en-US>Airports</en-US>
+		</Text>
+</Region>
+<Region name="PageAirline">
+		<Text uid="1000">
+			<en-GB>Airline</en-GB>
+			<de-DE>Fluglinie</de-DE>
+			<en-US>Airline</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlines">
+		<Text uid="1000">
+			<en-GB>Airlines</en-GB>
+			<de-DE>Fluglinien</de-DE>
+			<en-US>Airlines</en-US>
+		</Text>
+</Region>
+<Region name="PageNewsBox">
+		<Text uid="1000">
+			<en-GB>News</en-GB>
+			<de-DE>Nachrichten</de-DE>
+			<en-US>News</en-US>
+		</Text>
+</Region>
+</Translator>
