@@ -181,6 +181,56 @@
 			<de-DE>Fluglinie</de-DE>
 			<en-US>Airline</en-US>
 		</Text>
+		<Text uid="1001">
+			<en-GB>Profile</en-GB>
+			<de-DE>Profil</de-DE>
+			<en-US>Profile</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Name of Airline</en-GB>
+			<de-DE>Name der Fluglinie</de-DE>
+			<en-US>Name of Airline</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>IATA code</en-GB>
+			<de-DE>IATA Kennung</de-DE>
+			<en-US>IATA code</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>CEO</en-GB>
+			<de-DE>Geschäftsführer</de-DE>
+			<en-US>CEO</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Home country</en-GB>
+			<de-DE>Heimatland</de-DE>
+			<en-US>Home country</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Airline color</en-GB>
+			<de-DE>Farbe der Fluglinie</de-DE>
+			<en-US>Airline color</en-US>
+		</Text>
+		<Text uid="1007">
+			<en-GB>Fleet size</en-GB>
+			<de-DE>Flottengröße</de-DE>
+			<en-US>Fleet size</en-US>
+		</Text>
+		<Text uid="1008">
+			<en-GB>Capital</en-GB>
+			<de-DE>Vermögen</de-DE>
+			<en-US>Capital</en-US>
+		</Text>
+		<Text uid="1009">
+			<en-GB>Reputation</en-GB>
+			<de-DE>Ansehen</de-DE>
+			<en-US>Reputation</en-US>
+		</Text>
+		<Text uid="1010">
+			<en-GB>Passenger happiness</en-GB>
+			<de-DE>Kundenzufriedenheit</de-DE>
+			<en-US>Passenger happiness</en-US>
+		</Text>
 </Region>
 <Region name="PageAirlines">
 		<Text uid="1000">
@@ -201,6 +251,45 @@
 			<en-GB>Settings</en-GB>
 			<de-DE>Einstellungen</de-DE>
 			<en-US>Settings</en-US>
+		</Text>
+</Region>
+<Region name="PanelAirline">
+		<Text uid="1001">
+			<en-GB>Fleet</en-GB>
+			<de-DE>Flotte</de-DE>
+			<en-US>Fleet</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Destinations and Routes</en-GB>
+			<de-DE>Ziele und Routen</de-DE>
+			<en-US>Destinations and Routes</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Facilities and Advertisement</en-GB>
+			<de-DE>Ausstattung und Angebote</de-DE>
+			<en-US>Facilities and Advertisement</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Statistics</en-GB>
+			<de-DE>Statistik</de-DE>
+			<en-US>Statistics</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Finances</en-GB>
+			<de-DE>Finanzen</de-DE>
+			<en-US>Finances</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Wages and Fees</en-GB>
+			<de-DE>Löhne und Abgaben</de-DE>
+			<en-US>Wages and Fees</en-US>
+		</Text>
+</Region>
+<Region name="MenuHome">
+		<Text uid="1000">
+			<en-GB>Home</en-GB>
+			<de-DE>Übersicht</de-DE>
+			<en-US>Home</en-US>
 		</Text>
 </Region>
 <Region name="MenuOptions">
