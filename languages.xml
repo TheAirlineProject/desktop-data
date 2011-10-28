@@ -98,6 +98,13 @@
 			<en-US>Save game</en-US>
 		</Text>
 </Region>
+<Region name="PopUpLoad">
+		<Text uid="1000">
+			<en-GB>Load a saved game</en-GB>
+			<de-DE>Gespeichertes Spiel laden</de-DE>
+			<en-US>Load a saved game</en-US>
+		</Text>
+</Region>
 <Region name="PopUpMap">
 		<Text uid="1000">
 			<en-GB>Map</en-GB>
@@ -187,6 +194,34 @@
 			<en-GB>News</en-GB>
 			<de-DE>Nachrichten</de-DE>
 			<en-US>News</en-US>
+		</Text>
+</Region>
+<Region name="PageSettings">
+		<Text uid="1000">
+			<en-GB>Settings</en-GB>
+			<de-DE>Einstellungen</de-DE>
+			<en-US>Settings</en-US>
+		</Text>
+</Region>
+<Region name="MenuOptions">
+		<Text uid="1000">
+			<en-GB>Options</en-GB>
+			<de-DE>Spieloptionen</de-DE>
+			<en-US>Options</en-US>
+		</Text>
+</Region>
+<Region name="MenuNewGame">
+		<Text uid="1000">
+			<en-GB>New Game</en-GB>
+			<de-DE>Neues Spiel</de-DE>
+			<en-US>New Game</en-US>
+		</Text>
+</Region>
+<Region name="MenuExitGame">
+		<Text uid="1000">
+			<en-GB>Exit Game</en-GB>
+			<de-DE>Spiel beenden</de-DE>
+			<en-US>Exit Game</en-US>
 		</Text>
 </Region>
 </Translator>
