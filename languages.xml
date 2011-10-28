@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translator>
+<Languages>
+	<Language culture="en-US" name="English (US)" flag="United States.png" UnitSystem="Imperial">
+		<Word original="km." translated="miles" />
+		<Word original="km/t" translated="mph" />
+		<Word original="l/seat/km" translated="g/seat/m" />
+		<Word original="ltr" translated="gal" />
+	</Language>
+	<Language culture="en-GB" name="English (GB)" flag="United Kingdom.png" UnitSystem="Metric">
+	</Language>
+	<Language culture="de-DE" name="Deutsch (DE)" flag="Germany.png" UnitSystem="Metric" />
+	<Language culture="nl-NL" name="Netherlands (NL)" flag="Netherlands.png" UnitSystem="Metric" />
+	<Language culture="fr-FR" name="French (FR)" flag="France.png" UnitSystem="Metric" />
+</Languages>
+
 <Region name="General">
 		<Text uid="100">
 			<en-GB>Ok</en-GB>
@@ -283,6 +297,48 @@
 			<en-GB>Wages and Fees</en-GB>
 			<de-DE>Löhne und Abgaben</de-DE>
 			<en-US>Wages and Fees</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineFleet">
+		<Text uid="1001">
+			<en-GB>Fleet overview</en-GB>
+			<de-DE>Übersicht Flotte</de-DE>
+			<en-US>Fleet overview</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Fleet route information</en-GB>
+			<de-DE>Routeninformation der Flotte</de-DE>
+			<en-US>Fleet route information</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Airline Fleet</en-GB>
+			<de-DE>Flotte der Fluglinie</de-DE>
+			<en-US>Airline Fleet</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Airliners In Order</en-GB>
+			<de-DE>Bestellte Flugzeuge</de-DE>
+			<en-US>Airliners In Order</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Name</en-GB>
+			<de-DE>Name</de-DE>
+			<en-US>Name</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Type</en-GB>
+			<de-DE>Typ</de-DE>
+			<en-US>Type</en-US>
+		</Text>
+		<Text uid="1007">
+			<en-GB>Ownership</en-GB>
+			<de-DE>Eigentumsstatus</de-DE>
+			<en-US>Ownership</en-US>
+		</Text>
+		<Text uid="1008">
+			<en-GB>Has Route</en-GB>
+			<de-DE>Routeneinsatz</de-DE>
+			<en-US>Has Route</en-US>
 		</Text>
 </Region>
 <Region name="MenuHome">
