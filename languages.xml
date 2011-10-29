@@ -174,6 +174,16 @@
 			<de-DE>Flugzeuge</de-DE>
 			<en-US>Airliners</en-US>
 		</Text>
+		<Text uid="1001">
+			<en-GB>Order New Airliner</en-GB>
+			<de-DE>Neues Flugzeug bestellen</de-DE>
+			<en-US>Order New Airliner</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Buy Used Airliner</en-GB>
+			<de-DE>Gebrauchtes Flugzeug kaufen</de-DE>
+			<en-US>Buy Used Airliner</en-US>
+		</Text>
 </Region>
 <Region name="PageAirport">
 		<Text uid="1000">
@@ -267,38 +277,6 @@
 			<en-US>Settings</en-US>
 		</Text>
 </Region>
-<Region name="PanelAirline">
-		<Text uid="1001">
-			<en-GB>Fleet</en-GB>
-			<de-DE>Flotte</de-DE>
-			<en-US>Fleet</en-US>
-		</Text>
-		<Text uid="1002">
-			<en-GB>Destinations and Routes</en-GB>
-			<de-DE>Ziele und Routen</de-DE>
-			<en-US>Destinations and Routes</en-US>
-		</Text>
-		<Text uid="1003">
-			<en-GB>Facilities and Advertisement</en-GB>
-			<de-DE>Ausstattung und Angebote</de-DE>
-			<en-US>Facilities and Advertisement</en-US>
-		</Text>
-		<Text uid="1004">
-			<en-GB>Statistics</en-GB>
-			<de-DE>Statistik</de-DE>
-			<en-US>Statistics</en-US>
-		</Text>
-		<Text uid="1005">
-			<en-GB>Finances</en-GB>
-			<de-DE>Finanzen</de-DE>
-			<en-US>Finances</en-US>
-		</Text>
-		<Text uid="1006">
-			<en-GB>Wages and Fees</en-GB>
-			<de-DE>Löhne und Abgaben</de-DE>
-			<en-US>Wages and Fees</en-US>
-		</Text>
-</Region>
 <Region name="PageAirlineFleet">
 		<Text uid="1001">
 			<en-GB>Fleet overview</en-GB>
@@ -339,6 +317,177 @@
 			<en-GB>Has Route</en-GB>
 			<de-DE>Routeneinsatz</de-DE>
 			<en-US>Has Route</en-US>
+		</Text>
+</Region>
+<Region name="PanelAirline">
+		<Text uid="1001">
+			<en-GB>Fleet</en-GB>
+			<de-DE>Flotte</de-DE>
+			<en-US>Fleet</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Destinations and Routes</en-GB>
+			<de-DE>Ziele und Routen</de-DE>
+			<en-US>Destinations and Routes</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Facilities and Advertisement</en-GB>
+			<de-DE>Ausstattung und Angebote</de-DE>
+			<en-US>Facilities and Advertisement</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Statistics</en-GB>
+			<de-DE>Statistik</de-DE>
+			<en-US>Statistics</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Finances</en-GB>
+			<de-DE>Finanzen</de-DE>
+			<en-US>Finances</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Wages and Fees</en-GB>
+			<de-DE>Löhne und Abgaben</de-DE>
+			<en-US>Wages and Fees</en-US>
+		</Text>
+</Region>
+<Region name="PanelAirliner">
+		<Text uid="1001">
+			<en-GB>Airliner Type Specifications</en-GB>
+			<de-DE>Flugzeugtyp Spezifikationen</de-DE>
+			<en-US>Airliner Type Specifications</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Model</en-GB>
+			<de-DE>Modell</de-DE>
+			<en-US>Model</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Manufacturer</en-GB>
+			<de-DE>Hersteller</de-DE>
+			<en-US>Manufacturer</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Body Type</en-GB>
+			<de-DE>Rumpftyp</de-DE>
+			<en-US>Body Type</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Range</en-GB>
+			<de-DE>Reichweite</de-DE>
+			<en-US>Range</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Engine Type</en-GB>
+			<de-DE>Antriebsart</de-DE>
+			<en-US>Engine Type</en-US>
+		</Text>
+		<Text uid="1007">
+			<en-GB>Wingspan</en-GB>
+			<de-DE>Spannweite</de-DE>
+			<en-US>Wingspan</en-US>
+		</Text>
+		<Text uid="1008">
+			<en-GB>Length</en-GB>
+			<de-DE>Länge</de-DE>
+			<en-US>Length</en-US>
+		</Text>
+		<Text uid="1009">
+			<en-GB>Passenger Capacity</en-GB>
+			<de-DE>Passagier Kapazität</de-DE>
+			<en-US>Passenger Capacity</en-US>
+		</Text>
+		<Text uid="1010">
+			<en-GB>Max. Airliner Classes</en-GB>
+			<de-DE>Max. Reiseklassen</de-DE>
+			<en-US>Max. Airliner Classes</en-US>
+		</Text>
+		<Text uid="1011">
+			<en-GB>Crew requirements</en-GB>
+			<de-DE>Benötigte Besatzung</de-DE>
+			<en-US>Crew requirements</en-US>
+		</Text>
+		<Text uid="1012">
+			<en-GB>Cruising speed</en-GB>
+			<de-DE>Reisegeschwindigkeit</de-DE>
+			<en-US>Cruising speed</en-US>
+		</Text>
+		<Text uid="1013">
+			<en-GB>Fuel Consumption</en-GB>
+			<de-DE>Kraftstoffverbrauch</de-DE>
+			<en-US>Fuel Consumption</en-US>
+		</Text>
+		<Text uid="1014">
+			<en-GB>Time Range of Production</en-GB>
+			<de-DE>Produktionszeitraum</de-DE>
+			<en-US>Time Range of Production</en-US>
+		</Text>
+</Region>
+<Region name="PanelUsedAirliner">
+		<Text uid="200">
+			<en-GB>Buy</en-GB>
+			<de-DE>Kaufen</de-DE>
+			<en-US>Buy</en-US>
+		</Text>
+		<Text uid="201">
+			<en-GB>Lease</en-GB>
+			<de-DE>Leasen</de-DE>
+			<en-US>Lease</en-US>
+		</Text>
+		<Text uid="1001">
+			<en-GB>Airliner Information</en-GB>
+			<de-DE>Flugzeug Daten</de-DE>
+			<en-US>Airliner Information</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Year of build</en-GB>
+			<de-DE>Baujahr</de-DE>
+			<en-US>Year of build</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Tail number</en-GB>
+			<de-DE>Kennung</de-DE>
+			<en-US>Tail number</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Flown Overall</en-GB>
+			<de-DE>Gesamtflugstrecke</de-DE>
+			<en-US>Flown Overall</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Flown since last Service</en-GB>
+			<de-DE>Flugstrecke seit letzter Wartung</de-DE>
+			<en-US>Flown since last Service</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Equipped with Class</en-GB>
+			<de-DE>Ausgestattet mit Klasse</de-DE>
+			<en-US>Equipped with Class</en-US>
+		</Text>
+		<Text uid="1101">
+			<en-GB>Price Information</en-GB>
+			<de-DE>Preisangaben</de-DE>
+			<en-US>Price Information</en-US>
+		</Text>
+		<Text uid="1102">
+			<en-GB>Purchase Price</en-GB>
+			<de-DE>Kaufpreis</de-DE>
+			<en-US>Purchase Price</en-US>
+		</Text>
+		<Text uid="1103">
+			<en-GB>Leasing Rate</en-GB>
+			<de-DE>Leasing Rate</de-DE>
+			<en-US>Leasing Rate</en-US>
+		</Text>
+		<Text uid="1104">
+			<en-GB>Yearly maintenance Costs</en-GB>
+			<de-DE>Kosten jährliche Wartung</de-DE>
+			<en-US>Yearly maintenance Costs</en-US>
+		</Text>
+		<Text uid="1105">
+			<en-GB>Select home base</en-GB>
+			<de-DE>Heimatstützpunkt auswählen</de-DE>
+			<en-US>Select home base</en-US>
 		</Text>
 </Region>
 <Region name="MenuHome">
