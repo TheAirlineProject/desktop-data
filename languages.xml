@@ -318,6 +318,121 @@
 			<de-DE>Routeneinsatz</de-DE>
 			<en-US>Has Route</en-US>
 		</Text>
+		<Text uid="1101">
+			<en-GB>Airline Fleet</en-GB>
+			<de-DE>Flugzeugflotte</de-DE>
+			<en-US>Airline Fleet</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineFinances">
+		<Text uid="1001">
+			<en-GB>Airline Finances</en-GB>
+			<de-DE>Finanzen der Fluglinie</de-DE>
+			<en-US>Airline Finances</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Financial Summary</en-GB>
+			<de-DE>Finanzübersicht</de-DE>
+			<en-US>Financial Summary</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Current cash</en-GB>
+			<de-DE>Bargeld aktuell</de-DE>
+			<en-US>Current cash</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Total balance</en-GB>
+			<de-DE>Bilanzsumme</de-DE>
+			<en-US>Total balance</en-US>
+		</Text>
+		<Text uid="1005">
+			<en-GB>Loans</en-GB>
+			<de-DE>Anleihe</de-DE>
+			<en-US>Loans</en-US>
+		</Text>
+		<Text uid="1006">
+			<en-GB>Apply for loan</en-GB>
+			<de-DE>Anleihe ausgeben</de-DE>
+			<en-US>Apply for loan</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineFacilities">
+		<Text uid="1001">
+			<en-GB>Airline Facilities</en-GB>
+			<de-DE>Einrichtungen der Fluglinie</de-DE>
+			<en-US>Airline Facilities</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Purchase Facilities</en-GB>
+			<de-DE>Einrichtungen kaufen</de-DE>
+			<en-US>Purchase Facilities</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Airline Advertisement</en-GB>
+			<de-DE>Werbung der Fluglinie</de-DE>
+			<en-US>Airline Advertisement</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Save Advertisements</en-GB>
+			<de-DE>Werbemaßnahmen festlegen</de-DE>
+			<en-US>Save Advertisements</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineDestinations">
+		<Text uid="201">
+			<en-GB>Routes map</en-GB>
+			<de-DE>Routenkarte</de-DE>
+			<en-US>Routes map</en-US>
+		</Text>
+		<Text uid="1001">
+			<en-GB>Destinations</en-GB>
+			<de-DE>Ziele</de-DE>
+			<en-US>Destinations</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Destinations</en-GB>
+			<de-DE>Ziele</de-DE>
+			<en-US>Destinations</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineWages">
+		<Text uid="1001">
+			<en-GB>Wages</en-GB>
+			<de-DE>Löhne</de-DE>
+			<en-US>Wages</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Food and drinks</en-GB>
+			<de-DE>Essen und Getränke</de-DE>
+			<en-US>Food and drinks</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Fees</en-GB>
+			<de-DE>Gebühren</de-DE>
+			<en-US>Fees</en-US>
+		</Text>
+</Region>
+<Region name="PageAirlineStatistics">
+		<Text uid="1001">
+			<en-GB>Airline Statistics</en-GB>
+			<de-DE>Statistiken der Fluglinie</de-DE>
+			<en-US>Airline Statistics</en-US>
+		</Text>
+		<Text uid="1002">
+			<en-GB>Total departures</en-GB>
+			<de-DE>Abflüge Gesamt</de-DE>
+			<en-US>Total departures</en-US>
+		</Text>
+		<Text uid="1003">
+			<en-GB>Total passengers</en-GB>
+			<de-DE>Passagiere Gesamt</de-DE>
+			<en-US>Total passengers</en-US>
+		</Text>
+		<Text uid="1004">
+			<en-GB>Passengers per flight</en-GB>
+			<de-DE>Passagiere pro Flug</de-DE>
+			<en-US>Passengers per flight</en-US>
+		</Text>
 </Region>
 <Region name="PanelAirline">
 		<Text uid="1001">
