@@ -1,25 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--For each type there must be one with typelevel == 0 -->
-<facilities>
-  <facility name="None" shortname="Service None" type="Service" typelevel="0" price="0">
+<airportfacilities>
+  <airportfacility uid="100" shortname="Service None" type="Service" typelevel="0" price="0">
     <level service="0" luxury="0"></level>
-  </facility>
-  <facility name="None" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
+    <translations>
+			<en-US name="None" />
+			<de-DE name="Keiner" />
+			<en-GB name="None" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
     <level service="0" luxury="0"></level>
-  </facility>
-  <facility name="Basic Service Center" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="500000">
+    <translations>
+			<en-US name="None" />
+			<de-DE name="Keiner" />
+			<en-GB name="None" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="500000">
     <level service="3" luxury="0"></level>
-  </facility>
- <facility name="Service Center" shortname="ServiceCenter" type="Service" typelevel="2" price="1000000">
+    <translations>
+			<en-US name="Basic Service Center" />
+			<de-DE name="Einfacher Informationsschalter" />
+			<en-GB name="Basic Service Center" />
+    </translations>
+  </airportfacility>
+ <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="1000000">
     <level service="7" luxury="0"></level>
-  </facility>
-  <facility name="Large Service Center" shortname="Large ServiceCenter" type="Service" typelevel="3" price="3000000">
+    <translations>
+			<en-US name="Service Center" />
+			<de-DE name="Informationsschalter" />
+			<en-GB name="Service Center" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="3000000">
     <level service="10" luxury="0"></level>
-  </facility>
-  <facility name="Business Lounge" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
+    <translations>
+			<en-US name="Large Service Center" />
+			<de-DE name="Großer Informationsschalter" />
+			<en-GB name="Large Service Center" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="105" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
     <level service="0" luxury="5"></level>
-  </facility>
-  <facility name="First Class Lounge" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
+    <translations>
+			<en-US name="Business Lounge" />
+			<de-DE name="Business Aufenthaltsbereich" />
+			<en-GB name="Business Lounge" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="106" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
     <level service="0" luxury="10"></level>
-  </facility>
-</facilities>
+    <translations>
+			<en-US name="First Class Lounge" />
+			<de-DE name="First Class Aufenthaltsbereich" />
+			<en-GB name="First Class Lounge" />
+    </translations>
+  </airportfacility>
+</airportfacilities>
