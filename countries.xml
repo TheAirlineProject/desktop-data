@@ -1,110 +1,109 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Mauritius" shortname="MU" region="Africa" tailformat="3B-\\s3" />
-  <country name="Senegal" shortname="SEN" region="Africa" tailformat="6V-\\s3" />
-  <country name="Latvia" shortname="LAT" region="Eastern Europe" tailformat="YL-\\s3" />
-  <country name="Lithuania" shortname="LIT" region="Eastern Europe" tailformat="LY-\\s3" />
-  <country name="Serbia" shortname="SRB" region="Eastern Europe" tailformat="YU-\\s3" />
-  <country name="Slovenia" shortname="SLO" region="Eastern Europe" tailformat="S5-\\s3" />
-  <country name="Argentina" shortname="ARG" region="South America" tailformat="LV-\\s3" />
-  <country name="Belgium" shortname="BEL" region="Western Europe" tailformat="OO-\\s3" />
-  <country name="St. Lucia Island" shortname="SLC" region="Caribbean" tailformat="J6-\\s3" />
-  <country name="Antilles" shortname="ANT" region="Caribbean" tailformat="VP-\\s3" />
-  <country name="Denmark" shortname="DEN" region="Scandinavia" tailformat="OY-\\s4" />
-  <country name="Greenland" shortname="GRL" region="Scandinavia" tailformat="OY-\\s3" />
-  <country name="Faroe Islands" shortname="FO" region="Scandinavia" tailformat="OY-\\d4" />
-  <country name="Canada" shortname="CAN" region="North America" tailformat="CF-\\s3" />
-  <country name="Fiji" shortname="FJ"  region="Oceania" tailformat="DQ-\\s3" />
-  <country name="Kiribati" shortname="KIR"  region="Oceania" tailformat="T3-\\s3" />
-  <country name="Australia" shortname="AUS"  region="Oceania" tailformat="VH-\\s3" />
-  <country name="Estonia" shortname="EST" region="Eastern Europe" tailformat="ES-\\s3" />
-  <country name="Greece" shortname="GRE" region="Southern Europe" tailformat="SX-\\s3" />
-  <country name="Luxembourg" shortname="LUX" region="Western Europe" tailformat="LX-\\s3" />
-  <country name="Croatia" shortname="CRO" region="Eastern Europe" tailformat="9A-\\s3" />
-  <country name="Iceland" shortname="ICE" region="Scandinavia" tailformat="TF-\\s3" />
-  <country name="United States" shortname="USA" region="North America" tailformat="N-\\d4" />
-  <country name="Spain" shortname="ESP" region="Southern Europe" tailformat="EC-\\s3" />
-  <country name="Ethiopia" shortname="ETH" region="Africa" tailformat="ET-\\s3" />
-  <country name="Libya" shortname="LIB" region="Africa" tailformat="5A-\\s3" />
-  <country name="Kuwait" shortname="KW" region="Middle East" tailformat="9K-\\s3" />
-  <country name="Iraq" shortname="IQ" region="Middle East" tailformat="Y1-\\s3" />
-  <country name="Israel" shortname="ISR" region="Middle East" tailformat="4X-\\s3" />
-  <country name="Lebanon" shortname="LEB" region="Middle East" tailformat="OD-\\s3" />
-  <country name="United Kingdom" shortname="UK" region="Great Britain" tailformat="G-\\s4" />
-  <country name="Philippines" shortname="PHI" region="Asia" tailformat="RPC-\\s4" />
-  <country name="Malta" shortname="MLT"  region="Southern Europe" tailformat="9H-\\s3" />
-  <country name="Morocco" shortname="MOR"  region="Africa" tailformat="CN-\\s3" />
-  <country name="Ukraine" shortname="UKR"  region="Eastern Europe" tailformat="UR-\\s3" />
-  <country name="Poland" shortname="POL"  region="Eastern Europe" tailformat="SP-\\s3" />
-  <country name="Saudi Arabia" shortname="SA"  region="Middle East" tailformat="HZ-\\s3" />
-  <country name="Ireland" shortname="IRE"  region="Great Britain" tailformat="EI-\\s3" />
-  <country name="Brazil" shortname="BRA"  region="South America" tailformat="PP-\\s3" />
-  <country name="Norway" shortname="NOR"  region="Scandinavia" tailformat="LN-\\s3" />
-  <country name="France" shortname="FRA"  region="Western Europe" tailformat="F-\\s4" />
-  <country name="Italy" shortname="ITA"  region="Southern Europe" tailformat="I-\\s4" />
-  <country name="Algeria" shortname="ALG"  region="Africa" tailformat="7T-\\s3" />
-  <country name="Reunion" shortname="REU"  region="Africa" tailformat="F-\\d5" />
-  <country name="Tunisia"  shortname="TUN" region="Africa" tailformat="TS-\\s3" />
-  <country name="Nigeria"  shortname="NIG" region="Africa" tailformat="5N-\\s3" />
-  <country name="Kenya"  shortname="KEN" region="Africa" tailformat="5Y-\\s3" />
-  <country name="Romania" shortname="ROM"  region="Eastern Europe" tailformat="YR-\\s3" />
-  <country name="China"  shortname="CHN" region="Asia" tailformat="B-\\d4" />
-  <country name="Russia"  shortname="RUS" region="Eastern Europe" tailformat="RA-\\d5" />
-  <country name="Portugal" shortname="POR"  region="Southern Europe" tailformat="CR-\\s3" />
-  <country name="Bahrain" shortname="BAH"  region="Middle East" tailformat="A9C-\\s3" />
-  <country name="India" shortname="IND"  region="Asia" tailformat="VT-\\s3" />
-  <country name="Sri Lanka" shortname="SRL"  region="Asia" tailformat="4R-\\s3" />
-  <country name="Cyprus" shortname="CYP"  region="Southern Europe" tailformat="5B-\\s3" />
-  <country name="Egypt" shortname="EGY"  region="Africa" tailformat="SU-\\s3" />
-  <country name="United Arab Emirates" shortname="UAE"  region="Middle East" tailformat="A6-\\s3" />
-  <country name="Mexico" shortname="MEX"  region="Central America" tailformat="XA-\\s3" />
-  <country name="South Africa"  shortname="RSA" region="Africa" tailformat="ZS-\\s3" />
-  <country name="Hungary" shortname="HUN"  region="Eastern Europe" tailformat="HA-\\s3" />
-  <country name="Chile" shortname="CHI"  region="South America" tailformat="CC-\\s3" />
-  <country name="Turkey"  shortname="TUR" region="Southern Europe" tailformat="TC-\\s3" />
-  <country name="Indonesia" shortname="IDN"  region="Asia" tailformat="PK-\\s3" />
-  <country name="Germany"  shortname="GER" region="Western Europe" tailformat="D-\\s4" />
-  <country name="Switzerland" shortname="SWZ"  region="Southern Europe" tailformat="HB-\\s3" />
-  <country name="South Korea"  shortname="SK" region="Asia" tailformat="HL-\\d4" />
-  <country name="Czech Republic"  shortname="CZ" region="Eastern Europe" tailformat="OK-\\s3" />
-  <country name="Finland"  shortname="FIN" region="Scandinavia" tailformat="OH-\\s3" />
-  <country name="Sweden"  shortname="SWE" region="Scandinavia" tailformat="SE-\\s3" />
-  <country name="Austria" shortname="AUT"  region="Southern Europe" tailformat="OE-\\s3" />
-  <country name="Vietnam" shortname="VN"  region="Asia" tailformat="VN-\\s4" />
-  <country name="Japan" shortname="JAP"  region="Asia" tailformat="JA-\\d4" />
-  <country name="Taiwan"  shortname="TAI" region="Asia" tailformat="B-\\d5" />
-  <country name="Malaysia"  shortname="MAL" region="Asia" tailformat="9M-\\s3" />
-  <country name="Singapore"  shortname="SIN" region="Asia" tailformat="9V-\\s3" />
-  <country name="Thailand" shortname="THA"  region="Asia" tailformat="HS-\\s3" />
-  <country name="Hong Kong"  shortname="HK" region="Asia" tailformat="B-\\s3" />
-  <country name="Iran" shortname="IRA"  region="Middle East" tailformat="EP-\\d3" />
-  <country name="Oman" shortname="OM"  region="Middle East" tailformat="A4O-\\s2" />
-  <country name="Netherlands" shortname="NED"  region="Western Europe" tailformat="PH-\\s3" />
-  <country name="Qatar" shortname="QAT"  region="Middle East" tailformat="A7-\\s3" />
-  <country name="Puerto Rico"  shortname="PUR" region="Central America" tailformat="PUER-\\d3" />
-  <country name="Peru"  shortname="PER" region="South America" tailformat="OB-\\s4" />
-  <country name="Colombia"  shortname="COL" region="South America" tailformat="HK-\\d4" />
-  <country name="Venezuela" shortname="VEN"  region="South America" tailformat="YV-\\s4" />
-  <country name="Bulgaria" shortname="BUL"  region="Eastern Europe" tailformat="LZ-\\s3" />
-  <country name="New Zealand" shortname="NZ"  region="Oceania" tailformat="ZK-\s3" />
-  <country name="Benin" shortname="BEN"  region="Africa" tailformat="TY-\s3" />
-  <country name="Togo" shortname="TOG"  region="Africa" tailformat="5V-\s3" />
-  <country name="Ghana" shortname="GHA"  region="Africa" tailformat="9G-\s3" />
-  <country name="Burkina Faso" shortname="BF"  region="Africa" tailformat="XT-\s3" />
-  <country name="Panama" shortname="PA"  region="Central America" tailformat="HP-\d4" />
-  <country name="Costa Rica" shortname="CR"  region="Central America" tailformat="TI-\s3" />
-  <country name="El Salvador" shortname="SV"  region="Central America" tailformat="YS-\s3" />
-  <country name="Guatemala" shortname="GT"  region="Central America" tailformat="TG-\s3" />
-  <country name="Nicaragua" shortname="NI"  region="Central America" tailformat="YN-\s3" />
-  <country name="Honduras" shortname="HN"  region="Central America" tailformat="HR-\s3" />
-  <country name="Belize" shortname="BZ"  region="Central America" tailformat="V3-\s3" />
-  <country name="Cuba" shortname="CU"  region="Caribbean" tailformat="CU-\s3" />
-  <country name="Jamaica" shortname="JAM"  region="Caribbean" tailformat="6Y-\s3" />
-  <country name="Bermuda" shortname="BER"  region="North America" tailformat="VQ-B\s2" />
-  <country name="Gibraltar" shortname="GIB"  region="Southern Europe" tailformat="VP-G\s2" />
-  <country name="Pakistan" shortname="PAK"  region="Asia" tailformat="AP-\s3" />
-  <country name="Bahamas" shortname="BAS" region="Caribbean" tailformat="C6-\s3" />
-  <country name="Virgin Islands US" shortname="VIU" region="Caribbean" tailformat="N-\d3" />
-  <country name="Trinidad &amp; Tobago" shortname="TRN"  region="Caribbean" tailformat="9Y-\\s3" />
-
+  <country name="Mauritius" shortname="MU" region="109" tailformat="3B-\\s3" />
+  <country name="Senegal" shortname="SEN" region="109" tailformat="6V-\\s3" />
+  <country name="Latvia" shortname="LAT" region="106" tailformat="YL-\\s3" />
+  <country name="Lithuania" shortname="LIT" region="106" tailformat="LY-\\s3" />
+  <country name="Serbia" shortname="SRB" region="106" tailformat="YU-\\s3" />
+  <country name="Slovenia" shortname="SLO" region="106" tailformat="S5-\\s3" />
+  <country name="Argentina" shortname="ARG" region="101" tailformat="LV-\\s3" />
+  <country name="Belgium" shortname="BEL" region="108" tailformat="OO-\\s3" />
+  <country name="St. Lucia Island" shortname="SLC" region="104" tailformat="J6-\\s3" />
+  <country name="Antilles" shortname="ANT" region="104" tailformat="VP-\\s3" />
+  <country name="Denmark" shortname="DEN" region="113" tailformat="OY-\\s4" />
+  <country name="Greenland" shortname="GRL" region="113" tailformat="OY-\\s3" />
+  <country name="Faroe Islands" shortname="FO" region="113" tailformat="OY-\\d4" />
+  <country name="Canada" shortname="CAN" region="102" tailformat="CF-\\s3" />
+  <country name="Fiji" shortname="FJ"  region="105" tailformat="DQ-\\s3" />
+  <country name="Kiribati" shortname="KIR"  region="105" tailformat="T3-\\s3" />
+  <country name="Australia" shortname="AUS"  region="105" tailformat="VH-\\s3" />
+  <country name="Estonia" shortname="EST" region="106" tailformat="ES-\\s3" />
+  <country name="Greece" shortname="GRE" region="107" tailformat="SX-\\s3" />
+  <country name="Luxembourg" shortname="LUX" region="108" tailformat="LX-\\s3" />
+  <country name="Croatia" shortname="CRO" region="106" tailformat="9A-\\s3" />
+  <country name="Iceland" shortname="ICE" region="113" tailformat="TF-\\s3" />
+  <country name="United States" shortname="USA" region="102" tailformat="N-\\d4" />
+  <country name="Spain" shortname="ESP" region="107" tailformat="EC-\\s3" />
+  <country name="Ethiopia" shortname="ETH" region="109" tailformat="ET-\\s3" />
+  <country name="Libya" shortname="LIB" region="109" tailformat="5A-\\s3" />
+  <country name="Kuwait" shortname="KW" region="111" tailformat="9K-\\s3" />
+  <country name="Iraq" shortname="IQ" region="111" tailformat="Y1-\\s3" />
+  <country name="Israel" shortname="ISR" region="111" tailformat="4X-\\s3" />
+  <country name="Lebanon" shortname="LEB" region="111" tailformat="OD-\\s3" />
+  <country name="United Kingdom" shortname="UK" region="112" tailformat="G-\\s4" />
+  <country name="Philippines" shortname="PHI" region="110" tailformat="RPC-\\s4" />
+  <country name="Malta" shortname="MLT"  region="107" tailformat="9H-\\s3" />
+  <country name="Morocco" shortname="MOR"  region="109" tailformat="CN-\\s3" />
+  <country name="Ukraine" shortname="UKR"  region="106" tailformat="UR-\\s3" />
+  <country name="Poland" shortname="POL"  region="106" tailformat="SP-\\s3" />
+  <country name="Saudi Arabia" shortname="SA"  region="111" tailformat="HZ-\\s3" />
+  <country name="Ireland" shortname="IRE"  region="112" tailformat="EI-\\s3" />
+  <country name="Brazil" shortname="BRA"  region="101" tailformat="PP-\\s3" />
+  <country name="Norway" shortname="NOR"  region="113" tailformat="LN-\\s3" />
+  <country name="France" shortname="FRA"  region="108" tailformat="F-\\s4" />
+  <country name="Italy" shortname="ITA"  region="107" tailformat="I-\\s4" />
+  <country name="Algeria" shortname="ALG"  region="109" tailformat="7T-\\s3" />
+  <country name="Reunion" shortname="REU"  region="109" tailformat="F-\\d5" />
+  <country name="Tunisia"  shortname="TUN" region="109" tailformat="TS-\\s3" />
+  <country name="Nigeria"  shortname="NIG" region="109" tailformat="5N-\\s3" />
+  <country name="Kenya"  shortname="KEN" region="109" tailformat="5Y-\\s3" />
+  <country name="Romania" shortname="ROM"  region="106" tailformat="YR-\\s3" />
+  <country name="China"  shortname="CHN" region="110" tailformat="B-\\d4" />
+  <country name="Russia"  shortname="RUS" region="106" tailformat="RA-\\d5" />
+  <country name="Portugal" shortname="POR"  region="107" tailformat="CR-\\s3" />
+  <country name="Bahrain" shortname="BAH"  region="111" tailformat="A9C-\\s3" />
+  <country name="India" shortname="IND"  region="110" tailformat="VT-\\s3" />
+  <country name="Sri Lanka" shortname="SRL"  region="110" tailformat="4R-\\s3" />
+  <country name="Cyprus" shortname="CYP"  region="107" tailformat="5B-\\s3" />
+  <country name="Egypt" shortname="EGY"  region="109" tailformat="SU-\\s3" />
+  <country name="United Arab Emirates" shortname="UAE"  region="111" tailformat="A6-\\s3" />
+  <country name="Mexico" shortname="MEX"  region="103" tailformat="XA-\\s3" />
+  <country name="South Africa"  shortname="RSA" region="109" tailformat="ZS-\\s3" />
+  <country name="Hungary" shortname="HUN"  region="106" tailformat="HA-\\s3" />
+  <country name="Chile" shortname="CHI"  region="101" tailformat="CC-\\s3" />
+  <country name="Turkey"  shortname="TUR" region="107" tailformat="TC-\\s3" />
+  <country name="Indonesia" shortname="IDN"  region="110" tailformat="PK-\\s3" />
+  <country name="Germany"  shortname="GER" region="108" tailformat="D-\\s4" />
+  <country name="Switzerland" shortname="SWZ"  region="107" tailformat="HB-\\s3" />
+  <country name="South Korea"  shortname="SK" region="110" tailformat="HL-\\d4" />
+  <country name="Czech Republic"  shortname="CZ" region="106" tailformat="OK-\\s3" />
+  <country name="Finland"  shortname="FIN" region="113" tailformat="OH-\\s3" />
+  <country name="Sweden"  shortname="SWE" region="113" tailformat="SE-\\s3" />
+  <country name="Austria" shortname="AUT"  region="107" tailformat="OE-\\s3" />
+  <country name="Vietnam" shortname="VN"  region="110" tailformat="VN-\\s4" />
+  <country name="Japan" shortname="JAP"  region="110" tailformat="JA-\\d4" />
+  <country name="Taiwan"  shortname="TAI" region="110" tailformat="B-\\d5" />
+  <country name="Malaysia"  shortname="MAL" region="110" tailformat="9M-\\s3" />
+  <country name="Singapore"  shortname="SIN" region="110" tailformat="9V-\\s3" />
+  <country name="Thailand" shortname="THA"  region="110" tailformat="HS-\\s3" />
+  <country name="Hong Kong"  shortname="HK" region="110" tailformat="B-\\s3" />
+  <country name="Iran" shortname="IRA"  region="111" tailformat="EP-\\d3" />
+  <country name="Oman" shortname="OM"  region="111" tailformat="A4O-\\s2" />
+  <country name="Netherlands" shortname="NED"  region="108" tailformat="PH-\\s3" />
+  <country name="Qatar" shortname="QAT"  region="111" tailformat="A7-\\s3" />
+  <country name="Puerto Rico"  shortname="PUR" region="103" tailformat="PUER-\\d3" />
+  <country name="Peru"  shortname="PER" region="101" tailformat="OB-\\s4" />
+  <country name="Colombia"  shortname="COL" region="101" tailformat="HK-\\d4" />
+  <country name="Venezuela" shortname="VEN"  region="101" tailformat="YV-\\s4" />
+  <country name="Bulgaria" shortname="BUL"  region="106" tailformat="LZ-\\s3" />
+  <country name="New Zealand" shortname="NZ"  region="105" tailformat="ZK-\s3" />
+  <country name="Benin" shortname="BEN"  region="109" tailformat="TY-\s3" />
+  <country name="Togo" shortname="TOG"  region="109" tailformat="5V-\s3" />
+  <country name="Ghana" shortname="GHA"  region="109" tailformat="9G-\s3" />
+  <country name="Burkina Faso" shortname="BF"  region="109" tailformat="XT-\s3" />
+  <country name="Panama" shortname="PA"  region="103" tailformat="HP-\d4" />
+  <country name="Costa Rica" shortname="CR"  region="103" tailformat="TI-\s3" />
+  <country name="El Salvador" shortname="SV"  region="103" tailformat="YS-\s3" />
+  <country name="Guatemala" shortname="GT"  region="103" tailformat="TG-\s3" />
+  <country name="Nicaragua" shortname="NI"  region="103" tailformat="YN-\s3" />
+  <country name="Honduras" shortname="HN"  region="103" tailformat="HR-\s3" />
+  <country name="Belize" shortname="BZ"  region="103" tailformat="V3-\s3" />
+  <country name="Cuba" shortname="CU"  region="104" tailformat="CU-\s3" />
+  <country name="Jamaica" shortname="JAM"  region="104" tailformat="6Y-\s3" />
+  <country name="Bermuda" shortname="BER"  region="102" tailformat="VQ-B\s2" />
+  <country name="Gibraltar" shortname="GIB"  region="107" tailformat="VP-G\s2" />
+  <country name="Pakistan" shortname="PAK"  region="110" tailformat="AP-\s3" />
+  <country name="Bahamas" shortname="BAS" region="104" tailformat="C6-\s3" />
+  <country name="Virgin Islands US" shortname="VIU" region="104" tailformat="N-\d3" />
+  <country name="Trinidad &amp; Tobago" shortname="TRN"  region="104" tailformat="9Y-\\s3" />
 </countries>
