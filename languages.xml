@@ -16,621 +16,621 @@
 
 <Region name="General">
 		<Text uid="100">
-			<en-GB>Ok</en-GB>
-			<de-DE>Okay</de-DE>
-			<en-US>Ok</en-US>
+			<en-GB name="Ok" />
+			<de-DE name="Okay" />
+			<en-US name="Ok" />
 		</Text>
 		<Text uid="101">
-			<en-GB>Cancel</en-GB>
-			<de-DE>Abbrechen</de-DE>
-			<en-US>Cancel</en-US>
+			<en-GB name="Cancel" />
+			<de-DE name="Abbrechen" />
+			<en-US name="Cancel" />
 		</Text>
 		<Text uid="102">
-			<en-GB>Redo</en-GB>
-			<de-DE>Wiederholen</de-DE>
-			<en-US>Redo</en-US>
+			<en-GB name="Redo" />
+			<de-DE name="Wiederholen" />
+			<en-US name="Redo" />
 		</Text>
 		<Text uid="103">
-			<en-GB>Undo</en-GB>
-			<de-DE>Rückgängig</de-DE>
-			<en-US>Undo</en-US>
+			<en-GB name="Undo" />
+			<de-DE name="Rückgängig" />
+			<en-US name="Undo" />
 		</Text>
 		<Text uid="104">
-			<en-GB>Add</en-GB>
-			<de-DE>Hinzufügen</de-DE>
-			<en-US>Add</en-US>
+			<en-GB name="Add" />
+			<de-DE name="Hinzufügen" />
+			<en-US name="Add" />
 		</Text>
 		<Text uid="105">
-			<en-GB>Remove</en-GB>
-			<de-DE>Entfernen</de-DE>
-			<en-US>Remove</en-US>
+			<en-GB name="Remove" />
+			<de-DE name="Entfernen" />
+			<en-US name="Remove" />
 		</Text>
 		<Text uid="106">
-			<en-GB>Yes</en-GB>
-			<de-DE>Ja</de-DE>
-			<en-US>Yes</en-US>
+			<en-GB name="Yes" />
+			<de-DE name="Ja" />
+			<en-US name="Yes" />
 		</Text>
 		<Text uid="107">
-			<en-GB>No</en-GB>
-			<de-DE>Nein</de-DE>
-			<en-US>No</en-US>
+			<en-GB name="No" />
+			<de-DE name="Nein" />
+			<en-US name="No" />
 		</Text>
 		<Text uid="108">
-			<en-GB>Reset</en-GB>
-			<de-DE>Zurücksetzen</de-DE>
-			<en-US>Reset</en-US>
+			<en-GB name="Reset" />
+			<de-DE name="Zurücksetzen" />
+			<en-US name="Reset" />
 		</Text>
 		<Text uid="1000">
-			<en-GB>Untranslated Title</en-GB>
-			<de-DE>Nicht übersetzter Titel</de-DE>
-			<en-US>Untranslated Title</en-US>
+			<en-GB name="Untranslated Title" />
+			<de-DE name="Nicht übersetzter Titel" />
+			<en-US name="Untranslated Title" />
 		</Text>
 </Region>
 <Region name="PopUpTimeTable">
 		<Text uid="1000">
-			<en-GB>Route Timetable</en-GB>
-			<de-DE>Zeitplanung Route</de-DE>
-			<en-US>Route Timetable</en-US>
+			<en-GB name="Route Timetable" />
+			<de-DE name="Zeitplanung Route" />
+			<en-US name="Route Timetable" />
 		</Text>
 </Region>
 <Region name="PopUpRouteFacilities">
 		<Text uid="1000">
-			<en-GB>Change airliner class facilities</en-GB>
-			<de-DE>Ändern der Ausstattung der Reiseklassen im Flugzeug</de-DE>
-			<en-US>Change airliner class facilities</en-US>
+			<en-GB name="Change airliner class facilities" />
+			<de-DE name="Ändern der Ausstattung der Reiseklassen im Flugzeug" />
+			<en-US name="Change airliner class facilities" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Food on board</en-GB>
-			<de-DE>Speisenangebot</de-DE>
-			<en-US>Food on board</en-US>
+			<en-GB name="Food on board" />
+			<de-DE name="Speisenangebot" />
+			<en-US name="Food on board" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Drinks on board</en-GB>
-			<de-DE>Getränkeangebot</de-DE>
-			<en-US>Drinks on board</en-US>
+			<en-GB name="Drinks on board" />
+			<de-DE name="Getränkeangebot" />
+			<en-US name="Drinks on board" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Cabin crew on board</en-GB>
-			<de-DE>Kabinenpersonal</de-DE>
-			<en-US>Cabin crew on board</en-US>
+			<en-GB name="Cabin crew on board" />
+			<de-DE name="Kabinenpersonal" />
+			<en-US name="Cabin crew on board" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Type of seating</en-GB>
-			<de-DE>Sitzqualität</de-DE>
-			<en-US>Type of seating</en-US>
+			<en-GB name="Type of seating" />
+			<de-DE name="Sitzqualität" />
+			<en-US name="Type of seating" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Fare price</en-GB>
-			<de-DE>Flugpreis</de-DE>
-			<en-US>Fare price</en-US>
+			<en-GB name="Fare price" />
+			<de-DE name="Flugpreis" />
+			<en-US name="Fare price" />
 		</Text>
 </Region>
 <Region name="PopUpSave">
 		<Text uid="1000">
-			<en-GB>Save game</en-GB>
-			<de-DE>Spiel speichern</de-DE>
-			<en-US>Save game</en-US>
+			<en-GB name="Save game" />
+			<de-DE name="Spiel speichern" />
+			<en-US name="Save game" />
 		</Text>
 </Region>
 <Region name="PopUpLoad">
 		<Text uid="1000">
-			<en-GB>Load a saved game</en-GB>
-			<de-DE>Gespeichertes Spiel laden</de-DE>
-			<en-US>Load a saved game</en-US>
+			<en-GB name="Load a saved game" />
+			<de-DE name="Gespeichertes Spiel laden" />
+			<en-US name="Load a saved game" />
 		</Text>
 </Region>
 <Region name="PopUpMap">
 		<Text uid="1000">
-			<en-GB>Map</en-GB>
-			<de-DE>Karte</de-DE>
-			<en-US>Map</en-US>
+			<en-GB name="Map" />
+			<de-DE name="Karte" />
+			<en-US name="Map" />
 		</Text>
 </Region>
 <Region name="PopUpLoan">
 		<Text uid="1000">
-			<en-GB>Apply for a loan</en-GB>
-			<en-US>Apply for a loan</en-US>
+			<en-GB name="Apply for a loan" />
+			<en-US name="Apply for a loan" />
 		</Text>
 </Region>
 <Region name="PopUpEditAirlinerName">
 		<Text uid="1000">
-			<en-GB>Airliner name</en-GB>
-			<de-DE>Flugzeugname</de-DE>
-			<en-US>Airliner name</en-US>
+			<en-GB name="Airliner name" />
+			<de-DE name="Flugzeugname" />
+			<en-US name="Airliner name" />
 		</Text>
 </Region>
 <Region name="PageRoutes">
 		<Text uid="200">
-			<en-GB>Create new route</en-GB>
-			<de-DE>Neue Flugroute erzeugen</de-DE>
-			<en-US>Create new route</en-US>
+			<en-GB name="Create new route" />
+			<de-DE name="Neue Flugroute erzeugen" />
+			<en-US name="Create new route" />
 		</Text>
 		<Text uid="201">
-			<en-GB>Routes map</en-GB>
-			<de-DE>Routenkarte</de-DE>
-			<en-US>Routes map</en-US>
+			<en-GB name="Routes map" />
+			<de-DE name="Routenkarte" />
+			<en-US name="Routes map" />
 		</Text>
 		<Text uid="1000">
-			<en-GB>Routes</en-GB>
-			<de-DE>Flugrouten</de-DE>
-			<en-US>Routes</en-US>
+			<en-GB name="Routes" />
+			<de-DE name="Flugrouten" />
+			<en-US name="Routes" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Airline Routes</en-GB>
-			<de-DE>Flugrouten</de-DE>
-			<en-US>Airline Routes</en-US>
+			<en-GB name="Airline Routes" />
+			<de-DE name="Flugrouten" />
+			<en-US name="Airline Routes" />
 		</Text>
 </Region>
 <Region name="PageFleetAirliner">
 		<Text uid="1000">
-			<en-GB>Fleet Airliner</en-GB>
-			<de-DE>Flottenflugzeug</de-DE>
-			<en-US>Fleet Airliner</en-US>
+			<en-GB name="Fleet Airliner" />
+			<de-DE name="Flottenflugzeug" />
+			<en-US name="Fleet Airliner" />
 		</Text>
 </Region>
 <Region name="PageAirliners">
 		<Text uid="1000">
-			<en-GB>Airliners</en-GB>
-			<de-DE>Flugzeuge</de-DE>
-			<en-US>Airliners</en-US>
+			<en-GB name="Airliners" />
+			<de-DE name="Flugzeuge" />
+			<en-US name="Airliners" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Order New Airliner</en-GB>
-			<de-DE>Neues Flugzeug bestellen</de-DE>
-			<en-US>Order New Airliner</en-US>
+			<en-GB name="Order New Airliner" />
+			<de-DE name="Neues Flugzeug bestellen" />
+			<en-US name="Order New Airliner" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Buy Used Airliner</en-GB>
-			<de-DE>Gebrauchtes Flugzeug kaufen</de-DE>
-			<en-US>Buy Used Airliner</en-US>
+			<en-GB name="Buy Used Airliner" />
+			<de-DE name="Gebrauchtes Flugzeug kaufen" />
+			<en-US name="Buy Used Airliner" />
 		</Text>
 </Region>
 <Region name="PageAirport">
 		<Text uid="1000">
-			<en-GB>Airport</en-GB>
-			<de-DE>Flughafen</de-DE>
-			<en-US>Airport</en-US>
+			<en-GB name="Airport" />
+			<de-DE name="Flughafen" />
+			<en-US name="Airport" />
 		</Text>
 </Region>
 <Region name="PageAirports">
 		<Text uid="1000">
-			<en-GB>Airports</en-GB>
-			<de-DE>Flughäfen</de-DE>
-			<en-US>Airports</en-US>
+			<en-GB name="Airports" />
+			<de-DE name="Flughäfen" />
+			<en-US name="Airports" />
 		</Text>
 </Region>
 <Region name="PageAirline">
 		<Text uid="1000">
-			<en-GB>Airline</en-GB>
-			<de-DE>Fluglinie</de-DE>
-			<en-US>Airline</en-US>
+			<en-GB name="Airline" />
+			<de-DE name="Fluglinie" />
+			<en-US name="Airline" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Profile</en-GB>
-			<de-DE>Profil</de-DE>
-			<en-US>Profile</en-US>
+			<en-GB name="Profile" />
+			<de-DE name="Profil" />
+			<en-US name="Profile" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Name of Airline</en-GB>
-			<de-DE>Name der Fluglinie</de-DE>
-			<en-US>Name of Airline</en-US>
+			<en-GB name="Name of Airline" />
+			<de-DE name="Name der Fluglinie" />
+			<en-US name="Name of Airline" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>IATA code</en-GB>
-			<de-DE>IATA Kennung</de-DE>
-			<en-US>IATA code</en-US>
+			<en-GB name="IATA code" />
+			<de-DE name="IATA Kennung" />
+			<en-US name="IATA code" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>CEO</en-GB>
-			<de-DE>Geschäftsführer</de-DE>
-			<en-US>CEO</en-US>
+			<en-GB name="CEO" />
+			<de-DE name="Geschäftsführer" />
+			<en-US name="CEO" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Home country</en-GB>
-			<de-DE>Heimatland</de-DE>
-			<en-US>Home country</en-US>
+			<en-GB name="Home country" />
+			<de-DE name="Heimatland" />
+			<en-US name="Home country" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Airline color</en-GB>
-			<de-DE>Farbe der Fluglinie</de-DE>
-			<en-US>Airline color</en-US>
+			<en-GB name="Airline color" />
+			<de-DE name="Farbe der Fluglinie" />
+			<en-US name="Airline color" />
 		</Text>
 		<Text uid="1007">
-			<en-GB>Fleet size</en-GB>
-			<de-DE>Flottengröße</de-DE>
-			<en-US>Fleet size</en-US>
+			<en-GB name="Fleet size" />
+			<de-DE name="Flottengröße" />
+			<en-US name="Fleet size" />
 		</Text>
 		<Text uid="1008">
-			<en-GB>Capital</en-GB>
-			<de-DE>Vermögen</de-DE>
-			<en-US>Capital</en-US>
+			<en-GB name="Capital" />
+			<de-DE name="Vermögen" />
+			<en-US name="Capital" />
 		</Text>
 		<Text uid="1009">
-			<en-GB>Reputation</en-GB>
-			<de-DE>Ansehen</de-DE>
-			<en-US>Reputation</en-US>
+			<en-GB name="Reputation" />
+			<de-DE name="Ansehen" />
+			<en-US name="Reputation" />
 		</Text>
 		<Text uid="1010">
-			<en-GB>Passenger happiness</en-GB>
-			<de-DE>Kundenzufriedenheit</de-DE>
-			<en-US>Passenger happiness</en-US>
+			<en-GB name="Passenger happiness" />
+			<de-DE name="Kundenzufriedenheit" />
+			<en-US name="Passenger happiness" />
 		</Text>
 </Region>
 <Region name="PageAirlines">
 		<Text uid="1000">
-			<en-GB>Airlines</en-GB>
-			<de-DE>Fluglinien</de-DE>
-			<en-US>Airlines</en-US>
+			<en-GB name="Airlines" />
+			<de-DE name="Fluglinien" />
+			<en-US name="Airlines" />
 		</Text>
 </Region>
 <Region name="PageNewsBox">
 		<Text uid="1000">
-			<en-GB>News</en-GB>
-			<de-DE>Nachrichten</de-DE>
-			<en-US>News</en-US>
+			<en-GB name="News" />
+			<de-DE name="Nachrichten" />
+			<en-US name="News" />
 		</Text>
 </Region>
 <Region name="PageSettings">
 		<Text uid="1000">
-			<en-GB>Settings</en-GB>
-			<de-DE>Einstellungen</de-DE>
-			<en-US>Settings</en-US>
+			<en-GB name="Settings" />
+			<de-DE name="Einstellungen" />
+			<en-US name="Settings" />
 		</Text>
 </Region>
 <Region name="PageAirlineFleet">
 		<Text uid="1001">
-			<en-GB>Fleet overview</en-GB>
-			<de-DE>Übersicht Flotte</de-DE>
-			<en-US>Fleet overview</en-US>
+			<en-GB name="Fleet overview" />
+			<de-DE name="Übersicht Flotte" />
+			<en-US name="Fleet overview" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Fleet route information</en-GB>
-			<de-DE>Routeninformation der Flotte</de-DE>
-			<en-US>Fleet route information</en-US>
+			<en-GB name="Fleet route information" />
+			<de-DE name="Routeninformation der Flotte" />
+			<en-US name="Fleet route information" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Airline Fleet</en-GB>
-			<de-DE>Flotte der Fluglinie</de-DE>
-			<en-US>Airline Fleet</en-US>
+			<en-GB name="Airline Fleet" />
+			<de-DE name="Flotte der Fluglinie" />
+			<en-US name="Airline Fleet" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Airliners In Order</en-GB>
-			<de-DE>Bestellte Flugzeuge</de-DE>
-			<en-US>Airliners In Order</en-US>
+			<en-GB name="Airliners In Order" />
+			<de-DE name="Bestellte Flugzeuge" />
+			<en-US name="Airliners In Order" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Name</en-GB>
-			<de-DE>Name</de-DE>
-			<en-US>Name</en-US>
+			<en-GB name="Name" />
+			<de-DE name="Name" />
+			<en-US name="Name" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Type</en-GB>
-			<de-DE>Typ</de-DE>
-			<en-US>Type</en-US>
+			<en-GB name="Type" />
+			<de-DE name="Typ" />
+			<en-US name="Type" />
 		</Text>
 		<Text uid="1007">
-			<en-GB>Ownership</en-GB>
-			<de-DE>Eigentumsstatus</de-DE>
-			<en-US>Ownership</en-US>
+			<en-GB name="Ownership" />
+			<de-DE name="Eigentumsstatus" />
+			<en-US name="Ownership" />
 		</Text>
 		<Text uid="1008">
-			<en-GB>Has Route</en-GB>
-			<de-DE>Routeneinsatz</de-DE>
-			<en-US>Has Route</en-US>
+			<en-GB name="Has Route" />
+			<de-DE name="Routeneinsatz" />
+			<en-US name="Has Route" />
 		</Text>
 		<Text uid="1101">
-			<en-GB>Airline Fleet</en-GB>
-			<de-DE>Flugzeugflotte</de-DE>
-			<en-US>Airline Fleet</en-US>
+			<en-GB name="Airline Fleet" />
+			<de-DE name="Flugzeugflotte" />
+			<en-US name="Airline Fleet" />
 		</Text>
 </Region>
 <Region name="PageAirlineFinances">
 		<Text uid="1001">
-			<en-GB>Airline Finances</en-GB>
-			<de-DE>Finanzen der Fluglinie</de-DE>
-			<en-US>Airline Finances</en-US>
+			<en-GB name="Airline Finances" />
+			<de-DE name="Finanzen der Fluglinie" />
+			<en-US name="Airline Finances" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Financial Summary</en-GB>
-			<de-DE>Finanzübersicht</de-DE>
-			<en-US>Financial Summary</en-US>
+			<en-GB name="Financial Summary" />
+			<de-DE name="Finanzübersicht" />
+			<en-US name="Financial Summary" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Current cash</en-GB>
-			<de-DE>Bargeld aktuell</de-DE>
-			<en-US>Current cash</en-US>
+			<en-GB name="Current cash" />
+			<de-DE name="Bargeld aktuell" />
+			<en-US name="Current cash" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Total balance</en-GB>
-			<de-DE>Bilanzsumme</de-DE>
-			<en-US>Total balance</en-US>
+			<en-GB name="Total balance" />
+			<de-DE name="Bilanzsumme" />
+			<en-US name="Total balance" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Loans</en-GB>
-			<de-DE>Anleihe</de-DE>
-			<en-US>Loans</en-US>
+			<en-GB name="Loans" />
+			<de-DE name="Anleihe" />
+			<en-US name="Loans" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Apply for loan</en-GB>
-			<de-DE>Anleihe ausgeben</de-DE>
-			<en-US>Apply for loan</en-US>
+			<en-GB name="Apply for loan" />
+			<de-DE name="Anleihe ausgeben" />
+			<en-US name="Apply for loan" />
 		</Text>
 </Region>
 <Region name="PageAirlineFacilities">
 		<Text uid="1001">
-			<en-GB>Airline Facilities</en-GB>
-			<de-DE>Einrichtungen der Fluglinie</de-DE>
-			<en-US>Airline Facilities</en-US>
+			<en-GB name="Airline Facilities" />
+			<de-DE name="Einrichtungen der Fluglinie" />
+			<en-US name="Airline Facilities" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Purchase Facilities</en-GB>
-			<de-DE>Einrichtungen kaufen</de-DE>
-			<en-US>Purchase Facilities</en-US>
+			<en-GB name="Purchase Facilities" />
+			<de-DE name="Einrichtungen kaufen" />
+			<en-US name="Purchase Facilities" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Airline Advertisement</en-GB>
-			<de-DE>Werbung der Fluglinie</de-DE>
-			<en-US>Airline Advertisement</en-US>
+			<en-GB name="Airline Advertisement" />
+			<de-DE name="Werbung der Fluglinie" />
+			<en-US name="Airline Advertisement" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Save Advertisements</en-GB>
-			<de-DE>Werbemaßnahmen festlegen</de-DE>
-			<en-US>Save Advertisements</en-US>
+			<en-GB name="Save Advertisements" />
+			<de-DE name="Werbemaßnahmen festlegen" />
+			<en-US name="Save Advertisements" />
 		</Text>
 </Region>
 <Region name="PageAirlineDestinations">
 		<Text uid="201">
-			<en-GB>Routes map</en-GB>
-			<de-DE>Routenkarte</de-DE>
-			<en-US>Routes map</en-US>
+			<en-GB name="Routes map" />
+			<de-DE name="Routenkarte" />
+			<en-US name="Routes map" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Destinations</en-GB>
-			<de-DE>Ziele</de-DE>
-			<en-US>Destinations</en-US>
+			<en-GB name="Destinations" />
+			<de-DE name="Ziele" />
+			<en-US name="Destinations" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Destinations</en-GB>
-			<de-DE>Ziele</de-DE>
-			<en-US>Destinations</en-US>
+			<en-GB name="Destinations" />
+			<de-DE name="Ziele" />
+			<en-US name="Destinations" />
 		</Text>
 </Region>
 <Region name="PageAirlineWages">
 		<Text uid="1001">
-			<en-GB>Wages</en-GB>
-			<de-DE>Löhne</de-DE>
-			<en-US>Wages</en-US>
+			<en-GB name="Wages" />
+			<de-DE name="Löhne" />
+			<en-US name="Wages" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Food and drinks</en-GB>
-			<de-DE>Essen und Getränke</de-DE>
-			<en-US>Food and drinks</en-US>
+			<en-GB name="Food and drinks" />
+			<de-DE name="Essen und Getränke" />
+			<en-US name="Food and drinks" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Fees</en-GB>
-			<de-DE>Gebühren</de-DE>
-			<en-US>Fees</en-US>
+			<en-GB name="Fees" />
+			<de-DE name="Gebühren" />
+			<en-US name="Fees" />
 		</Text>
 </Region>
 <Region name="PageAirlineStatistics">
 		<Text uid="1001">
-			<en-GB>Airline Statistics</en-GB>
-			<de-DE>Statistiken der Fluglinie</de-DE>
-			<en-US>Airline Statistics</en-US>
+			<en-GB name="Airline Statistics" />
+			<de-DE name="Statistiken der Fluglinie" />
+			<en-US name="Airline Statistics" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Total departures</en-GB>
-			<de-DE>Abflüge Gesamt</de-DE>
-			<en-US>Total departures</en-US>
+			<en-GB name="Total departures" />
+			<de-DE name="Abflüge Gesamt" />
+			<en-US name="Total departures" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Total passengers</en-GB>
-			<de-DE>Passagiere Gesamt</de-DE>
-			<en-US>Total passengers</en-US>
+			<en-GB name="Total passengers" />
+			<de-DE name="Passagiere Gesamt" />
+			<en-US name="Total passengers" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Passengers per flight</en-GB>
-			<de-DE>Passagiere pro Flug</de-DE>
-			<en-US>Passengers per flight</en-US>
+			<en-GB name="Passengers per flight" />
+			<de-DE name="Passagiere pro Flug" />
+			<en-US name="Passengers per flight" />
 		</Text>
 </Region>
 <Region name="PanelAirline">
 		<Text uid="1001">
-			<en-GB>Fleet</en-GB>
-			<de-DE>Flotte</de-DE>
-			<en-US>Fleet</en-US>
+			<en-GB name="Fleet" />
+			<de-DE name="Flotte" />
+			<en-US name="Fleet" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Destinations and Routes</en-GB>
-			<de-DE>Ziele und Routen</de-DE>
-			<en-US>Destinations and Routes</en-US>
+			<en-GB name="Destinations and Routes" />
+			<de-DE name="Ziele und Routen" />
+			<en-US name="Destinations and Routes" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Facilities and Advertisement</en-GB>
-			<de-DE>Ausstattung und Angebote</de-DE>
-			<en-US>Facilities and Advertisement</en-US>
+			<en-GB name="Facilities and Advertisement" />
+			<de-DE name="Ausstattung und Angebote" />
+			<en-US name="Facilities and Advertisement" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Statistics</en-GB>
-			<de-DE>Statistik</de-DE>
-			<en-US>Statistics</en-US>
+			<en-GB name="Statistics" />
+			<de-DE name="Statistik" />
+			<en-US name="Statistics" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Finances</en-GB>
-			<de-DE>Finanzen</de-DE>
-			<en-US>Finances</en-US>
+			<en-GB name="Finances" />
+			<de-DE name="Finanzen" />
+			<en-US name="Finances" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Wages and Fees</en-GB>
-			<de-DE>Löhne und Abgaben</de-DE>
-			<en-US>Wages and Fees</en-US>
+			<en-GB name="Wages and Fees" />
+			<de-DE name="Löhne und Abgaben" />
+			<en-US name="Wages and Fees" />
 		</Text>
 </Region>
 <Region name="PanelAirliner">
 		<Text uid="1001">
-			<en-GB>Airliner Type Specifications</en-GB>
-			<de-DE>Flugzeugtyp Spezifikationen</de-DE>
-			<en-US>Airliner Type Specifications</en-US>
+			<en-GB name="Airliner Type Specifications" />
+			<de-DE name="Flugzeugtyp Spezifikationen" />
+			<en-US name="Airliner Type Specifications" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Model</en-GB>
-			<de-DE>Modell</de-DE>
-			<en-US>Model</en-US>
+			<en-GB name="Model" />
+			<de-DE name="Modell" />
+			<en-US name="Model" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Manufacturer</en-GB>
-			<de-DE>Hersteller</de-DE>
-			<en-US>Manufacturer</en-US>
+			<en-GB name="Manufacturer" />
+			<de-DE name="Hersteller" />
+			<en-US name="Manufacturer" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Body Type</en-GB>
-			<de-DE>Rumpftyp</de-DE>
-			<en-US>Body Type</en-US>
+			<en-GB name="Body Type" />
+			<de-DE name="Rumpftyp" />
+			<en-US name="Body Type" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Range</en-GB>
-			<de-DE>Reichweite</de-DE>
-			<en-US>Range</en-US>
+			<en-GB name="Range" />
+			<de-DE name="Reichweite" />
+			<en-US name="Range" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Engine Type</en-GB>
-			<de-DE>Antriebsart</de-DE>
-			<en-US>Engine Type</en-US>
+			<en-GB name="Engine Type" />
+			<de-DE name="Antriebsart" />
+			<en-US name="Engine Type" />
 		</Text>
 		<Text uid="1007">
-			<en-GB>Wingspan</en-GB>
-			<de-DE>Spannweite</de-DE>
-			<en-US>Wingspan</en-US>
+			<en-GB name="Wingspan" />
+			<de-DE name="Spannweite" />
+			<en-US name="Wingspan" />
 		</Text>
 		<Text uid="1008">
-			<en-GB>Length</en-GB>
-			<de-DE>Länge</de-DE>
-			<en-US>Length</en-US>
+			<en-GB name="Length" />
+			<de-DE name="Länge" />
+			<en-US name="Length" />
 		</Text>
 		<Text uid="1009">
-			<en-GB>Passenger Capacity</en-GB>
-			<de-DE>Passagier Kapazität</de-DE>
-			<en-US>Passenger Capacity</en-US>
+			<en-GB name="Passenger Capacity" />
+			<de-DE name="Passagier Kapazität" />
+			<en-US name="Passenger Capacity" />
 		</Text>
 		<Text uid="1010">
-			<en-GB>Max. Airliner Classes</en-GB>
-			<de-DE>Max. Reiseklassen</de-DE>
-			<en-US>Max. Airliner Classes</en-US>
+			<en-GB name="Max. Airliner Classes" />
+			<de-DE name="Max. Reiseklassen" />
+			<en-US name="Max. Airliner Classes" />
 		</Text>
 		<Text uid="1011">
-			<en-GB>Crew requirements</en-GB>
-			<de-DE>Benötigte Besatzung</de-DE>
-			<en-US>Crew requirements</en-US>
+			<en-GB name="Crew requirements" />
+			<de-DE name="Benötigte Besatzung" />
+			<en-US name="Crew requirements" />
 		</Text>
 		<Text uid="1012">
-			<en-GB>Cruising speed</en-GB>
-			<de-DE>Reisegeschwindigkeit</de-DE>
-			<en-US>Cruising speed</en-US>
+			<en-GB name="Cruising speed" />
+			<de-DE name="Reisegeschwindigkeit" />
+			<en-US name="Cruising speed" />
 		</Text>
 		<Text uid="1013">
-			<en-GB>Fuel Consumption</en-GB>
-			<de-DE>Kraftstoffverbrauch</de-DE>
-			<en-US>Fuel Consumption</en-US>
+			<en-GB name="Fuel Consumption" />
+			<de-DE name="Kraftstoffverbrauch" />
+			<en-US name="Fuel Consumption" />
 		</Text>
 		<Text uid="1014">
-			<en-GB>Time Range of Production</en-GB>
-			<de-DE>Produktionszeitraum</de-DE>
-			<en-US>Time Range of Production</en-US>
+			<en-GB name="Time Range of Production" />
+			<de-DE name="Produktionszeitraum" />
+			<en-US name="Time Range of Production" />
 		</Text>
 </Region>
 <Region name="PanelUsedAirliner">
 		<Text uid="200">
-			<en-GB>Buy</en-GB>
-			<de-DE>Kaufen</de-DE>
-			<en-US>Buy</en-US>
+			<en-GB name="Buy" />
+			<de-DE name="Kaufen" />
+			<en-US name="Buy" />
 		</Text>
 		<Text uid="201">
-			<en-GB>Lease</en-GB>
-			<de-DE>Leasen</de-DE>
-			<en-US>Lease</en-US>
+			<en-GB name="Lease" />
+			<de-DE name="Leasen" />
+			<en-US name="Lease" />
 		</Text>
 		<Text uid="1001">
-			<en-GB>Airliner Information</en-GB>
-			<de-DE>Flugzeug Daten</de-DE>
-			<en-US>Airliner Information</en-US>
+			<en-GB name="Airliner Information" />
+			<de-DE name="Flugzeug Daten" />
+			<en-US name="Airliner Information" />
 		</Text>
 		<Text uid="1002">
-			<en-GB>Year of build</en-GB>
-			<de-DE>Baujahr</de-DE>
-			<en-US>Year of build</en-US>
+			<en-GB name="Year of build" />
+			<de-DE name="Baujahr" />
+			<en-US name="Year of build" />
 		</Text>
 		<Text uid="1003">
-			<en-GB>Tail number</en-GB>
-			<de-DE>Kennung</de-DE>
-			<en-US>Tail number</en-US>
+			<en-GB name="Tail number" />
+			<de-DE name="Kennung" />
+			<en-US name="Tail number" />
 		</Text>
 		<Text uid="1004">
-			<en-GB>Flown Overall</en-GB>
-			<de-DE>Gesamtflugstrecke</de-DE>
-			<en-US>Flown Overall</en-US>
+			<en-GB name="Flown Overall" />
+			<de-DE name="Gesamtflugstrecke" />
+			<en-US name="Flown Overall" />
 		</Text>
 		<Text uid="1005">
-			<en-GB>Flown since last Service</en-GB>
-			<de-DE>Flugstrecke seit letzter Wartung</de-DE>
-			<en-US>Flown since last Service</en-US>
+			<en-GB name="Flown since last Service" />
+			<de-DE name="Flugstrecke seit letzter Wartung" />
+			<en-US name="Flown since last Service" />
 		</Text>
 		<Text uid="1006">
-			<en-GB>Equipped with Class</en-GB>
-			<de-DE>Ausgestattet mit Klasse</de-DE>
-			<en-US>Equipped with Class</en-US>
+			<en-GB name="Equipped with Class" />
+			<de-DE name="Ausgestattet mit Klasse" />
+			<en-US name="Equipped with Class" />
 		</Text>
 		<Text uid="1101">
-			<en-GB>Price Information</en-GB>
-			<de-DE>Preisangaben</de-DE>
-			<en-US>Price Information</en-US>
+			<en-GB name="Price Information" />
+			<de-DE name="Preisangaben" />
+			<en-US name="Price Information" />
 		</Text>
 		<Text uid="1102">
-			<en-GB>Purchase Price</en-GB>
-			<de-DE>Kaufpreis</de-DE>
-			<en-US>Purchase Price</en-US>
+			<en-GB name="Purchase Price" />
+			<de-DE name="Kaufpreis" />
+			<en-US name="Purchase Price" />
 		</Text>
 		<Text uid="1103">
-			<en-GB>Leasing Rate</en-GB>
-			<de-DE>Leasing Rate</de-DE>
-			<en-US>Leasing Rate</en-US>
+			<en-GB name="Leasing Rate" />
+			<de-DE name="Leasing Rate" />
+			<en-US name="Leasing Rate" />
 		</Text>
 		<Text uid="1104">
-			<en-GB>Yearly maintenance Costs</en-GB>
-			<de-DE>Kosten jährliche Wartung</de-DE>
-			<en-US>Yearly maintenance Costs</en-US>
+			<en-GB name="Yearly maintenance Costs" />
+			<de-DE name="Kosten jährliche Wartung" />
+			<en-US name="Yearly maintenance Costs" />
 		</Text>
 		<Text uid="1105">
-			<en-GB>Select home base</en-GB>
-			<de-DE>Heimatstützpunkt auswählen</de-DE>
-			<en-US>Select home base</en-US>
+			<en-GB name="Select home base" />
+			<de-DE name="Heimatstützpunkt auswählen" />
+			<en-US name="Select home base" />
 		</Text>
 </Region>
 <Region name="MenuHome">
 		<Text uid="1000">
-			<en-GB>Home</en-GB>
-			<de-DE>Übersicht</de-DE>
-			<en-US>Home</en-US>
+			<en-GB name="Home" />
+			<de-DE name="Übersicht" />
+			<en-US name="Home" />
 		</Text>
 </Region>
 <Region name="MenuOptions">
 		<Text uid="1000">
-			<en-GB>Options</en-GB>
-			<de-DE>Spieloptionen</de-DE>
-			<en-US>Options</en-US>
+			<en-GB name="Options" />
+			<de-DE name="Spieloptionen" />
+			<en-US name="Options" />
 		</Text>
 </Region>
 <Region name="MenuNewGame">
 		<Text uid="1000">
-			<en-GB>New Game</en-GB>
-			<de-DE>Neues Spiel</de-DE>
-			<en-US>New Game</en-US>
+			<en-GB name="New Game" />
+			<de-DE name="Neues Spiel" />
+			<en-US name="New Game" />
 		</Text>
 </Region>
 <Region name="MenuExitGame">
 		<Text uid="1000">
-			<en-GB>Exit Game</en-GB>
-			<de-DE>Spiel beenden</de-DE>
-			<en-US>Exit Game</en-US>
+			<en-GB name="Exit Game" />
+			<de-DE name="Spiel beenden" />
+			<en-US name="Exit Game" />
 		</Text>
 </Region>
 </Translator>
