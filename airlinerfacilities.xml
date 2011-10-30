@@ -1,55 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<facilities>
-  <facility name="No Audio" type="Audio" fromyear="1950">
+<airlinerfacilities>
+  <airlinerfacility uid="100" type="Audio" fromyear="1950">
     <level service="0"></level>
     <seats percent="0" price="0" uses="1"></seats>
-  </facility>
-  <facility name="Standard Audio on Demand" type="Audio" fromyear="1982">
+    <translations>
+			<en-US name="No Audio" />
+			<de-DE name="keine Kopfhörer" />
+			<en-GB name="No Audio" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="101" type="Audio" fromyear="1982">
     <level service="30"></level>
     <seats percent="100" price="900" uses="1"></seats>
-  </facility>
-  <facility name="Extended Audio on Demand" type="Audio" fromyear="1995">
+    <translations>
+			<en-US name="Standard Audio on Demand" />
+			<de-DE name="Standard Kopfhörer auf Nachfrage" />
+			<en-GB name="Standard Audio on Demand" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="102" type="Audio" fromyear="1995">
     <level service="65"></level>
     <seats percent="100" price="1200" uses="1"></seats>
-  </facility>
-  <facility name="Standard Seats" type="Seat" fromyear="1950">
+    <translations>
+			<en-US name="Extended Audio on Demand" />
+			<de-DE name="Bessere Kopfhörer auf Nachfrage" />
+			<en-GB name="Extended Audio on Demand" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="103" type="Seat" fromyear="1950">
     <level service="0"></level>
     <seats percent="100" price="0" uses="1"></seats>
-  </facility>
-  <facility name="Premium Seats" type="Seat" fromyear="1970">
+    <translations>
+			<en-US name="Standard Seats" />
+			<de-DE name="Standard-Sitze" />
+			<en-GB name="Standard Seats" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="104" type="Seat" fromyear="1970">
     <level service="5"></level>
     <seats percent="100" price="400" uses="1"></seats>
-  </facility>
-  <facility name="Cradle Seats" type="Seat" fromyear="1980">
+    <translations>
+			<en-US name="Premium Seats" />
+			<de-DE name="Luxus-Sitze" />
+			<en-GB name="Premium Seats" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="105" type="Seat" fromyear="1980">
     <level service="35"></level>
     <seats percent="100" price="1000" uses="2"></seats>
-  </facility>
-  <facility name="Angled Lie-Flat Seats" type="Seat" fromyear="1990">
+    <translations>
+			<en-US name="Cradle Seats" />
+			<de-DE name="Wiege-Sitze" />
+			<en-GB name="Cradle Seats" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="106" type="Seat" fromyear="1990">
     <level service="50"></level>
     <seats percent="100" price="1400" uses="2"></seats>
-  </facility>
-  <facility name="Full-flat Seats" type="Seat" fromyear="1997">
+    <translations>
+			<en-US name="Angled Lie-Flat Seats" />
+			<de-DE name="Standard-Liege-Sitze" />
+			<en-GB name="Angled Lie-Flat Seats" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="107" type="Seat" fromyear="1997">
     <level service="75"></level>
     <seats percent="100" price="2000" uses="3"></seats>
-  </facility>
-  <facility name="Full-flat Beds" type="Seat" fromyear="1999">
+    <translations>
+			<en-US name="Full-Flat Seats" />
+			<de-DE name="Luxus-Liege-Sitze" />
+			<en-GB name="Full-Flat Seats" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="108" type="Seat" fromyear="1999">
     <level service="100"></level>
     <seats percent="100" price="2300" uses="3"></seats>
-  </facility>
-  <facility name="No Video" type="Video" fromyear="1950">
+    <translations>
+			<en-US name="Full-Flat Beds" />
+			<de-DE name="Luxus-Liege-Bett" />
+			<en-GB name="Full-Flat Beds" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="109" type="Video" fromyear="1950">
     <level service="0"></level>
     <seats percent="0" price="0" uses="1"></seats>
-  </facility>
-  <facility name="In-flight Movies system" type="Video" fromyear="1965">
+    <translations>
+			<en-US name="No Video" />
+			<de-DE name="kein Monitor" />
+			<en-GB name="No Video" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="110" type="Video" fromyear="1965">
     <level service="30"></level>
     <seats percent="20" price="400" uses="1"></seats>
-  </facility>
-  <facility name="Standard PTV" type="Video" fromyear="1988">
+    <translations>
+			<en-US name="In-flight Movies system" />
+			<de-DE name="Kinoleinwand" />
+			<en-GB name="In-flight Movies system" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="111" type="Video" fromyear="1988">
     <level service="40"></level>
     <seats percent="100" price="300" uses="1"></seats>
-  </facility>
-  <facility name="Extended PTV" type="Video" fromyear="1997">
+    <translations>
+			<en-US name="Standard PTV" />
+			<de-DE name="Sitzmonitor Standard" />
+			<en-GB name="Standard PTV" />
+    </translations>
+  </airlinerfacility>
+  <airlinerfacility uid="112" type="Video" fromyear="1997">
     <level service="100"></level>
     <seats percent="100" price="1200" uses="1"></seats>
-  </facility>
-</facilities>
+    <translations>
+			<en-US name="Extended PTV" />
+			<de-DE name="Sitzmonitor Luxus" />
+			<en-GB name="Extended PTV" />
+    </translations>
+  </airlinerfacility>
+</airlinerfacilities>
