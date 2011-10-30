@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<facilities>
-  <facility name="Frequent Flyer Program" shortname="Frequent" price="500000">
+<airlinefacilities>
+  <airlinefacility uid="100" shortname="Frequent" price="500000">
     <level service="5" luxury="5"></level>
-  </facility>
-  <facility name="Airline InFlight Magazine" shortname="Magazine" price="100000">
+    <translations>
+			<en-US name="Frequent Flyer Program" />
+			<de-DE name="Werbemaßnahme wechselnde Broschüre" />
+			<en-GB name="Frequent Flyer Program" />
+    </translations>
+  </airlinefacility>
+  <airlinefacility uid="101" shortname="Magazine" price="100000">
     <level service="10" luxury="3"></level>
-  </facility>
-</facilities>
+    <translations>
+			<en-US name="Airline InFlight Magazine" />
+			<de-DE name="Werbemaßnahme Fluglinienzeitschrift" />
+			<en-GB name="Airline InFlight Magazine" />
+    </translations>
+  </airlinefacility>
+</airlinefacilities>
