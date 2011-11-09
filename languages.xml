@@ -60,6 +60,16 @@
 			<de-DE name="Zurücksetzen" />
 			<en-US name="Reset" />
 		</Text>
+		<Text uid="109">
+			<en-GB name="Search" />
+			<de-DE name="Suchen" />
+			<en-US name="Search" />
+		</Text>
+		<Text uid="110">
+			<en-GB name="Clear Filter" />
+			<de-DE name="Filter entfernen" />
+			<en-US name="Clear Filter" />
+		</Text>
 		<Text uid="1000">
 			<en-GB name="Untranslated Title" />
 			<de-DE name="Nicht übersetzter Titel" />
@@ -191,12 +201,116 @@
 			<de-DE name="Flughafen" />
 			<en-US name="Airport" />
 		</Text>
+		<Text uid="1001">
+			<en-GB name="Weather Informations" />
+			<de-DE name="Wetter Informationen" />
+			<en-US name="Weather Informations" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="Arrivals" />
+			<de-DE name="Ankünfte" />
+			<en-US name="Arrivals" />
+		</Text>
+		<Text uid="1003">
+			<en-GB name="From" />
+			<de-DE name="Von" />
+			<en-US name="From" />
+		</Text>
+		<Text uid="1004">
+			<en-GB name="Departures" />
+			<de-DE name="Abflüge" />
+			<en-US name="Departures" />
+		</Text>
+		<Text uid="1005">
+			<en-GB name="Destination" />
+			<de-DE name="Ziel" />
+			<en-US name="Destination" />
+		</Text>
+		<Text uid="1006">
+			<en-GB name="Profile" />
+			<de-DE name="Profil" />
+			<en-US name="Profile" />
+		</Text>
+		<Text uid="1007">
+			<en-GB name="Name" />
+			<de-DE name="Name" />
+			<en-US name="Name" />
+		</Text>
+		<Text uid="1008">
+			<en-GB name="IATA code" />
+			<de-DE name="IATA Code" />
+			<en-US name="IATA code" />
+		</Text>
+		<Text uid="1009">
+			<en-GB name="Airport type" />
+			<de-DE name="Flughafentyp" />
+			<en-US name="Airport type" />
+		</Text>
+		<Text uid="1010">
+			<en-GB name="Town" />
+			<de-DE name="Stadt" />
+			<en-US name="Town" />
+		</Text>
+		<Text uid="1011">
+			<en-GB name="Country" />
+			<de-DE name="Land" />
+			<en-US name="Country" />
+		</Text>
+		<Text uid="1012">
+			<en-GB name="Time zone" />
+			<de-DE name="Zeitzone" />
+			<en-US name="Time zone" />
+		</Text>
+		<Text uid="1013">
+			<en-GB name="Local time" />
+			<de-DE name="Lokale Zeit" />
+			<en-US name="Local time" />
+		</Text>
+		<Text uid="1014">
+			<en-GB name="Coordinates" />
+			<de-DE name="Koordinaten" />
+			<en-US name="Coordinates" />
+		</Text>
+		<Text uid="1015">
+			<en-GB name="Airport size" />
+			<de-DE name="Flughafengröße" />
+			<en-US name="Airport size" />
+		</Text>
+		<Text uid="1016">
+			<en-GB name="Number of gates" />
+			<de-DE name="Anzahl Gates" />
+			<en-US name="Number of gates" />
+		</Text>
 </Region>
 <Region name="PageAirports">
 		<Text uid="1000">
 			<en-GB name="Airports" />
 			<de-DE name="Flughäfen" />
 			<en-US name="Airports" />
+		</Text>
+		<Text uid="1001">
+			<en-GB name="Show results on map" />
+			<de-DE name="Ergebnisse auf Karte anzeigen" />
+			<en-US name="Show results on map" />
+		</Text>
+</Region>
+<Region name="PageSearchAirports">
+		<Text uid="1001">
+			<en-GB name="Airport search options" />
+			<de-DE name="Suchoptionen Flughäfen" />
+			<en-US name="Airport search options" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="Human airports only" />
+			<de-DE name="Nur Spieler-Flughäfen" />
+			<en-US name="Human airports only" />
+		</Text>
+</Region>
+<Region name="PageAirportsStatistics">
+		<Text uid="1001">
+			<en-GB name="Largest Airports / Passengers" />
+			<de-DE name="Größte Flughäfen / Passagiere" />
+			<en-US name="Largest Airports / Passengers" />
 		</Text>
 </Region>
 <Region name="PageAirline">
@@ -603,6 +717,18 @@
 			<en-GB name="Select home base" />
 			<de-DE name="Heimatstützpunkt auswählen" />
 			<en-US name="Select home base" />
+		</Text>
+</Region>
+<Region name="PanelAirports">
+		<Text uid="201">
+			<en-GB name="Search" />
+			<de-DE name="Suche" />
+			<en-US name="Search" />
+		</Text>
+		<Text uid="202">
+			<en-GB name="Statistics" />
+			<de-DE name="Statistik" />
+			<en-US name="Statistics" />
 		</Text>
 </Region>
 <Region name="MenuHome">
