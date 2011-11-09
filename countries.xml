@@ -1,109 +1,752 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Mauritius" shortname="MU" region="109" tailformat="3B-\\s3" />
-  <country name="Senegal" shortname="SEN" region="109" tailformat="6V-\\s3" />
-  <country name="Latvia" shortname="LAT" region="106" tailformat="YL-\\s3" />
-  <country name="Lithuania" shortname="LIT" region="106" tailformat="LY-\\s3" />
-  <country name="Serbia" shortname="SRB" region="106" tailformat="YU-\\s3" />
-  <country name="Slovenia" shortname="SLO" region="106" tailformat="S5-\\s3" />
-  <country name="Argentina" shortname="ARG" region="101" tailformat="LV-\\s3" />
-  <country name="Belgium" shortname="BEL" region="108" tailformat="OO-\\s3" />
-  <country name="St. Lucia Island" shortname="SLC" region="104" tailformat="J6-\\s3" />
-  <country name="Antilles" shortname="ANT" region="104" tailformat="VP-\\s3" />
-  <country name="Denmark" shortname="DEN" region="113" tailformat="OY-\\s4" />
-  <country name="Greenland" shortname="GRL" region="113" tailformat="OY-\\s3" />
-  <country name="Faroe Islands" shortname="FO" region="113" tailformat="OY-\\d4" />
-  <country name="Canada" shortname="CAN" region="102" tailformat="CF-\\s3" />
-  <country name="Fiji" shortname="FJ"  region="105" tailformat="DQ-\\s3" />
-  <country name="Kiribati" shortname="KIR"  region="105" tailformat="T3-\\s3" />
-  <country name="Australia" shortname="AUS"  region="105" tailformat="VH-\\s3" />
-  <country name="Estonia" shortname="EST" region="106" tailformat="ES-\\s3" />
-  <country name="Greece" shortname="GRE" region="107" tailformat="SX-\\s3" />
-  <country name="Luxembourg" shortname="LUX" region="108" tailformat="LX-\\s3" />
-  <country name="Croatia" shortname="CRO" region="106" tailformat="9A-\\s3" />
-  <country name="Iceland" shortname="ICE" region="113" tailformat="TF-\\s3" />
-  <country name="United States" shortname="USA" region="102" tailformat="N-\\d4" />
-  <country name="Spain" shortname="ESP" region="107" tailformat="EC-\\s3" />
-  <country name="Ethiopia" shortname="ETH" region="109" tailformat="ET-\\s3" />
-  <country name="Libya" shortname="LIB" region="109" tailformat="5A-\\s3" />
-  <country name="Kuwait" shortname="KW" region="111" tailformat="9K-\\s3" />
-  <country name="Iraq" shortname="IQ" region="111" tailformat="Y1-\\s3" />
-  <country name="Israel" shortname="ISR" region="111" tailformat="4X-\\s3" />
-  <country name="Lebanon" shortname="LEB" region="111" tailformat="OD-\\s3" />
-  <country name="United Kingdom" shortname="UK" region="112" tailformat="G-\\s4" />
-  <country name="Philippines" shortname="PHI" region="110" tailformat="RPC-\\s4" />
-  <country name="Malta" shortname="MLT"  region="107" tailformat="9H-\\s3" />
-  <country name="Morocco" shortname="MOR"  region="109" tailformat="CN-\\s3" />
-  <country name="Ukraine" shortname="UKR"  region="106" tailformat="UR-\\s3" />
-  <country name="Poland" shortname="POL"  region="106" tailformat="SP-\\s3" />
-  <country name="Saudi Arabia" shortname="SA"  region="111" tailformat="HZ-\\s3" />
-  <country name="Ireland" shortname="IRE"  region="112" tailformat="EI-\\s3" />
-  <country name="Brazil" shortname="BRA"  region="101" tailformat="PP-\\s3" />
-  <country name="Norway" shortname="NOR"  region="113" tailformat="LN-\\s3" />
-  <country name="France" shortname="FRA"  region="108" tailformat="F-\\s4" />
-  <country name="Italy" shortname="ITA"  region="107" tailformat="I-\\s4" />
-  <country name="Algeria" shortname="ALG"  region="109" tailformat="7T-\\s3" />
-  <country name="Reunion" shortname="REU"  region="109" tailformat="F-\\d5" />
-  <country name="Tunisia"  shortname="TUN" region="109" tailformat="TS-\\s3" />
-  <country name="Nigeria"  shortname="NIG" region="109" tailformat="5N-\\s3" />
-  <country name="Kenya"  shortname="KEN" region="109" tailformat="5Y-\\s3" />
-  <country name="Romania" shortname="ROM"  region="106" tailformat="YR-\\s3" />
-  <country name="China"  shortname="CHN" region="110" tailformat="B-\\d4" />
-  <country name="Russia"  shortname="RUS" region="106" tailformat="RA-\\d5" />
-  <country name="Portugal" shortname="POR"  region="107" tailformat="CR-\\s3" />
-  <country name="Bahrain" shortname="BAH"  region="111" tailformat="A9C-\\s3" />
-  <country name="India" shortname="IND"  region="110" tailformat="VT-\\s3" />
-  <country name="Sri Lanka" shortname="SRL"  region="110" tailformat="4R-\\s3" />
-  <country name="Cyprus" shortname="CYP"  region="107" tailformat="5B-\\s3" />
-  <country name="Egypt" shortname="EGY"  region="109" tailformat="SU-\\s3" />
-  <country name="United Arab Emirates" shortname="UAE"  region="111" tailformat="A6-\\s3" />
-  <country name="Mexico" shortname="MEX"  region="103" tailformat="XA-\\s3" />
-  <country name="South Africa"  shortname="RSA" region="109" tailformat="ZS-\\s3" />
-  <country name="Hungary" shortname="HUN"  region="106" tailformat="HA-\\s3" />
-  <country name="Chile" shortname="CHI"  region="101" tailformat="CC-\\s3" />
-  <country name="Turkey"  shortname="TUR" region="107" tailformat="TC-\\s3" />
-  <country name="Indonesia" shortname="IDN"  region="110" tailformat="PK-\\s3" />
-  <country name="Germany"  shortname="GER" region="108" tailformat="D-\\s4" />
-  <country name="Switzerland" shortname="SWZ"  region="107" tailformat="HB-\\s3" />
-  <country name="South Korea"  shortname="SK" region="110" tailformat="HL-\\d4" />
-  <country name="Czech Republic"  shortname="CZ" region="106" tailformat="OK-\\s3" />
-  <country name="Finland"  shortname="FIN" region="113" tailformat="OH-\\s3" />
-  <country name="Sweden"  shortname="SWE" region="113" tailformat="SE-\\s3" />
-  <country name="Austria" shortname="AUT"  region="107" tailformat="OE-\\s3" />
-  <country name="Vietnam" shortname="VN"  region="110" tailformat="VN-\\s4" />
-  <country name="Japan" shortname="JAP"  region="110" tailformat="JA-\\d4" />
-  <country name="Taiwan"  shortname="TAI" region="110" tailformat="B-\\d5" />
-  <country name="Malaysia"  shortname="MAL" region="110" tailformat="9M-\\s3" />
-  <country name="Singapore"  shortname="SIN" region="110" tailformat="9V-\\s3" />
-  <country name="Thailand" shortname="THA"  region="110" tailformat="HS-\\s3" />
-  <country name="Hong Kong"  shortname="HK" region="110" tailformat="B-\\s3" />
-  <country name="Iran" shortname="IRA"  region="111" tailformat="EP-\\d3" />
-  <country name="Oman" shortname="OM"  region="111" tailformat="A4O-\\s2" />
-  <country name="Netherlands" shortname="NED"  region="108" tailformat="PH-\\s3" />
-  <country name="Qatar" shortname="QAT"  region="111" tailformat="A7-\\s3" />
-  <country name="Puerto Rico"  shortname="PUR" region="103" tailformat="PUER-\\d3" />
-  <country name="Peru"  shortname="PER" region="101" tailformat="OB-\\s4" />
-  <country name="Colombia"  shortname="COL" region="101" tailformat="HK-\\d4" />
-  <country name="Venezuela" shortname="VEN"  region="101" tailformat="YV-\\s4" />
-  <country name="Bulgaria" shortname="BUL"  region="106" tailformat="LZ-\\s3" />
-  <country name="New Zealand" shortname="NZ"  region="105" tailformat="ZK-\s3" />
-  <country name="Benin" shortname="BEN"  region="109" tailformat="TY-\s3" />
-  <country name="Togo" shortname="TOG"  region="109" tailformat="5V-\s3" />
-  <country name="Ghana" shortname="GHA"  region="109" tailformat="9G-\s3" />
-  <country name="Burkina Faso" shortname="BF"  region="109" tailformat="XT-\s3" />
-  <country name="Panama" shortname="PA"  region="103" tailformat="HP-\d4" />
-  <country name="Costa Rica" shortname="CR"  region="103" tailformat="TI-\s3" />
-  <country name="El Salvador" shortname="SV"  region="103" tailformat="YS-\s3" />
-  <country name="Guatemala" shortname="GT"  region="103" tailformat="TG-\s3" />
-  <country name="Nicaragua" shortname="NI"  region="103" tailformat="YN-\s3" />
-  <country name="Honduras" shortname="HN"  region="103" tailformat="HR-\s3" />
-  <country name="Belize" shortname="BZ"  region="103" tailformat="V3-\s3" />
-  <country name="Cuba" shortname="CU"  region="104" tailformat="CU-\s3" />
-  <country name="Jamaica" shortname="JAM"  region="104" tailformat="6Y-\s3" />
-  <country name="Bermuda" shortname="BER"  region="102" tailformat="VQ-B\s2" />
-  <country name="Gibraltar" shortname="GIB"  region="107" tailformat="VP-G\s2" />
-  <country name="Pakistan" shortname="PAK"  region="110" tailformat="AP-\s3" />
-  <country name="Bahamas" shortname="BAS" region="104" tailformat="C6-\s3" />
-  <country name="Virgin Islands US" shortname="VIU" region="104" tailformat="N-\d3" />
-  <country name="Trinidad &amp; Tobago" shortname="TRN"  region="104" tailformat="9Y-\\s3" />
+  <country uid="100" shortname="---" region="100" flag="United Nations" tailformat="">
+    <translations>
+			<en-US name="All countries" />
+			<de-DE name="Alle Länder" />
+			<en-GB name="All countries" />
+    </translations>
+  </country>
+  <country uid="101" shortname="SEN" region="109" flag="Senegal" tailformat="6V-\\s3">
+    <translations>
+			<en-US name="Senegal" />
+			<de-DE name="Senegal" />
+			<en-GB name="Senegal" />
+    </translations>
+  </country>
+  <country uid="102" shortname="LAT" region="106" flag="Latvia" tailformat="YL-\\s3">
+    <translations>
+			<en-US name="Latvia" />
+			<de-DE name="Lettland" />
+			<en-GB name="Latvia" />
+    </translations>
+  </country>
+  <country uid="103" shortname="LIT" region="106" flag="Lithuania" tailformat="LY-\\s3">
+    <translations>
+			<en-US name="Lithuania" />
+			<de-DE name="Litauen" />
+			<en-GB name="Lithuania" />
+    </translations>
+  </country>
+  <country uid="104" shortname="SRB" region="106" flag="Serbia" tailformat="YU-\\s3">
+    <translations>
+			<en-US name="Serbia" />
+			<de-DE name="Serbien" />
+			<en-GB name="Serbia" />
+    </translations>
+  </country>
+  <country uid="105" shortname="SLO" region="106" flag="Slovenia" tailformat="S5-\\s3">
+    <translations>
+			<en-US name="Slovenia" />
+			<de-DE name="Slovenien" />
+			<en-GB name="Slovenia" />
+    </translations>
+  </country>
+  <country uid="106" shortname="ARG" region="101" flag="Argentina" tailformat="LV-\\s3">
+    <translations>
+			<en-US name="Argentina" />
+			<de-DE name="Argentinien" />
+			<en-GB name="Argentina" />
+    </translations>
+  </country>
+  <country uid="107" shortname="BEL" region="108" flag="Belgium" tailformat="OO-\\s3">
+    <translations>
+			<en-US name="Belgium" />
+			<de-DE name="Belgien" />
+			<en-GB name="Belgium" />
+    </translations>
+  </country>
+  <country uid="108" shortname="SLC" region="104" flag="St. Lucia Island" tailformat="J6-\\s3">
+    <translations>
+			<en-US name="St. Lucia Island" />
+			<de-DE name="St. Lucia Inseln" />
+			<en-GB name="St. Lucia Island" />
+    </translations>
+  </country>
+  <country uid="109" shortname="ANT" region="104" flag="Antilles" tailformat="VP-\\s3">
+    <translations>
+			<en-US name="Antilles" />
+			<de-DE name="Antillen" />
+			<en-GB name="Antilles" />
+    </translations>
+  </country>
+  <country uid="110" shortname="DEN" region="113" flag="Denmark" tailformat="OY-\\s4">
+    <translations>
+			<en-US name="Denmark" />
+			<de-DE name="Dänemark" />
+			<en-GB name="Denmark" />
+    </translations>
+  </country>
+  <country uid="111" shortname="GRL" region="113" flag="Greenland" tailformat="OY-\\s3">
+    <translations>
+			<en-US name="Greenland" />
+			<de-DE name="Grönland" />
+			<en-GB name="Greenland" />
+    </translations>
+  </country>
+  <country uid="112" shortname="FO" region="113" flag="Faroe Islands" tailformat="OY-\\d4">
+    <translations>
+			<en-US name="Faroe Islands" />
+			<de-DE name="Färöer-Inseln" />
+			<en-GB name="Faroe Islands" />
+    </translations>
+  </country>
+  <country uid="113" shortname="CAN" region="102" flag="Canada" tailformat="CF-\\s3">
+    <translations>
+			<en-US name="Canada" />
+			<de-DE name="Kanada" />
+			<en-GB name="Canada" />
+    </translations>
+  </country>
+  <country uid="114" shortname="FJ" region="105" flag="Fiji" tailformat="DQ-\\s3">
+    <translations>
+			<en-US name="Fiji" />
+			<de-DE name="Fidschi" />
+			<en-GB name="Fiji" />
+    </translations>
+  </country>
+  <country uid="115" shortname="KIR" region="105" flag="Kiribati" tailformat="T3-\\s3">
+    <translations>
+			<en-US name="Kiribati" />
+			<de-DE name="Kiribati" />
+			<en-GB name="Kiribati" />
+    </translations>
+  </country>
+  <country uid="116" shortname="AUS" region="105" flag="Australia" tailformat="VH-\\s3">
+    <translations>
+			<en-US name="Australia" />
+			<de-DE name="Australien" />
+			<en-GB name="Australia" />
+    </translations>
+  </country>
+  <country uid="117" shortname="EST" region="106" flag="Estonia" tailformat="ES-\\s3">
+    <translations>
+			<en-US name="Estonia" />
+			<de-DE name="Estland" />
+			<en-GB name="Estonia" />
+    </translations>
+  </country>
+  <country uid="118" shortname="GRE" region="107" flag="Greece" tailformat="SX-\\s3">
+    <translations>
+			<en-US name="Greece" />
+			<de-DE name="Griechenland" />
+			<en-GB name="Greece" />
+    </translations>
+  </country>
+  <country uid="119" shortname="LUX" region="108" flag="Luxembourg" tailformat="LX-\\s3">
+    <translations>
+			<en-US name="Luxembourg" />
+			<de-DE name="Luxemburg" />
+			<en-GB name="Luxembourg" />
+    </translations>
+  </country>
+  <country uid="120" shortname="CRO" region="106" flag="Croatia" tailformat="9A-\\s3">
+    <translations>
+			<en-US name="Croatia" />
+			<de-DE name="Kroatien" />
+			<en-GB name="Croatia" />
+    </translations>
+  </country>
+  <country uid="121" shortname="ICE" region="113" flag="Iceland" tailformat="TF-\\s3">
+    <translations>
+			<en-US name="Iceland" />
+			<de-DE name="Island" />
+			<en-GB name="Iceland" />
+    </translations>
+  </country>
+  <country uid="122" shortname="USA" region="102" flag="United States" tailformat="N-\\d4">
+    <translations>
+			<en-US name="United States" />
+			<de-DE name="Vereinigte Staaten" />
+			<en-GB name="United States" />
+    </translations>
+  </country>
+  <country uid="123" shortname="ESP" region="107" flag="Spain" tailformat="EC-\\s3">
+    <translations>
+			<en-US name="Spain" />
+			<de-DE name="Spanien" />
+			<en-GB name="Spain" />
+    </translations>
+  </country>
+  <country uid="124" shortname="ETH" region="109" flag="Ethiopia" tailformat="ET-\\s3">
+    <translations>
+			<en-US name="Ethiopia" />
+			<de-DE name="Äthiopien" />
+			<en-GB name="Ethiopia" />
+    </translations>
+  </country>
+  <country uid="125" shortname="LIB" region="109" flag="Libya" tailformat="5A-\\s3">
+    <translations>
+			<en-US name="Libya" />
+			<de-DE name="Libyen" />
+			<en-GB name="Libya" />
+    </translations>
+  </country>
+  <country uid="126" shortname="KW" region="111" flag="Kuwait" tailformat="9K-\\s3">
+    <translations>
+			<en-US name="Kuwait" />
+			<de-DE name="Kuweit" />
+			<en-GB name="Kuwait" />
+    </translations>
+  </country>
+  <country uid="127" shortname="IQ" region="111" flag="Iraq" tailformat="Y1-\\s3">
+    <translations>
+			<en-US name="Iraq" />
+			<de-DE name="Irak" />
+			<en-GB name="Iraq" />
+    </translations>
+  </country>
+  <country uid="128" shortname="ISR" region="111" flag="Israel" tailformat="4X-\\s3">
+    <translations>
+			<en-US name="Israel" />
+			<de-DE name="Israel" />
+			<en-GB name="Israel" />
+    </translations>
+  </country>
+  <country uid="129" shortname="LEB" region="111" flag="Lebanon" tailformat="OD-\\s3">
+    <translations>
+			<en-US name="Lebanon" />
+			<de-DE name="Libanon" />
+			<en-GB name="Lebanon" />
+    </translations>
+  </country>
+  <country uid="130" shortname="UK" region="112" flag="United Kingdom" tailformat="G-\\s4">
+    <translations>
+			<en-US name="United Kingdom" />
+			<de-DE name="Vereinigtes Königreich" />
+			<en-GB name="United Kingdom" />
+    </translations>
+  </country>
+  <country uid="131" shortname="PHI" region="110" flag="Philippines" tailformat="RPC-\\s4">
+    <translations>
+			<en-US name="Philippines" />
+			<de-DE name="Philippinen" />
+			<en-GB name="Philippines" />
+    </translations>
+  </country>
+  <country uid="132" shortname="MLT" region="107" flag="Malta" tailformat="9H-\\s3">
+    <translations>
+			<en-US name="Malta" />
+			<de-DE name="Malta" />
+			<en-GB name="Malta" />
+    </translations>
+  </country>
+  <country uid="133" shortname="MOR" region="109" flag="Morocco" tailformat="CN-\\s3">
+    <translations>
+			<en-US name="Morocco" />
+			<de-DE name="Marokko" />
+			<en-GB name="Morocco" />
+    </translations>
+  </country>
+  <country uid="134" shortname="UKR" region="106" flag="Ukraine" tailformat="UR-\\s3">
+    <translations>
+			<en-US name="Ukraine" />
+			<de-DE name="Ukraine" />
+			<en-GB name="Ukraine" />
+    </translations>
+  </country>
+  <country uid="135" shortname="POL" region="106" flag="Poland" tailformat="SP-\\s3">
+    <translations>
+			<en-US name="Poland" />
+			<de-DE name="Polen" />
+			<en-GB name="Poland" />
+    </translations>
+  </country>
+  <country uid="136" shortname="SA" region="111" flag="Saudi Arabia" tailformat="HZ-\\s3">
+    <translations>
+			<en-US name="Saudi Arabia" />
+			<de-DE name="Saudi-Arabien" />
+			<en-GB name="Saudi Arabia" />
+    </translations>
+  </country>
+  <country uid="137" shortname="IRE" region="112" flag="Ireland" tailformat="EI-\\s3">
+    <translations>
+			<en-US name="Ireland" />
+			<de-DE name="Irland" />
+			<en-GB name="Ireland" />
+    </translations>
+  </country>
+  <country uid="138" shortname="BRA" region="101" flag="Brazil" tailformat="PP-\\s3">
+    <translations>
+			<en-US name="Brazil" />
+			<de-DE name="Brasilien" />
+			<en-GB name="Brazil" />
+    </translations>
+  </country>
+  <country uid="139" shortname="NOR" region="113" flag="Norway" tailformat="LN-\\s3">
+    <translations>
+			<en-US name="Norway" />
+			<de-DE name="Norwegen" />
+			<en-GB name="Norway" />
+    </translations>
+  </country>
+  <country uid="140" shortname="FRA" region="108" flag="France" tailformat="F-\\s4">
+    <translations>
+			<en-US name="France" />
+			<de-DE name="Frankreich" />
+			<en-GB name="France" />
+    </translations>
+  </country>
+  <country uid="141" shortname="ITA" region="107" flag="Italy" tailformat="I-\\s4">
+    <translations>
+			<en-US name="Italy" />
+			<de-DE name="Italien" />
+			<en-GB name="Italy" />
+    </translations>
+  </country>
+  <country uid="142" shortname="ALG" region="109" flag="Algeria" tailformat="7T-\\s3">
+    <translations>
+			<en-US name="Algeria" />
+			<de-DE name="Algerien" />
+			<en-GB name="Algeria" />
+    </translations>
+  </country>
+  <country uid="143" shortname="REU" region="109" flag="Reunion" tailformat="F-\\d5">
+    <translations>
+			<en-US name="Reunion" />
+			<de-DE name="Réunion" />
+			<en-GB name="Reunion" />
+    </translations>
+  </country>
+  <country uid="144" shortname="TUN" region="109" flag="Tunisia" tailformat="TS-\\s3">
+    <translations>
+			<en-US name="Tunisia" />
+			<de-DE name="Tunesien" />
+			<en-GB name="Tunisia" />
+    </translations>
+  </country>
+  <country uid="145" shortname="NIG" region="109" flag="Nigeria" tailformat="5N-\\s3">
+    <translations>
+			<en-US name="Nigeria" />
+			<de-DE name="Nigeria" />
+			<en-GB name="Nigeria" />
+    </translations>
+  </country>
+  <country uid="146" shortname="KEN" region="109" flag="Kenya" tailformat="5Y-\\s3">
+    <translations>
+			<en-US name="Kenya" />
+			<de-DE name="Kenia" />
+			<en-GB name="Kenya" />
+    </translations>
+  </country>
+  <country uid="147" shortname="ROM" region="106" flag="Romania" tailformat="YR-\\s3">
+    <translations>
+			<en-US name="Romania" />
+			<de-DE name="Rumänien" />
+			<en-GB name="Romania" />
+    </translations>
+  </country>
+  <country uid="148" shortname="CHN" region="110" flag="China" tailformat="B-\\d4">
+    <translations>
+			<en-US name="China" />
+			<de-DE name="China" />
+			<en-GB name="China" />
+    </translations>
+  </country>
+  <country uid="149" shortname="RUS" region="106" flag="Russia" tailformat="RA-\\d5">
+    <translations>
+			<en-US name="Russia" />
+			<de-DE name="Russland" />
+			<en-GB name="Russia" />
+    </translations>
+  </country>
+  <country uid="150" shortname="POR" region="107" flag="Portugal" tailformat="CR-\\s3">
+    <translations>
+			<en-US name="Portugal" />
+			<de-DE name="Portugal" />
+			<en-GB name="Portugal" />
+    </translations>
+  </country>
+  <country uid="151" shortname="BAH" region="111" flag="Bahrain" tailformat="A9C-\\s3">
+    <translations>
+			<en-US name="Bahrain" />
+			<de-DE name="Bahrain" />
+			<en-GB name="Bahrain" />
+    </translations>
+  </country>
+  <country uid="152" shortname="IND" region="110" flag="India" tailformat="VT-\\s3">
+    <translations>
+			<en-US name="India" />
+			<de-DE name="Indien" />
+			<en-GB name="India" />
+    </translations>
+  </country>
+  <country uid="153" shortname="SRL" region="110" flag="Sri Lanka" tailformat="4R-\\s3">
+    <translations>
+			<en-US name="Sri Lanka" />
+			<de-DE name="Sri Lanka" />
+			<en-GB name="Sri Lanka" />
+    </translations>
+  </country>
+  <country uid="154" shortname="CYP" region="107" flag="Cyprus" tailformat="5B-\\s3">
+    <translations>
+			<en-US name="Cyprus" />
+			<de-DE name="Zypern" />
+			<en-GB name="Cyprus" />
+    </translations>
+  </country>
+  <country uid="155" shortname="EGY" region="109" flag="Egypt" tailformat="SU-\\s3">
+    <translations>
+			<en-US name="Egypt" />
+			<de-DE name="Ägypten" />
+			<en-GB name="Egypt" />
+    </translations>
+  </country>
+  <country uid="156" shortname="UAE" region="111" flag="United Arab Emirates" tailformat="A6-\\s3">
+    <translations>
+			<en-US name="United Arab Emirates" />
+			<de-DE name="Vereinigte Arabische Emirate" />
+			<en-GB name="United Arab Emirates" />
+    </translations>
+  </country>
+  <country uid="157" shortname="MEX" region="103" flag="Mexico" tailformat="XA-\\s3">
+    <translations>
+			<en-US name="Mexico" />
+			<de-DE name="Mexiko" />
+			<en-GB name="Mexico" />
+    </translations>
+  </country>
+  <country uid="158" shortname="RSA" region="109" flag="South Africa" tailformat="ZS-\\s3">
+    <translations>
+			<en-US name="South Africa" />
+			<de-DE name="Südafrika" />
+			<en-GB name="South Africa" />
+    </translations>
+  </country>
+  <country uid="159" shortname="HUN" region="106" flag="Hungary" tailformat="HA-\\s3">
+    <translations>
+			<en-US name="Hungary" />
+			<de-DE name="Ungarn" />
+			<en-GB name="Hungary" />
+    </translations>
+  </country>
+  <country uid="160" shortname="CHI" region="101" flag="Chile" tailformat="CC-\\s3">
+    <translations>
+			<en-US name="Chile" />
+			<de-DE name="Chile" />
+			<en-GB name="Chile" />
+    </translations>
+  </country>
+  <country uid="161" shortname="TUR" region="107" flag="Turkey" tailformat="TC-\\s3">
+    <translations>
+			<en-US name="Turkey" />
+			<de-DE name="Türkei" />
+			<en-GB name="Turkey" />
+    </translations>
+  </country>
+  <country uid="162" shortname="IDN" region="110" flag="Indonesia" tailformat="PK-\\s3">
+    <translations>
+			<en-US name="Indonesia" />
+			<de-DE name="Indonesien" />
+			<en-GB name="Indonesia" />
+    </translations>
+  </country>
+  <country uid="163" shortname="GER" region="108" flag="Germany" tailformat="D-\\s4">
+    <translations>
+			<en-US name="Germany" />
+			<de-DE name="Deutschland" />
+			<en-GB name="Germany" />
+    </translations>
+  </country>
+  <country uid="164" shortname="SWZ" region="107" flag="Switzerland" tailformat="HB-\\s3">
+    <translations>
+			<en-US name="Switzerland" />
+			<de-DE name="Schweiz" />
+			<en-GB name="Switzerland" />
+    </translations>
+  </country>
+  <country uid="165" shortname="SK" region="110" flag="South Korea" tailformat="HL-\\d4">
+    <translations>
+			<en-US name="South Korea" />
+			<de-DE name="Südkorea" />
+			<en-GB name="South Korea" />
+    </translations>
+  </country>
+  <country uid="166" shortname="CZ" region="106" flag="Czech Republic" tailformat="OK-\\s3">
+    <translations>
+			<en-US name="Czech Republic" />
+			<de-DE name="Tschechische Republik" />
+			<en-GB name="Czech Republic" />
+    </translations>
+  </country>
+  <country uid="167" shortname="FIN" region="113" flag="Finland" tailformat="OH-\\s3">
+    <translations>
+			<en-US name="Finland" />
+			<de-DE name="Finnland" />
+			<en-GB name="Finland" />
+    </translations>
+  </country>
+  <country uid="168" shortname="SWE" region="113" flag="Sweden" tailformat="SE-\\s3">
+    <translations>
+			<en-US name="Sweden" />
+			<de-DE name="Schweden" />
+			<en-GB name="Sweden" />
+    </translations>
+  </country>
+  <country uid="169" shortname="AUT" region="107" flag="Austria" tailformat="OE-\\s3">
+    <translations>
+			<en-US name="Austria" />
+			<de-DE name="Österreich" />
+			<en-GB name="Austria" />
+    </translations>
+  </country>
+  <country uid="170" shortname="VN" region="110" flag="Vietnam" tailformat="VN-\\s4">
+    <translations>
+			<en-US name="Vietnam" />
+			<de-DE name="Vietnam" />
+			<en-GB name="Vietnam" />
+    </translations>
+  </country>
+  <country uid="171" shortname="JAP" region="110" flag="Japan" tailformat="JA-\\d4">
+    <translations>
+			<en-US name="Japan" />
+			<de-DE name="Japan" />
+			<en-GB name="Japan" />
+    </translations>
+  </country>
+  <country uid="172" shortname="TAI" region="110" flag="Taiwan" tailformat="B-\\d5">
+    <translations>
+			<en-US name="Taiwan" />
+			<de-DE name="Taiwan" />
+			<en-GB name="Taiwan" />
+    </translations>
+  </country>
+  <country uid="173" shortname="MAL" region="110" flag="Malaysia" tailformat="9M-\\s3">
+    <translations>
+			<en-US name="Malaysia" />
+			<de-DE name="Malaysia" />
+			<en-GB name="Malaysia" />
+    </translations>
+  </country>
+  <country uid="174" shortname="SIN" region="110" flag="Singapore" tailformat="9V-\\s3">
+    <translations>
+			<en-US name="Singapore" />
+			<de-DE name="Singapur" />
+			<en-GB name="Singapore" />
+    </translations>
+  </country>
+  <country uid="175" shortname="THA" region="110" flag="Thailand" tailformat="HS-\\s3">
+    <translations>
+			<en-US name="Thailand" />
+			<de-DE name="Thailand" />
+			<en-GB name="Thailand" />
+    </translations>
+  </country>
+  <country uid="176" shortname="HK" region="110" flag="Hong Kong" tailformat="B-\\s3">
+    <translations>
+			<en-US name="Hong Kong" />
+			<de-DE name="Hong Kong" />
+			<en-GB name="Hong Kong" />
+    </translations>
+  </country>
+  <country uid="177" shortname="IRA" region="111" flag="Iran" tailformat="EP-\\d3">
+    <translations>
+			<en-US name="Iran" />
+			<de-DE name="Iran" />
+			<en-GB name="Iran" />
+    </translations>
+  </country>
+  <country uid="178" shortname="OM" region="111" flag="Oman" tailformat="A4O-\\s2">
+    <translations>
+			<en-US name="Oman" />
+			<de-DE name="Oman" />
+			<en-GB name="Oman" />
+    </translations>
+  </country>
+  <country uid="179" shortname="NED" region="108" flag="Netherlands" tailformat="PH-\\s3">
+    <translations>
+			<en-US name="Netherlands" />
+			<de-DE name="Niederlande" />
+			<en-GB name="Netherlands" />
+    </translations>
+  </country>
+  <country uid="180" shortname="QAT" region="111" flag="Qatar" tailformat="A7-\\s3">
+    <translations>
+			<en-US name="Qatar" />
+			<de-DE name="Katar" />
+			<en-GB name="Qatar" />
+    </translations>
+  </country>
+  <country uid="181" shortname="PUR" region="103" flag="Puerto Rico" tailformat="PUER-\\d3">
+    <translations>
+			<en-US name="Puerto Rico" />
+			<de-DE name="Puerto Rico" />
+			<en-GB name="Puerto Rico" />
+    </translations>
+  </country>
+  <country uid="182" shortname="PER" region="101" flag="Peru" tailformat="OB-\\s4">
+    <translations>
+			<en-US name="Peru" />
+			<de-DE name="Peru" />
+			<en-GB name="Peru" />
+    </translations>
+  </country>
+  <country uid="183" shortname="COL" region="101" flag="Colombia" tailformat="HK-\\d4">
+    <translations>
+			<en-US name="Colombia" />
+			<de-DE name="Kolumbien" />
+			<en-GB name="Colombia" />
+    </translations>
+  </country>
+  <country uid="184" shortname="VEN" region="101" flag="Venezuela" tailformat="YV-\\s4">
+    <translations>
+			<en-US name="Venezuela" />
+			<de-DE name="Venezuela" />
+			<en-GB name="Venezuela" />
+    </translations>
+  </country>
+  <country uid="185" shortname="BUL" region="106" flag="Bulgaria" tailformat="LZ-\\s3">
+    <translations>
+			<en-US name="Bulgaria" />
+			<de-DE name="Bulgarien" />
+			<en-GB name="Bulgaria" />
+    </translations>
+  </country>
+  <country uid="186" shortname="NZ" region="105" flag="New Zealand" tailformat="ZK-\s3">
+    <translations>
+			<en-US name="New Zealand" />
+			<de-DE name="Neuseeland" />
+			<en-GB name="New Zealand" />
+    </translations>
+  </country>
+  <country uid="187" shortname="BEN" region="109" flag="Benin" tailformat="TY-\s3">
+    <translations>
+			<en-US name="Benin" />
+			<de-DE name="Benin" />
+			<en-GB name="Benin" />
+    </translations>
+  </country>
+  <country uid="188" shortname="TOG" region="109" flag="Togo" tailformat="5V-\s3">
+    <translations>
+			<en-US name="Togo" />
+			<de-DE name="Togo" />
+			<en-GB name="Togo" />
+    </translations>
+  </country>
+  <country uid="189" shortname="GHA" region="109" flag="Ghana" tailformat="9G-\s3">
+    <translations>
+			<en-US name="Ghana" />
+			<de-DE name="Ghana" />
+			<en-GB name="Ghana" />
+    </translations>
+  </country>
+  <country uid="190" shortname="BF" region="109" flag="Burkina Faso" tailformat="XT-\s3">
+    <translations>
+			<en-US name="Burkina Faso" />
+			<de-DE name="Burkina Faso" />
+			<en-GB name="Burkina Faso" />
+    </translations>
+  </country>
+  <country uid="191" shortname="PA" region="103" flag="Panama" tailformat="HP-\d4">
+    <translations>
+			<en-US name="Panama" />
+			<de-DE name="Panama" />
+			<en-GB name="Panama" />
+    </translations>
+  </country>
+  <country uid="192" shortname="CR" region="103" flag="Costa Rica" tailformat="TI-\s3">
+    <translations>
+			<en-US name="Costa Rica" />
+			<de-DE name="Costa Rica" />
+			<en-GB name="Costa Rica" />
+    </translations>
+  </country>
+  <country uid="193" shortname="SV" region="103" flag="El Salvador" tailformat="YS-\s3">
+    <translations>
+			<en-US name="El Salvador" />
+			<de-DE name="El Salvador" />
+			<en-GB name="El Salvador" />
+    </translations>
+  </country>
+  <country uid="194" shortname="GT" region="103" flag="Guatemala" tailformat="TG-\s3">
+    <translations>
+			<en-US name="Guatemala" />
+			<de-DE name="Guatemala" />
+			<en-GB name="Guatemala" />
+    </translations>
+  </country>
+  <country uid="195" shortname="NI" region="103" flag="Nicaragua" tailformat="YN-\s3">
+    <translations>
+			<en-US name="Nicaragua" />
+			<de-DE name="Nicaragua" />
+			<en-GB name="Nicaragua" />
+    </translations>
+  </country>
+  <country uid="196" shortname="HN" region="103" flag="Honduras" tailformat="HR-\s3">
+    <translations>
+			<en-US name="Honduras" />
+			<de-DE name="Honduras" />
+			<en-GB name="Honduras" />
+    </translations>
+  </country>
+  <country uid="197" shortname="BZ" region="103" flag="Belize" tailformat="V3-\s3">
+    <translations>
+			<en-US name="Belize" />
+			<de-DE name="Belize" />
+			<en-GB name="Belize" />
+    </translations>
+  </country>
+  <country uid="198" shortname="CU" region="104" flag="Cuba" tailformat="CU-\s3">
+    <translations>
+			<en-US name="Cuba" />
+			<de-DE name="Kuba" />
+			<en-GB name="Cuba" />
+    </translations>
+  </country>
+  <country uid="199" shortname="JAM" region="104" flag="Jamaica" tailformat="6Y-\s3">
+    <translations>
+			<en-US name="Jamaica" />
+			<de-DE name="Jamaika" />
+			<en-GB name="Jamaica" />
+    </translations>
+  </country>
+  <country uid="200" shortname="BER" region="102" flag="Bermuda" tailformat="VQ-B\s2">
+    <translations>
+			<en-US name="Bermuda" />
+			<de-DE name="Bermuda" />
+			<en-GB name="Bermuda" />
+    </translations>
+  </country>
+  <country uid="201" shortname="GIB" region="107" flag="Gibraltar" tailformat="VP-G\s2">
+    <translations>
+			<en-US name="Gibraltar" />
+			<de-DE name="Gibraltar" />
+			<en-GB name="Gibraltar" />
+    </translations>
+  </country>
+  <country uid="202" shortname="PAK" region="110" flag="Pakistan" tailformat="AP-\s3">
+    <translations>
+			<en-US name="Pakistan" />
+			<de-DE name="Pakistan" />
+			<en-GB name="Pakistan" />
+    </translations>
+  </country>
+  <country uid="203" shortname="BAS" region="104" flag="Bahamas" tailformat="C6-\s3">
+    <translations>
+			<en-US name="Bahamas" />
+			<de-DE name="Bahamas" />
+			<en-GB name="Bahamas" />
+    </translations>
+  </country>
+  <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\d3">
+    <translations>
+			<en-US name="Virgin Islands US" />
+			<de-DE name="US-Jungferninseln" />
+			<en-GB name="Virgin Islands US" />
+    </translations>
+  </country>
+  <country uid="205" shortname="TRN" region="104" flag="Trinidad &amp; Tobago" tailformat="9Y-\\s3">
+    <translations>
+			<en-US name="Trinidad &amp; Tobago" />
+			<de-DE name="Trinidad &amp; Tobago" />
+			<en-GB name="Trinidad &amp; Tobago" />
+    </translations>
+  </country>
+  <country uid="206" shortname="MU" region="109" flag="Mauritius" tailformat="3B-\\s3">
+    <translations>
+			<en-US name="Mauritius" />
+			<de-DE name="Mauritius" />
+			<en-GB name="Mauritius" />
+    </translations>
+  </country>
 </countries>

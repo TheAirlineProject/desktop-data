@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airports>
   <airport name="Tocumen International Airport" iata="PTY" type="International">
-    <town town="Panama City" country="Panama" GMT="-05:00:00" DST="-05:00:00" />
+    <town town="Panama City" country="191" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="009°04'17''N" />
       <longitude value="079°23'01''W" />
@@ -10,7 +10,7 @@
     <gates value="28" />
   </airport>
   <airport name="Odense Airport" iata="ODE" type="Domestic">
-    <town town="Odense" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Odense" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="055°28'36''N" />
       <longitude value="010°19'51''E" />
@@ -19,7 +19,7 @@
     <gates value="2" />
   </airport>
   <airport name="Sonderborg Airport" iata="SGD" type="Domestic">
-    <town town="Sonderborg" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Sonderborg" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="054°57'52''N" />
       <longitude value="009°47'30''E" />
@@ -28,7 +28,7 @@
     <gates value="2" />
   </airport>
   <airport name="W. A. Mozart Airport" iata="SZG" type="Regional">
-    <town town="Salzburg" country="Austria" GMT="02:00:00" DST="01:00:00" />
+    <town town="Salzburg" country="169" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="047°47'40''N" />
       <longitude value="013°00'12''E" />
@@ -37,7 +37,7 @@
     <gates value="2" />
   </airport>
   <airport name="Brussels South Charleroi Airport" iata="CRL" type="International">
-    <town town="Gosselies" country="Belgium" GMT="01:00:00" DST="01:00:00" />
+    <town town="Gosselies" country="107" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="005°02'45''N" />
       <longitude value="004°27'13''E" />
@@ -46,7 +46,7 @@
     <gates value="12" />
   </airport>
   <airport name="Comodoro Rivadavia" iata="CRD" type="Domestic">
-    <town town="Comodoro Rivadavia" country="Argentina" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Comodoro Rivadavia" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="045°47'06''S" />
       <longitude value="067°27'56''W" />
@@ -55,7 +55,7 @@
     <gates value="2" />
   </airport>
   <airport name="Liege Airport" iata="LGG" type="International">
-    <town town="Liege" country="Belgium" GMT="02:00:00" DST="01:00:00" />
+    <town town="Liege" country="107" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°38'14''N" />
       <longitude value="005°26'35''E" />
@@ -64,7 +64,7 @@
     <gates value="2" />
   </airport>
   <airport name="George F L Charles" iata="SLU" type="Regional">
-    <town town="Castries" country="St. Lucia Island" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Castries" country="108" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="014°01'12''N" />
       <longitude value="060°59'34''W" />
@@ -73,7 +73,7 @@
     <gates value="2" />
   </airport>
   <airport name="Hewanorra International" iata="UVF" type="International">
-    <town town="Hewandorra" country="St. Lucia Island" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Hewandorra" country="108" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="013°43'59''N" />
       <longitude value="060°57'09''W" />
@@ -82,7 +82,7 @@
     <gates value="2" />
   </airport>
   <airport name="Flamingo" iata="BON" type="Regional">
-    <town town="Kralendijk" country="Antilles" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Kralendijk" country="109" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="012°07'51''N" />
       <longitude value="068°16'06''W" />
@@ -91,7 +91,7 @@
     <gates value="2" />
   </airport>
   <airport name="Aarhus Airport" iata="AAR" type="Regional">
-    <town town="Aarhus" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Aarhus" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="056°18'15''N" />
       <longitude value="010°37'10''E" />
@@ -100,7 +100,7 @@
     <gates value="4" />
   </airport>
   <airport name="Aalborg" iata="AAL" type="Regional">
-    <town town="Aalborg" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Aalborg" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="057°05'34''N" />
       <longitude value="009°50'56''E" />
@@ -109,7 +109,7 @@
     <gates value="3" />
   </airport>
   <airport name="Victoria International" iata="YYJ" type="International">
-    <town town="Victoria" country="Canada" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Victoria" country="113" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="048°38'49''N" />
       <longitude value="123°25'33''W" />
@@ -118,7 +118,7 @@
     <gates value="2" />
   </airport>
   <airport name="Nadi International Airport" iata="NAN" type="International">
-    <town town="Hadi" country="Fiji" GMT="12:00:00" DST="13:00:00" />
+    <town town="Hadi" country="114" GMT="12:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="017°45'19''S" />
       <longitude value="177°26'36''E" />
@@ -127,7 +127,7 @@
     <gates value="3" />
   </airport>
   <airport name="Hobart" iata="HBA" type="International">
-    <town town="Hobart" country="Australia" GMT="10:00:00" DST="11:00:00" />
+    <town town="Hobart" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="042°50'10''S" />
       <longitude value="147°30'37''E" />
@@ -136,7 +136,7 @@
     <gates value="3" />
   </airport>
   <airport name="Des Moines International Airport" iata="DSM" type="International">
-    <town town="Des Moines, IA" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Des Moines, IA" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="041°32'02''N" />
       <longitude value="093°39'47''W" />
@@ -145,7 +145,7 @@
     <gates value="12" />
   </airport>
   <airport name="Tallinn" iata="TLL" type="International">
-    <town town="Tallinn-ulemiste International" country="Estonia" GMT="03:00:00" DST="02:00:00" />
+    <town town="Tallinn-ulemiste International" country="117" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="059°24'47''N" />
       <longitude value="024°49'58''E" />
@@ -154,7 +154,7 @@
     <gates value="9" />
   </airport>
   <airport name="Townsville" iata="TSV" type="International">
-    <town town="Townsville" country="Australia" GMT="10:00:00" DST="10:00:00" />
+    <town town="Townsville" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="019°15'09''S" />
       <longitude value="146°45'55''E" />
@@ -163,7 +163,7 @@
     <gates value="3" />
   </airport>
   <airport name="Kos" iata="KGS" type="International">
-    <town town="Kos" country="Greece" GMT="03:00:00" DST="02:00:00" />
+    <town town="Kos" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="036°47'36''N" />
       <longitude value="027°05'30''E" />
@@ -172,7 +172,7 @@
     <gates value="5" />
   </airport>
   <airport name="Findel International Airport" iata="LUX" type="International">
-    <town town="Luxembourg" country="Luxembourg" GMT="02:00:00" DST="01:00:00" />
+    <town town="Luxembourg" country="119" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°37'35''N" />
       <longitude value="006°12'41''E" />
@@ -181,7 +181,7 @@
     <gates value="3" />
   </airport>
   <airport name="Zagreb" iata="ZAG" type="International">
-    <town town="Zagreb" country="Croatia" GMT="02:00:00" DST="01:00:00" />
+    <town town="Zagreb" country="120" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°44'34''N" />
       <longitude value="016°04'07''E" />
@@ -190,7 +190,7 @@
     <gates value="17" />
   </airport>
   <airport name="Keflavik Nas" iata="KEF" type="International">
-    <town town="Keflavik" country="Iceland" GMT="00:00:00" DST="00:00:00" />
+    <town town="Keflavik" country="121" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="063°59'06''N" />
       <longitude value="022°36'20''W" />
@@ -199,7 +199,7 @@
     <gates value="24" />
   </airport>
   <airport name="Tucson International" iata="TUS" type="International">
-    <town town="Tucson, AZ" country="United States" GMT="-07:00:00" DST="-07:00:00" />
+    <town town="Tucson, AZ" country="122" GMT="-07:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="032°06'58''N" />
       <longitude value="110°56'29''W" />
@@ -208,7 +208,7 @@
     <gates value="20" />
   </airport>
   <airport name="Beirut Rafic Hariri International Airport" iata="BEY" type="International">
-    <town town="Beirut" country="Lebanon" GMT="03:00:00" DST="02:00:00" />
+    <town town="Beirut" country="129" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="033°49'16''N" />
       <longitude value="035°29'18''E" />
@@ -217,7 +217,7 @@
     <gates value="46" />
   </airport>
   <airport name="Billund" iata="BLL" type="International">
-    <town town="Billund" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Billund" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="055°44'25''N" />
       <longitude value="009°09'06''E" />
@@ -226,7 +226,7 @@
     <gates value="13" />
   </airport>
   <airport name="Menorca" iata="MAH" type="International">
-    <town town="Menorca" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Menorca" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="039°51'45''N" />
       <longitude value="004°13'07''E" />
@@ -235,7 +235,7 @@
     <gates value="11" />
   </airport>
   <airport name="Bole International" iata="ADD" type="International">
-    <town town="Addis Ababa" country="Ethiopia" GMT="03:00:00" DST="03:00:00" />
+    <town town="Addis Ababa" country="124" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="008°58'37''N" />
       <longitude value="038°48'00''E" />
@@ -244,7 +244,7 @@
     <gates value="11" />
   </airport>
   <airport name="Leeds Bradford" iata="LBA" type="International">
-    <town town="Leeds" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Leeds" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="053°51'57''N" />
       <longitude value="001°39'38''W" />
@@ -253,7 +253,7 @@
     <gates value="10" />
   </airport>
   <airport name="London City" iata="LCY" type="International">
-    <town town="London" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="London" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°30'18''N" />
       <longitude value="000°03'15''E" />
@@ -262,7 +262,7 @@
     <gates value="10" />
   </airport>
   <airport name="Mactan International" iata="NOP" type="International">
-    <town town="Masbate" country="Philippines" GMT="08:00:00" DST="08:00:00" />
+    <town town="Masbate" country="131" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="010°18'27''N" />
       <longitude value="123°58'45''E" />
@@ -271,7 +271,7 @@
     <gates value="6" />
   </airport>
   <airport name="Luqa" iata="MLA" type="International">
-    <town town="Malta" country="Malta" GMT="02:00:00" DST="01:00:00" />
+    <town town="Malta" country="132" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="035°51'26''N" />
       <longitude value="014°28'39''E" />
@@ -280,7 +280,7 @@
     <gates value="10" />
   </airport>
   <airport name="Menara" iata="RAK" type="International">
-    <town town="Marrakech" country="Morocco" GMT="00:00:00" DST="00:00:00" />
+    <town town="Marrakech" country="133" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="031°36'24''N" />
       <longitude value="008°02'10''W" />
@@ -289,7 +289,7 @@
     <gates value="6" />
   </airport>
   <airport name="John Paul II International Airport" iata="KRK" type="International">
-    <town town="Krakow" country="Poland" GMT="02:00:00" DST="01:00:00" />
+    <town town="Krakow" country="135" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°04'39''N" />
       <longitude value="019°47'05''E" />
@@ -298,7 +298,7 @@
     <gates value="6" />
   </airport>
   <airport name="King Fahd International" iata="DMM" type="International">
-    <town town="Dammam" country="Saudi Arabia" GMT="03:00:00" DST="03:00:00" />
+    <town town="Dammam" country="136" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="026°28'16''N" />
       <longitude value="049°47'52''E" />
@@ -307,7 +307,7 @@
     <gates value="31" />
   </airport>
   <airport name="Cork" iata="ORK" type="International">
-    <town town="Cork" country="Ireland" GMT="01:00:00" DST="00:00:00" />
+    <town town="Cork" country="137" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°50'34''N" />
       <longitude value="008°29'31''W" />
@@ -316,7 +316,7 @@
     <gates value="6" />
   </airport>
   <airport name="Santos Dumont" iata="SDU" type="International">
-    <town town="Rio De Janeiro" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Rio De Janeiro" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="022°54'37''S" />
       <longitude value="043°09'47''W" />
@@ -325,7 +325,7 @@
     <gates value="6" />
   </airport>
   <airport name="Canberra" iata="CBR" type="International">
-    <town town="Canberra" country="Australia" GMT="10:00:00" DST="11:00:00" />
+    <town town="Canberra" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="035°18'30''S" />
       <longitude value="149°11'38''E" />
@@ -334,7 +334,7 @@
     <gates value="6" />
   </airport>
   <airport name="Stavanger Sola" iata="SVG" type="International">
-    <town town="Stavanger" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Stavanger" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="058°52'36''N" />
       <longitude value="005°38'16''E" />
@@ -343,7 +343,7 @@
     <gates value="12" />
   </airport>
   <airport name="Trondheim Vaernes" iata="TRD" type="International">
-    <town town="Trondheim" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Trondheim" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="063°27'27''N" />
       <longitude value="010°56'23''E" />
@@ -352,7 +352,7 @@
     <gates value="25" />
   </airport>
   <airport name="Dyce" iata="ABZ" type="International">
-    <town town="Aberdeen" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Aberdeen" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="057°12'15''N" />
       <longitude value="002°12'01''W" />
@@ -361,7 +361,7 @@
     <gates value="11" />
   </airport>
   <airport name="Merignac" iata="BOD" type="International">
-    <town town="Bordeaux" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bordeaux" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="044°49'42''N" />
       <longitude value="000°42'56''W" />
@@ -370,7 +370,7 @@
     <gates value="17" />
   </airport>
   <airport name="Torino" iata="TRN" type="International">
-    <town town="Torino" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Torino" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°12'02''N" />
       <longitude value="007°38'58''E" />
@@ -379,7 +379,7 @@
     <gates value="12" />
   </airport>
   <airport name="Louisville International Airport" iata="SDF" type="International">
-    <town town="Louisville, KY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Louisville, KY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="038°10'28''N" />
       <longitude value="085°44'10''W" />
@@ -388,7 +388,7 @@
     <gates value="7" />
   </airport>
   <airport name="Villafranca" iata="VRN" type="International">
-    <town town="Villafranca" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Villafranca" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°23'44''N" />
       <longitude value="010°53'18''E" />
@@ -397,7 +397,7 @@
     <gates value="7" />
   </airport>
   <airport name="Shannon" iata="SNN" type="International">
-    <town town="Shannon" country="Ireland" GMT="01:00:00" DST="00:00:00" />
+    <town town="Shannon" country="137" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="052°42'07''N" />
       <longitude value="008°55'29''W" />
@@ -406,7 +406,7 @@
     <gates value="16" />
   </airport>
   <airport name="Pisa" iata="PSA" type="International">
-    <town town="Pisa" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Pisa" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°41'02''N" />
       <longitude value="010°23'33''E" />
@@ -415,7 +415,7 @@
     <gates value="7" />
   </airport>
   <airport name="Gold Coast Coolangatta" iata="OOL" type="International">
-    <town town="Coolangatta" country="Australia" GMT="10:00:00" DST="11:00:00" />
+    <town town="Coolangatta" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="028°09'52''S" />
       <longitude value="153°30'17''E" />
@@ -424,7 +424,7 @@
     <gates value="7" />
   </airport>
   <airport name="Cairns International" iata="CNS" type="International">
-    <town town="Cairns" country="Australia" GMT="10:00:00" DST="10:00:00" />
+    <town town="Cairns" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="016°53'09''S" />
       <longitude value="145°45'19''E" />
@@ -433,7 +433,7 @@
     <gates value="7" />
   </airport>
   <airport name="Makedonia" iata="SKG" type="International">
-    <town town="Thessaloniki" country="Greece" GMT="03:00:00" DST="02:00:00" />
+    <town town="Thessaloniki" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="040°31'11''N" />
       <longitude value="022°58'15''E" />
@@ -442,7 +442,7 @@
     <gates value="24" />
   </airport>
   <airport name="Houari Boumediene" iata="ALG" type="International">
-    <town town="Algier" country="Algeria" GMT="01:00:00" DST="01:00:00" />
+    <town town="Algier" country="142" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="036°41'27''N" />
       <longitude value="003°12'55''E" />
@@ -451,7 +451,7 @@
     <gates value="7" />
   </airport>
   <airport name="Carthage" iata="TUN" type="International">
-    <town town="Tunis" country="Tunisia" GMT="01:00:00" DST="01:00:00" />
+    <town town="Tunis" country="144" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="036°51'03''N" />
       <longitude value="010°13'37''E" />
@@ -460,7 +460,7 @@
     <gates value="15" />
   </airport>
   <airport name="Lagos Murtala Muhammed" iata="LOS" type="International">
-    <town town="Lagos" country="Nigeria" GMT="01:00:00" DST="01:00:00" />
+    <town town="Lagos" country="145" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="006°34'38''N" />
       <longitude value="003°19'16''E" />
@@ -469,7 +469,7 @@
     <gates value="7" />
   </airport>
   <airport name="Ottawa Macdonald Cartier International" iata="YOW" type="International">
-    <town town="Ottawa" country="Canada" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Ottawa" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="045°19'21''N" />
       <longitude value="075°40'09''W" />
@@ -478,7 +478,7 @@
     <gates value="8" />
   </airport>
   <airport name="Tenerife Norte" iata="TFN" type="International">
-    <town town="Tenerife" country="Spain" GMT="01:00:00" DST="00:00:00" />
+    <town town="Tenerife" country="123" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="028°28'57''N" />
       <longitude value="016°20'29''W" />
@@ -487,7 +487,7 @@
     <gates value="16" />
   </airport>
   <airport name="Bilbao" iata="BIO" type="International">
-    <town town="Bilbao" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bilbao" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°18'03''N" />
       <longitude value="002°54'38''W" />
@@ -496,7 +496,7 @@
     <gates value="4" />
   </airport>
   <airport name="Habib Bourguiba International" iata="MIR" type="International">
-    <town town="Monastir" country="Tunisia" GMT="01:00:00" DST="01:00:00" />
+    <town town="Monastir" country="144" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="035°45'29''N" />
       <longitude value="010°45'17''E" />
@@ -505,7 +505,7 @@
     <gates value="12" />
   </airport>
   <airport name="Bologna" iata="BLQ" type="International">
-    <town town="Bologna" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bologna" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="044°32'03''N" />
       <longitude value="011°17'25''E" />
@@ -514,7 +514,7 @@
     <gates value="8" />
   </airport>
   <airport name="Sevilla" iata="SVQ" type="International">
-    <town town="Sevilla" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Sevilla" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="037°25'04''N" />
       <longitude value="005°53'35''W" />
@@ -523,7 +523,7 @@
     <gates value="8" />
   </airport>
   <airport name="Palermo" iata="PMO" type="International">
-    <town town="Palermo" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Palermo" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="038°10'33''N" />
       <longitude value="013°05'27''E" />
@@ -532,7 +532,7 @@
     <gates value="9" />
   </airport>
   <airport name="Fuerteventura" iata="FUE" type="International">
-    <town town="Fuerteventura" country="Spain" GMT="01:00:00" DST="00:00:00" />
+    <town town="Fuerteventura" country="123" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="028°27'09''N" />
       <longitude value="013°51'49''W" />
@@ -541,7 +541,7 @@
     <gates value="10" />
   </airport>
   <airport name="Ibiza" iata="IBZ" type="International">
-    <town town="Ibiza" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Ibiza" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="038°52'22''N" />
       <longitude value="001°22'23''E" />
@@ -550,7 +550,7 @@
     <gates value="9" />
   </airport>
   <airport name="Girona" iata="GRO" type="International">
-    <town town="Gerona" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Gerona" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°54'03''N" />
       <longitude value="002°45'37''E" />
@@ -559,7 +559,7 @@
     <gates value="8" />
   </airport>
   <airport name="Bergen Flesland" iata="BGO" type="International">
-    <town town="Bergen" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bergen" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°17'36''N" />
       <longitude value="005°13'05''E" />
@@ -568,7 +568,7 @@
     <gates value="9" />
   </airport>
   <airport name="Jomo Kenyatta" iata="NBO" type="International">
-    <town town="Nairobi" country="Kenya" GMT="03:00:00" DST="03:00:00" />
+    <town town="Nairobi" country="146" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="001°19'09''S" />
       <longitude value="036°55'39''E" />
@@ -577,7 +577,7 @@
     <gates value="13" />
   </airport>
   <airport name="Henri Coandă International Airport" iata="OTP" type="International">
-    <town town="Bucharest" country="Romania" GMT="03:00:00" DST="02:00:00" />
+    <town town="Bucharest" country="147" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="044°34'25''N" />
       <longitude value="026°06'12''E" />
@@ -586,7 +586,7 @@
     <gates value="16" />
   </airport>
   <airport name="Xinzheng" iata="CGO" type="International">
-    <town town="Zhengzhou" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Zhengzhou" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="034°31'10''N" />
       <longitude value="113°50'27''E" />
@@ -595,7 +595,7 @@
     <gates value="10" />
   </airport>
   <airport name="Ted Stevens Anchorage International" iata="ANC" type="International">
-    <town town="Anchorage, AK" country="United States" GMT="-08:00:00" DST="-09:00:00" />
+    <town town="Anchorage, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
     <coordinates>
       <latitude value="061°10'27''N" />
       <longitude value="149°59'46''W" />
@@ -604,7 +604,7 @@
     <gates value="10" />
   </airport>
   <airport name="Nikos Kazantzakis" iata="HER" type="International">
-    <town town="Heraklion" country="Greece" GMT="03:00:00" DST="02:00:00" />
+    <town town="Heraklion" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="035°20'22''N" />
       <longitude value="025°10'49''E" />
@@ -613,7 +613,7 @@
     <gates value="10" />
   </airport>
   <airport name="Ciampino" iata="CIA" type="International">
-    <town town="Rome" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Rome" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°47'57''N" />
       <longitude value="012°35'41''E" />
@@ -622,7 +622,7 @@
     <gates value="10" />
   </airport>
   <airport name="Liverpool John Lennon" iata="LPL" type="International">
-    <town town="Liverpool" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Liverpool" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="053°20'01''N" />
       <longitude value="002°50'59''W" />
@@ -631,7 +631,7 @@
     <gates value="11" />
   </airport>
   <airport name="Lanzarote" iata="ACE" type="International">
-    <town town="Lanzerote" country="Spain" GMT="01:00:00" DST="00:00:00" />
+    <town town="Lanzerote" country="123" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="028°56'43''N" />
       <longitude value="013°36'18''W" />
@@ -640,7 +640,7 @@
     <gates value="16" />
   </airport>
   <airport name="Newcastle" iata="NCL" type="International">
-    <town town="Newcastle" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Newcastle" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="055°02'15''N" />
       <longitude value="001°41'30''W" />
@@ -649,7 +649,7 @@
     <gates value="31" />
   </airport>
   <airport name="Boryspil" iata="KBP" type="International">
-    <town town="Kiev" country="Ukraine" GMT="03:00:00" DST="02:00:00" />
+    <town town="Kiev" country="134" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="050°20'42''N" />
       <longitude value="030°53'42''E" />
@@ -658,7 +658,7 @@
     <gates value="5" />
   </airport>
   <airport name="Faro" iata="FAO" type="International">
-    <town town="Faro" country="Portugal" GMT="01:00:00" DST="00:00:00" />
+    <town town="Faro" country="150" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="037°00'51''N" />
       <longitude value="007°57'57''W" />
@@ -667,7 +667,7 @@
     <gates value="10" />
   </airport>
   <airport name="Bergamo Orio Al Serio" iata="BGY" type="International">
-    <town town="Bergamo" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bergamo" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°40'26''N" />
       <longitude value="009°42'15''E" />
@@ -676,7 +676,7 @@
     <gates value="12" />
   </airport>
   <airport name="Capodichino" iata="NAP" type="International">
-    <town town="Naples" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Naples" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="040°53'09''N" />
       <longitude value="014°17'26''E" />
@@ -685,7 +685,7 @@
     <gates value="11" />
   </airport>
   <airport name="Mohammed V" iata="CMN" type="International">
-    <town town="Casablanca" country="Morocco" GMT="00:00:00" DST="00:00:00" />
+    <town town="Casablanca" country="133" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="033°22'04''N" />
       <longitude value="007°35'16''W" />
@@ -694,7 +694,7 @@
     <gates value="12" />
   </airport>
   <airport name="Valencia" iata="VLC" type="International">
-    <town town="Valencia" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Valencia" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="039°29'21''N" />
       <longitude value="000°28'53''W" />
@@ -703,7 +703,7 @@
     <gates value="11" />
   </airport>
   <airport name="Bristol" iata="BRS" type="International">
-    <town town="Bristol" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Bristol" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°22'57''N" />
       <longitude value="002°43'08''W" />
@@ -712,7 +712,7 @@
     <gates value="12" />
   </airport>
   <airport name="Bahrain International" iata="BAH" type="International">
-    <town town="Bahrain" country="Bahrain" GMT="03:00:00" DST="03:00:00" />
+    <town town="Bahrain" country="151" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="026°16'15''N" />
       <longitude value="050°38'01''E" />
@@ -721,7 +721,7 @@
     <gates value="11" />
   </airport>
   <airport name="Netaji Subhash Chandra Bose International" iata="CCU" type="International">
-    <town town="Calcutta" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Calcutta" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="022°39'17''N" />
       <longitude value="088°26'48''E" />
@@ -730,7 +730,7 @@
     <gates value="11" />
   </airport>
   <airport name="Edmonton International" iata="YEG" type="International">
-    <town town="Edmonton" country="Canada" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Edmonton" country="113" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="053°18'35''N" />
       <longitude value="113°34'47''W" />
@@ -739,7 +739,7 @@
     <gates value="17" />
   </airport>
   <airport name="Catania Fontanarossa" iata="CTA" type="International">
-    <town town="Catania" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Catania" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="037°28'00''N" />
       <longitude value="015°03'58''E" />
@@ -748,7 +748,7 @@
     <gates value="12" />
   </airport>
   <airport name="Larnaca" iata="LCA" type="International">
-    <town town="Larnaca" country="Cyprus" GMT="03:00:00" DST="02:00:00" />
+    <town town="Larnaca" country="154" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="034°52'30''N" />
       <longitude value="033°37'29''E" />
@@ -757,7 +757,7 @@
     <gates value="12" />
   </airport>
   <airport name="Adelaide International" iata="ADL" type="International">
-    <town town="Adelaide" country="Australia" GMT="09:30:00" DST="10:30:00" />
+    <town town="Adelaide" country="116" GMT="09:30:00" DST="10:30:00" />
     <coordinates>
       <latitude value="034°56'42''S" />
       <longitude value="138°31'50''E" />
@@ -766,7 +766,7 @@
     <gates value="12" />
   </airport>
   <airport name="Sharm El-sheikh International Airport" iata="SSH" type="International">
-    <town town="Sharm El-sheikh" country="Egypt" GMT="03:00:00" DST="02:00:00" />
+    <town town="Sharm El-sheikh" country="155" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="027°58'38''N" />
       <longitude value="034°23'42''E" />
@@ -775,7 +775,7 @@
     <gates value="7" />
   </airport>
   <airport name="Vnukovo" iata="VKO" type="International">
-    <town town="Moscow" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="055°35'29''N" />
       <longitude value="037°15'41''E" />
@@ -784,7 +784,7 @@
     <gates value="17" />
   </airport>
   <airport name="Provence" iata="MRS" type="International">
-    <town town="Marseille" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Marseille" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°26'08''N" />
       <longitude value="005°12'49''E" />
@@ -793,7 +793,7 @@
     <gates value="13" />
   </airport>
   <airport name="Abu Dhabi International" iata="AUH" type="International">
-    <town town="Abu Dhabi" country="United Arab Emirates" GMT="04:00:00" DST="04:00:00" />
+    <town town="Abu Dhabi" country="156" GMT="04:00:00" DST="04:00:00" />
     <coordinates>
       <latitude value="024°25'58''N" />
       <longitude value="054°39'04''E" />
@@ -802,7 +802,7 @@
     <gates value="13" />
   </airport>
   <airport name="Venice Marco Polo" iata="VCE" type="International">
-    <town town="Venice" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Venice" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°30'18''N" />
       <longitude value="012°21'06''E" />
@@ -811,7 +811,7 @@
     <gates value="14" />
   </airport>
   <airport name="Saint Exupery" iata="LYS" type="International">
-    <town town="Lyon" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Lyon" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°43'34''N" />
       <longitude value="005°05'27''E" />
@@ -820,7 +820,7 @@
     <gates value="14" />
   </airport>
   <airport name="Ministro Pistarini International Airport" iata="EZE" type="International">
-    <town town="Buenos Aires" country="Argentina" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Buenos Aires" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="034°49'20''S" />
       <longitude value="058°32'09''W" />
@@ -829,7 +829,7 @@
     <gates value="14" />
   </airport>
   <airport name="Louis Armstrong New Orleans International" iata="MSY" type="International">
-    <town town="New Orleans, LA" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="New Orleans, LA" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="029°59'36''N" />
       <longitude value="090°15'28''W" />
@@ -838,7 +838,7 @@
     <gates value="34" />
   </airport>
   <airport name="Ontario International" iata="ONT" type="International">
-    <town town="Ontario, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Ontario, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="034°03'21''N" />
       <longitude value="117°36'04''W" />
@@ -847,7 +847,7 @@
     <gates value="26" />
   </airport>
   <airport name="Bangalore" iata="BLR" type="International">
-    <town town="Bangalore" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Bangalore" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="012°56'59''N" />
       <longitude value="077°40'05''E" />
@@ -856,7 +856,7 @@
     <gates value="20" />
   </airport>
   <airport name="General Mariano Escobedo International Airport" iata="MTY" type="International">
-    <town town="Apodaca" country="Mexico" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Apodaca" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="025°46'42''N" />
       <longitude value="100°06'24''W" />
@@ -865,7 +865,7 @@
     <gates value="29" />
   </airport>
   <airport name="Cape Town International" iata="CPT" type="International">
-    <town town="Cape Town" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <town town="Cape Town" country="158" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="033°57'53''S" />
       <longitude value="018°36'06''E" />
@@ -874,7 +874,7 @@
     <gates value="16" />
   </airport>
   <airport name="Indianapolis International" iata="IND" type="International">
-    <town town="Indianapolis, IN" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Indianapolis, IN" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°43'02''N" />
       <longitude value="086°17'39''W" />
@@ -883,7 +883,7 @@
     <gates value="34" />
   </airport>
   <airport name="Ferihegy" iata="BUD" type="International">
-    <town town="Budapest" country="Hungary" GMT="02:00:00" DST="01:00:00" />
+    <town town="Budapest" country="159" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="047°26'12''N" />
       <longitude value="019°15'20''E" />
@@ -892,7 +892,7 @@
     <gates value="17" />
   </airport>
   <airport name="Tenerife Sur" iata="TFS" type="International">
-    <town town="Tenerife" country="Spain" GMT="01:00:00" DST="00:00:00" />
+    <town town="Tenerife" country="123" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="028°02'40''N" />
       <longitude value="016°34'20''W" />
@@ -901,7 +901,7 @@
     <gates value="17" />
   </airport>
   <airport name="Gaoqi" iata="XMN" type="International">
-    <town town="Xiamen" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xiamen" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="024°32'38''N" />
       <longitude value="118°07'39''E" />
@@ -910,7 +910,7 @@
     <gates value="17" />
   </airport>
   <airport name="Glasgow" iata="GLA" type="International">
-    <town town="Glasgow" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Glasgow" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="055°52'19''N" />
       <longitude value="004°25'59''W" />
@@ -919,7 +919,7 @@
     <gates value="38" />
   </airport>
   <airport name="Edinburgh" iata="EDI" type="International">
-    <town town="Edinburgh" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Edinburgh" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="055°57'00''N" />
       <longitude value="003°22'21''W" />
@@ -928,7 +928,7 @@
     <gates value="14" />
   </airport>
   <airport name="Alicante Airport" iata="ALC" type="International">
-    <town town="Alicante" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Alicante" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="038°16'55''N" />
       <longitude value="000°33'29''W" />
@@ -937,7 +937,7 @@
     <gates value="18" />
   </airport>
   <airport name="Arturo Merino Benitez International" iata="SCL" type="International">
-    <town town="Santiago" country="Chile" GMT="-04:00:00" DST="-03:00:00" />
+    <town town="Santiago" country="160" GMT="-04:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="033°23'34''S" />
       <longitude value="070°47'08''W" />
@@ -946,7 +946,7 @@
     <gates value="18" />
   </airport>
   <airport name="Perth International" iata="PER" type="International">
-    <town town="Perth" country="Australia" GMT="08:00:00" DST="08:00:00" />
+    <town town="Perth" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="031°56'25''S" />
       <longitude value="115°58'01''E" />
@@ -955,7 +955,7 @@
     <gates value="23" />
   </airport>
   <airport name="Birmingham" iata="BHX" type="International">
-    <town town="Birmingham" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Birmingham" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="052°27'13''N" />
       <longitude value="001°44'52''W" />
@@ -964,7 +964,7 @@
     <gates value="24" />
   </airport>
   <airport name="Warsaw Frederic Chopin" iata="WAW" type="International">
-    <town town="Warsaw" country="Poland" GMT="02:00:00" DST="01:00:00" />
+    <town town="Warsaw" country="135" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°09'56''N" />
       <longitude value="020°58'01''E" />
@@ -973,7 +973,7 @@
     <gates value="18" />
   </airport>
   <airport name="Pittsburgh International" iata="PIT" type="International">
-    <town town="Pittsburgh, PA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Pittsburgh, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="040°29'29''N" />
       <longitude value="080°13'58''W" />
@@ -982,7 +982,7 @@
     <gates value="97" />
   </airport>
   <airport name="Dalaman" iata="DLM" type="International">
-    <town town="Dalaman" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Dalaman" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="036°42'47''N" />
       <longitude value="028°47'33''E" />
@@ -991,7 +991,7 @@
     <gates value="12" />
   </airport>
   <airport name="Luton" iata="LTN" type="International">
-    <town town="London" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="London" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°52'28''N" />
       <longitude value="000°22'06''W" />
@@ -1000,7 +1000,7 @@
     <gates value="26" />
   </airport>
   <airport name="Juanda" iata="SUB" type="International">
-    <town town="Surabaya" country="Indonesia" GMT="07:00:00" DST="07:00:00" />
+    <town town="Surabaya" country="162" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="007°22'47''S" />
       <longitude value="112°47'12''E" />
@@ -1009,7 +1009,7 @@
     <gates value="20" />
   </airport>
   <airport name="Linate" iata="LIN" type="International">
-    <town town="Milan" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Milan" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°26'43''N" />
       <longitude value="009°16'37''E" />
@@ -1018,7 +1018,7 @@
     <gates value="20" />
   </airport>
   <airport name="Stuttgart" iata="STR" type="International">
-    <town town="Stuttgart" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Stuttgart" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°41'23''N" />
       <longitude value="009°13'19''E" />
@@ -1027,7 +1027,7 @@
     <gates value="20" />
   </airport>
   <airport name="Gran Canaria" iata="LPA" type="International">
-    <town town="Gran Canaria" country="Spain" GMT="01:00:00" DST="00:00:00" />
+    <town town="Gran Canaria" country="123" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="027°55'54''N" />
       <longitude value="015°23'11''W" />
@@ -1036,7 +1036,7 @@
     <gates value="20" />
   </airport>
   <airport name="Galeao Antonio Carlos Jobim" iata="GIG" type="International">
-    <town town="Rio De Janeiro" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Rio De Janeiro" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="022°48'32''S" />
       <longitude value="043°14'37''W" />
@@ -1045,7 +1045,7 @@
     <gates value="20" />
   </airport>
   <airport name="Jiangbei" iata="CKG" type="International">
-    <town town="Chongqing" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chongqing" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="029°43'08''N" />
       <longitude value="106°38'29''E" />
@@ -1054,7 +1054,7 @@
     <gates value="20" />
   </airport>
   <airport name="Cote D Azur" iata="NCE" type="International">
-    <town town="Nice" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Nice" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°39'38''N" />
       <longitude value="007°13'03''E" />
@@ -1063,7 +1063,7 @@
     <gates value="52" />
   </airport>
   <airport name="Koln Bonn" iata="CGN" type="International">
-    <town town="Cologne" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Cologne" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°51'57''N" />
       <longitude value="007°08'33''E" />
@@ -1072,7 +1072,7 @@
     <gates value="20" />
   </airport>
   <airport name="Chennai International" iata="MAA" type="International">
-    <town town="Madras" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Madras" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="012°59'39''N" />
       <longitude value="080°10'49''E" />
@@ -1081,7 +1081,7 @@
     <gates value="21" />
   </airport>
   <airport name="Kuwait International Airport" iata="KWI" type="International">
-    <town town="Kuwait City" country="Kuwait" GMT="03:00:00" DST="03:00:00" />
+    <town town="Kuwait City" country="126" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="029°13'35''N" />
       <longitude value="047°58'08''E" />
@@ -1090,7 +1090,7 @@
     <gates value="12" />
   </airport>
   <airport name="Baghdad International Airpor" iata="BGW" type="International">
-    <town town="Baghdad" country="Iraq" GMT="03:00:00" DST="03:00:00" />
+    <town town="Baghdad" country="127" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="033°15'45''N" />
       <longitude value="044°14'04''E" />
@@ -1099,7 +1099,7 @@
     <gates value="9" />
   </airport>
   <airport name="Mehrabad International Airport" iata="THR" type="International">
-    <town town="Tehran" country="Iran" GMT="04:30:00" DST="03:30:00" />
+    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00" />
     <coordinates>
       <latitude value="035°41'21''N" />
       <longitude value="051°18'48''E" />
@@ -1108,7 +1108,7 @@
     <gates value="17" />
   </airport>
   <airport name="Tan Son Nhat International Airport" iata="SGN" type="International">
-    <town town="Ho Chi Minh City" country="Vietnam" GMT="07:00:00" DST="07:00:00" />
+    <town town="Ho Chi Minh City" country="170" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="010°49'08''N" />
       <longitude value="106°39'07''E" />
@@ -1117,7 +1117,7 @@
     <gates value="17" />
   </airport>
   <airport name="Memphis International" iata="MEM" type="International">
-    <town town="Memphis, TN" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Memphis, TN" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="035°02'32''N" />
       <longitude value="089°58'36''W" />
@@ -1126,7 +1126,7 @@
     <gates value="21" />
   </airport>
   <airport name="Geneva Cointrin" iata="GVA" type="International">
-    <town town="Geneva" country="Switzerland" GMT="02:00:00" DST="01:00:00" />
+    <town town="Geneva" country="164" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="046°14'17''N" />
       <longitude value="006°06'32''E" />
@@ -1135,7 +1135,7 @@
     <gates value="21" />
   </airport>
   <airport name="Doha International Airport" iata="DOH" type="International">
-    <town town="Doha" country="Qatar" GMT="03:00:00" DST="03:00:00" />
+    <town town="Doha" country="180" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="025°15'40''N" />
       <longitude value="051°33'54''E" />
@@ -1144,7 +1144,7 @@
     <gates value="60" />
   </airport>
   <airport name="King Khalid International Airport" iata="RUH" type="International">
-    <town town="Riyadh" country="Saudi Arabia" GMT="03:00:00" DST="03:00:00" />
+    <town town="Riyadh" country="136" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="024°57'28''N" />
       <longitude value="046°41'56''E" />
@@ -1153,7 +1153,7 @@
     <gates value="24" />
   </airport>
   <airport name="Presidente Juscelino Kubitschek" iata="BSB" type="International">
-    <town town="Brasilia" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Brasilia" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="015°51'45''S" />
       <longitude value="047°54'45''W" />
@@ -1162,7 +1162,7 @@
     <gates value="22" />
   </airport>
   <airport name="Kansas City International" iata="MCI" type="International">
-    <town town="Kansas City, MO" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Kansas City, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="039°17'51''N" />
       <longitude value="094°42'50''W" />
@@ -1171,7 +1171,7 @@
     <gates value="90" />
   </airport>
   <airport name="Xianyang" iata="XIY" type="International">
-    <town town="Xi'an" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xi'an" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="034°26'45''N" />
       <longitude value="108°45'09''E" />
@@ -1180,7 +1180,7 @@
     <gates value="22" />
   </airport>
   <airport name="Cleveland Hopkins International" iata="CLE" type="International">
-    <town town="Cleveland, OH" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Cleveland, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="041°24'42''N" />
       <longitude value="081°50'59''W" />
@@ -1189,7 +1189,7 @@
     <gates value="22" />
   </airport>
   <airport name="Xiaoshan" iata="HGH" type="International">
-    <town town="Hangzhou" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Hangzhou" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="030°13'42''N" />
       <longitude value="120°25'54''E" />
@@ -1198,7 +1198,7 @@
     <gates value="18" />
   </airport>
   <airport name="Calgary International" iata="YYC" type="International">
-    <town town="Calgary" country="Canada" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Calgary" country="113" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="051°06'50''N" />
       <longitude value="114°01'13''W" />
@@ -1207,7 +1207,7 @@
     <gates value="24" />
   </airport>
   <airport name="Jeju International" iata="CJU" type="International">
-    <town town="Cheju" country="South Korea" GMT="09:00:00" DST="09:00:00" />
+    <town town="Cheju" country="165" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="033°30'40''N" />
       <longitude value="126°29'34''E" />
@@ -1216,7 +1216,7 @@
     <gates value="24" />
   </airport>
   <airport name="Montreal International Dorval" iata="YUL" type="International">
-    <town town="Montreal" country="Canada" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Montreal" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="045°28'05''N" />
       <longitude value="073°44'29''W" />
@@ -1225,7 +1225,7 @@
     <gates value="24" />
   </airport>
   <airport name="Ruzyne" iata="PRG" type="International">
-    <town town="Prague" country="Czech Republic" GMT="02:00:00" DST="01:00:00" />
+    <town town="Prague" country="166" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°06'03''N" />
       <longitude value="014°15'36''E" />
@@ -1234,7 +1234,7 @@
     <gates value="24" />
   </airport>
   <airport name="Cairo International" iata="CAI" type="International">
-    <town town="Cairo" country="Egypt" GMT="03:00:00" DST="02:00:00" />
+    <town town="Cairo" country="155" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="030°07'19''N" />
       <longitude value="031°24'20''E" />
@@ -1243,7 +1243,7 @@
     <gates value="25" />
   </airport>
   <airport name="Hamburg" iata="HAM" type="International">
-    <town town="Hamburg" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Hamburg" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="053°37'49''N" />
       <longitude value="009°59'17''E" />
@@ -1252,7 +1252,7 @@
     <gates value="25" />
   </airport>
   <airport name="Helsinki Vantaa" iata="HEL" type="International">
-    <town town="Helsinki" country="Finland" GMT="03:00:00" DST="02:00:00" />
+    <town town="Helsinki" country="167" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="060°19'12''N" />
       <longitude value="024°57'22''E" />
@@ -1261,7 +1261,7 @@
     <gates value="60" />
   </airport>
   <airport name="Tegel" iata="TXL" type="International">
-    <town town="Berlin" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Berlin" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°33'34''N" />
       <longitude value="013°17'15''E" />
@@ -1270,7 +1270,7 @@
     <gates value="54" />
   </airport>
   <airport name="Malaga" iata="AGP" type="International">
-    <town town="Malaga" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Malaga" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="036°40'25''N" />
       <longitude value="004°29'56''W" />
@@ -1279,7 +1279,7 @@
     <gates value="27" />
   </airport>
   <airport name="Gimpo" iata="GMP" type="International">
-    <town town="Seoul" country="South Korea" GMT="09:00:00" DST="09:00:00" />
+    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="037°33'29''N" />
       <longitude value="126°47'26''E" />
@@ -1288,7 +1288,7 @@
     <gates value="27" />
   </airport>
   <airport name="Sheremetyevo" iata="SVO" type="International">
-    <town town="Moscow" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="055°58'18''N" />
       <longitude value="037°24'54''E" />
@@ -1297,7 +1297,7 @@
     <gates value="28" />
   </airport>
   <airport name="Portland International" iata="PDX" type="International">
-    <town town="Portland, OR" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Portland, OR" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="045°35'19''N" />
       <longitude value="122°35'51''W" />
@@ -1306,7 +1306,7 @@
     <gates value="29" />
   </airport>
   <airport name="Metropolitan Oakland International" iata="OAK" type="International">
-    <town town="Oakland, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Oakland, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="037°43'16''N" />
       <longitude value="122°13'14''W" />
@@ -1315,7 +1315,7 @@
     <gates value="30" />
   </airport>
   <airport name="Congonhas/São Paulo Airport" iata="CGH" type="International">
-    <town town="Sao Paulo" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Sao Paulo" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="023°37'36''S" />
       <longitude value="046°39'19''W" />
@@ -1324,7 +1324,7 @@
     <gates value="30" />
   </airport>
   <airport name="Lambert St Louis International" iata="STL" type="International">
-    <town town="St. Louis, MO" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="St. Louis, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="038°44'51''N" />
       <longitude value="090°21'35''W" />
@@ -1333,7 +1333,7 @@
     <gates value="86" />
   </airport>
   <airport name="Wujiaba" iata="KMG" type="International">
-    <town town="Kunming" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kunming" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="024°59'32''N" />
       <longitude value="102°44'36''E" />
@@ -1342,7 +1342,7 @@
     <gates value="31" />
   </airport>
   <airport name="Athens International" iata="ATH" type="International">
-    <town town="Athens" country="Greece" GMT="03:00:00" DST="02:00:00" />
+    <town town="Athens" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="037°56'11''N" />
       <longitude value="023°56'40''E" />
@@ -1351,7 +1351,7 @@
     <gates value="33" />
   </airport>
   <airport name="Brussels Natl" iata="BRU" type="International">
-    <town town="Brussels" country="Belgium" GMT="02:00:00" DST="01:00:00" />
+    <town town="Brussels" country="107" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°54'08''N" />
       <longitude value="004°29'55''E" />
@@ -1360,7 +1360,7 @@
     <gates value="34" />
   </airport>
   <airport name="Vancouver International" iata="YVR" type="International">
-    <town town="Vancouver" country="Canada" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Vancouver" country="113" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="049°11'42''N" />
       <longitude value="123°10'55''W" />
@@ -1369,7 +1369,7 @@
     <gates value="90" />
   </airport>
   <airport name="Brisbane International" iata="BNE" type="International">
-    <town town="Brisbane" country="Australia" GMT="10:00:00" DST="10:00:00" />
+    <town town="Brisbane" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="027°23'03''S" />
       <longitude value="153°07'03''E" />
@@ -1378,7 +1378,7 @@
     <gates value="52" />
   </airport>
   <airport name="Dusseldorf" iata="DUS" type="International">
-    <town town="Duesseldorf" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Duesseldorf" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="051°17'22''N" />
       <longitude value="006°46'00''E" />
@@ -1387,7 +1387,7 @@
     <gates value="35" />
   </airport>
   <airport name="Antalya" iata="AYT" type="International">
-    <town town="Antalya" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Antalya" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="036°54'05''N" />
       <longitude value="030°47'30''E" />
@@ -1396,7 +1396,7 @@
     <gates value="14" />
   </airport>
   <airport name="Arlanda Airport" iata="ARN" type="International">
-    <town town="Stockholm" country="Sweden" GMT="02:00:00" DST="01:00:00" />
+    <town town="Stockholm" country="168" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="059°39'07''N" />
       <longitude value="017°55'07''E" />
@@ -1405,7 +1405,7 @@
     <gates value="64" />
   </airport>
   <airport name="San Diego International Lindbergh Fld" iata="SAN" type="International">
-    <town town="San Diego, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="San Diego, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="032°44'00''N" />
       <longitude value="117°11'22''W" />
@@ -1414,7 +1414,7 @@
     <gates value="45" />
   </airport>
   <airport name="Shuangliu" iata="CTU" type="International">
-    <town town="Chengdu" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chengdu" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="030°34'42''N" />
       <longitude value="103°56'49''E" />
@@ -1423,7 +1423,7 @@
     <gates value="37" />
   </airport>
   <airport name="Schwechat" iata="VIE" type="International">
-    <town town="Vienna" country="Austria" GMT="02:00:00" DST="01:00:00" />
+    <town town="Vienna" country="169" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°06'37''N" />
       <longitude value="016°34'11''E" />
@@ -1432,7 +1432,7 @@
     <gates value="53" />
   </airport>
   <airport name="Guarulhos" iata="GRU" type="International">
-    <town town="Sao Paulo" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Sao Paulo" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="023°25'56''S" />
       <longitude value="046°28'09''W" />
@@ -1441,7 +1441,7 @@
     <gates value="37" />
   </airport>
   <airport name="Chitose International Airport" iata="CTS" type="International">
-    <town town="Sapporo" country="Japan" GMT="09:00:00" DST="09:00:00" />
+    <town town="Sapporo" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="042°46'30''N" />
       <longitude value="141°41'32''E" />
@@ -1450,7 +1450,7 @@
     <gates value="37" />
   </airport>
   <airport name="Oslo Gardermoen" iata="OSL" type="International">
-    <town town="Oslo" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Oslo" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°11'38''N" />
       <longitude value="011°06'01''E" />
@@ -1459,7 +1459,7 @@
     <gates value="70" />
   </airport>
   <airport name="Chicago Midway International" iata="MDW" type="International">
-    <town town="Chicago, IL" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Chicago, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="041°47'09''N" />
       <longitude value="087°45'08''W" />
@@ -1468,7 +1468,7 @@
     <gates value="43" />
   </airport>
   <airport name="Johannesburg International" iata="JNB" type="International">
-    <town town="Johannesburg" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <town town="Johannesburg" country="158" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="026°08'21''S" />
       <longitude value="028°14'45''E" />
@@ -1477,7 +1477,7 @@
     <gates value="38" />
   </airport>
   <airport name="Baoan" iata="SZX" type="International">
-    <town town="Shenzhen" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shenzhen" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="022°38'22''N" />
       <longitude value="113°48'44''E" />
@@ -1486,7 +1486,7 @@
     <gates value="41" />
   </airport>
   <airport name="Ben Gurion International Airport" iata="TLV" type="International">
-    <town town="Tel Aviv" country="Israel" GMT="03:00:00" DST="02:00:00" />
+    <town town="Tel Aviv" country="128" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="032°00'41''N" />
       <longitude value="034°53'12''E" />
@@ -1495,7 +1495,7 @@
     <gates value="42" />
   </airport>
   <airport name="Zurich" iata="ZRH" type="International">
-    <town town="Zurich" country="Switzerland" GMT="02:00:00" DST="01:00:00" />
+    <town town="Zurich" country="164" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="047°27'53''N" />
       <longitude value="008°32'57''E" />
@@ -1504,7 +1504,7 @@
     <gates value="41" />
   </airport>
   <airport name="Baltimore Washington International" iata="BWI" type="International">
-    <town town="Baltimore, MD" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Baltimore, MD" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°10'31''N" />
       <longitude value="076°40'06''W" />
@@ -1513,7 +1513,7 @@
     <gates value="42" />
   </airport>
   <airport name="Ninoy Aquino International" iata="MNL" type="International">
-    <town town="Manila" country="Philippines" GMT="08:00:00" DST="08:00:00" />
+    <town town="Manila" country="131" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="014°30'31''N" />
       <longitude value="121°01'10''E" />
@@ -1522,7 +1522,7 @@
     <gates value="42" />
   </airport>
   <airport name="Kastrup" iata="CPH" type="International">
-    <town town="Copenhagen" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Copenhagen" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="055°37'04''N" />
       <longitude value="012°39'21''E" />
@@ -1531,7 +1531,7 @@
     <gates value="79" />
   </airport>
   <airport name="Honolulu International" iata="HNL" type="International">
-    <town town="Honolulu, HI" country="United States" GMT="-10:00:00" DST="-10:00:00" />
+    <town town="Honolulu, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
     <coordinates>
       <latitude value="021°18'57''N" />
       <longitude value="157°55'36''W" />
@@ -1540,7 +1540,7 @@
     <gates value="56" />
   </airport>
   <airport name="Salt Lake City International" iata="SLC" type="International">
-    <town town="Salt Lake City, UT" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Salt Lake City, UT" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="040°47'18''N" />
       <longitude value="111°58'39''W" />
@@ -1549,7 +1549,7 @@
     <gates value="77" />
   </airport>
   <airport name="Manchester" iata="MAN" type="International">
-    <town town="Manchester" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Manchester" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="053°21'13''N" />
       <longitude value="002°16'29''W" />
@@ -1558,7 +1558,7 @@
     <gates value="35" />
   </airport>
   <airport name="Hongqiao International" iata="SHA" type="International">
-    <town town="Shanghai" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="031°11'52''N" />
       <longitude value="121°20'10''E" />
@@ -1567,7 +1567,7 @@
     <gates value="45" />
   </airport>
   <airport name="Fort Lauderdale Hollywood International" iata="FLL" type="International">
-    <town town="Fort Lauderdale, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Fort Lauderdale, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="026°04'21''N" />
       <longitude value="080°09'09''W" />
@@ -1576,7 +1576,7 @@
     <gates value="67" />
   </airport>
   <airport name="Indira Gandhi International" iata="DEL" type="International">
-    <town town="Delhi" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Delhi" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="028°33'59''N" />
       <longitude value="077°06'11''E" />
@@ -1585,7 +1585,7 @@
     <gates value="46" />
   </airport>
   <airport name="Palma De Mallorca" iata="PMI" type="International">
-    <town town="Palma De Mallorca" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Palma De Mallorca" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="039°33'00''N" />
       <longitude value="002°44'00''E" />
@@ -1594,7 +1594,7 @@
     <gates value="46" />
   </airport>
   <airport name="Dublin" iata="DUB" type="International">
-    <town town="Dublin" country="Ireland" GMT="01:00:00" DST="00:00:00" />
+    <town town="Dublin" country="137" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="053°25'16''N" />
       <longitude value="006°16'12''W" />
@@ -1603,7 +1603,7 @@
     <gates value="46" />
   </airport>
   <airport name="Chiang Kai Shek International" iata="TPE" type="International">
-    <town town="Taipei" country="Taiwan" GMT="08:00:00" DST="08:00:00" />
+    <town town="Taipei" country="172" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="025°04'48''N" />
       <longitude value="121°13'56''E" />
@@ -1612,7 +1612,7 @@
     <gates value="38" />
   </airport>
   <airport name="Stansted" iata="STN" type="International">
-    <town town="London" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="London" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°53'06''N" />
       <longitude value="000°14'06''E" />
@@ -1621,7 +1621,7 @@
     <gates value="47" />
   </airport>
   <airport name="Malpensa" iata="MXP" type="International">
-    <town town="Milano" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Milano" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="045°37'53''N" />
       <longitude value="008°43'40''E" />
@@ -1630,7 +1630,7 @@
     <gates value="47" />
   </airport>
   <airport name="Kuala Lumpur International" iata="KUL" type="International">
-    <town town="Kuala Lumpur" country="Malaysia" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kuala Lumpur" country="173" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="002°44'44''N" />
       <longitude value="101°42'35''E" />
@@ -1639,7 +1639,7 @@
     <gates value="47" />
   </airport>
   <airport name="Melbourne International" iata="MEL" type="International">
-    <town town="Melbourne" country="Australia" GMT="10:00:00" DST="11:00:00" />
+    <town town="Melbourne" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="037°40'24''S" />
       <longitude value="144°50'36''E" />
@@ -1648,7 +1648,7 @@
     <gates value="56" />
   </airport>
   <airport name="Washington Dulles International" iata="IAD" type="International">
-    <town town="Washington, DC" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Washington, DC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="038°56'40''N" />
       <longitude value="077°27'20''W" />
@@ -1657,7 +1657,7 @@
     <gates value="48" />
   </airport>
   <airport name="La Guardia" iata="LGA" type="International">
-    <town town="New York, NY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="New York, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="040°46'38''N" />
       <longitude value="073°52'21''W" />
@@ -1666,7 +1666,7 @@
     <gates value="49" />
   </airport>
   <airport name="Chhatrapati Shivaji International" iata="BOM" type="International">
-    <town town="Mumbai" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Mumbai" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="019°05'19''N" />
       <longitude value="072°52'04''E" />
@@ -1675,7 +1675,7 @@
     <gates value="50" />
   </airport>
   <airport name="Tehran Imam Khomeini International Airport" iata="IKA" type="International">
-    <town town="Tehran" country="Iran" GMT="04:30:00" DST="03:30:00" />
+    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00" />
     <coordinates>
       <latitude value="035°24'58''N" />
       <longitude value="051°09'08''E" />
@@ -1684,7 +1684,7 @@
     <gates value="47" />
   </airport>
   <airport name="Ataturk" iata="IST" type="International">
-    <town town="Istanbul" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Istanbul" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="040°58'36''N" />
       <longitude value="028°49'16''E" />
@@ -1693,7 +1693,7 @@
     <gates value="51" />
   </airport>
   <airport name="Licenciado Benito Juarez International" iata="MEX" type="International">
-    <town town="Mexico City" country="Mexico" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Mexico City" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="019°26'10''N" />
       <longitude value="099°04'19''W" />
@@ -1702,7 +1702,7 @@
     <gates value="57" />
   </airport>
   <airport name="Orly" iata="ORY" type="International">
-    <town town="Paris" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Paris" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°43'31''N" />
       <longitude value="002°21'34''E" />
@@ -1711,7 +1711,7 @@
     <gates value="52" />
   </airport>
   <airport name="General Edward Lawrence Logan International" iata="BOS" type="International">
-    <town town="Boston, MA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Boston, MA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="042°21'51''N" />
       <longitude value="071°00'18''W" />
@@ -1720,7 +1720,7 @@
     <gates value="56" />
   </airport>
   <airport name="Shanghai Pudong International Airport" iata="PVG" type="International">
-    <town town="Shanghai" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="031°08'36''N" />
       <longitude value="121°48'19''E" />
@@ -1729,7 +1729,7 @@
     <gates value="56" />
   </airport>
   <airport name="Baiyun" iata="CAN" type="International">
-    <town town="Guangzhou" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Guangzhou" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="023°11'03''N" />
       <longitude value="113°15'57''E" />
@@ -1738,7 +1738,7 @@
     <gates value="61" />
   </airport>
   <airport name="Incheon International Airport" iata="ICN" type="International">
-    <town town="Seoul" country="South Korea" GMT="09:00:00" DST="09:00:00" />
+    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="037°27'48''N" />
       <longitude value="128°26'04''E" />
@@ -1747,7 +1747,7 @@
     <gates value="91" />
   </airport>
   <airport name="Seattle Tacoma International" iata="SEA" type="International">
-    <town town="Seattle, WA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Seattle, WA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="047°26'56''N" />
       <longitude value="122°18'33''W" />
@@ -1756,7 +1756,7 @@
     <gates value="62" />
   </airport>
   <airport name="Lester B Pearson International" iata="YYZ" type="International">
-    <town town="Toronto" country="Canada" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Toronto" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°40'38''N" />
       <longitude value="079°37'50''W" />
@@ -1765,7 +1765,7 @@
     <gates value="99" />
   </airport>
   <airport name="Sydney International" iata="YQY" type="International">
-    <town town="Sydney" country="Canada" GMT="-03:00:00" DST="-04:00:00" />
+    <town town="Sydney" country="113" GMT="-03:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="046°09'41''N" />
       <longitude value="060°02'52''W" />
@@ -1774,7 +1774,7 @@
     <gates value="63" />
   </airport>
   <airport name="Soekarno Hatta International" iata="CGK" type="International">
-    <town town="Jakarta" country="Indonesia" GMT="07:00:00" DST="07:00:00" />
+    <town town="Jakarta" country="162" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="006°07'32''S" />
       <longitude value="106°39'21''E" />
@@ -1783,7 +1783,7 @@
     <gates value="63" />
   </airport>
   <airport name="Philadelphia International" iata="PHL" type="International">
-    <town town="Philadelphia, PA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Philadelphia, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°52'19''N" />
       <longitude value="075°14'28''W" />
@@ -1792,7 +1792,7 @@
     <gates value="63" />
   </airport>
   <airport name="Kingsford Smith International Airport" iata="SYD" type="International">
-    <town town="Sydney" country="Australia" GMT="10:00:00" DST="11:00:00" />
+    <town town="Sydney" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="033°56'46''S" />
       <longitude value="151°10'38''E" />
@@ -1801,7 +1801,7 @@
     <gates value="64" />
   </airport>
   <airport name="Barcelona" iata="BCN" type="International">
-    <town town="Barcelona" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Barcelona" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°17'49''N" />
       <longitude value="002°04'42''E" />
@@ -1810,7 +1810,7 @@
     <gates value="65" />
   </airport>
   <airport name="Fiumicino" iata="FCO" type="International">
-    <town town="Rome" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Rome" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°48'46''N" />
       <longitude value="012°15'11''E" />
@@ -1819,7 +1819,7 @@
     <gates value="65" />
   </airport>
   <airport name="Charlotte Douglas International" iata="CLT" type="International">
-    <town town="Charlotte, NC" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Charlotte, NC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="035°12'50''N" />
       <longitude value="080°56'35''W" />
@@ -1828,7 +1828,7 @@
     <gates value="91" />
   </airport>
   <airport name="Miami International" iata="MIA" type="International">
-    <town town="Miami, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Miami, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="025°47'35''N" />
       <longitude value="080°17'26''W" />
@@ -1837,7 +1837,7 @@
     <gates value="102" />
   </airport>
   <airport name="Munich" iata="MUC" type="International">
-    <town town="Munich" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Munich" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°21'13''N" />
       <longitude value="011°47'09''E" />
@@ -1846,7 +1846,7 @@
     <gates value="61" />
   </airport>
   <airport name="Dubai International" iata="DXB" type="International">
-    <town town="Dubai" country="United Arab Emirates" GMT="04:00:00" DST="04:00:00" />
+    <town town="Dubai" country="156" GMT="04:00:00" DST="04:00:00" />
     <coordinates>
       <latitude value="025°15'17''N" />
       <longitude value="055°21'51''E" />
@@ -1855,7 +1855,7 @@
     <gates value="68" />
   </airport>
   <airport name="Minneapolis St Paul International" iata="MSP" type="International">
-    <town town="Minneapolis, MN" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Minneapolis, MN" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="044°52'49''N" />
       <longitude value="093°13'00''W" />
@@ -1864,7 +1864,7 @@
     <gates value="103" />
   </airport>
   <airport name="Gatwick" iata="LGW" type="International">
-    <town town="London" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="London" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°08'53''N" />
       <longitude value="000°11'25''W" />
@@ -1873,7 +1873,7 @@
     <gates value="70" />
   </airport>
   <airport name="New Tokyo International" iata="NRT" type="International">
-    <town town="Tokyo" country="Japan" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="035°45'53''N" />
       <longitude value="140°23'11''E" />
@@ -1882,7 +1882,7 @@
     <gates value="71" />
   </airport>
   <airport name="San Francisco International" iata="SFO" type="International">
-    <town town="San Francisco, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="San Francisco, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="037°37'08''N" />
       <longitude value="122°22'29''W" />
@@ -1891,7 +1891,7 @@
     <gates value="107" />
   </airport>
   <airport name="Detroit Metro Wayne Co" iata="DTW" type="International">
-    <town town="Detroit, MI" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Detroit, MI" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="042°12'44''N" />
       <longitude value="083°21'12''W" />
@@ -1900,7 +1900,7 @@
     <gates value="153" />
   </airport>
   <airport name="Newark Liberty International" iata="EWR" type="International">
-    <town town="Newark, NJ" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Newark, NJ" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="040°41'32''N" />
       <longitude value="074°10'07''W" />
@@ -1909,7 +1909,7 @@
     <gates value="110" />
   </airport>
   <airport name="Orlando International" iata="MCO" type="International">
-    <town town="Orlando, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Orlando, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="028°25'44''N" />
       <longitude value="081°18'57''W" />
@@ -1918,7 +1918,7 @@
     <gates value="129" />
   </airport>
   <airport name="Singapore Changi" iata="SIN" type="International">
-    <town town="Singapore" country="Singapore" GMT="08:00:00" DST="08:00:00" />
+    <town town="Singapore" country="174" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="001°21'20''N" />
       <longitude value="103°59'14''E" />
@@ -1927,7 +1927,7 @@
     <gates value="89" />
   </airport>
   <airport name="Bangkok International Airport" iata="BKK" type="International">
-    <town town="Bangkok" country="Thailand" GMT="07:00:00" DST="07:00:00" />
+    <town town="Bangkok" country="175" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="013°54'45''N" />
       <longitude value="100°36'24''E" />
@@ -1936,7 +1936,7 @@
     <gates value="111" />
   </airport>
   <airport name="Phoenix Sky Harbor International" iata="PHX" type="International">
-    <town town="Phoenix, AZ" country="United States" GMT="-07:00:00" DST="-07:00:00" />
+    <town town="Phoenix, AZ" country="122" GMT="-07:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="033°26'03''N" />
       <longitude value="112°00'29''W" />
@@ -1945,7 +1945,7 @@
     <gates value="121" />
   </airport>
   <airport name="George Bush Intcntl Houston" iata="IAH" type="International">
-    <town town="Houston, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="029°58'49''N" />
       <longitude value="095°20'23''W" />
@@ -1954,7 +1954,7 @@
     <gates value="108" />
   </airport>
   <airport name="Hong Kong International" iata="HKG" type="International">
-    <town town="Hong Kong" country="Hong Kong" GMT="08:00:00" DST="08:00:00" />
+    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="022°18'32''N" />
       <longitude value="113°54'52''E" />
@@ -1963,7 +1963,7 @@
     <gates value="78" />
   </airport>
   <airport name="Schiphol" iata="AMS" type="International">
-    <town town="Amsterdam" country="Netherlands" GMT="02:00:00" DST="01:00:00" />
+    <town town="Amsterdam" country="179" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°18'31''N" />
       <longitude value="004°45'50''E" />
@@ -1972,7 +1972,7 @@
     <gates value="95" />
   </airport>
   <airport name="John F Kennedy International" iata="JFK" type="International">
-    <town town="New York, NY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="New York, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="040°38'23''N" />
       <longitude value="073°46'44''W" />
@@ -1981,7 +1981,7 @@
     <gates value="121" />
   </airport>
   <airport name="Denver International" iata="DEN" type="International">
-    <town town="Denver, CO" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Denver, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="039°51'30''N" />
       <longitude value="104°40'01''W" />
@@ -1990,7 +1990,7 @@
     <gates value="138" />
   </airport>
   <airport name="Barajas" iata="MAD" type="International">
-    <town town="Madrid" country="Spain" GMT="02:00:00" DST="01:00:00" />
+    <town town="Madrid" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="040°28'20''N" />
       <longitude value="003°33'39''W" />
@@ -1999,7 +1999,7 @@
     <gates value="104" />
   </airport>
   <airport name="Capital" iata="PEK" type="International">
-    <town town="Beijing" country="China" GMT="08:00:00" DST="08:00:00" />
+    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="040°04'48''N" />
       <longitude value="116°35'04''E" />
@@ -2008,7 +2008,7 @@
     <gates value="120" />
   </airport>
   <airport name="Frankfurt Main" iata="FRA" type="International">
-    <town town="Frankfurt" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Frankfurt" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°01'35''N" />
       <longitude value="008°32'35''E" />
@@ -2017,7 +2017,7 @@
     <gates value="108" />
   </airport>
   <airport name="Dallas Fort Worth International" iata="DFW" type="International">
-    <town town="Dallas-fort Worth, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Dallas-fort Worth, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="032°53'47''N" />
       <longitude value="097°02'15''W" />
@@ -2026,7 +2026,7 @@
     <gates value="162" />
   </airport>
   <airport name="Charles De Gaulle" iata="CDG" type="International">
-    <town town="Paris" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Paris" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°00'46''N" />
       <longitude value="002°33'00''E" />
@@ -2035,7 +2035,7 @@
     <gates value="119" />
   </airport>
   <airport name="Los Angeles International" iata="LAX" type="International">
-    <town town="Los Angeles, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Los Angeles, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="033°56'33''N" />
       <longitude value="118°24'29''W" />
@@ -2044,7 +2044,7 @@
     <gates value="105" />
   </airport>
   <airport name="Tokyo International" iata="HND" type="International">
-    <town town="Tokyo" country="Japan" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="035°33'08''N" />
       <longitude value="139°46'46''E" />
@@ -2053,7 +2053,7 @@
     <gates value="133" />
   </airport>
   <airport name="Heathrow" iata="LHR" type="International">
-    <town town="London" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="London" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°28'39''N" />
       <longitude value="000°27'41''W" />
@@ -2062,7 +2062,7 @@
     <gates value="231" />
   </airport>
   <airport name="Chicago O'Hare International" iata="ORD" type="International">
-    <town town="Chicago, IL" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Chicago, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="041°58'46''N" />
       <longitude value="087°54'16''W" />
@@ -2071,7 +2071,7 @@
     <gates value="186" />
   </airport>
   <airport name="Hartsfield-Jackson Atlanta International Airport" iata="ATL" type="International">
-    <town town="Atlanta, GA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Atlanta, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="033°38'25''N" />
       <longitude value="084°25'37''W" />
@@ -2080,7 +2080,7 @@
     <gates value="196" />
   </airport>
   <airport name="Guararapes International Airport" iata="REC" type="International">
-    <town town="Recife" country="Brazil" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Recife" country="138" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="008°07'36''S" />
       <longitude value="034°55'22''W" />
@@ -2089,7 +2089,7 @@
     <gates value="13" />
   </airport>
   <airport name="Salgado Filho International Airport" iata="POA" type="International">
-    <town town="Porto Alegre " country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Porto Alegre " country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="029°59'39''S" />
       <longitude value="051°10'17''W" />
@@ -2098,7 +2098,7 @@
     <gates value="16" />
   </airport>
   <airport name="Kansai International Airport" iata="KIX" type="International">
-    <town town="Osaka" country="Japan" GMT="09:00:00" DST="09:00:00" />
+    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="034°25'38''N" />
       <longitude value="135°14'38''E" />
@@ -2107,7 +2107,7 @@
     <gates value="47" />
   </airport>
   <airport name="Jorge Newbery Airport" iata="AEP" type="International">
-    <town town="Buenos Aires" country="Argentina" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Buenos Aires" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="034°33'33''S" />
       <longitude value="058°24'56''W" />
@@ -2116,7 +2116,7 @@
     <gates value="12" />
   </airport>
   <airport name="Luis Munoz Marin International Airport" iata="SJU" type="International">
-    <town town="San Juan" country="Puerto Rico" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="San Juan" country="181" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="018°26'13''N" />
       <longitude value="066°00'04''W" />
@@ -2125,7 +2125,7 @@
     <gates value="17" />
   </airport>
   <airport name="Cancun International Airport" iata="CUN" type="International">
-    <town town="Cancun" country="Mexico" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Cancun" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="021°02'11''N" />
       <longitude value="086°52'37''W" />
@@ -2134,7 +2134,7 @@
     <gates value="44" />
   </airport>
   <airport name="Aeropuerto Internacional Jorge Chávez" iata="LIM" type="International">
-    <town town="Lima" country="Peru" GMT="-05:00:00" DST="-05:00:00" />
+    <town town="Lima" country="182" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="012°01'18''S" />
       <longitude value="077°06'51''W" />
@@ -2143,7 +2143,7 @@
     <gates value="28" />
   </airport>
   <airport name="Simón Bolívar International Airport of Maiquetia" iata="CCS" type="International">
-    <town town="Caracas" country="Venezuela" GMT="-04:30:00" DST="-04:30:00" />
+    <town town="Caracas" country="184" GMT="-04:30:00" DST="-04:30:00" />
     <coordinates>
       <latitude value="010°36'11''N" />
       <longitude value="066°59'26''W" />
@@ -2152,7 +2152,7 @@
     <gates value="26" />
   </airport>
   <airport name="Salvador Aeroporto" iata="SSA" type="International">
-    <town town="Salvador" country="Brazil" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Salvador" country="138" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="012°54'39''S" />
       <longitude value="038°19'51''W" />
@@ -2161,7 +2161,7 @@
     <gates value="15" />
   </airport>
   <airport name="Guadalajara International Airport" iata="GDL" type="International">
-    <town town="Guadalajara" country="Mexico" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Guadalajara" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="020°31'18''N" />
       <longitude value="103°18'40''W" />
@@ -2170,7 +2170,7 @@
     <gates value="17" />
   </airport>
   <airport name="Confins International Airport " iata="CNF" type="International">
-    <town town="Belo Horizonte" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Belo Horizonte" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="019°38'01''S" />
       <longitude value="043°58'07''W" />
@@ -2179,7 +2179,7 @@
     <gates value="14" />
   </airport>
   <airport name="Jeddah King Abdul Aziz International Airport " iata="JED" type="International">
-    <town town="Jeddah" country="Saudi Arabia" GMT="03:00:00" DST="03:00:00" />
+    <town town="Jeddah" country="136" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="021°40'46''N" />
       <longitude value="039°09'23''E" />
@@ -2188,7 +2188,7 @@
     <gates value="32" />
   </airport>
   <airport name="Sofia Airport" iata="SOF" type="International">
-    <town town="Sofia" country="Bulgaria" GMT="03:00:00" DST="02:00:00" />
+    <town town="Sofia" country="185" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="042°41'42''N" />
       <longitude value="023°24'22''E" />
@@ -2197,7 +2197,7 @@
     <gates value="14" />
   </airport>
   <airport name="Rhodes Airport " iata="RHO" type="International">
-    <town town="Rhodes" country="Greece" GMT="03:00:00" DST="02:00:00" />
+    <town town="Rhodes" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="036°24'19''N" />
       <longitude value="028°05'10''E" />
@@ -2206,7 +2206,7 @@
     <gates value="7" />
   </airport>
   <airport name="Wellington International Airport" iata="WLG" type="International">
-    <town town="Wellington" country="New Zealand" GMT="12:00:00" DST="13:00:00" />
+    <town town="Wellington" country="186" GMT="12:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="041°19'37''S" />
       <longitude value="174°48'19''E" />
@@ -2215,7 +2215,7 @@
     <gates value="23" />
   </airport>
   <airport name="Christchurch International Airport" iata="CHC" type="International">
-    <town town="Christchurch" country="New Zealand" GMT="12:00:00" DST="13:00:00" />
+    <town town="Christchurch" country="186" GMT="12:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="043°29'21''S" />
       <longitude value="172°31'55''E" />
@@ -2224,7 +2224,7 @@
     <gates value="21" />
   </airport>
   <airport name="Auckland International Airport" iata="AKL" type="International">
-    <town town="Auckland" country="New Zealand" GMT="12:00:00" DST="13:00:00" />
+    <town town="Auckland" country="186" GMT="12:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="037°00'29''S" />
       <longitude value="174°47'30''E" />
@@ -2233,7 +2233,7 @@
     <gates value="23" />
   </airport>
   <airport name="Cotonou Cadjehoun Airport" iata="COO" type="International">
-    <town town="Cotonou" country="Benin" GMT="01:00:00" DST="01:00:00" />
+    <town town="Cotonou" country="187" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="006°21'26''N" />
       <longitude value="002°23'03''E" />
@@ -2242,7 +2242,7 @@
     <gates value="3" />
   </airport>
   <airport name="Lomé-Tokoin Airport" iata="LFW" type="International">
-    <town town="Lomé" country="Togo" GMT="00:00:00" DST="00:00:00" />
+    <town town="Lomé" country="188" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="006°09'56''N" />
       <longitude value="001°15'16''E" />
@@ -2251,7 +2251,7 @@
     <gates value="2" />
   </airport>
   <airport name="Kotoka International Airport" iata="ACC" type="International">
-    <town town="Accra" country="Ghana" GMT="00:00:00" DST="00:00:00" />
+    <town town="Accra" country="189" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="005°36'18''N" />
       <longitude value="000°10'00''W" />
@@ -2260,7 +2260,7 @@
     <gates value="4" />
   </airport>
   <airport name="Ouagadougou Airport" iata="OUA" type="International">
-    <town town="Ouagadougou" country="Burkina Faso" GMT="00:00:00" DST="00:00:00" />
+    <town town="Ouagadougou" country="190" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="012°21'11''N" />
       <longitude value="001°30'44''W" />
@@ -2269,7 +2269,7 @@
     <gates value="2" />
   </airport>
   <airport name="Ajaccio-Napoléon-Bonaparte" iata="AJA" type="International">
-    <town town="Ajaccio" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Ajaccio" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°55'25''N" />
       <longitude value="008°48'10''E" />
@@ -2278,7 +2278,7 @@
     <gates value="5" />
   </airport>
   <airport name="Roland Garros Airport" iata="RUN" type="International">
-    <town town="Sainte-Marie" country="Reunion" GMT="00:00:00" DST="00:00:00" />
+    <town town="Sainte-Marie" country="143" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="002°05'19''S" />
       <longitude value="055°30'37''E" />
@@ -2287,7 +2287,7 @@
     <gates value="5" />
   </airport>
   <airport name="Sacramento International Airport" iata="SMF" type="International">
-    <town town="Sacramento, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Sacramento, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="038°41'42''N" />
       <longitude value="121°35'29''W" />
@@ -2296,7 +2296,7 @@
     <gates value="23" />
   </airport>
   <airport name="Raleigh-Durham International Airport" iata="RDU" type="International">
-    <town town="Morrisville, NC" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Morrisville, NC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="035°52'19''N" />
       <longitude value="078°47'06''W" />
@@ -2305,7 +2305,7 @@
     <gates value="32" />
   </airport>
   <airport name="Greater Cincinnati International Airport" iata="CVG" type="International">
-    <town town="Hebron, OH" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Hebron, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°02'51''N" />
       <longitude value="084°40'03''W" />
@@ -2314,7 +2314,7 @@
     <gates value="21" />
   </airport>
   <airport name="Port Columbus International Airport" iata="CMH" type="International">
-    <town town="Columbus, OH" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Columbus, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°59'58''N" />
       <longitude value="082°53'16''W" />
@@ -2323,7 +2323,7 @@
     <gates value="44" />
   </airport>
   <airport name="Southwest Florida International Airport" iata="RSW" type="International">
-    <town town="Fort Myers, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Fort Myers, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="026°32'10''N" />
       <longitude value="081°45'18''W" />
@@ -2332,7 +2332,7 @@
     <gates value="31" />
   </airport>
   <airport name="General Mitchell International Airport" iata="MKE" type="International">
-    <town town="Milwaukee, WI" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Milwaukee, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="042°56'48''N" />
       <longitude value="087°53'48''W" />
@@ -2341,7 +2341,7 @@
     <gates value="48" />
   </airport>
   <airport name="San Antonio International Airport" iata="SAT" type="International">
-    <town town="San Antonio, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="San Antonio, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="029°32'01''N" />
       <longitude value="098°28'12''W" />
@@ -2350,7 +2350,7 @@
     <gates value="27" />
   </airport>
   <airport name="Dallas Love Field" iata="DAL" type="International">
-    <town town="Dallas, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Dallas, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="032°50'49''N" />
       <longitude value="096°51'07''W" />
@@ -2359,7 +2359,7 @@
     <gates value="20" />
   </airport>
   <airport name="William P Hobby Airport" iata="HOU" type="International">
-    <town town="Houston, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="029°38'43''N" />
       <longitude value="095°16'43''W" />
@@ -2368,7 +2368,7 @@
     <gates value="26" />
   </airport>
   <airport name="Juan Santamaria" iata="SJO" type="International">
-    <town town="San José" country="Costa Rica" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="San José" country="192" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="009°59'37''N" />
       <longitude value="084°12'31''W" />
@@ -2377,7 +2377,7 @@
     <gates value="17" />
   </airport>
   <airport name="Guatemala Aeropuertola Aurora" iata="GUA" type="International">
-    <town town="Guatemala City " country="Guatemala" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Guatemala City " country="194" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="014°34'59''N" />
       <longitude value="090°31'38''W" />
@@ -2386,7 +2386,7 @@
     <gates value="13" />
   </airport>
   <airport name="Belize International Airport" iata="BZE" type="International">
-    <town town="Belize City" country="Belize" GMT="00:00:00" DST="00:00:00" />
+    <town town="Belize City" country="197" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="017°32'20''N" />
       <longitude value="008°49'50''W" />
@@ -2395,7 +2395,7 @@
     <gates value="7" />
   </airport>
   <airport name="Daniel Oduber International Airport" iata="LIR" type="International">
-    <town town="Liberia" country="Costa Rica" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Liberia" country="192" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="010°35'35''N" />
       <longitude value="085°32'39''W" />
@@ -2404,7 +2404,7 @@
     <gates value="5" />
   </airport>
   <airport name="Juan Manuel Galvez International Airport" iata="RTB" type="International">
-    <town town="Roatan" country="Honduras" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Roatan" country="196" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="016°19'00''N" />
       <longitude value="086°31'22''W" />
@@ -2413,7 +2413,7 @@
     <gates value="2" />
   </airport>
   <airport name="Mundo Maya International Airport" iata="FRS" type="International">
-    <town town="Tikal" country="Guatemala" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Tikal" country="194" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="016°54'49''N" />
       <longitude value="089°51'58''W" />
@@ -2422,7 +2422,7 @@
     <gates value="2" />
   </airport>
   <airport name="Augusto C. Sandino International Airport" iata="MGA" type="International">
-    <town town="Managua" country="Nicaragua" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Managua" country="195" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="012°08'29''N" />
       <longitude value="086°10'05''W" />
@@ -2431,7 +2431,7 @@
     <gates value="5" />
   </airport>
   <airport name="Cuscatlán International Airport" iata="SAL" type="International">
-    <town town="San Salvador" country="El Salvador" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="San Salvador" country="193" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="013°26'27''N" />
       <longitude value="089°03'30''W" />
@@ -2440,7 +2440,7 @@
     <gates value="17" />
   </airport>
   <airport name="Gothenburg-Landvetter Airport" iata="GOT" type="International">
-    <town town="Gothenburg" country="Sweden" GMT="02:00:00" DST="01:00:00" />
+    <town town="Gothenburg" country="168" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="057°39'46''N" />
       <longitude value="012°16'47''E" />
@@ -2449,7 +2449,7 @@
     <gates value="9" />
   </airport>
   <airport name="Stockholm/Skavsta" iata="NYO" type="International">
-    <town town="Nyköping" country="Sweden" GMT="02:00:00" DST="01:00:00" />
+    <town town="Nyköping" country="168" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="058°47'19''N" />
       <longitude value="016°54'43''E" />
@@ -2458,7 +2458,7 @@
     <gates value="4" />
   </airport>
   <airport name="Riga International Airport" iata="RIX" type="International">
-    <town town="Riga" country="Latvia" GMT="03:00:00" DST="02:00:00" />
+    <town town="Riga" country="102" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="056°55'24''N" />
       <longitude value="023°58'15''E" />
@@ -2467,7 +2467,7 @@
     <gates value="23" />
   </airport>
   <airport name="East Midlands Airport" iata="EMA" type="International">
-    <town town="Derby" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Derby" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="052°49'51''N" />
       <longitude value="001°19'41''W" />
@@ -2476,7 +2476,7 @@
     <gates value="7" />
   </airport>
   <airport name="Paphos International Airport" iata="PFO" type="International">
-    <town town="Paphos" country="Cyprus" GMT="03:00:00" DST="02:00:00" />
+    <town town="Paphos" country="154" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="034°43'04''N" />
       <longitude value="032°29'08''E" />
@@ -2485,7 +2485,7 @@
     <gates value="7" />
   </airport>
   <airport name="Frankfurt-Hahn" iata="HHN" type="International">
-    <town town="Kirchberg" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Kirchberg" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°56'55''N" />
       <longitude value="007°15'50''E" />
@@ -2494,7 +2494,7 @@
     <gates value="7" />
   </airport>
   <airport name="Francisco de Sá Carneiro Airport" iata="OPO" type="International">
-    <town town="Porto" country="Portugal" GMT="01:00:00" DST="00:00:00" />
+    <town town="Porto" country="150" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="041°14'53''N" />
       <longitude value="008°40'53''W" />
@@ -2503,7 +2503,7 @@
     <gates value="6" />
   </airport>
   <airport name="Bari / Palese Macchie" iata="BRI" type="International">
-    <town town="Bari" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bari" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°08'19''N" />
       <longitude value="016°45'38''E" />
@@ -2512,7 +2512,7 @@
     <gates value="4" />
   </airport>
   <airport name="Cagliari Elmas Airport" iata="CAG" type="International">
-    <town town="Cagliari" country="Italy" GMT="02:00:00" DST="01:00:00" />
+    <town town="Cagliari" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="039°15'05''N" />
       <longitude value="009°03'15''E" />
@@ -2521,7 +2521,7 @@
     <gates value="5" />
   </airport>
   <airport name="Bradley International Airport" iata="BDL" type="International">
-    <town town="Windsor Locks, CT" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Windsor Locks, CT" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="041°56'19''N" />
       <longitude value="072°40'57''W" />
@@ -2530,7 +2530,7 @@
     <gates value="24" />
   </airport>
   <airport name="Sir Seewoosagur Ramgoolam International Airport" iata="MRU" type="International">
-    <town town="Port Louis" country="Mauritius" GMT="00:00:00" DST="00:00:00" />
+    <town town="Port Louis" country="206" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="020°25'48''S" />
       <longitude value="005°46'06''E" />
@@ -2539,7 +2539,7 @@
     <gates value="4" />
   </airport>
   <airport name="Reno International Airport" iata="RNO" type="International">
-    <town town="Reno, NV" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Reno, NV" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="039°29'59''N" />
       <longitude value="119°46'04''W" />
@@ -2548,7 +2548,7 @@
     <gates value="23" />
   </airport>
   <airport name="Bonriki International Airport" iata="TRW" type="International">
-    <town town="South Tawara" country="Kiribati" GMT="12:00:00" DST="12:00:00" />
+    <town town="South Tawara" country="115" GMT="12:00:00" DST="12:00:00" />
     <coordinates>
       <latitude value="001°22'53''N" />
       <longitude value="173°08'49''E" />
@@ -2557,7 +2557,7 @@
     <gates value="2" />
   </airport>
   <airport name="Regina International Airport" iata="YQR" type="International">
-    <town town="Regina" country="Canada" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Regina" country="113" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="050°25'54''N" />
       <longitude value="104°39'56''W" />
@@ -2566,7 +2566,7 @@
     <gates value="6" />
   </airport>
   <airport name="Billy Bishop Toronto City Airport" iata="YTZ" type="International">
-    <town town="Toronto" country="Canada" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Toronto" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°37'39''N" />
       <longitude value="079°23'46''W" />
@@ -2575,7 +2575,7 @@
     <gates value="3" />
   </airport>
   <airport name="Jean Lesage International Airport" iata="YQB" type="International">
-    <town town="Quebec" country="Canada" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Quebec" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="046°47'32''N" />
       <longitude value="071°23'03''W" />
@@ -2584,7 +2584,7 @@
     <gates value="13" />
   </airport>
   <airport name="Saskatoon John G. Diefenbaker International" iata="YXE" type="International">
-    <town town="Saskatoon" country="Canada" GMT="-06:00:00" DST="-06:00:00" />
+    <town town="Saskatoon" country="113" GMT="-06:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="052°10'14''N" />
       <longitude value="106°41'58''W" />
@@ -2593,7 +2593,7 @@
     <gates value="5" />
   </airport>
   <airport name="St. John's International Airport" iata="YYT" type="International">
-    <town town="St. John's" country="Canada" GMT="-02:30:00" DST="-03:30:00" />
+    <town town="St. John's" country="113" GMT="-02:30:00" DST="-03:30:00" />
     <coordinates>
       <latitude value="047°37'06''N" />
       <longitude value="052°45'06''W" />
@@ -2602,7 +2602,7 @@
     <gates value="4" />
   </airport>
   <airport name="Kelowna International Airport" iata="YLW" type="International">
-    <town town="Kelowa" country="Canada" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Kelowa" country="113" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="049°57'21''N" />
       <longitude value="119°22'40''W" />
@@ -2611,7 +2611,7 @@
     <gates value="3" />
   </airport>
   <airport name="Winnipeg International Airport" iata="YWG" type="International">
-    <town town="Winnipeg" country="Canada" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Winnipeg" country="113" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="049°54'36''N" />
       <longitude value="097°14'23''W" />
@@ -2620,7 +2620,7 @@
     <gates value="9" />
   </airport>
   <airport name="Halifax International Airport" iata="YHZ" type="International">
-    <town town="Halifax" country="Canada" GMT="-03:00:00" DST="-04:00:00" />
+    <town town="Halifax" country="113" GMT="-03:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="044°52'50''N" />
       <longitude value="063°30'30''W" />
@@ -2629,7 +2629,7 @@
     <gates value="23" />
   </airport>
   <airport name="Nnamdi Azikiwe International Airport" iata="ABV" type="International">
-    <town town="Abuja" country="Nigeria" GMT="01:00:00" DST="01:00:00" />
+    <town town="Abuja" country="145" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="009°00'23''N" />
       <longitude value="007°15'51''E" />
@@ -2638,7 +2638,7 @@
     <gates value="8" />
   </airport>
   <airport name="Tripoli Inter-National Airport" iata="TIP" type="International">
-    <town town="Tripoli" country="Libya" GMT="02:00:00" DST="02:00:00" />
+    <town town="Tripoli" country="125" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="032°39'48''N" />
       <longitude value="013°09'32''E" />
@@ -2647,7 +2647,7 @@
     <gates value="0" />
   </airport>
   <airport name="Belfast International Airport " iata="BFS" type="International">
-    <town town="Belfast" country="United Kingdom" GMT="00:00:00" DST="00:00:00" />
+    <town town="Belfast" country="130" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="005°27'56''N" />
       <longitude value="006°12'56''W" />
@@ -2656,7 +2656,7 @@
     <gates value="6" />
   </airport>
   <airport name="George Best Belfast City Airport" iata="BHD" type="International">
-    <town town="Belfast" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Belfast" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="054°37'05''N" />
       <longitude value="000°35'14''W" />
@@ -2665,7 +2665,7 @@
     <gates value="3" />
   </airport>
   <airport name="Southampton Airport" iata="SOU" type="International">
-    <town town="Southampton" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Southampton" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="050°57'00''N" />
       <longitude value="000°08'08''W" />
@@ -2674,7 +2674,7 @@
     <gates value="5" />
   </airport>
   <airport name="Glasgow Prestwick Airport" iata="PIK" type="International">
-    <town town="Prestwick" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Prestwick" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="055°30'33''N" />
       <longitude value="004°35'12''W" />
@@ -2683,7 +2683,7 @@
     <gates value="4" />
   </airport>
   <airport name="Jersey Airport" iata="JER" type="International">
-    <town town="Saint Helier" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Saint Helier" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="049°12'29''N" />
       <longitude value="002°11'44''W" />
@@ -2692,7 +2692,7 @@
     <gates value="3" />
   </airport>
   <airport name="Cardiff Airport" iata="CWL" type="International">
-    <town town="Cardiff" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Cardiff" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="051°23'59''N" />
       <longitude value="003°21'00''W" />
@@ -2701,7 +2701,7 @@
     <gates value="3" />
   </airport>
   <airport name="Guernsey Airport" iata="GCI" type="International">
-    <town town="Guernsey" country="United Kingdom" GMT="01:00:00" DST="00:00:00" />
+    <town town="Guernsey" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="049°25'59''N" />
       <longitude value="002°36'00''W" />
@@ -2710,7 +2710,7 @@
     <gates value="2" />
   </airport>
   <airport name="Esenboğa International Airport" iata="ESB" type="International">
-    <town town="Ankara" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Ankara" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="040°07'59''N" />
       <longitude value="033°00'00''E" />
@@ -2719,7 +2719,7 @@
     <gates value="7" />
   </airport>
   <airport name="Hannover-Langenhagen Airport" iata="HAJ" type="International">
-    <town town="Hanover" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Hanover" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°27'39''N" />
       <longitude value="009°41'06''E" />
@@ -2728,7 +2728,7 @@
     <gates value="17" />
   </airport>
   <airport name="Nuremberg Airport" iata="NUE" type="International">
-    <town town="Nuremberg" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Nuremberg" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°29'54''N" />
       <longitude value="011°04'00''E" />
@@ -2737,7 +2737,7 @@
     <gates value="5" />
   </airport>
   <airport name="Mineta San Jose International Airport" iata="SJC" type="International">
-    <town town="San Jose, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="San Jose, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="037°21'10''N" />
       <longitude value="121°55'09''W" />
@@ -2746,7 +2746,7 @@
     <gates value="40" />
   </airport>
   <airport name="Chennai Airport" iata="HYD" type="International">
-    <town town="Hyderabad" country="India" GMT="05:30:00" DST="05:30:00" />
+    <town town="Hyderabad" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="017°27'11''N" />
       <longitude value="078°28'03''E" />
@@ -2755,7 +2755,7 @@
     <gates value="21" />
   </airport>
   <airport name="Nashville International" iata="BNA" type="International">
-    <town town="Nashville, TN" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Nashville, TN" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="036°07'27''N" />
       <longitude value="086°40'41''W" />
@@ -2764,7 +2764,7 @@
     <gates value="47" />
   </airport>
   <airport name="John Wayne" iata="SNA" type="International">
-    <town town="Santa Ana, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Santa Ana, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="033°40'00''N" />
       <longitude value="117°52'00''W" />
@@ -2773,7 +2773,7 @@
     <gates value="32" />
   </airport>
   <airport name="Austin-Bergstrom International" iata="AUS" type="International">
-    <town town="Austin, TX" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Austin, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="030°11'39''N" />
       <longitude value="097°40'12''W" />
@@ -2782,7 +2782,7 @@
     <gates value="25" />
   </airport>
   <airport name="Stockholm-Bromma Airport" iata="BMA" type="International">
-    <town town="Stockholm" country="Sweden" GMT="02:00:00" DST="01:00:00" />
+    <town town="Stockholm" country="168" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="059°21'10''N" />
       <longitude value="017°56'59''E" />
@@ -2791,7 +2791,7 @@
     <gates value="5" />
   </airport>
   <airport name="Tromso Airport" iata="TOS" type="International">
-    <town town="Tromso" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Tromso" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="069°40'53''N" />
       <longitude value="018°55'04''E" />
@@ -2800,7 +2800,7 @@
     <gates value="3" />
   </airport>
   <airport name="Bodø Airport" iata="BOO" type="International">
-    <town town="Bodo" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Bodo" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="067°16'00''N" />
       <longitude value="014°22'00''E" />
@@ -2809,7 +2809,7 @@
     <gates value="3" />
   </airport>
   <airport name="Malmö Airport" iata="MMX" type="International">
-    <town town="Malmo" country="Sweden" GMT="02:00:00" DST="01:00:00" />
+    <town town="Malmo" country="168" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="055°32'59''N" />
       <longitude value="013°22'00''E" />
@@ -2818,7 +2818,7 @@
     <gates value="8" />
   </airport>
   <airport name="Sandefjord Airport" iata="TRF" type="International">
-    <town town="Torp" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Torp" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="059°11'12''N" />
       <longitude value="010°15'30''E" />
@@ -2827,7 +2827,7 @@
     <gates value="6" />
   </airport>
   <airport name="Oulu Airport" iata="OUL" type="International">
-    <town town="Oulu" country="Finland" GMT="03:00:00" DST="02:00:00" />
+    <town town="Oulu" country="167" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="064°55'59''N" />
       <longitude value="025°22'00''E" />
@@ -2836,7 +2836,7 @@
     <gates value="3" />
   </airport>
   <airport name="Tampere-Pirkkala Airport" iata="TMP" type="International">
-    <town town="Tampere" country="Finland" GMT="03:00:00" DST="02:00:00" />
+    <town town="Tampere" country="167" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="061°24'55''N" />
       <longitude value="023°35'16''E" />
@@ -2845,7 +2845,7 @@
     <gates value="6" />
   </airport>
   <airport name="Vágar Airport" iata="FAE" type="International">
-    <town town="Sorvágur" country="Faroe Islands" GMT="01:00:00" DST="00:00:00" />
+    <town town="Sorvágur" country="112" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="062°03'48''N" />
       <longitude value="007°16'36''W" />
@@ -2854,7 +2854,7 @@
     <gates value="3" />
   </airport>
   <airport name="Pulkovo Airport" iata="LED" type="International">
-    <town town="St Petersburg" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="St Petersburg" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="059°57'00''N" />
       <longitude value="030°03'00''E" />
@@ -2863,7 +2863,7 @@
     <gates value="25" />
   </airport>
   <airport name="Domodedovo International Airport" iata="DME" type="International">
-    <town town="Moscow" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="055°25'09''N" />
       <longitude value="037°53'08''E" />
@@ -2872,7 +2872,7 @@
     <gates value="37" />
   </airport>
   <airport name="Lisbon Portela Airport" iata="LIS" type="International">
-    <town town="Lisbon" country="Portugal" GMT="01:00:00" DST="00:00:00" />
+    <town town="Lisbon" country="150" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="038°46'53''N" />
       <longitude value="009°08'08''W" />
@@ -2881,7 +2881,7 @@
     <gates value="19" />
   </airport>
   <airport name="Sabiha Gökçen International Airport" iata="SAW" type="International">
-    <town town="Istanbul" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Istanbul" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="040°53'54''N" />
       <longitude value="029°18'33''E" />
@@ -2890,7 +2890,7 @@
     <gates value="19" />
   </airport>
   <airport name="Toulouse-Blagnac Airport" iata="TLS" type="International">
-    <town town="Toulouse" country="France" GMT="02:00:00" DST="01:00:00" />
+    <town town="Toulouse" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°38'05''N" />
       <longitude value="001°22'04''E" />
@@ -2899,7 +2899,7 @@
     <gates value="14" />
   </airport>
   <airport name="Belgrade Nikola Tesla Airport" iata="BEG" type="International">
-    <town town="Belgrade" country="Serbia" GMT="02:00:00" DST="01:00:00" />
+    <town town="Belgrade" country="104" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="044°49'09''N" />
       <longitude value="020°18'24''E" />
@@ -2908,7 +2908,7 @@
     <gates value="14" />
   </airport>
   <airport name="Ljubljana Jože Pučnik Airport" iata="LJU" type="International">
-    <town town="Ljubljana" country="Slovenia" GMT="02:00:00" DST="01:00:00" />
+    <town town="Ljubljana" country="105" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="046°13'24''N" />
       <longitude value="014°27'26''E" />
@@ -2917,7 +2917,7 @@
     <gates value="7" />
   </airport>
   <airport name="Dubrovnik Airport" iata="DBV" type="International">
-    <town town="Dubrovnik" country="Croatia" GMT="02:00:00" DST="01:00:00" />
+    <town town="Dubrovnik" country="120" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="042°33'41''N" />
       <longitude value="018°16'05''E" />
@@ -2926,7 +2926,7 @@
     <gates value="4" />
   </airport>
   <airport name="Split Airport" iata="SPU" type="International">
-    <town town="Split" country="Croatia" GMT="02:00:00" DST="01:00:00" />
+    <town town="Split" country="120" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="043°31'59''N" />
       <longitude value="016°18'00''E" />
@@ -2935,7 +2935,7 @@
     <gates value="5" />
   </airport>
   <airport name="Vilnius International Airport" iata="VNO" type="International">
-    <town town="Vilnius" country="Lithuania" GMT="03:00:00" DST="02:00:00" />
+    <town town="Vilnius" country="103" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="054°37'59''N" />
       <longitude value="025°16'59''E" />
@@ -2944,7 +2944,7 @@
     <gates value="3" />
   </airport>
   <airport name="Kaunas Airport" iata="KUN" type="International">
-    <town town="Kaunas" country="Lithuania" GMT="03:00:00" DST="02:00:00" />
+    <town town="Kaunas" country="103" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="054°57'50''N" />
       <longitude value="023°05'04''E" />
@@ -2953,7 +2953,7 @@
     <gates value="2" />
   </airport>
   <airport name="Palanga International Airport" iata="PLQ" type="International">
-    <town town="Palanga" country="Lithuania" GMT="03:00:00" DST="02:00:00" />
+    <town town="Palanga" country="103" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="055°55'00''N" />
       <longitude value="021°03'00''E" />
@@ -2962,7 +2962,7 @@
     <gates value="2" />
   </airport>
   <airport name="Luxor International Airport" iata="LXR" type="International">
-    <town town="Luxor" country="Egypt" GMT="03:00:00" DST="02:00:00" />
+    <town town="Luxor" country="155" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="025°40'59''N" />
       <longitude value="032°42'00''E" />
@@ -2971,7 +2971,7 @@
     <gates value="8" />
   </airport>
   <airport name="Léopold Sédar Senghor International Airport" iata="DKR" type="International">
-    <town town="Dakar" country="Senegal" GMT="00:00:00" DST="00:00:00" />
+    <town town="Dakar" country="101" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="014°44'22''N" />
       <longitude value="017°29'25''W" />
@@ -2980,7 +2980,7 @@
     <gates value="5" />
   </airport>
   <airport name="José Martí International Airport" iata="HAV" type="International">
-    <town town="Havana" country="Cuba" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Havana" country="198" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="023°01'00''N" />
       <longitude value="082°22'59''W" />
@@ -2989,7 +2989,7 @@
     <gates value="17" />
   </airport>
   <airport name="Juan Gualberto Gomez Airport" iata="VRA" type="International">
-    <town town="Varadero" country="Cuba" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Varadero" country="198" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="023°07'59''N" />
       <longitude value="081°17'59''W" />
@@ -2998,7 +2998,7 @@
     <gates value="4" />
   </airport>
   <airport name="Viracopos-Campinas International Airport" iata="VCP" type="International">
-    <town town="Campinas" country="Brazil" GMT="-03:00:00" DST="-02:00:00" />
+    <town town="Campinas" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="023°00'27''S" />
       <longitude value="047°08'03''W" />
@@ -3007,7 +3007,7 @@
     <gates value="17" />
   </airport>
   <airport name="Phuket International Airport" iata="HKT" type="International">
-    <town town="Phuket" country="Thailand" GMT="07:00:00" DST="07:00:00" />
+    <town town="Phuket" country="175" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="008°06'47''N" />
       <longitude value="098°19'00''E" />
@@ -3016,7 +3016,7 @@
     <gates value="12" />
   </airport>
   <airport name="El Dorado International Airport" iata="BOG" type="International">
-    <town town="Bogota" country="Colombia" GMT="-05:00:00" DST="-05:00:00" />
+    <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="004°42'11''N" />
       <longitude value="074°08'17''W" />
@@ -3025,7 +3025,7 @@
     <gates value="34" />
   </airport>
   <airport name="Muscat International Airport" iata="MCT" type="International">
-    <town town="Muscat" country="Oman" GMT="04:00:00" DST="04:00:00" />
+    <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00" />
     <coordinates>
       <latitude value="023°37'59''N" />
       <longitude value="058°31'59''E" />
@@ -3034,7 +3034,7 @@
     <gates value="14" />
   </airport>
   <airport name="Polonia International Airport" iata="MES" type="International">
-    <town town="Medan" country="Indonesia" GMT="07:00:00" DST="07:00:00" />
+    <town town="Medan" country="162" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="003°34'00''N" />
       <longitude value="098°40'59''E" />
@@ -3043,7 +3043,7 @@
     <gates value="14" />
   </airport>
   <airport name="Bandaranaike International Airport" iata="CMB" type="International">
-    <town town="Colombo" country="Sri Lanka" GMT="05:30:00" DST="05:30:00" />
+    <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="007°10'45''N" />
       <longitude value="079°52'59''E" />
@@ -3052,7 +3052,7 @@
     <gates value="14" />
   </airport>
   <airport name="Mashhad International Airport" iata="MHD" type="International">
-    <town town="Mashad" country="Iran" GMT="04:30:00" DST="03:30:00" />
+    <town town="Mashad" country="177" GMT="04:30:00" DST="03:30:00" />
     <coordinates>
       <latitude value="036°14'20''N" />
       <longitude value="059°38'17''E" />
@@ -3061,7 +3061,7 @@
     <gates value="12" />
   </airport>
   <airport name="Noi Bai International Airport" iata="HAN" type="International">
-    <town town="Hanoi" country="Vietnam" GMT="07:00:00" DST="07:00:00" />
+    <town town="Hanoi" country="170" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="021°13'15''N" />
       <longitude value="105°48'25''E" />
@@ -3070,7 +3070,7 @@
     <gates value="14" />
   </airport>
   <airport name="Pinto Martins International Airport" iata="FOR" type="International">
-    <town town="Fortaleza" country="Brazil" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Fortaleza" country="138" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="003°46'35''S" />
       <longitude value="038°31'56''W" />
@@ -3079,7 +3079,7 @@
     <gates value="11" />
   </airport>
   <airport name="Adnan Menderes Airport" iata="ADB" type="International">
-    <town town="Izmir" country="Turkey" GMT="03:00:00" DST="02:00:00" />
+    <town town="Izmir" country="161" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="038°17'32''N" />
       <longitude value="027°09'24''E" />
@@ -3088,7 +3088,7 @@
     <gates value="35" />
   </airport>
   <airport name="Hurghada International Airport" iata="HRG" type="International">
-    <town town="Hurghada" country="Egypt" GMT="03:00:00" DST="02:00:00" />
+    <town town="Hurghada" country="155" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="027°10'41''N" />
       <longitude value="033°47'57''E" />
@@ -3097,7 +3097,7 @@
     <gates value="9" />
   </airport>
   <airport name="McCarran International Airport" iata="LAS" type="International">
-    <town town="Las Vegas, NV" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Las Vegas, NV" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="036°04'59''N" />
       <longitude value="115°10'00''W" />
@@ -3106,7 +3106,7 @@
     <gates value="104" />
   </airport>
   <airport name="Leipzig-Altenburg Airport" iata="AOC" type="International">
-    <town town="Altenburg" country="Germany" GMT="02:00:00" DST="01:00:00" />
+    <town town="Altenburg" country="163" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°58'59''N" />
       <longitude value="012°30'29''E" />
@@ -3115,7 +3115,7 @@
     <gates value="2" />
   </airport>
   <airport name="Austin Straubel International Airport" iata="GRB" type="International">
-    <town town="Green Bay, WI" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Green Bay, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="044°28'59''N" />
       <longitude value="088°07'59''W" />
@@ -3124,7 +3124,7 @@
     <gates value="6" />
   </airport>
   <airport name="Wichita Mid-Continent Airport" iata="ICT" type="International">
-    <town town="Wichita, KS" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Wichita, KS" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="037°38'59''N" />
       <longitude value="097°25'59''W" />
@@ -3133,7 +3133,7 @@
     <gates value="11" />
   </airport>
   <airport name="Huntsville International Airport" iata="HSV" type="International">
-    <town town="Huntsville, AL" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Huntsville, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="034°38'13''N" />
       <longitude value="086°46'30''W" />
@@ -3142,7 +3142,7 @@
     <gates value="12" />
   </airport>
   <airport name="Jackson-Evers International Airport" iata="JAN" type="International">
-    <town town="Jackson, MS" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Jackson, MS" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="032°18'39''N" />
       <longitude value="090°04'32''W" />
@@ -3151,7 +3151,7 @@
     <gates value="19" />
   </airport>
   <airport name="Greenville Spartanbur Int'l Airport" iata="GSP" type="International">
-    <town town="Greenville, SC" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Greenville, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="034°53'44''N" />
       <longitude value="082°13'08''W" />
@@ -3160,7 +3160,7 @@
     <gates value="13" />
   </airport>
   <airport name="Palm Springs International Airport" iata="PSP" type="International">
-    <town town="Palm Springs, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Palm Springs, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="033°49'59''N" />
       <longitude value="116°30'00''W" />
@@ -3169,7 +3169,7 @@
     <gates value="15" />
   </airport>
   <airport name="Dane County Regional Airport" iata="MSN" type="Domestic">
-    <town town="Madison, WI" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Madison, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="043°08'23''N" />
       <longitude value="089°20'15''W" />
@@ -3178,7 +3178,7 @@
     <gates value="13" />
   </airport>
   <airport name="Ronald Reagan Washington National Airport" iata="DCA" type="International">
-    <town town="Washington, DC" country="United States" GMT="-03:00:00" DST="-04:00:00" />
+    <town town="Washington, DC" country="122" GMT="-03:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="031°51'08''N" />
       <longitude value="077°02'16''W" />
@@ -3187,7 +3187,7 @@
     <gates value="35" />
   </airport>
   <airport name="McGhee Tyson Airport" iata="TYS" type="Domestic">
-    <town town="Knoxville, TN" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Knoxville, TN" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="035°57'00''N" />
       <longitude value="083°55'00''W" />
@@ -3196,7 +3196,7 @@
     <gates value="23" />
   </airport>
   <airport name="Springfield-Branson National Airport" iata="SGF" type="Domestic">
-    <town town="Springfield, MO" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Springfield, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="037°15'00''N" />
       <longitude value="093°22'59''W" />
@@ -3205,7 +3205,7 @@
     <gates value="19" />
   </airport>
   <airport name="Orlando Sanford International Airport" iata="SFB" type="Domestic">
-    <town town="Sanford, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Sanford, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="028°46'59''N" />
       <longitude value="081°15'00''W" />
@@ -3214,7 +3214,7 @@
     <gates value="22" />
   </airport>
   <airport name="Charleston International Airport" iata="CHS" type="International">
-    <town town="Charleston, SC" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Charleston, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="032°53'54''N" />
       <longitude value="080°02'26''W" />
@@ -3223,7 +3223,7 @@
     <gates value="18" />
   </airport>
   <airport name="Savannah/Hilton Head International Airport" iata="SAV" type="International">
-    <town town="Savannah, GA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Savannah, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="032°07'59''N" />
       <longitude value="081°12'00''W" />
@@ -3232,7 +3232,7 @@
     <gates value="15" />
   </airport>
   <airport name="Colorado Springs Airport" iata="COS" type="Domestic">
-    <town town="Colorado Springs, CO" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Colorado Springs, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="038°49'00''N" />
       <longitude value="104°43'00''W" />
@@ -3241,7 +3241,7 @@
     <gates value="16" />
   </airport>
   <airport name="Gerald R. Ford International Airport" iata="GRR" type="Regional">
-    <town town="Grand Rapids, MI" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Grand Rapids, MI" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="042°52'59''N" />
       <longitude value="085°31'59''W" />
@@ -3250,7 +3250,7 @@
     <gates value="25" />
   </airport>
   <airport name="Svalbard Airport" iata="LYR" type="Domestic">
-    <town town="Longyearbyen" country="Norway" GMT="02:00:00" DST="01:00:00" />
+    <town town="Longyearbyen" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="078°11'30''N" />
       <longitude value="015°54'00''E" />
@@ -3259,7 +3259,7 @@
     <gates value="3" />
   </airport>
   <airport name="Northwest Arkansas Regional Airport" iata="XNA" type="Domestic">
-    <town town="Fayetteville, AR" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Fayetteville, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="036°16'54''N" />
       <longitude value="094°18'24''W" />
@@ -3268,7 +3268,7 @@
     <gates value="8" />
   </airport>
   <airport name="Syracuse Hancock International Airport" iata="SYR," type="International">
-    <town town="Syracuse, NY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Syracuse, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°07'00''N" />
       <longitude value="076°07'00''W" />
@@ -3277,7 +3277,7 @@
     <gates value="11" />
   </airport>
   <airport name="Long Island MacArthur Airport" iata="ISP" type="Domestic">
-    <town town="Islip, NY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Islip, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="040°47'43''N" />
       <longitude value="073°06'01''W" />
@@ -3286,7 +3286,7 @@
     <gates value="13" />
   </airport>
   <airport name="Little Rock National Airport" iata="LIT" type="Domestic">
-    <town town="Little Rock, AR" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Little Rock, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="034°43'45''N" />
       <longitude value="092°13'27''W" />
@@ -3295,7 +3295,7 @@
     <gates value="16" />
   </airport>
   <airport name="Lihue Airport" iata="LIH" type="Regional">
-    <town town="Kauai Island, HI" country="United States" GMT="-10:00:00" DST="-10:00:00" />
+    <town town="Kauai Island, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
     <coordinates>
       <latitude value="021°58'59''N" />
       <longitude value="159°20'59''W" />
@@ -3304,7 +3304,7 @@
     <gates value="14" />
   </airport>
   <airport name="Dayton International Airport" iata="DAY" type="International">
-    <town town="Dayton, OH" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Dayton, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°45'00''N" />
       <longitude value="084°10'59''W" />
@@ -3313,7 +3313,7 @@
     <gates value="14" />
   </airport>
   <airport name="Pensacola Gulf Coast Regional Airport" iata="PNS" type="Domestic">
-    <town town="Pensacola, FL" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Pensacola, FL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="030°28'00''N" />
       <longitude value="087°10'59''W" />
@@ -3322,7 +3322,7 @@
     <gates value="12" />
   </airport>
   <airport name="Antonio B. Won Pat International Airport" iata="GUM" type="International">
-    <town town="Hagåtña, GU" country="United States" GMT="10:00:00" DST="10:00:00" />
+    <town town="Hagåtña, GU" country="122" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="013°29'02''N" />
       <longitude value="144°47'49''E" />
@@ -3331,7 +3331,7 @@
     <gates value="17" />
   </airport>
   <airport name="Albany International Airport" iata="ALB" type="International">
-    <town town="Albany, NY" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Albany, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="042°43'59''N" />
       <longitude value="073°47'59''W" />
@@ -3340,7 +3340,7 @@
     <gates value="14" />
   </airport>
   <airport name="Kona International Airport" iata="KOA" type="International">
-    <town town="Kona, HI" country="United States" GMT="-10:00:00" DST="-10:00:00" />
+    <town town="Kona, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
     <coordinates>
       <latitude value="019°44'20''N" />
       <longitude value="156°02'44''W" />
@@ -3349,7 +3349,7 @@
     <gates value="13" />
   </airport>
   <airport name="Tulsa International Airport" iata="TUL" type="International">
-    <town town="Tulsa, OK" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Tulsa, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="036°11'53''N" />
       <longitude value="095°53'17''W" />
@@ -3358,7 +3358,7 @@
     <gates value="17" />
   </airport>
   <airport name="Richmond International Airport" iata="RIC" type="International">
-    <town town="Richmond, VA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Richmond, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="037°30'00''N" />
       <longitude value="077°19'00''W" />
@@ -3367,7 +3367,7 @@
     <gates value="21" />
   </airport>
   <airport name="Boise Airport" iata="BOI" type="Domestic">
-    <town town="Boise, ID" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Boise, ID" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="043°33'51''N" />
       <longitude value="116°13'22''W" />
@@ -3376,7 +3376,7 @@
     <gates value="12" />
   </airport>
   <airport name="El Paso International Airport" iata="ELP" type="International">
-    <town town="El Paso, TX" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="El Paso, TX" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="031°48'00''N" />
       <longitude value="106°22'59''W" />
@@ -3385,7 +3385,7 @@
     <gates value="15" />
   </airport>
   <airport name="Will Rogers World Airport" iata="OKC" type="Regional">
-    <town town="Oklahoma City, OK" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Oklahoma City, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="035°23'35''N" />
       <longitude value="097°36'02''W" />
@@ -3394,7 +3394,7 @@
     <gates value="17" />
   </airport>
   <airport name="Sangster International Airport" iata="MBJ" type="International">
-    <town town="Montego Bay" country="Jamaica" GMT="-05:00:00" DST="-05:00:00" />
+    <town town="Montego Bay" country="199" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="018°30'00''N" />
       <longitude value="077°55'00''W" />
@@ -3403,7 +3403,7 @@
     <gates value="5" />
   </airport>
   <airport name="Princess Juliana International Airport" iata="SXM" type="International">
-    <town town="Philipsburg" country="Antilles" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Philipsburg" country="109" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="018°02'26''N" />
       <longitude value="063°06'32''W" />
@@ -3412,7 +3412,7 @@
     <gates value="11" />
   </airport>
   <airport name="Lviv International Airport" iata="LWO" type="International">
-    <town town="Lviv" country="Ukraine" GMT="03:00:00" DST="02:00:00" />
+    <town town="Lviv" country="134" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="049°48'45''N" />
       <longitude value="023°57'21''E" />
@@ -3421,7 +3421,7 @@
     <gates value="3" />
   </airport>
   <airport name="Kangerlussuaq Airport" iata="SFJ" type="International">
-    <town town="Kangerlussuaq" country="Greenland" GMT="-02:00:00" DST="-03:00:00" />
+    <town town="Kangerlussuaq" country="111" GMT="-02:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="067°01'00''N" />
       <longitude value="050°41'21''W" />
@@ -3430,7 +3430,7 @@
     <gates value="2" />
   </airport>
   <airport name="Koltsovo International Airport" iata="SVX" type="International">
-    <town town="Ekaterinburg" country="Russia" GMT="06:00:00" DST="05:00:00" />
+    <town town="Ekaterinburg" country="149" GMT="06:00:00" DST="05:00:00" />
     <coordinates>
       <latitude value="056°51'00''N" />
       <longitude value="060°36'00''E" />
@@ -3439,7 +3439,7 @@
     <gates value="10" />
   </airport>
   <airport name="Krasnodar International Airport" iata="KRR" type="International">
-    <town town="Krasnodar" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="Krasnodar" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="045°02'04''N" />
       <longitude value="039°10'14''E" />
@@ -3448,7 +3448,7 @@
     <gates value="5" />
   </airport>
   <airport name="Volgograd International Airport" iata="VOG" type="International">
-    <town town="Volgograd" country="Russia" GMT="04:00:00" DST="03:00:00" />
+    <town town="Volgograd" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="048°45'00''N" />
       <longitude value="044°30'00''E" />
@@ -3457,7 +3457,7 @@
     <gates value="4" />
   </airport>
   <airport name="Eppley Airfield" iata="OMA" type="Domestic">
-    <town town="Omaha, NE" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Omaha, NE" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="041°17'59''N" />
       <longitude value="095°54'00''W" />
@@ -3466,7 +3466,7 @@
     <gates value="20" />
   </airport>
   <airport name="Portland International Jetport" iata="PWM" type="Domestic">
-    <town town="Portland, OR" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Portland, OR" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°38'59''N" />
       <longitude value="070°17'59''W" />
@@ -3475,7 +3475,7 @@
     <gates value="12" />
   </airport>
   <airport name="Birmingham-Shuttlesworth International" iata="BHM" type="Domestic">
-    <town town="Birmingham, AL" country="United States" GMT="-05:00:00" DST="-06:00:00" />
+    <town town="Birmingham, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="033°34'00''N" />
       <longitude value="086°45'00''W" />
@@ -3484,7 +3484,7 @@
     <gates value="5" />
   </airport>
   <airport name="T. F. Green Airport" iata="PVD" type="Regional">
-    <town town="Providence, RI" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Providence, RI" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="041°43'59''N" />
       <longitude value="071°25'59''W" />
@@ -3493,7 +3493,7 @@
     <gates value="22" />
   </airport>
   <airport name="L.F. Wade International Airport" iata="BDA" type="International">
-    <town town="St. George's" country="Bermuda" GMT="-03:00:00" DST="-04:00:00" />
+    <town town="St. George's" country="200" GMT="-03:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="032°21'51''N" />
       <longitude value="064°40'42''W" />
@@ -3502,7 +3502,7 @@
     <gates value="8" />
   </airport>
   <airport name="Gibraltar Airport" iata="GIB" type="International">
-    <town town="Gibraltar" country="Gibraltar" GMT="02:00:00" DST="01:00:00" />
+    <town town="Gibraltar" country="201" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="036°08'59''N" />
       <longitude value="005°20'59''W" />
@@ -3511,7 +3511,7 @@
     <gates value="4" />
   </airport>
   <airport name="Jinnah International Airport" iata="KHI" type="International">
-    <town town="Karachi" country="Pakistan" GMT="05:00:00" DST="05:00:00" />
+    <town town="Karachi" country="202" GMT="05:00:00" DST="05:00:00" />
     <coordinates>
       <latitude value="024°54'24''N" />
       <longitude value="067°09'38''E" />
@@ -3520,7 +3520,7 @@
     <gates value="12" />
   </airport>
   <airport name="Norfolk International Airport" iata="ORF" type="Domestic">
-    <town town="Norfolk, VA" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Norfolk, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="036°53'59''N" />
       <longitude value="076°12'00''W" />
@@ -3529,7 +3529,7 @@
     <gates value="30" />
   </airport>
   <airport name="Nassau International" iata="NAS" type="International">
-    <town town="Nassau" country="Bahamas" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Nassau" country="203" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="025°02'20''N" />
       <longitude value="077°27'57''W" />
@@ -3538,7 +3538,7 @@
     <gates value="34" />
   </airport>
   <airport name="Cyril E. King Airport" iata="STT" type="International">
-    <town town="Saint Thomas" country="Virgin Islands US" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="018°20'13''N" />
       <longitude value="064°58'23''W" />
@@ -3547,7 +3547,7 @@
     <gates value="11" />
   </airport>
   <airport name="Piarco International Airport" iata="POS" type="International">
-    <town town="Port Of Spain" country="Trinidad &amp; Tobago" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Port Of Spain" country="205" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="010°39'00''N" />
       <longitude value="061°31'00''W" />
@@ -3556,7 +3556,7 @@
     <gates value="16" />
   </airport>
   <airport name="Albuquerque International Sunport" iata="ABQ" type="International">
-    <town town="Albuquerque, NM" country="United States" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Albuquerque, NM" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="035°02'25''N" />
       <longitude value="106°36'33''W" />
@@ -3565,7 +3565,7 @@
     <gates value="25" />
   </airport>
   <airport name="Palm Beach International Airport" iata="PBI" type="International">
-    <town town="West Palm Beach, FL" country="United States" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="West Palm Beach, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="026°40'59''N" />
       <longitude value="080°05'44''W" />
@@ -3574,7 +3574,7 @@
     <gates value="24" />
   </airport>
   <airport name="Bob Hope Airport" iata="BUR" type="Domestic">
-    <town town="Burbank, CA" country="United States" GMT="-07:00:00" DST="-08:00:00" />
+    <town town="Burbank, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
       <latitude value="034°12'00''N" />
       <longitude value="118°20'59''W" />
@@ -3583,7 +3583,7 @@
     <gates value="14" />
   </airport>
   <airport name="Kota Kinabalu International Airport" iata="BKI" type="International">
-    <town town="Kota Kinabalu" country="Malaysia" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kota Kinabalu" country="173" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="005°56'13''N" />
       <longitude value="116°02'59''E" />
@@ -3592,7 +3592,7 @@
     <gates value="14" />
   </airport>
   <airport name="Penang International Airport" iata="PEN" type="International">
-    <town town="Penang" country="Malaysia" GMT="08:00:00" DST="08:00:00" />
+    <town town="Penang" country="173" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="005°17'59''N" />
       <longitude value="100°16'00''E" />
@@ -3601,7 +3601,7 @@
     <gates value="12" />
   </airport>
   <airport name="Kuching International Airport" iata="KCH" type="International">
-    <town town="Kuching" country="Malaysia" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="001°29'04''N" />
       <longitude value="110°20'48''E" />
@@ -3610,7 +3610,7 @@
     <gates value="9" />
   </airport>
   <airport name="Chiang Mai International Airport" iata="CNX" type="International">
-    <town town="Chiang Mai" country="Thailand" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chiang Mai" country="175" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="018°46'05''N" />
       <longitude value="098°57'46''E" />
@@ -3619,7 +3619,7 @@
     <gates value="8" />
   </airport>
   <airport name="Karup Airport" iata="KRP" type="Domestic">
-    <town town="Karup" country="Denmark" GMT="02:00:00" DST="01:00:00" />
+    <town town="Karup" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="056°17'59''N" />
       <longitude value="009°07'00''E" />
@@ -3628,7 +3628,7 @@
     <gates value="3" />
   </airport>
   <airport name="King Shaka International Airport" iata="DUR" type="International">
-    <town town="Durban" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="029°58'11''S" />
       <longitude value="030°57'02''E" />
@@ -3637,7 +3637,7 @@
     <gates value="34" />
   </airport>
   <airport name="Mafikeng International Airport" iata="MBD" type="International">
-    <town town="Mmabatho" country="South Africa" GMT="02:00:00" DST="02:00:00" />
+    <town town="Mmabatho" country="158" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="025°47'53''S" />
       <longitude value="025°32'53''E" />

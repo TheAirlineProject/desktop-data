@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manufacturers>
-  <manufacturer name="Airbus" shortname="Airbus" country="France"/>
-  <manufacturer name="The Boeing Company" shortname="Boeing" country="United States"/>
-  <manufacturer name="Bombardier Aerospace" shortname="Bombardier" country="Canada"/>
-  <manufacturer name="Empresa Brasileira de Aeronáutica" shortname="Embraer" country="Brazil"/>
-  <manufacturer name="Avions de Transport Régional" shortname="ATR" country="Italy"/>
-  <manufacturer name="McDonnell Douglas" shortname="MD" country="United States"/>
-  <manufacturer name="Douglas" shortname="Douglas" country="United States"/>
-  <manufacturer name="Fokker" shortname="Fokker" country="Netherlands"/>
-  <manufacturer name="British Aerospace" shortname="BAe" country="United Kingdom"/>
-  <manufacturer name="Beechcraft" shortname="Beechcraft" country="United States"/>
-  <manufacturer name="Dornier Flugzeugwerke" shortname="Dornier" country="Germany"/>
-  <manufacturer name="Fairchild Dornier" shortname="FD" country="United States"/>
-  <manufacturer name="Saab AB" shortname="Saab" country="Sweden"/>
-  <manufacturer name="Lockheed Corporation" shortname="Lockheed" country="United States"/>
-  <manufacturer name="British Aircraft Corporation" shortname="BAC" country="United Kingdom"/>
-  <manufacturer name="Convair" shortname="Convair" country="United States"/>
+  <manufacturer name="Airbus" shortname="Airbus" country="140"/>
+  <manufacturer name="The Boeing Company" shortname="Boeing" country="122"/>
+  <manufacturer name="Bombardier Aerospace" shortname="Bombardier" country="113"/>
+  <manufacturer name="Empresa Brasileira de Aeronáutica" shortname="Embraer" country="138"/>
+  <manufacturer name="Avions de Transport Régional" shortname="ATR" country="141"/>
+  <manufacturer name="McDonnell Douglas" shortname="MD" country="122"/>
+  <manufacturer name="Douglas" shortname="Douglas" country="122"/>
+  <manufacturer name="Fokker" shortname="Fokker" country="179"/>
+  <manufacturer name="British Aerospace" shortname="BAe" country="130"/>
+  <manufacturer name="Beechcraft" shortname="Beechcraft" country="122"/>
+  <manufacturer name="Dornier Flugzeugwerke" shortname="Dornier" country="163"/>
+  <manufacturer name="Fairchild Dornier" shortname="FD" country="122"/>
+  <manufacturer name="Saab AB" shortname="Saab" country="168"/>
+  <manufacturer name="Lockheed Corporation" shortname="Lockheed" country="122"/>
+  <manufacturer name="British Aircraft Corporation" shortname="BAC" country="130"/>
+  <manufacturer name="Convair" shortname="Convair" country="122"/>
 </manufacturers>
