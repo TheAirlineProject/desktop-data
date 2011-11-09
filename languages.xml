@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Translator>
 <Languages>
 	<Language culture="en-US" name="English (US)" flag="United States.png" UnitSystem="Imperial">
@@ -757,6 +757,236 @@
 			<en-GB name="Exit Game" />
 			<de-DE name="Spiel beenden" />
 			<en-US name="Exit Game" />
+		</Text>
+</Region>
+<Region name="MessageBox">
+		<!-- BEGIN - Helpers -->
+		<Text uid="101">
+			<en-GB name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
+			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.\nLaden des Spiels wurde abgebrochen." />
+			<en-US name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
+		</Text>
+		<!-- END - Helpers -->
+		<!-- BEGIN - General Model -->
+		<Text uid="1001">
+			<en-GB name="New game" message="Are you sure you want to start a new game?" />
+			<de-DE name="Neues Spiel" message="Sind Sie sicher, daß Sie ein neues Spiel beginnen möchten?" />
+			<en-US name="New game" message="Are you sure you want to start a new game?" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="Load game" message="Are you sure you want to load a saved game?" />
+			<de-DE name="Spiel laden" message="Sind Sie sicher, daß Sie ein gespeichertes Spiel laden möchten?" />
+			<en-US name="Load game" message="Are you sure you want to load a saved game?" />
+		</Text>
+		<Text uid="1003">
+			<en-GB name="Exit game" message="Are you sure you want to exit the game?" />
+			<de-DE name="Spiel beenden" message="Sind Sie sicher, daß Sie das Spiel beenden möchten?" />
+			<en-US name="Exit game" message="Are you sure you want to exit the game?" />
+		</Text>
+		<Text uid="1004">
+			<en-GB name="Success" message="The airport has been saved to the database." />
+			<de-DE name="Erfolg" message="Der Flughafen wurde in der Datenbank gespeichert." />
+			<en-US name="Success" message="The airport has been saved to the database." />
+		</Text>
+		<Text uid="1005">
+			<en-GB name="Error" message="The airport can't be saved to the database." />
+			<de-DE name="Fehler" message="Der Flughafen kann in der Datenbank nicht gespeichert werden." />
+			<en-US name="Error" message="The airport can't be saved to the database." />
+		</Text>
+		<Text uid="1006">
+			<en-GB name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
+			<de-DE name="Fehler" message="Der Flughafen existiert bereits, oder der gesuchte IATA-Code kann in der Datenbank nicht gefunden werden." />
+			<en-US name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
+		</Text>
+		<!-- END - General Model -->
+		<!-- BEGIN - Airliner Model -->
+		<Text uid="2000">
+			<en-GB name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
+			<de-DE name="Kein Heimatstützpunkt verfügbar" message="Sie haben keinen Heimatstützpunkt zur Verfügung und können das Flugzeug somit nicht kaufen." />
+			<en-US name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
+		</Text>
+		<Text uid="2001">
+			<en-GB name="Not enough money" message="You don't have any money to order this airliner." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu bestellen." />
+			<en-US name="Not enough money" message="You don't have any money to order this airliner." />
+		</Text>
+		<Text uid="2002">
+			<en-GB name="No homebase" message="You haven't selected a home base for this airliner." />
+			<de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgewählt." />
+			<en-US name="No homebase" message="You haven't selected a home base for this airliner." />
+		</Text>
+		<Text uid="2003">
+			<en-GB name="Order airliner" message="Are you sure you want to order a {0}?" />
+			<de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie ein {0} bestellen wollen?" />
+			<en-US name="Order airliner" message="Are you sure you want to order a {0}?" />
+		</Text>
+		<Text uid="2004">
+			<en-GB name="Not enough money" message="You don't have any money to lease this airliner." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu leasen." />
+			<en-US name="Not enough money" message="You don't have any money to lease this airliner." />
+		</Text>
+		<Text uid="2005">
+			<en-GB name="Lease airliner" message="Are you sure you want to lease this {0}?" />
+			<de-DE name="Flugzeug leasen" message="Sind Sie sicher daß Sie diese {0} leasen wollen?" />
+			<en-US name="Lease airliner" message="Are you sure you want to lease this {0}?" />
+		</Text>
+		<Text uid="2006">
+			<en-GB name="Not enough money" message="You don't have any money to buy this airliner." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen." />
+			<en-US name="Not enough money" message="You don't have any money to buy this airliner." />
+		</Text>
+		<Text uid="2007">
+			<en-GB name="Buy airliner" message="Are you sure you want to buy this {0}?" />
+			<de-DE name="Flugzeug kaufen" message="Sind Sie sicher daß Sie diese {0} kaufen wollen?" />
+			<en-US name="Buy airliner" message="Are you sure you want to buy this {0}?" />
+		</Text>
+		<!-- END - Airliner Model -->
+		<!-- BEGIN - Airline Model -->
+		<Text uid="2101">
+			<en-GB name="Not enough money" message="You don't have enough money to buy these facilities." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
+			<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
+		</Text>
+		<Text uid="2102">
+			<en-GB name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
+			<de-DE name="Ausstattung kaufen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement für die Fluglinie kaufen wollen?" />
+			<en-US name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
+		</Text>
+		<Text uid="2103">
+			<en-GB name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
+			<de-DE name="Ausstattung entfernen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement der Fluglinie entfernen wollen?" />
+			<en-US name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
+		</Text>
+		<Text uid="2104">
+			<en-GB name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
+			<de-DE name="Ungültiger Betrag" message="Bitte geben Sie einen gültigen Ratenbetrag für die Rückzahlung der Anleihe ein." />
+			<en-US name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
+		</Text>
+		<Text uid="2105">
+			<en-GB name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
+			<de-DE name="Anleihe zurückzahlen" message="Sind Sie sicher, daß Sie den Betrag {0;c} auf die Anleihe zurückzahlen möchten?" />
+			<en-US name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
+		</Text>
+		<Text uid="2106">
+			<en-GB name="Sell airliner" message="Are you sure you want to sell {0}?" />
+			<de-DE name="Flugzeug verkaufen" message="Sind Sie sicher, daß Sie {0} verkaufen möchten?" />
+			<en-US name="Sell airliner" message="Are you sure you want to sell {0}?" />
+		</Text>
+		<Text uid="2107">
+			<en-GB name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
+			<de-DE name="Leasingvertrag kündigen" message="Sind Sie sicher, daß Sie den Leasingvertrag von {0} beenden möchten?" />
+			<en-US name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
+		</Text>
+		<Text uid="2108">
+			<en-GB name="Change wages" message="Are you sure you want to change the wage rates?" />
+			<de-DE name="Gehälter ändern" message="Sind Sie sicher, daß Sie die Gehälter anpassen möchten?" />
+			<en-US name="Change wages" message="Are you sure you want to change the wage rates?" />
+		</Text>
+		<!-- END - Airline Model -->
+		<!-- BEGIN - Airport Model -->
+		<Text uid="2201">
+			<en-GB name="Not enough money" message="You don't have enough money to buy these facilities." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
+			<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
+		</Text>
+		<Text uid="2202">
+			<en-GB name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
+			<de-DE name="Ausstattung verbessern" message="Sind Sie sicher, daß Sie die Ausstattungselemente auf {0} für {1:c} verbessern wollen?" />
+			<en-US name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
+		</Text>
+		<Text uid="2203">
+			<en-GB name="Error" message="The airport serves as homebase for a fleet airliner, so it need to have at least basic service facilities." />
+			<de-DE name="Fehler" message="Der Flughafen dient als Heimatstützpunkt für ein Flugzeug der Flotte. Sie müssen wenigstens Basisdienste anbieten." />
+			<en-US name="Error" message="The airport serves as homebase for a fleet airliner, so it need to have at least basic service facilities." />
+		</Text>
+		<Text uid="2204">
+			<en-GB name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
+			<de-DE name="Ausstattung reduzieren" message="Sind Sie sicher, daß Sie die Ausstattungselemente von {0} reduzieren wollen?" />
+			<en-US name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
+		</Text>
+		<Text uid="2205">
+			<en-GB name="Not enough money" message="You don't have enough money to buy this terminal." />
+			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flughafenterminal zu kaufen." />
+			<en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
+		</Text>
+		<Text uid="2206">
+			<en-GB name="Buy terminal" message="Are you sure you want to buy a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} kaufen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
+			<en-US name="Buy terminal" message="Are you sure you want to buy a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+		</Text>
+		<Text uid="2207">
+			<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
+			<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie den Bau des Flughafenterminals abbrechen wollen?" />
+			<en-US name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
+		</Text>
+		<Text uid="2208">
+			<en-GB name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
+			<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie das Flughafenterminal mit {0} Gates entfernen wollen?" />
+			<en-US name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
+		</Text>
+		<Text uid="2209">
+			<en-GB name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
+			<de-DE name="Flughafenterminal entfernen nicht möglich" message="Das Flughafenterminal kann nicht entfernt werden, da es momentan in Gebrauch ist." />
+			<en-US name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
+		</Text>
+		<Text uid="2210">
+			<en-GB name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
+			<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
+			<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
+		</Text>
+		<!-- END - Airport Model -->
+		<!-- BEGIN - Fleet Model -->
+		<Text uid="2301">
+			<en-GB name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
+			<de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges muß für Änderungen an der Ausstattung unterbrochen werden." />
+			<en-US name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
+		</Text>
+		<!-- END - Fleet Model -->
+		<!-- BEGIN - Game Model -->
+		<Text uid="2401">
+			<en-GB name="IATA exits" message="Are you sure you want to override {0}?" />
+			<de-DE name="IATA existiert bereits" message="Sind Sie sicher, daß Sie {0} überschreiben wollen?" />
+			<en-US name="IATA exits" message="Are you sure you want to override {0}?" />
+		</Text>
+		<Text uid="2402">
+			<en-GB name="Create airline" message="Are you sure you want to create this airline?" />
+			<de-DE name="Fluglinie gründen" message="Sind Sie sicher, daß Sie diese Fluglinie gründen wollen?" />
+			<en-US name="Create airline" message="Are you sure you want to create this airline?" />
+		</Text>
+		<Text uid="2403">
+			<en-GB name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
+			<de-DE name="Name des Geschäftsführers(CEO)" message="Der Name des Geschäftsführers(CEO) muß länger als 2 Buchstaben sein." />
+			<en-US name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
+		</Text>
+		<!-- END - Game Model -->
+		<!-- BEGIN - Route Model -->
+		<Text uid="2501">
+			<en-GB name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
+			<de-DE name="Ungültige Route" message="Die Route ist ungültig. Entweder steht kein freies Gate am Ziel zur Verfügung oder der Preis ist nicht korrekt." />
+			<en-US name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
+		</Text>
+		<Text uid="2502">
+			<en-GB name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
+			<de-DE name="Flugzeug entfernen" message="Sind Sie sicher, daß Sie {0} von dieser Route entfernen möchten?" />
+			<en-US name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
+		</Text>
+		<Text uid="2503">
+			<en-GB name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
+			<de-DE name="Route entfernen" message="Sind Sie sicher, daß Sie diese Route zwischen {0} und {1} entfernen möchten?" />
+			<en-US name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
+		</Text>
+		<Text uid="2504">
+			<en-GB name="Invalid timetable" message="The timetable is invalid." />
+			<de-DE name="Ungültiger Zeitplan" message="Der Zeitplan ist ungültig." />
+			<en-US name="Invalid timetable" message="The timetable is invalid." />
+		</Text>
+		<!-- END - Route Model -->
+</Region>
+<Region name="News">
+		<Text uid="1001">
+			<en-GB name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
+			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},\n\nWillkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.\nViel Erfolg." />
+			<en-US name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
 		</Text>
 </Region>
 </Translator>
