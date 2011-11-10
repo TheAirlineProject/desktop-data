@@ -310,6 +310,82 @@
 			<en-US name="Number of gates" />
 		</Text>
 </Region>
+<Region name="PageAirportFacilities">
+		<Text uid="1001">
+			<en-GB name="Airport Facilities" />
+			<de-DE name="Flughafenausstattung" />
+			<en-US name="Airport Facilities" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="Facilities" />
+			<de-DE name="Ausstattung" />
+			<en-US name="Facilities" />
+		</Text>
+</Region>
+<Region name="PageAirportStatistics">
+		<Text uid="1001">
+			<en-GB name="Airport Statistics" />
+			<de-DE name="Statistik Flughafen" />
+			<en-US name="Airport Statistics" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="{0} (Total: {1})" />
+			<de-DE name="{0} (Gesamt: {1})" />
+			<en-US name="{0} (Total: {1})" />
+		</Text>
+</Region>
+<Region name="PageAirportGates">
+		<Text uid="201">
+			<en-GB name="Build Terminal" />
+			<de-DE name="Flughafenterminal bauen" />
+			<en-US name="Build Terminal" />
+		</Text>
+		<Text uid="202">
+			<en-GB name="Rent" />
+			<de-DE name="Mieten" />
+			<en-US name="Rent" />
+		</Text>
+		<Text uid="203">
+			<en-GB name="Release" />
+			<de-DE name="Kündigen" />
+			<en-US name="Release" />
+		</Text>
+		<Text uid="1001">
+			<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Delivery date)" />
+			<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / Lieferdatum)" />
+			<en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Delivery date)" />
+		</Text>
+		<Text uid="1002">
+			<en-GB name="Gates Information" />
+			<de-DE name="Gate Informationen" />
+			<en-US name="Gates Information" />
+		</Text>
+		<Text uid="1003">
+			<en-GB name="Total number of gates" />
+			<de-DE name="Gesamtanzahl der Gates" />
+			<en-US name="Total number of gates" />
+		</Text>
+		<Text uid="1004">
+			<en-GB name="Used gates" />
+			<de-DE name="verwendete Gates" />
+			<en-US name="Used gates" />
+		</Text>
+		<Text uid="1005">
+			<en-GB name="Free gates" />
+			<de-DE name="freie Gates" />
+			<en-US name="Free gates" />
+		</Text>
+		<Text uid="1006">
+			<en-GB name="Monthly price per gate" />
+			<de-DE name="monatliche Gebühr pro Gate" />
+			<en-US name="Monthly price per gate" />
+		</Text>
+		<Text uid="1007">
+			<en-GB name="Airline Gates (Total / Used)" />
+			<de-DE name="Fluglinien Gates (gesamt/verwendet)" />
+			<en-US name="Airline Gates (Total / Used)" />
+		</Text>
+</Region>
 <Region name="PageAirports">
 		<Text uid="1000">
 			<en-GB name="Airports" />
@@ -745,6 +821,23 @@
 			<en-GB name="Select home base" />
 			<de-DE name="Heimatstützpunkt auswählen" />
 			<en-US name="Select home base" />
+		</Text>
+</Region>
+<Region name="PanelAirport">
+		<Text uid="201">
+			<en-GB name="Gates &amp; Terminals" />
+			<de-DE name="Gates &amp; Flughafenterminals" />
+			<en-US name="Gates &amp; Terminals" />
+		</Text>
+		<Text uid="202">
+			<en-GB name="Facilities" />
+			<de-DE name="Ausstattung" />
+			<en-US name="Facilities" />
+		</Text>
+		<Text uid="203">
+			<en-GB name="Statistics" />
+			<de-DE name="Statistik" />
+			<en-US name="Statistics" />
 		</Text>
 </Region>
 <Region name="PanelAirports">
