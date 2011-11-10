@@ -351,9 +351,9 @@
 			<en-US name="Release" />
 		</Text>
 		<Text uid="1001">
-			<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Delivery date)" />
-			<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / Lieferdatum)" />
-			<en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Delivery date)" />
+			<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
+			<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
+			<en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gate / Delivery date)" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Gates Information" />
@@ -1056,9 +1056,9 @@
 			<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
 		</Text>
 		<Text uid="2211">
-			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
+			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
 			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
-			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
+			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
 		</Text>
 		<!-- END - Airport Model -->
 		<!-- BEGIN - Fleet Model -->
