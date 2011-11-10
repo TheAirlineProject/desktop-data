@@ -939,7 +939,7 @@
 		</Text>
 		<Text uid="2206">
 			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
-			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} kaufen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
 			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
 		</Text>
 		<Text uid="2207">
@@ -964,7 +964,7 @@
 		</Text>
 		<Text uid="2211">
 			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
-			<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
 			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
 		</Text>
 		<!-- END - Airport Model -->
