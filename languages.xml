@@ -14,6 +14,34 @@
 	<Language culture="fr-FR" name="French (FR)" flag="France.png" UnitSystem="Metric" />
 </Languages>
 
+<Region name="MsgYes">
+		<Text uid="1000">
+			<en-GB name="_Yes" />
+			<de-DE name="_Ja" />
+			<en-US name="_Yes" />
+		</Text>
+</Region>
+<Region name="MsgNo">
+		<Text uid="1000">
+			<en-GB name="_No" />
+			<de-DE name="_Nein" />
+			<en-US name="_No" />
+		</Text>
+</Region>
+<Region name="MsgCancel">
+		<Text uid="1000">
+			<en-GB name="_Cancel" />
+			<de-DE name="_Abbrechen" />
+			<en-US name="_Cancel" />
+		</Text>
+</Region>
+<Region name="MsgOk">
+		<Text uid="1000">
+			<en-GB name="O_k" />
+			<de-DE name="O_kay" />
+			<en-US name="O_k" />
+		</Text>
+</Region>
 <Region name="General">
 		<Text uid="100">
 			<en-GB name="Ok" />
