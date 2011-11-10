@@ -910,9 +910,9 @@
 			<en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
 		</Text>
 		<Text uid="2206">
-			<en-GB name="Buy terminal" message="Are you sure you want to buy a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
 			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} kaufen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
-			<en-US name="Buy terminal" message="Are you sure you want to buy a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
 		</Text>
 		<Text uid="2207">
 			<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
@@ -933,6 +933,11 @@
 			<en-GB name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
 			<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
 			<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
+		</Text>
+		<Text uid="2211">
+			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
+			<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
+			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?" />
 		</Text>
 		<!-- END - Airport Model -->
 		<!-- BEGIN - Fleet Model -->
