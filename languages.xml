@@ -111,6 +111,43 @@
 			<en-US name="Route Timetable" />
 		</Text>
 </Region>
+  <Region name="PopUpTerminal">
+    <Text uid="1000">
+      <en-GB name="Create terminal" />
+      <de-DE name="Neue Terminal erzeugene" />
+      <en-US name="Create terminal" />
+    </Text>
+    <Text uid="1001">
+      <en-GB name="Number of gates" />
+      <de-DE name="Anzahl Gates" />
+      <en-US name="Number of gates" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Basic price for terminal" />
+      <de-DE name="Terminal preis" />
+      <en-US name="Basic price for terminal" />
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Price per terminal gate" />
+      <de-DE name="Gatekaufpreis" />
+      <en-US name="Price per terminal gate" />
+    </Text>
+    <Text uid="1004">
+      <en-GB name="Days to create terminal" />
+      <de-DE name="Days to create terminal" />
+      <en-US name="Days to create terminal" />
+    </Text>
+    <Text uid="1005">
+      <en-GB name="Total terminal price" />
+      <de-DE name="Total terminal price" />
+      <en-US name="Total terminal price" />
+    </Text>
+    <Text uid="1006">
+      <en-GB name="Total terminal price" />
+      <de-DE name="Total terminal price" />
+      <en-US name="Total terminal price" />
+    </Text>
+  </Region>
 <Region name="PopUpRouteFacilities">
 		<Text uid="1000">
 			<en-GB name="Change airliner class facilities" />
@@ -334,6 +371,28 @@
 			<en-US name="{0} (Total: {1})" />
 		</Text>
 </Region>
+  <Region name="PageAirportFlights">
+    <Text uid="1001">
+      <en-GB name="Flights" />
+      <de-DE name="Flüge" />
+      <en-US name="Flights" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Arrivals" />
+      <de-DE name="Ankünfte" />
+      <en-US name="Arrivals" />
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Departures" />
+      <de-DE name="Abflüge" />
+      <en-US name="Departures" />
+    </Text>
+    <Text uid="1004">
+      <en-GB name="Destination flights" />
+      <de-DE name="Flüge" />
+      <en-US name="Destination flights" />
+    </Text>
+  </Region>
 <Region name="PageAirportGates">
 		<Text uid="201">
 			<en-GB name="Build Terminal" />
@@ -350,6 +409,7 @@
 			<de-DE name="Kündigen" />
 			<en-US name="Release" />
 		</Text>
+		
 		<Text uid="1001">
 			<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
 			<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
@@ -838,6 +898,11 @@
 			<en-GB name="Statistics" />
 			<de-DE name="Statistik" />
 			<en-US name="Statistics" />
+		</Text>
+		<Text uid="204">
+			<en-GB name="Flights" />
+			<de-DE name="Flüge" />
+			<en-US name="Flights" />
 		</Text>
 </Region>
 <Region name="PanelAirports">
