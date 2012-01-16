@@ -3645,4 +3645,13 @@
     <size value="Smallest" />
     <gates value="6" />
   </airport>
+  <airport name="Groningen Airport Eelde" iata="GRQ" type="International">
+    <town town="Groningen" country="179" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="053°07'30''N" />
+      <longitude value="006°35'50''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <gates value="3" />
+  </airport>
 </airports>

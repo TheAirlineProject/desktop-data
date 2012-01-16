@@ -948,9 +948,9 @@
 <Region name="MessageBox">
 		<!-- BEGIN - Helpers -->
 		<Text uid="101">
-			<en-GB name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
-			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.\nLaden des Spiels wurde abgebrochen." />
-			<en-US name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
+			<en-GB name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
+			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.&#x0a;&#x0a;Laden des Spiels wurde abgebrochen." />
+			<en-US name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
 		</Text>
 		<!-- END - Helpers -->
 		<!-- BEGIN - General Model -->
@@ -1096,9 +1096,9 @@
 			<en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
 		</Text>
 		<Text uid="2206">
-			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
-			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
-			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?&#x0a;&#x0a;Ihre gemieteten Gates werden auf das Flughafenterminal übertragen,&#x0a;&#x0a;wenn der Bau beendet ist." />
+			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
 		</Text>
 		<Text uid="2207">
 			<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
@@ -1121,9 +1121,9 @@
 			<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
 		</Text>
 		<Text uid="2211">
-			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
+			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
 			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
-			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
+			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
 		</Text>
 		<!-- END - Airport Model -->
 		<!-- BEGIN - Fleet Model -->
@@ -1175,9 +1175,9 @@
 </Region>
 <Region name="News">
 		<Text uid="1001">
-			<en-GB name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
-			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},\n\nWillkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.\nViel Erfolg." />
-			<en-US name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
+			<en-GB name="Name of CEO" message="Dear {0},&#x0a;&#x0a;nWelcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
+			<en-US name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
 		</Text>
 </Region>
 </Translator>
