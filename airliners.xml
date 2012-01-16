@@ -324,6 +324,12 @@
     <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="2000" to="2019"/>
   </airliner>
+  <airliner manufacturer="Bristol" name="Bristol Britannia 310" price="1000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Turboprop"/>
+    <specs wingspan="43.36" length="37.88" range="7129" speed="575" consumption="0.033"/>
+    <capacity passengers="139" cockpitcrew="3" cabincrew="3" maxclasses="1"/>
+    <produced from="1958" to="1960"/>
+  </airliner>
   <airliner manufacturer="Convair" name="Convair 880" price="3000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="36.58" length="39.42" range="4430" speed="990" consumption="0.043"/>
@@ -509,5 +515,17 @@
     <specs wingspan="21.44" length="19.73" range="1732" speed="467" consumption="0.021"/>
     <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1983" to="1998"/>
+  </airliner>
+  <airliner manufacturer="Sud Aviation" name="Sud Aviation Caravelle III" price="2000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="34.30" length="31.01" range="1700" speed="805" consumption="0.021"/>
+    <capacity passengers="80" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1959" to="1967"/>
+  </airliner>
+  <airliner manufacturer="Vickers" name="Vickers VC10" price="3000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="44.55" length="48.36" range="9412" speed="933" consumption="0.024"/>
+    <capacity passengers="151" cockpitcrew="4" cabincrew="3" maxclasses="1"/>
+    <produced from="1962" to="1970"/>
   </airliner>
 </airliners>
