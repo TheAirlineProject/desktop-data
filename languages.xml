@@ -446,6 +446,13 @@
 			<en-US name="Airline Gates (Total / Used)" />
 		</Text>
 </Region>
+  <Region name="PageAirportRunways">
+    <Text uid="1001">
+      <en-GB name="Runways Information (Name / Length / Surface)" />
+      <de-DE name="Runwaysinformationen (Name / Länge / Oberfläche)" />
+      <en-US name="Runways Information (Name / Length / Surface)" />
+    </Text>
+  </Region>
 <Region name="PageAirports">
 		<Text uid="1000">
 			<en-GB name="Airports" />
@@ -904,6 +911,11 @@
 			<de-DE name="Flüge" />
 			<en-US name="Flights" />
 		</Text>
+  <Text uid="205">
+    <en-GB name="Runways" />
+    <de-DE name="Runways" />
+    <en-US name="Runways" />
+  </Text>
 </Region>
 <Region name="PanelAirports">
 		<Text uid="201">
