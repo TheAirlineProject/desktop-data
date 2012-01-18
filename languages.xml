@@ -822,6 +822,11 @@
 			<de-DE name="Produktionszeitraum" />
 			<en-US name="Time Range of Production" />
 		</Text>
+  <Text uid="1015">
+    <en-GB name="Required Runway lenght" />
+    <de-DE name="Minimum Landebahn" />
+    <en-US name="Required Runway lenght" />
+  </Text>
 </Region>
 <Region name="PanelUsedAirliner">
 		<Text uid="200">
