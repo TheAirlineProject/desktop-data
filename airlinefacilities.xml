@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <airlinefacilities>
-  <airlinefacility uid="100" price="500000">
+  <airlinefacility uid="100" price="500000" fromyear="1950">
     <level service="5" luxury="5"></level>
     <translations>
 			<en-US name="Frequent Flyer Program" shortname="Flyer" />
@@ -8,12 +8,29 @@
 			<en-GB name="Frequent Flyer Program" shortname="Flyer" />
     </translations>
   </airlinefacility>
-  <airlinefacility uid="101" price="100000">
+  <airlinefacility uid="101" price="100000" fromyear="1950">
     <level service="10" luxury="3"></level>
     <translations>
 			<en-US name="Airline InFlight Magazine" shortname="Magazine" />
 			<de-DE name="Werbemaßnahme Fluglinienzeitschrift" shortname="Zeitschrift" />
 			<en-GB name="Airline InFlight Magazine" shortname="Magazine" />
+    </translations>
+  </airlinefacility>
+  <airlinefacility uid="102" price="200000" fromyear="1950">
+    <level service="10" luxury="4"></level>
+    <translations>
+      <en-US name="Newspaper Service" shortname="News" />
+      <de-DE name="Zeitung Service" shortname="Zeitung" />
+      <en-GB name="Newspaper Service" shortname="News" />
+      <nl-NL name="Kranten service" shortname="Krant" />
+    </translations>
+  </airlinefacility>
+  <airlinefacility uid="103" price="300000" fromyear="2008">
+    <level service="10" luxury="3"></level> <translations>
+      <en-US name="Check-in online" shortname="Online" />
+      <de-DE name="Online einchecken" shortname="Online" />
+      <en-GB name="Check-in online" shortname="Online" />
+      <nl-NL name="Online inchecken" shortname="Online" />
     </translations>
   </airlinefacility>
 </airlinefacilities>
