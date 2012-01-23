@@ -6,7 +6,7 @@
     <capacity passengers="266" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
     <produced from="1972" to="1985"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A300-600R" price="39000000">
+  <airliner manufacturer="Airbus" name="Airbus A300-600R" price="51000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="44.85" length="54.08" range="7540" speed="829" consumption="0.034" runwaylengthrequired="2324"/>
     <capacity passengers="266" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
@@ -401,6 +401,24 @@
     <specs wingspan="20.98" length="21.28" range="3705" speed="750" consumption="0.013" runwaylengthrequired="815"/>
     <capacity passengers="34" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1999" to="2015"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-135 ER" price="12000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="26.33" range="2409" speed="828" consumption="0.021" runwaylengthrequired="1250"/>
+    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1989" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-140 ER" price="16000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="28.45" range="2317" speed="828" consumption="0.022" runwaylengthrequired="1250"/>
+    <capacity passengers="44" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1999" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-145 LR" price="16000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="29.87" range="2873" speed="851" consumption="0.021" runwaylengthrequired="1350"/>
+    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1995" to="2019"/>
   </airliner>
   <airliner manufacturer="Embraer" name="Embraer E-170" price="29000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
