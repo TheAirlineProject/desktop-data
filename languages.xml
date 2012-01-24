@@ -302,9 +302,9 @@
 			<en-US name="Name" />
 		</Text>
 		<Text uid="1008">
-			<en-GB name="IATA code" />
-			<de-DE name="IATA Code" />
-			<en-US name="IATA code" />
+			<en-GB name="Airport code" />
+			<de-DE name="Flughafen Code" />
+			<en-US name="Airport code" />
 		</Text>
 		<Text uid="1009">
 			<en-GB name="Airport type" />
@@ -1192,9 +1192,9 @@
 </Region>
 <Region name="News">
 		<Text uid="1001">
-			<en-GB name="Name of CEO" message="Dear {0},&#x0a;&#x0a;nWelcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
-			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
-			<en-US name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<en-GB name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;nWelcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<de-DE name="Willkommen zu dem Spiel" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
+			<en-US name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
 		</Text>
 </Region>
 </Translator>
