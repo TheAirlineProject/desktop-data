@@ -10,7 +10,7 @@
 	<Language culture="en-GB" name="English (GB)" flag="United Kingdom.png" UnitSystem="Metric">
 	</Language>
 	<Language culture="de-DE" name="Deutsch (DE)" flag="Germany.png" UnitSystem="Metric" />
-	<Language culture="nl-NL" name="Netherlands (NL)" flag="Netherlands.png" UnitSystem="Metric" />
+	<Language culture="nl-NL" name="Nederlands (NL)" flag="Netherlands.png" UnitSystem="Metric" />
 	<Language culture="fr-FR" name="French (FR)" flag="France.png" UnitSystem="Metric" />
 </Languages>
 
@@ -19,6 +19,7 @@
 			<en-GB name="_Yes" />
 			<de-DE name="_Ja" />
 			<en-US name="_Yes" />
+			<nl-NL name="_Ja" />
 		</Text>
 </Region>
 <Region name="MsgNo">
@@ -26,6 +27,7 @@
 			<en-GB name="_No" />
 			<de-DE name="_Nein" />
 			<en-US name="_No" />
+			<nl-NL name="_Nee" />
 		</Text>
 </Region>
 <Region name="MsgCancel">
@@ -33,6 +35,7 @@
 			<en-GB name="_Cancel" />
 			<de-DE name="_Abbrechen" />
 			<en-US name="_Cancel" />
+			<nl-NL name="_Annuleren" />
 		</Text>
 </Region>
 <Region name="MsgOk">
@@ -40,6 +43,7 @@
 			<en-GB name="O_k" />
 			<de-DE name="O_kay" />
 			<en-US name="O_k" />
+			<nl-NL name="O-k" />
 		</Text>
 </Region>
 <Region name="General">
@@ -47,61 +51,73 @@
 			<en-GB name="Ok" />
 			<de-DE name="Okay" />
 			<en-US name="Ok" />
+			<nl-NL name="Ok" />
 		</Text>
 		<Text uid="101">
 			<en-GB name="Cancel" />
 			<de-DE name="Abbrechen" />
 			<en-US name="Cancel" />
+			<nl-NL name="Annuleren" />
 		</Text>
 		<Text uid="102">
 			<en-GB name="Redo" />
 			<de-DE name="Wiederholen" />
 			<en-US name="Redo" />
+			<nl-NL name="Opnieuw" />
 		</Text>
 		<Text uid="103">
 			<en-GB name="Undo" />
 			<de-DE name="Rückgängig" />
 			<en-US name="Undo" />
+			<nl-NL name="Ongedaan maken" />
 		</Text>
 		<Text uid="104">
 			<en-GB name="Add" />
 			<de-DE name="Hinzufügen" />
 			<en-US name="Add" />
+			<nl-NL name="Toevoegen" />
 		</Text>
 		<Text uid="105">
 			<en-GB name="Remove" />
 			<de-DE name="Entfernen" />
 			<en-US name="Remove" />
+			<nl-NL name="Verwijderen" />
 		</Text>
 		<Text uid="106">
 			<en-GB name="Yes" />
 			<de-DE name="Ja" />
 			<en-US name="Yes" />
+			<nl-NL name="Ja" />
 		</Text>
 		<Text uid="107">
 			<en-GB name="No" />
 			<de-DE name="Nein" />
 			<en-US name="No" />
+			<nl-NL name="Nee" />
 		</Text>
 		<Text uid="108">
 			<en-GB name="Reset" />
 			<de-DE name="Zurücksetzen" />
 			<en-US name="Reset" />
+			<nl-NL name="Terug" />
 		</Text>
 		<Text uid="109">
 			<en-GB name="Search" />
 			<de-DE name="Suchen" />
 			<en-US name="Search" />
+			<nl-NL name="Zoeken" />
 		</Text>
 		<Text uid="110">
 			<en-GB name="Clear Filter" />
 			<de-DE name="Filter entfernen" />
 			<en-US name="Clear Filter" />
+			<nl-NL name="Geen filter" />
 		</Text>
 		<Text uid="1000">
 			<en-GB name="Untranslated Title" />
 			<de-DE name="Nicht übersetzter Titel" />
 			<en-US name="Untranslated Title" />
+			<nl-NL name="Niet vertaald" />
 		</Text>
 </Region>
 <Region name="PopUpTimeTable">
@@ -109,6 +125,7 @@
 			<en-GB name="Route Timetable" />
 			<de-DE name="Zeitplanung Route" />
 			<en-US name="Route Timetable" />
+			<nl-NL name="Vluchtplan" />
 		</Text>
 </Region>
   <Region name="PopUpTerminal">
@@ -116,36 +133,43 @@
       <en-GB name="Create terminal" />
       <de-DE name="Neue Terminal erzeugene" />
       <en-US name="Create terminal" />
+      <nl-NL name="Nieuwe terminal" />
     </Text>
     <Text uid="1001">
       <en-GB name="Number of gates" />
       <de-DE name="Anzahl Gates" />
       <en-US name="Number of gates" />
+      <nl-NL name="Aantal gates" />
     </Text>
     <Text uid="1002">
       <en-GB name="Basic price for terminal" />
       <de-DE name="Terminal preis" />
       <en-US name="Basic price for terminal" />
+      <nl-NL name="Basisprijs voor terminal" />
     </Text>
     <Text uid="1003">
       <en-GB name="Price per terminal gate" />
       <de-DE name="Gatekaufpreis" />
       <en-US name="Price per terminal gate" />
+      <nl-NL name="Prijs per gate" />
     </Text>
     <Text uid="1004">
       <en-GB name="Days to create terminal" />
       <de-DE name="Days to create terminal" />
       <en-US name="Days to create terminal" />
+      <nl-NL name="Bouwtijd terminal" />
     </Text>
     <Text uid="1005">
       <en-GB name="Total terminal price" />
       <de-DE name="Total terminal price" />
       <en-US name="Total terminal price" />
+      <nl-NL name="Totale terminal prijs" />
     </Text>
     <Text uid="1006">
       <en-GB name="Total terminal price" />
       <de-DE name="Total terminal price" />
       <en-US name="Total terminal price" />
+      <nl-NL name="Totale terminal prijs" />
     </Text>
   </Region>
 <Region name="PopUpRouteFacilities">
@@ -153,31 +177,37 @@
 			<en-GB name="Change airliner class facilities" />
 			<de-DE name="Ändern der Ausstattung der Reiseklassen im Flugzeug" />
 			<en-US name="Change airliner class facilities" />
+			<nl-NL name="Verander boordfaciliteiten" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Food on board" />
 			<de-DE name="Speisenangebot" />
 			<en-US name="Food on board" />
+			<nl-NL name="Eten aan boord" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Drinks on board" />
 			<de-DE name="Getränkeangebot" />
 			<en-US name="Drinks on board" />
+			<nl-NL name="Drinken aan boord" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Cabin crew on board" />
 			<de-DE name="Kabinenpersonal" />
 			<en-US name="Cabin crew on board" />
+			<nl-NL name="Cabinepersoneel aan boord" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Type of seating" />
 			<de-DE name="Sitzqualität" />
 			<en-US name="Type of seating" />
+			<nl-NL name="Type zitplaatsen" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Fare price" />
 			<de-DE name="Flugpreis" />
 			<en-US name="Fare price" />
+			<nl-NL name="Vluchtprijs" />
 		</Text>
 </Region>
 <Region name="PopUpSave">
@@ -185,6 +215,7 @@
 			<en-GB name="Save game" />
 			<de-DE name="Spiel speichern" />
 			<en-US name="Save game" />
+			<nl-NL name="Spel opslaan" />
 		</Text>
 </Region>
 <Region name="PopUpLoad">
@@ -192,6 +223,7 @@
 			<en-GB name="Load a saved game" />
 			<de-DE name="Gespeichertes Spiel laden" />
 			<en-US name="Load a saved game" />
+			<nl-NL name="Opgeslagen spel laden" />
 		</Text>
 </Region>
 <Region name="PopUpMap">
@@ -199,12 +231,14 @@
 			<en-GB name="Map" />
 			<de-DE name="Karte" />
 			<en-US name="Map" />
+			<nl-NL name="Kaart" />
 		</Text>
 </Region>
 <Region name="PopUpLoan">
 		<Text uid="1000">
 			<en-GB name="Apply for a loan" />
 			<en-US name="Apply for a loan" />
+			<nl-NL name="Lening aanvragen" />
 		</Text>
 </Region>
 <Region name="PopUpEditAirlinerName">
@@ -212,6 +246,7 @@
 			<en-GB name="Airliner name" />
 			<de-DE name="Flugzeugname" />
 			<en-US name="Airliner name" />
+			<nl-NL name="Naam van vliegtuig" />
 		</Text>
 </Region>
 <Region name="PageRoutes">
@@ -219,21 +254,25 @@
 			<en-GB name="Create new route" />
 			<de-DE name="Neue Flugroute erzeugen" />
 			<en-US name="Create new route" />
+			<nl-NL name="Creeër nieuwe route" />
 		</Text>
 		<Text uid="201">
 			<en-GB name="Routes map" />
 			<de-DE name="Routenkarte" />
 			<en-US name="Routes map" />
+			<nl-NL name="Route-overzicht" />
 		</Text>
 		<Text uid="1000">
 			<en-GB name="Routes" />
 			<de-DE name="Flugrouten" />
 			<en-US name="Routes" />
+			<nl-NL name="Routes" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Airline Routes" />
 			<de-DE name="Flugrouten" />
 			<en-US name="Airline Routes" />
+			<nl-NL name="Vliegroutes" />
 		</Text>
 </Region>
 <Region name="PageFleetAirliner">
@@ -241,6 +280,7 @@
 			<en-GB name="Fleet Airliner" />
 			<de-DE name="Flottenflugzeug" />
 			<en-US name="Fleet Airliner" />
+			<nl-NL name="Vliegtuigvloot" />
 		</Text>
 </Region>
 <Region name="PageAirliners">
@@ -248,16 +288,19 @@
 			<en-GB name="Airliners" />
 			<de-DE name="Flugzeuge" />
 			<en-US name="Airliners" />
+			<nl-NL name="Vliegtuigen" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Order New Airliner" />
 			<de-DE name="Neues Flugzeug bestellen" />
 			<en-US name="Order New Airliner" />
+			<nl-NL name="Nieuw vliegtuig bestellen" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Buy Used Airliner" />
 			<de-DE name="Gebrauchtes Flugzeug kaufen" />
 			<en-US name="Buy Used Airliner" />
+			<nl-NL name="Gebruikt vliegtuig kopen" />
 		</Text>
 </Region>
 <Region name="PageAirport">
@@ -265,86 +308,103 @@
 			<en-GB name="Airport" />
 			<de-DE name="Flughafen" />
 			<en-US name="Airport" />
+			<nl-NL name="Luchthaven" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Weather Informations" />
 			<de-DE name="Wetter Informationen" />
 			<en-US name="Weather Informations" />
+			<nl-NL name="Weersinformatie" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Arrivals" />
 			<de-DE name="Ankünfte" />
 			<en-US name="Arrivals" />
+			<nl-NL name="Aankomst" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="From" />
 			<de-DE name="Von" />
 			<en-US name="From" />
+			<nl-NL name="Van" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Departures" />
 			<de-DE name="Abflüge" />
 			<en-US name="Departures" />
+			<nl-NL name="Vertrek" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Destination" />
 			<de-DE name="Ziel" />
 			<en-US name="Destination" />
+			<nl-NL name="Bestemming" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Profile" />
 			<de-DE name="Profil" />
 			<en-US name="Profile" />
+			<nl-NL name="Profiel" />
 		</Text>
 		<Text uid="1007">
 			<en-GB name="Name" />
 			<de-DE name="Name" />
 			<en-US name="Name" />
+			<nl-NL name="Naam" />
 		</Text>
 		<Text uid="1008">
-			<en-GB name="Airport code" />
-			<de-DE name="Flughafen Code" />
-			<en-US name="Airport code" />
+			<en-GB name="IATA code" />
+			<de-DE name="IATA Code" />
+			<en-US name="IATA code" />
+			<nl-NL name="IATA Code" />
 		</Text>
 		<Text uid="1009">
 			<en-GB name="Airport type" />
 			<de-DE name="Flughafentyp" />
 			<en-US name="Airport type" />
+			<nl-NL name="Type luchthaven" />
 		</Text>
 		<Text uid="1010">
 			<en-GB name="Town" />
 			<de-DE name="Stadt" />
 			<en-US name="Town" />
+			<nl-NL name="Plaats" />
 		</Text>
 		<Text uid="1011">
 			<en-GB name="Country" />
 			<de-DE name="Land" />
 			<en-US name="Country" />
+			<nl-NL name="Land" />
 		</Text>
 		<Text uid="1012">
 			<en-GB name="Time zone" />
 			<de-DE name="Zeitzone" />
 			<en-US name="Time zone" />
+			<nl-NL name="Tijdzone" />
 		</Text>
 		<Text uid="1013">
 			<en-GB name="Local time" />
 			<de-DE name="Lokale Zeit" />
 			<en-US name="Local time" />
+			<nl-NL name="Lokale tijd" />
 		</Text>
 		<Text uid="1014">
 			<en-GB name="Coordinates" />
 			<de-DE name="Koordinaten" />
 			<en-US name="Coordinates" />
+			<nl-NL name="Coördinaten" />
 		</Text>
 		<Text uid="1015">
 			<en-GB name="Airport size" />
 			<de-DE name="Flughafengröße" />
 			<en-US name="Airport size" />
+			<nl-NL name="Luchthavengrootte" />
 		</Text>
 		<Text uid="1016">
 			<en-GB name="Number of gates" />
 			<de-DE name="Anzahl Gates" />
 			<en-US name="Number of gates" />
+			<nl-NL name="Aantal gates" />
 		</Text>
 </Region>
 <Region name="PageAirportFacilities">
@@ -352,11 +412,13 @@
 			<en-GB name="Airport Facilities" />
 			<de-DE name="Flughafenausstattung" />
 			<en-US name="Airport Facilities" />
+			<nl-NL name="Luchthavenfaciliteiten" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Facilities" />
 			<de-DE name="Ausstattung" />
 			<en-US name="Facilities" />
+			<nl-NL name="Faciliteiten" />
 		</Text>
 </Region>
 <Region name="PageAirportStatistics">
@@ -364,11 +426,13 @@
 			<en-GB name="Airport Statistics" />
 			<de-DE name="Statistik Flughafen" />
 			<en-US name="Airport Statistics" />
+			<nl-NL name="Luchthavenstatistiek" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="{0} (Total: {1})" />
 			<de-DE name="{0} (Gesamt: {1})" />
 			<en-US name="{0} (Total: {1})" />
+			<nl-NL name="{0} (Totaal: {1})" />
 		</Text>
 </Region>
   <Region name="PageAirportFlights">
@@ -376,21 +440,25 @@
       <en-GB name="Flights" />
       <de-DE name="Flüge" />
       <en-US name="Flights" />
+      <nl-NL name="Vluchten" />
     </Text>
     <Text uid="1002">
       <en-GB name="Arrivals" />
       <de-DE name="Ankünfte" />
       <en-US name="Arrivals" />
+      <nl-NL name="Aankomst" />
     </Text>
     <Text uid="1003">
       <en-GB name="Departures" />
       <de-DE name="Abflüge" />
       <en-US name="Departures" />
+      <nl-NL name="Vertrek" />
     </Text>
     <Text uid="1004">
       <en-GB name="Destination flights" />
       <de-DE name="Flüge" />
       <en-US name="Destination flights" />
+      <nl-NL name="Bestemming vluchten" />
     </Text>
   </Region>
 <Region name="PageAirportGates">
@@ -398,71 +466,76 @@
 			<en-GB name="Build Terminal" />
 			<de-DE name="Flughafenterminal bauen" />
 			<en-US name="Build Terminal" />
+			<nl-NL name="Bouw terminal" />
 		</Text>
 		<Text uid="202">
 			<en-GB name="Rent" />
 			<de-DE name="Mieten" />
 			<en-US name="Rent" />
+			<nl-NL name="Huren" />
 		</Text>
 		<Text uid="203">
 			<en-GB name="Release" />
 			<de-DE name="Kündigen" />
 			<en-US name="Release" />
+			<nl-NL name="Vrijgeven" />
 		</Text>
 		
 		<Text uid="1001">
 			<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
 			<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
 			<en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gate / Delivery date)" />
+			<nl-NL name="Terminal Informatie (Eigenaar / Totaal gates / Bestelde gates / Menselijke gates / Opleverdatum)" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Gates Information" />
 			<de-DE name="Gate Informationen" />
 			<en-US name="Gates Information" />
+			<nl-NL name="Gate Informatie" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Total number of gates" />
 			<de-DE name="Gesamtanzahl der Gates" />
 			<en-US name="Total number of gates" />
+			<nl-NL name="Totaal aantal gates" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Used gates" />
 			<de-DE name="verwendete Gates" />
 			<en-US name="Used gates" />
+			<nl-NL name="Gebruikte gates" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Free gates" />
 			<de-DE name="freie Gates" />
 			<en-US name="Free gates" />
+			<nl-NL name="Vrije gates" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Monthly price per gate" />
 			<de-DE name="monatliche Gebühr pro Gate" />
 			<en-US name="Monthly price per gate" />
+			<nl-NL name="Maandelijkse prijs per gate" />
 		</Text>
 		<Text uid="1007">
 			<en-GB name="Airline Gates (Total / Used)" />
 			<de-DE name="Fluglinien Gates (gesamt/verwendet)" />
 			<en-US name="Airline Gates (Total / Used)" />
+			<nl-NL name="Gates van luchtvaartmaatschappij (Totaal / Gebruikt)" />
 		</Text>
 </Region>
-  <Region name="PageAirportRunways">
-    <Text uid="1001">
-      <en-GB name="Runways Information (Name / Length / Surface)" />
-      <de-DE name="Runwaysinformationen (Name / Länge / Oberfläche)" />
-      <en-US name="Runways Information (Name / Length / Surface)" />
-    </Text>
-  </Region>
 <Region name="PageAirports">
 		<Text uid="1000">
 			<en-GB name="Airports" />
 			<de-DE name="Flughäfen" />
 			<en-US name="Airports" />
+			<nl-NL name="Luchthavens" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Show results on map" />
 			<de-DE name="Ergebnisse auf Karte anzeigen" />
 			<en-US name="Show results on map" />
+			<nl-NL name="Resultaat op kaart" />
 		</Text>
 </Region>
 <Region name="PageSearchAirports">
@@ -470,11 +543,13 @@
 			<en-GB name="Airport search options" />
 			<de-DE name="Suchoptionen Flughäfen" />
 			<en-US name="Airport search options" />
+			<nl-NL name="Zoekopties luchthaven" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Human airports only" />
 			<de-DE name="Nur Spieler-Flughäfen" />
 			<en-US name="Human airports only" />
+			<nl-NL name="Alleen menselijke luchthavens" />
 		</Text>
 </Region>
 <Region name="PageAirportsStatistics">
@@ -482,6 +557,7 @@
 			<en-GB name="Largest Airports / Passengers" />
 			<de-DE name="Größte Flughäfen / Passagiere" />
 			<en-US name="Largest Airports / Passengers" />
+			<nl-NL name="Grootste luchthaven / Passagiers" />
 		</Text>
 </Region>
 <Region name="PageAirline">
@@ -489,56 +565,67 @@
 			<en-GB name="Airline" />
 			<de-DE name="Fluglinie" />
 			<en-US name="Airline" />
+			<nl-NL name="Luchtvaartmaatschappij" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Profile" />
 			<de-DE name="Profil" />
 			<en-US name="Profile" />
+			<nl-NL name="Profiel" />
 		</Text>
 		<Text uid="1002">
-			<en-GB name="Name of Airline" />
-			<de-DE name="Name der Fluglinie" />
-			<en-US name="Name of Airline" />
+      <en-GB name="Name of Airline" />
+      <de-DE name="Name der Fluglinie" />
+      <en-US name="Name of Airline" />
+      <nl-NL name="Bedrijfsnaam" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="IATA code" />
 			<de-DE name="IATA Kennung" />
 			<en-US name="IATA code" />
+			<nl-NL name="IATA code" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="CEO" />
 			<de-DE name="Geschäftsführer" />
 			<en-US name="CEO" />
+			<nl-NL name="Directeur" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Home country" />
 			<de-DE name="Heimatland" />
 			<en-US name="Home country" />
+			<nl-NL name="Thuisland" />
 		</Text>
 		<Text uid="1006">
-			<en-GB name="Airline color" />
-			<de-DE name="Farbe der Fluglinie" />
-			<en-US name="Airline color" />
+      <en-GB name="Airline color" />
+      <de-DE name="Farbe der Fluglinie" />
+      <en-US name="Airline color" />
+      <nl-NL name="Bedrijfskleur" />
 		</Text>
 		<Text uid="1007">
 			<en-GB name="Fleet size" />
 			<de-DE name="Flottengröße" />
 			<en-US name="Fleet size" />
+			<nl-NL name="Vlootgrootte" />
 		</Text>
 		<Text uid="1008">
 			<en-GB name="Capital" />
 			<de-DE name="Vermögen" />
 			<en-US name="Capital" />
+			<nl-NL name="Vermogen" />
 		</Text>
 		<Text uid="1009">
 			<en-GB name="Reputation" />
 			<de-DE name="Ansehen" />
 			<en-US name="Reputation" />
+			<nl-NL name="Reputatie" />
 		</Text>
 		<Text uid="1010">
 			<en-GB name="Passenger happiness" />
 			<de-DE name="Kundenzufriedenheit" />
 			<en-US name="Passenger happiness" />
+			<nl-NL name="Klanttevredenheid" />
 		</Text>
 </Region>
 <Region name="PageAirlines">
@@ -546,6 +633,7 @@
 			<en-GB name="Airlines" />
 			<de-DE name="Fluglinien" />
 			<en-US name="Airlines" />
+			<nl-NL name="Luchtvaartmaatschappijen" />
 		</Text>
 </Region>
 <Region name="PageNewsBox">
@@ -553,6 +641,7 @@
 			<en-GB name="News" />
 			<de-DE name="Nachrichten" />
 			<en-US name="News" />
+			<nl-NL name="Nieuws" />
 		</Text>
 </Region>
 <Region name="PageSettings">
@@ -560,6 +649,7 @@
 			<en-GB name="Settings" />
 			<de-DE name="Einstellungen" />
 			<en-US name="Settings" />
+			<nl-NL name="Instellingen" />
 		</Text>
 </Region>
 <Region name="PageAirlineFleet">
@@ -567,46 +657,55 @@
 			<en-GB name="Fleet overview" />
 			<de-DE name="Übersicht Flotte" />
 			<en-US name="Fleet overview" />
+			<nl-NL name="Overzicht vloot" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Fleet route information" />
 			<de-DE name="Routeninformation der Flotte" />
 			<en-US name="Fleet route information" />
+			<nl-NL name="Routeinformatie vloot" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Airline Fleet" />
 			<de-DE name="Flotte der Fluglinie" />
 			<en-US name="Airline Fleet" />
+			<nl-NL name="Vloot luchtvaartmaatschappij" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Airliners In Order" />
 			<de-DE name="Bestellte Flugzeuge" />
 			<en-US name="Airliners In Order" />
+			<nl-NL name="Bestelde vliegtuigen" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Name" />
 			<de-DE name="Name" />
 			<en-US name="Name" />
+			<nl-NL name="Naam" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Type" />
 			<de-DE name="Typ" />
 			<en-US name="Type" />
+			<nl-NL name="Type" />
 		</Text>
 		<Text uid="1007">
 			<en-GB name="Ownership" />
 			<de-DE name="Eigentumsstatus" />
 			<en-US name="Ownership" />
+			<nl-NL name="Eigenaar" />
 		</Text>
 		<Text uid="1008">
 			<en-GB name="Has Route" />
 			<de-DE name="Routeneinsatz" />
 			<en-US name="Has Route" />
+			<nl-NL name="Op route" />
 		</Text>
 		<Text uid="1101">
 			<en-GB name="Airline Fleet" />
 			<de-DE name="Flugzeugflotte" />
 			<en-US name="Airline Fleet" />
+			<nl-NL name="Vloot luchtvaartmaatschappij" />
 		</Text>
 </Region>
 <Region name="PageAirlineFinances">
@@ -614,31 +713,37 @@
 			<en-GB name="Airline Finances" />
 			<de-DE name="Finanzen der Fluglinie" />
 			<en-US name="Airline Finances" />
+			<nl-NL name="Financiën luchtvaartmaatschappij" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Financial Summary" />
 			<de-DE name="Finanzübersicht" />
 			<en-US name="Financial Summary" />
+			<nl-NL name="Financieel overzicht" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Current cash" />
 			<de-DE name="Bargeld aktuell" />
 			<en-US name="Current cash" />
+			<nl-NL name="Chartaal geld" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Total balance" />
 			<de-DE name="Bilanzsumme" />
 			<en-US name="Total balance" />
+			<nl-NL name="Balanstotaal" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Loans" />
 			<de-DE name="Anleihe" />
 			<en-US name="Loans" />
+			<nl-NL name="Leningen" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Apply for loan" />
 			<de-DE name="Anleihe ausgeben" />
 			<en-US name="Apply for loan" />
+			<nl-NL name="Lening aanvragen" />
 		</Text>
 </Region>
 <Region name="PageAirlineFacilities">
@@ -646,21 +751,25 @@
 			<en-GB name="Airline Facilities" />
 			<de-DE name="Einrichtungen der Fluglinie" />
 			<en-US name="Airline Facilities" />
+			<nl-NL name="Bedrijfsfaciliteiten" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Purchase Facilities" />
 			<de-DE name="Einrichtungen kaufen" />
 			<en-US name="Purchase Facilities" />
+			<nl-NL name="Faciliteiten kopen" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Airline Advertisement" />
 			<de-DE name="Werbung der Fluglinie" />
 			<en-US name="Airline Advertisement" />
+			<nl-NL name="Bedrijfsadvertenties" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Save Advertisements" />
 			<de-DE name="Werbemaßnahmen festlegen" />
 			<en-US name="Save Advertisements" />
+			<nl-NL name="Bewaar advertenties" />
 		</Text>
 </Region>
 <Region name="PageAirlineDestinations">
@@ -668,16 +777,19 @@
 			<en-GB name="Routes map" />
 			<de-DE name="Routenkarte" />
 			<en-US name="Routes map" />
+			<nl-NL name="Routekaart" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Destinations" />
 			<de-DE name="Ziele" />
 			<en-US name="Destinations" />
+			<nl-NL name="Bestemmingen" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Destinations" />
 			<de-DE name="Ziele" />
 			<en-US name="Destinations" />
+			<nl-NL name="Bestemmingen" />
 		</Text>
 </Region>
 <Region name="PageAirlineWages">
@@ -685,16 +797,19 @@
 			<en-GB name="Wages" />
 			<de-DE name="Löhne" />
 			<en-US name="Wages" />
+			<nl-NL name="Lonen" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Food and drinks" />
 			<de-DE name="Essen und Getränke" />
 			<en-US name="Food and drinks" />
+			<nl-NL name="Eten en drinken" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Fees" />
 			<de-DE name="Gebühren" />
 			<en-US name="Fees" />
+			<nl-NL name="Toeslagen" />
 		</Text>
 </Region>
 <Region name="PageAirlineStatistics">
@@ -702,21 +817,25 @@
 			<en-GB name="Airline Statistics" />
 			<de-DE name="Statistiken der Fluglinie" />
 			<en-US name="Airline Statistics" />
+			<nl-NL name="Bedrijfsstatistiek" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Total departures" />
 			<de-DE name="Abflüge Gesamt" />
 			<en-US name="Total departures" />
+			<nl-NL name="Vertrek totaal" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Total passengers" />
 			<de-DE name="Passagiere Gesamt" />
 			<en-US name="Total passengers" />
+			<nl-NL name="Passagiers totaal" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Passengers per flight" />
 			<de-DE name="Passagiere pro Flug" />
 			<en-US name="Passengers per flight" />
+			<nl-NL name="Passagiers per vlucht" />
 		</Text>
 </Region>
 <Region name="PanelAirline">
@@ -724,31 +843,37 @@
 			<en-GB name="Fleet" />
 			<de-DE name="Flotte" />
 			<en-US name="Fleet" />
+			<nl-NL name="Vloot" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Destinations and Routes" />
 			<de-DE name="Ziele und Routen" />
 			<en-US name="Destinations and Routes" />
+			<nl-NL name="Bestemmingen en routes" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Facilities and Advertisement" />
 			<de-DE name="Ausstattung und Angebote" />
 			<en-US name="Facilities and Advertisement" />
+			<nl-NL name="Faciliteiten en advertenties" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Statistics" />
 			<de-DE name="Statistik" />
 			<en-US name="Statistics" />
+			<nl-NL name="Statistieken" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Finances" />
 			<de-DE name="Finanzen" />
 			<en-US name="Finances" />
+			<nl-NL name="Financiën" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Wages and Fees" />
 			<de-DE name="Löhne und Abgaben" />
 			<en-US name="Wages and Fees" />
+			<nl-NL name="Lonen en toeslagen" />
 		</Text>
 </Region>
 <Region name="PanelAirliner">
@@ -756,143 +881,165 @@
 			<en-GB name="Airliner Type Specifications" />
 			<de-DE name="Flugzeugtyp Spezifikationen" />
 			<en-US name="Airliner Type Specifications" />
+			<nl-NL name="Vliegtuigtype specificaties" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Model" />
 			<de-DE name="Modell" />
 			<en-US name="Model" />
+			<nl-NL name="Model" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Manufacturer" />
 			<de-DE name="Hersteller" />
 			<en-US name="Manufacturer" />
+			<nl-NL name="Fabrikant" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Body Type" />
 			<de-DE name="Rumpftyp" />
 			<en-US name="Body Type" />
+			<nl-NL name="Body type" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Range" />
 			<de-DE name="Reichweite" />
 			<en-US name="Range" />
+			<nl-NL name="Vliegbereik" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Engine Type" />
 			<de-DE name="Antriebsart" />
 			<en-US name="Engine Type" />
+			<nl-NL name="Voortstuwing" />
 		</Text>
 		<Text uid="1007">
 			<en-GB name="Wingspan" />
 			<de-DE name="Spannweite" />
 			<en-US name="Wingspan" />
+			<nl-NL name="Spanwijdte" />
 		</Text>
 		<Text uid="1008">
 			<en-GB name="Length" />
 			<de-DE name="Länge" />
 			<en-US name="Length" />
+			<nl-NL name="Lengte" />
 		</Text>
 		<Text uid="1009">
 			<en-GB name="Passenger Capacity" />
 			<de-DE name="Passagier Kapazität" />
 			<en-US name="Passenger Capacity" />
+			<nl-NL name="Passagiers capaciteit" />
 		</Text>
 		<Text uid="1010">
 			<en-GB name="Max. Airliner Classes" />
 			<de-DE name="Max. Reiseklassen" />
 			<en-US name="Max. Airliner Classes" />
+			<nl-NL name="Max. vliegtuigklassen" />
 		</Text>
 		<Text uid="1011">
 			<en-GB name="Crew requirements" />
 			<de-DE name="Benötigte Besatzung" />
 			<en-US name="Crew requirements" />
+			<nl-NL name="Personeel" />
 		</Text>
 		<Text uid="1012">
 			<en-GB name="Cruising speed" />
 			<de-DE name="Reisegeschwindigkeit" />
 			<en-US name="Cruising speed" />
+			<nl-NL name="Kruissnelheid" />
 		</Text>
 		<Text uid="1013">
 			<en-GB name="Fuel Consumption" />
 			<de-DE name="Kraftstoffverbrauch" />
 			<en-US name="Fuel Consumption" />
+			<nl-NL name="Brandstofverbuik" />
 		</Text>
 		<Text uid="1014">
 			<en-GB name="Time Range of Production" />
 			<de-DE name="Produktionszeitraum" />
 			<en-US name="Time Range of Production" />
+			<nl-NL name="Productietijdsvak" />
 		</Text>
-  <Text uid="1015">
-    <en-GB name="Required Runway length" />
-    <de-DE name="Minimum Landebahn" />
-    <en-US name="Required Runway length" />
-  </Text>
 </Region>
 <Region name="PanelUsedAirliner">
 		<Text uid="200">
 			<en-GB name="Buy" />
 			<de-DE name="Kaufen" />
 			<en-US name="Buy" />
+			<nl-NL name="Kopen" />
 		</Text>
 		<Text uid="201">
 			<en-GB name="Lease" />
 			<de-DE name="Leasen" />
 			<en-US name="Lease" />
+			<nl-NL name="Leasen" />
 		</Text>
 		<Text uid="1001">
 			<en-GB name="Airliner Information" />
 			<de-DE name="Flugzeug Daten" />
 			<en-US name="Airliner Information" />
+			<nl-NL name="Vliegtuiginformatie" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Year of build" />
 			<de-DE name="Baujahr" />
 			<en-US name="Year of build" />
+			<nl-NL name="Bouwjaar" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Tail number" />
 			<de-DE name="Kennung" />
 			<en-US name="Tail number" />
+			<nl-NL name="Registratie" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Flown Overall" />
 			<de-DE name="Gesamtflugstrecke" />
 			<en-US name="Flown Overall" />
+			<nl-NL name="Totaal gevlogen" />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Flown since last Service" />
 			<de-DE name="Flugstrecke seit letzter Wartung" />
 			<en-US name="Flown since last Service" />
+			<nl-NL name="Laatste onderhoud" />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Equipped with Class" />
 			<de-DE name="Ausgestattet mit Klasse" />
 			<en-US name="Equipped with Class" />
+			<nl-NL name="Uitgerust met klasse" />
 		</Text>
 		<Text uid="1101">
 			<en-GB name="Price Information" />
 			<de-DE name="Preisangaben" />
 			<en-US name="Price Information" />
+			<nl-NL name="Prijsinformatie" />
 		</Text>
 		<Text uid="1102">
 			<en-GB name="Purchase Price" />
 			<de-DE name="Kaufpreis" />
 			<en-US name="Purchase Price" />
+			<nl-NL name="Koopprijs" />
 		</Text>
 		<Text uid="1103">
 			<en-GB name="Leasing Rate" />
 			<de-DE name="Leasing Rate" />
 			<en-US name="Leasing Rate" />
+			<nl-NL name="Leaseprijs" />
 		</Text>
 		<Text uid="1104">
 			<en-GB name="Yearly maintenance Costs" />
 			<de-DE name="Kosten jährliche Wartung" />
 			<en-US name="Yearly maintenance Costs" />
+			<nl-NL name="Jaarlijkse onderhoudskosten" />
 		</Text>
 		<Text uid="1105">
 			<en-GB name="Select home base" />
 			<de-DE name="Heimatstützpunkt auswählen" />
 			<en-US name="Select home base" />
+			<nl-NL name="Selecteer thuisbasis" />
 		</Text>
 </Region>
 <Region name="PanelAirport">
@@ -900,38 +1047,39 @@
 			<en-GB name="Gates &amp; Terminals" />
 			<de-DE name="Gates &amp; Flughafenterminals" />
 			<en-US name="Gates &amp; Terminals" />
+			<nl-NL name="Gates &amp; Terminals" />
 		</Text>
 		<Text uid="202">
 			<en-GB name="Facilities" />
 			<de-DE name="Ausstattung" />
 			<en-US name="Facilities" />
+			<nl-NL name="Faciliteiten" />
 		</Text>
 		<Text uid="203">
 			<en-GB name="Statistics" />
 			<de-DE name="Statistik" />
 			<en-US name="Statistics" />
+			<nl-NL name="Statistieken" />
 		</Text>
 		<Text uid="204">
 			<en-GB name="Flights" />
 			<de-DE name="Flüge" />
 			<en-US name="Flights" />
+			<nl-NL name="Vluchten" />
 		</Text>
-  <Text uid="205">
-    <en-GB name="Runways" />
-    <de-DE name="Runways" />
-    <en-US name="Runways" />
-  </Text>
 </Region>
 <Region name="PanelAirports">
 		<Text uid="201">
 			<en-GB name="Search" />
 			<de-DE name="Suche" />
 			<en-US name="Search" />
+			<nl-NL name="Zoeken" />
 		</Text>
 		<Text uid="202">
 			<en-GB name="Statistics" />
 			<de-DE name="Statistik" />
 			<en-US name="Statistics" />
+			<nl-NL name="Statistieken" />
 		</Text>
 </Region>
 <Region name="MenuHome">
@@ -939,6 +1087,7 @@
 			<en-GB name="Home" />
 			<de-DE name="Übersicht" />
 			<en-US name="Home" />
+			<nl-NL name="Hoofdscherm" />
 		</Text>
 </Region>
 <Region name="MenuOptions">
@@ -946,6 +1095,7 @@
 			<en-GB name="Options" />
 			<de-DE name="Spieloptionen" />
 			<en-US name="Options" />
+			<nl-NL name="Opties" />
 		</Text>
 </Region>
 <Region name="MenuNewGame">
@@ -953,6 +1103,7 @@
 			<en-GB name="New Game" />
 			<de-DE name="Neues Spiel" />
 			<en-US name="New Game" />
+			<nl-NL name="Nieuw spel" />
 		</Text>
 </Region>
 <Region name="MenuExitGame">
@@ -960,14 +1111,16 @@
 			<en-GB name="Exit Game" />
 			<de-DE name="Spiel beenden" />
 			<en-US name="Exit Game" />
+			<nl-NL name="Spel beëindigen" />
 		</Text>
 </Region>
 <Region name="MessageBox">
 		<!-- BEGIN - Helpers -->
 		<Text uid="101">
-			<en-GB name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
-			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.&#x0a;&#x0a;Laden des Spiels wurde abgebrochen." />
-			<en-US name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
+			<en-GB name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
+			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.\nLaden des Spiels wurde abgebrochen." />
+			<en-US name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
+			<nl-NL name="Foute bestandsnaam" message="De opgegeven bestandsnaam is ongeldig.\nLaden van het spel afgebroken." />
 		</Text>
 		<!-- END - Helpers -->
 		<!-- BEGIN - General Model -->
@@ -975,31 +1128,37 @@
 			<en-GB name="New game" message="Are you sure you want to start a new game?" />
 			<de-DE name="Neues Spiel" message="Sind Sie sicher, daß Sie ein neues Spiel beginnen möchten?" />
 			<en-US name="New game" message="Are you sure you want to start a new game?" />
+			<nl-NL name="Nieuw spel" message="Weet u zeker dat u een nieuw spel wilt beginnen?" />
 		</Text>
 		<Text uid="1002">
 			<en-GB name="Load game" message="Are you sure you want to load a saved game?" />
 			<de-DE name="Spiel laden" message="Sind Sie sicher, daß Sie ein gespeichertes Spiel laden möchten?" />
 			<en-US name="Load game" message="Are you sure you want to load a saved game?" />
+			<nl-NL name="Spel laden" message="Weet u zeker dat u een opgeslagen spel wil laden?" />
 		</Text>
 		<Text uid="1003">
 			<en-GB name="Exit game" message="Are you sure you want to exit the game?" />
 			<de-DE name="Spiel beenden" message="Sind Sie sicher, daß Sie das Spiel beenden möchten?" />
 			<en-US name="Exit game" message="Are you sure you want to exit the game?" />
+			<nl-NL name="Spel beëindigen" message="Weet u zeker dat u wilt stoppen?" />
 		</Text>
 		<Text uid="1004">
 			<en-GB name="Success" message="The airport has been saved to the database." />
 			<de-DE name="Erfolg" message="Der Flughafen wurde in der Datenbank gespeichert." />
 			<en-US name="Success" message="The airport has been saved to the database." />
+			<nl-NL name="Succes" message="De luchthaven is opgeslagen." />
 		</Text>
 		<Text uid="1005">
 			<en-GB name="Error" message="The airport can't be saved to the database." />
 			<de-DE name="Fehler" message="Der Flughafen kann in der Datenbank nicht gespeichert werden." />
 			<en-US name="Error" message="The airport can't be saved to the database." />
+			<nl-NL name="Fout" message="De luchthaven kan niet worden opgeslagen." />
 		</Text>
 		<Text uid="1006">
 			<en-GB name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
 			<de-DE name="Fehler" message="Der Flughafen existiert bereits, oder der gesuchte IATA-Code kann in der Datenbank nicht gefunden werden." />
 			<en-US name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
+			<nl-NL name="Fout" message="De luchthaven bestaat al of de IATA code is niet gevonden." />
 		</Text>
 		<!-- END - General Model -->
 		<!-- BEGIN - Airliner Model -->
@@ -1007,41 +1166,49 @@
 			<en-GB name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
 			<de-DE name="Kein Heimatstützpunkt verfügbar" message="Sie haben keinen Heimatstützpunkt zur Verfügung und können das Flugzeug somit nicht kaufen." />
 			<en-US name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
+			<nl-NL name="Geen beschikbare thuisbasis" message="Er is geen thuisbasis beschikbaar, dus is het niet mogelijk een vliegtuig te kopen." />
 		</Text>
 		<Text uid="2001">
 			<en-GB name="Not enough money" message="You don't have any money to order this airliner." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu bestellen." />
 			<en-US name="Not enough money" message="You don't have any money to order this airliner." />
+			<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen." />
 		</Text>
 		<Text uid="2002">
 			<en-GB name="No homebase" message="You haven't selected a home base for this airliner." />
 			<de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgewählt." />
 			<en-US name="No homebase" message="You haven't selected a home base for this airliner." />
+			<nl-NL name="Geen thuisbasis" message="Er is nog geen thuisbasis geselecteerd voor dit vliegtuig." />
 		</Text>
 		<Text uid="2003">
 			<en-GB name="Order airliner" message="Are you sure you want to order a {0}?" />
 			<de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie ein {0} bestellen wollen?" />
 			<en-US name="Order airliner" message="Are you sure you want to order a {0}?" />
+			<nl-NL name="Vliegtuig bestellen" message="Weet u zeker dat u een {0} wilt bestellen?" />
 		</Text>
 		<Text uid="2004">
 			<en-GB name="Not enough money" message="You don't have any money to lease this airliner." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu leasen." />
 			<en-US name="Not enough money" message="You don't have any money to lease this airliner." />
+			<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te leasen." />
 		</Text>
 		<Text uid="2005">
 			<en-GB name="Lease airliner" message="Are you sure you want to lease this {0}?" />
 			<de-DE name="Flugzeug leasen" message="Sind Sie sicher daß Sie diese {0} leasen wollen?" />
 			<en-US name="Lease airliner" message="Are you sure you want to lease this {0}?" />
+			<nl-NL name="Lease vliegtuig" message="Weet u zeker dat u deze {0} wilt leasen?" />
 		</Text>
 		<Text uid="2006">
 			<en-GB name="Not enough money" message="You don't have any money to buy this airliner." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen." />
 			<en-US name="Not enough money" message="You don't have any money to buy this airliner." />
+			<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen." />
 		</Text>
 		<Text uid="2007">
 			<en-GB name="Buy airliner" message="Are you sure you want to buy this {0}?" />
 			<de-DE name="Flugzeug kaufen" message="Sind Sie sicher daß Sie diese {0} kaufen wollen?" />
 			<en-US name="Buy airliner" message="Are you sure you want to buy this {0}?" />
+			<nl-NL name="Koop vliegtuig" message="Weet u zeker dat u deze {0} wilt kopen?" />
 		</Text>
 		<!-- END - Airliner Model -->
 		<!-- BEGIN - Airline Model -->
@@ -1049,41 +1216,49 @@
 			<en-GB name="Not enough money" message="You don't have enough money to buy these facilities." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
 			<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
+			<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om deze faciliteit te kopen." />
 		</Text>
 		<Text uid="2102">
 			<en-GB name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
 			<de-DE name="Ausstattung kaufen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement für die Fluglinie kaufen wollen?" />
 			<en-US name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
+			<nl-NL name="Koop faciliteit" message="Weet u zeker dat u {0} als voorziening voor de luchtvaartmaatschappij wilt kopen?" />
 		</Text>
 		<Text uid="2103">
 			<en-GB name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
 			<de-DE name="Ausstattung entfernen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement der Fluglinie entfernen wollen?" />
 			<en-US name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
+			<nl-NL name="Verwijder faciliteit" message="Weet u zeker dat u {0} als voorziening voor de luchtvaartmaatschappij wilt verwijderen?" />
 		</Text>
 		<Text uid="2104">
 			<en-GB name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
 			<de-DE name="Ungültiger Betrag" message="Bitte geben Sie einen gültigen Ratenbetrag für die Rückzahlung der Anleihe ein." />
 			<en-US name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
+			<nl-NL name="Ongeldig bedrag" message="Voer altublieft een geldig bedrag in om de lening terug te betalen." />
 		</Text>
 		<Text uid="2105">
 			<en-GB name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
 			<de-DE name="Anleihe zurückzahlen" message="Sind Sie sicher, daß Sie den Betrag {0;c} auf die Anleihe zurückzahlen möchten?" />
 			<en-US name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
+			<nl-NL name="Lening aflossen" message="Weet u zeker dat u {0:c} van de lening wilt aflossen?" />
 		</Text>
 		<Text uid="2106">
 			<en-GB name="Sell airliner" message="Are you sure you want to sell {0}?" />
 			<de-DE name="Flugzeug verkaufen" message="Sind Sie sicher, daß Sie {0} verkaufen möchten?" />
 			<en-US name="Sell airliner" message="Are you sure you want to sell {0}?" />
+			<nl-NL name="Verkoop vliegtuig" message="Weet u zeker dat u {0} wilt verkopen?" />
 		</Text>
 		<Text uid="2107">
 			<en-GB name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
 			<de-DE name="Leasingvertrag kündigen" message="Sind Sie sicher, daß Sie den Leasingvertrag von {0} beenden möchten?" />
 			<en-US name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
+			<nl-NL name="Beëindig leasecontract" message="Weet u zeker dat u het leasecontract van {0} wilt beëindigen?" />
 		</Text>
 		<Text uid="2108">
 			<en-GB name="Change wages" message="Are you sure you want to change the wage rates?" />
 			<de-DE name="Gehälter ändern" message="Sind Sie sicher, daß Sie die Gehälter anpassen möchten?" />
 			<en-US name="Change wages" message="Are you sure you want to change the wage rates?" />
+			<nl-NL name="Wijzig lonen" message="Weet u zeker dat u de lonen wilt aanpassen?" />
 		</Text>
 		<!-- END - Airline Model -->
 		<!-- BEGIN - Airport Model -->
@@ -1091,56 +1266,67 @@
 			<en-GB name="Not enough money" message="You don't have enough money to buy these facilities." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
 			<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
+			<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om deze faciliteiten te kopen." />
 		</Text>
 		<Text uid="2202">
 			<en-GB name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
 			<de-DE name="Ausstattung verbessern" message="Sind Sie sicher, daß Sie die Ausstattungselemente auf {0} für {1:c} verbessern wollen?" />
 			<en-US name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
+			<nl-NL name="Faciliteit verbeteren" message="Weet u zeker dat u de faciliteit wilt verbeteren naar {0} voor {1:c}?" />
 		</Text>
 		<Text uid="2203">
-			<en-GB name="Error" message="The airport serves as homebase for a fleet airliner, so it need to have at least basic service facilities." />
+			<en-GB name="Error" message="The airport serves as homebase for a fleet airliner, so it needs to have at least basic service facilities." />
 			<de-DE name="Fehler" message="Der Flughafen dient als Heimatstützpunkt für ein Flugzeug der Flotte. Sie müssen wenigstens Basisdienste anbieten." />
-			<en-US name="Error" message="The airport serves as homebase for a fleet airliner, so it need to have at least basic service facilities." />
+			<en-US name="Error" message="The airport serves as homebase for a fleet airliner, so it needs to have at least basic service facilities." />
+			<nl-NL name="Fout" message="De luchthaven fungeert als thuisbasis voor een vliegtuig, het heeft daarom tenminste de basisfaciliteiten nodig." />
 		</Text>
 		<Text uid="2204">
 			<en-GB name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
 			<de-DE name="Ausstattung reduzieren" message="Sind Sie sicher, daß Sie die Ausstattungselemente von {0} reduzieren wollen?" />
 			<en-US name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
+			<nl-NL name="Faciliteit downgraden" message="Weet u zeker dat u de faciliteit {0} wilt downgraden?" />
 		</Text>
 		<Text uid="2205">
 			<en-GB name="Not enough money" message="You don't have enough money to buy this terminal." />
 			<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flughafenterminal zu kaufen." />
 			<en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
+			<nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze terminal te kopen." />
 		</Text>
 		<Text uid="2206">
-			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
-			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?&#x0a;&#x0a;Ihre gemieteten Gates werden auf das Flughafenterminal übertragen,&#x0a;&#x0a;wenn der Bau beendet ist." />
-			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
+			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
+			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
+			<nl-NL name="Bouw terminal" message="Weet u zeker dat u {0} gates voor {1:C} wilt bouwen?\nAl uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
 		</Text>
 		<Text uid="2207">
 			<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
 			<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie den Bau des Flughafenterminals abbrechen wollen?" />
 			<en-US name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
+			<nl-NL name="Bouwstop terminal" message="Weet u zeker dat u de bouw van deze terminal wilt stoppen?" />
 		</Text>
 		<Text uid="2208">
 			<en-GB name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
 			<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie das Flughafenterminal mit {0} Gates entfernen wollen?" />
 			<en-US name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
+			<nl-NL name="Verwijder terminal" message="Weet u zeker dat u deze terminal met {0} gates wil verwijderen?" />
 		</Text>
 		<Text uid="2209">
 			<en-GB name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
 			<de-DE name="Flughafenterminal entfernen nicht möglich" message="Das Flughafenterminal kann nicht entfernt werden, da es momentan in Gebrauch ist." />
 			<en-US name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
+			<nl-NL name="Terminal verwijderen niet mogelijk" message="Het is niet mogelijk deze terminal te verwijderen, omdat deze momenteel nog in gebruik is." />
 		</Text>
 		<Text uid="2210">
 			<en-GB name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
 			<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
 			<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
+			<nl-NL name="Terminal uitbreiden niet mogelijk" message="Het is niet mogelijk deze terminal uit te breiden, omdat de bouw nog niet afgerond is." />
 		</Text>
 		<Text uid="2211">
-			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
+			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
 			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
-			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
+			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
+			<nl-NL name="Koop terminal" message="Weet u zeker dat u deze terminal voor {0:C} wilt kopen?\nAl uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
 		</Text>
 		<!-- END - Airport Model -->
 		<!-- BEGIN - Fleet Model -->
@@ -1148,23 +1334,27 @@
 			<en-GB name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
 			<de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges muß für Änderungen an der Ausstattung unterbrochen werden." />
 			<en-US name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
+			<nl-NL name="Vliegtuig in de lucht" message="Het vliegtuig moet worden gestopt om de faciliteiten te wijzigen." />
 		</Text>
 		<!-- END - Fleet Model -->
 		<!-- BEGIN - Game Model -->
 		<Text uid="2401">
-			<en-GB name="IATA exits" message="Are you sure you want to override {0}?" />
+			<en-GB name="IATA exists" message="Are you sure you want to override {0}?" />
 			<de-DE name="IATA existiert bereits" message="Sind Sie sicher, daß Sie {0} überschreiben wollen?" />
-			<en-US name="IATA exits" message="Are you sure you want to override {0}?" />
+			<en-US name="IATA exists" message="Are you sure you want to override {0}?" />
+			<nl-NL name="IATA bestaat al" message="Weet u zeker dat u {0} wilt overschrijven?" />
 		</Text>
 		<Text uid="2402">
 			<en-GB name="Create airline" message="Are you sure you want to create this airline?" />
 			<de-DE name="Fluglinie gründen" message="Sind Sie sicher, daß Sie diese Fluglinie gründen wollen?" />
 			<en-US name="Create airline" message="Are you sure you want to create this airline?" />
+			<nl-NL name="Luchtvaartmaatschappij creëren" message="Weet u zeker dat u deze luchtvaartmaatschappij wilt creëren?" />
 		</Text>
 		<Text uid="2403">
 			<en-GB name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
 			<de-DE name="Name des Geschäftsführers(CEO)" message="Der Name des Geschäftsführers(CEO) muß länger als 2 Buchstaben sein." />
 			<en-US name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
+			<nl-NL name="Naam directeur" message="De naam van de directeur moet langer als twee letters zijn." />
 		</Text>
 		<!-- END - Game Model -->
 		<!-- BEGIN - Route Model -->
@@ -1172,29 +1362,34 @@
 			<en-GB name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
 			<de-DE name="Ungültige Route" message="Die Route ist ungültig. Entweder steht kein freies Gate am Ziel zur Verfügung oder der Preis ist nicht korrekt." />
 			<en-US name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
+			<nl-NL name="Ongeldige route" message="De route is niet geldig omdat er geen vrije gates op de bestemmingen beschikbaar zijn, of omdat de prijs niet correct is." />
 		</Text>
 		<Text uid="2502">
 			<en-GB name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
 			<de-DE name="Flugzeug entfernen" message="Sind Sie sicher, daß Sie {0} von dieser Route entfernen möchten?" />
 			<en-US name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
+			<nl-NL name="Vliegtuig verwijderen" message="Weet u zeker dat u {0} van deze route wilt verwijderen?" />
 		</Text>
 		<Text uid="2503">
 			<en-GB name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
 			<de-DE name="Route entfernen" message="Sind Sie sicher, daß Sie diese Route zwischen {0} und {1} entfernen möchten?" />
 			<en-US name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
+			<nl-NL name="Route verwijderen" message="Weet u zeker dat u de route tussen {0} en {1} wilt verwijderen?" />
 		</Text>
 		<Text uid="2504">
 			<en-GB name="Invalid timetable" message="The timetable is invalid." />
 			<de-DE name="Ungültiger Zeitplan" message="Der Zeitplan ist ungültig." />
 			<en-US name="Invalid timetable" message="The timetable is invalid." />
+			<nl-NL name="Ongeldig vluchtplan" message="Het vluchtplan is ongeldig" />
 		</Text>
 		<!-- END - Route Model -->
 </Region>
 <Region name="News">
 		<Text uid="1001">
-			<en-GB name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;nWelcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
-			<de-DE name="Willkommen zu dem Spiel" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
-			<en-US name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<en-GB name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
+			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},\n\nWillkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.\nViel Erfolg." />
+			<en-US name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
+			<nl-NL name="Naam directeur" message="Beste {0},\n\nWelkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.\nVeel succes toegewenst!." />
 		</Text>
 </Region>
 </Translator>

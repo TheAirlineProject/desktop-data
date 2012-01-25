@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--For each type there must be one with typelevel == 0 -->
 <airportfacilities>
   <airportfacility uid="100" shortname="Service None" type="Service" typelevel="0" price="0">
@@ -7,6 +7,7 @@
 			<en-US name="None" />
 			<de-DE name="Keiner" />
 			<en-GB name="None" />
+			<nl-NL name="Geen" />
     </translations>
   </airportfacility>
   <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
@@ -15,6 +16,7 @@
 			<en-US name="None" />
 			<de-DE name="Keiner" />
 			<en-GB name="None" />
+			<nl-NL name="Geen" />
     </translations>
   </airportfacility>
   <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="500000">
@@ -23,6 +25,7 @@
 			<en-US name="Basic Service Center" />
 			<de-DE name="Einfacher Informationsschalter" />
 			<en-GB name="Basic Service Center" />
+			<nl-NL name="Eenvoudige informatiebalie" />
     </translations>
   </airportfacility>
  <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="1000000">
@@ -31,6 +34,7 @@
 			<en-US name="Service Center" />
 			<de-DE name="Informationsschalter" />
 			<en-GB name="Service Center" />
+			<nl-NL name="Servicecentrum" />
     </translations>
   </airportfacility>
   <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="3000000">
@@ -39,6 +43,7 @@
 			<en-US name="Large Service Center" />
 			<de-DE name="Großer Informationsschalter" />
 			<en-GB name="Large Service Center" />
+			<nl-NL name="Uitgebreid servicecentrum" />
     </translations>
   </airportfacility>
   <airportfacility uid="105" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
@@ -47,6 +52,7 @@
 			<en-US name="Business Lounge" />
 			<de-DE name="Business Aufenthaltsbereich" />
 			<en-GB name="Business Lounge" />
+			<nl-NL name="Business Lounge" />
     </translations>
   </airportfacility>
   <airportfacility uid="106" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
@@ -55,6 +61,7 @@
 			<en-US name="First Class Lounge" />
 			<de-DE name="First Class Aufenthaltsbereich" />
 			<en-GB name="First Class Lounge" />
+			<nl-NL name="First Class Lounge" />
     </translations>
   </airportfacility>
 </airportfacilities>

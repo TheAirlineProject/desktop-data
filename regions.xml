@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <regions>
   <region uid="100">
     <translations>
 			<en-US name="All regions" />
 			<de-DE name="Alle Regionen" />
 			<en-GB name="All regions" />
+			<nl-NL name="Alle regio's" />
     </translations>
   </region> 
   <region uid="101">
@@ -12,6 +13,7 @@
 			<en-US name="South America" />
 			<de-DE name="Südamerika" />
 			<en-GB name="South America" />
+			<nl-NL name="Zuid-Amerika" />
     </translations>
   </region> 
   <region uid="102">
@@ -19,6 +21,7 @@
 			<en-US name="North America" />
 			<de-DE name="Nordamerika" />
 			<en-GB name="North America" />
+			<nl-NL name="Noord-Amerika" />
     </translations>
   </region> 
   <region uid="103">
@@ -26,6 +29,7 @@
 			<en-US name="Central America" />
 			<de-DE name="Zentralamerika" />
 			<en-GB name="Central America" />
+			<nl-NL name="Centraal-Amerika" />
     </translations>
   </region> 
   <region uid="104">
@@ -33,6 +37,7 @@
 			<en-US name="Caribbean" />
 			<de-DE name="Karibik" />
 			<en-GB name="Caribbean" />
+			<nl-NL name="Caraïben" />
     </translations>
   </region> 
   <region uid="105">
@@ -40,6 +45,7 @@
 			<en-US name="Oceania" />
 			<de-DE name="Ozeanien" />
 			<en-GB name="Oceania" />
+			<nl-NL name="Oceanië" />
     </translations>
   </region> 
   <region uid="106">
@@ -47,6 +53,7 @@
 			<en-US name="Eastern Europe" />
 			<de-DE name="Osteuropa" />
 			<en-GB name="Eastern Europe" />
+			<nl-NL name="Oost-Europa" />
     </translations>
   </region> 
   <region uid="107">
@@ -54,6 +61,7 @@
 			<en-US name="Southern Europe" />
 			<de-DE name="Südeuropa" />
 			<en-GB name="Southern Europe" />
+			<nl-NL name="Zuid-Europa" />
     </translations>
   </region> 
   <region uid="108">
@@ -61,6 +69,7 @@
 			<en-US name="Western Europe" />
 			<de-DE name="Westeuropa" />
 			<en-GB name="Western Europe" />
+			<nl-NL name="West-Europa" />
     </translations>
   </region> 
   <region uid="109">
@@ -68,6 +77,7 @@
 			<en-US name="Africa" />
 			<de-DE name="Afrika" />
 			<en-GB name="Africa" />
+			<nl-NL name="Afrika" />
     </translations>
   </region> 
   <region uid="110">
@@ -75,6 +85,7 @@
 			<en-US name="Asia" />
 			<de-DE name="Asien" />
 			<en-GB name="Asia" />
+			<nl-NL name="Azië" />
     </translations>
   </region> 
   <region uid="111">
@@ -82,6 +93,7 @@
 			<en-US name="Middle East" />
 			<de-DE name="Mittlerer Osten" />
 			<en-GB name="Middle East" />
+			<nl-NL name="Midden-Oosten" />
     </translations>
   </region> 
   <region uid="112">
@@ -89,6 +101,7 @@
 			<en-US name="Great Britain" />
 			<de-DE name="Großbritannien" />
 			<en-GB name="Great Britain" />
+			<nl-NL name="Groot-Brittanië" />
     </translations>
   </region> 
   <region uid="113">
@@ -96,6 +109,7 @@
 			<en-US name="Scandinavia" />
 			<de-DE name="Skandinavien" />
 			<en-GB name="Scandinavia" />
+			<nl-NL name="Scandinavïe" />
     </translations>
   </region> 
 </regions>
