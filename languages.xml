@@ -353,10 +353,10 @@
 			<nl-NL name="Naam" />
 		</Text>
 		<Text uid="1008">
-			<en-GB name="IATA code" />
-			<de-DE name="IATA Code" />
-			<en-US name="IATA code" />
-			<nl-NL name="IATA Code" />
+			<en-GB name="Airport code" />
+			<de-DE name="Flughafen code" />
+			<en-US name="Airport code" />
+			<nl-NL name="Luchthaven code" />
 		</Text>
 		<Text uid="1009">
 			<en-GB name="Airport type" />
@@ -407,6 +407,14 @@
 			<nl-NL name="Aantal gates" />
 		</Text>
 </Region>
+</Region> 	 
+	   <Region name="PageAirportRunways"> 	 
+	     <Text uid="1001"> 	 
+	       <en-GB name="Runway Information (Name / Length / Surface)" /> 	 
+	       <de-DE name="Runwayinformationen (Name / Länge / Oberfläche)" /> 	 
+	       <en-US name="Runway Information (Name / Length / Surface)" />
+	       <nl-NL name="Runway Information (Name / Length / Surface)" " />	 
+	   </Region>
 <Region name="PageAirportFacilities">
 		<Text uid="1001">
 			<en-GB name="Airport Facilities" />
@@ -961,6 +969,12 @@
 			<en-US name="Time Range of Production" />
 			<nl-NL name="Productietijdsvak" />
 		</Text>
+   		<Text uid="1015"> 	 
+	     		<en-GB name="Required Runway Length" /> 	 
+	     		<de-DE name="Minimum Landebahn" /> 	 
+	     		<en-US name="Required Runway Length" />
+			<nl-NL name="Required Runway Length" /> 	 
+963 	   	</Text>
 </Region>
 <Region name="PanelUsedAirliner">
 		<Text uid="200">
@@ -1067,6 +1081,12 @@
 			<en-US name="Flights" />
 			<nl-NL name="Vluchten" />
 		</Text>
+ 		<Text uid="205"> 	 
+	     		<en-GB name="Runways" /> 	 
+	     		<de-DE name="Runways" /> 	 
+	     		<en-US name="Runways" /> 
+			<nl-NL name="Runways" />	 
+1069 	   	</Text>
 </Region>
 <Region name="PanelAirports">
 		<Text uid="201">
@@ -1117,10 +1137,10 @@
 <Region name="MessageBox">
 		<!-- BEGIN - Helpers -->
 		<Text uid="101">
-			<en-GB name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
-			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.\nLaden des Spiels wurde abgebrochen." />
-			<en-US name="Filename error" message="The given filename is invalid.\nLoading of game aborted." />
-			<nl-NL name="Foute bestandsnaam" message="De opgegeven bestandsnaam is ongeldig.\nLaden van het spel afgebroken." />
+			<en-GB name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
+			<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.&#x0a;&#x0a;Laden des Spiels wurde abgebrochen." />
+			<en-US name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
+			<nl-NL name="Foute bestandsnaam" message="De opgegeven bestandsnaam is ongeldig.&#x0a;&#x0a;Laden van het spel afgebroken." />
 		</Text>
 		<!-- END - Helpers -->
 		<!-- BEGIN - General Model -->
@@ -1155,9 +1175,9 @@
 			<nl-NL name="Fout" message="De luchthaven kan niet worden opgeslagen." />
 		</Text>
 		<Text uid="1006">
-			<en-GB name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
+			<en-GB name="Error" message="The airport does already exists or the searched IATA-code can't be found in the database." />
 			<de-DE name="Fehler" message="Der Flughafen existiert bereits, oder der gesuchte IATA-Code kann in der Datenbank nicht gefunden werden." />
-			<en-US name="Error" message="The airport does already exits or the searched IATA-code can't be found in the database." />
+			<en-US name="Error" message="The airport does already exists or the searched IATA-code can't be found in the database." />
 			<nl-NL name="Fout" message="De luchthaven bestaat al of de IATA code is niet gevonden." />
 		</Text>
 		<!-- END - General Model -->
@@ -1293,10 +1313,10 @@
 			<nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze terminal te kopen." />
 		</Text>
 		<Text uid="2206">
-			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
-			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?\nIhre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
-			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?\nAll your rented gates will be moved to this terminal when finish building it." />
-			<nl-NL name="Bouw terminal" message="Weet u zeker dat u {0} gates voor {1:C} wilt bouwen?\nAl uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
+			<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
+			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?&#x0a;&#x0a;Ihre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
+			<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
+			<nl-NL name="Bouw terminal" message="Weet u zeker dat u {0} gates voor {1:C} wilt bouwen?&#x0a;&#x0a;Al uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
 		</Text>
 		<Text uid="2207">
 			<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
@@ -1323,10 +1343,10 @@
 			<nl-NL name="Terminal uitbreiden niet mogelijk" message="Het is niet mogelijk deze terminal uit te breiden, omdat de bouw nog niet afgerond is." />
 		</Text>
 		<Text uid="2211">
-			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
+			<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
 			<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
-			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?\nAll your rented gates will be moved to the terminal." />
-			<nl-NL name="Koop terminal" message="Weet u zeker dat u deze terminal voor {0:C} wilt kopen?\nAl uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
+			<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
+			<nl-NL name="Koop terminal" message="Weet u zeker dat u deze terminal voor {0:C} wilt kopen?&#x0a;&#x0a;Al uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
 		</Text>
 		<!-- END - Airport Model -->
 		<!-- BEGIN - Fleet Model -->
@@ -1386,10 +1406,10 @@
 </Region>
 <Region name="News">
 		<Text uid="1001">
-			<en-GB name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
-			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},\n\nWillkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.\nViel Erfolg." />
-			<en-US name="Name of CEO" message="Dear {0},\n\nWelcome as the CEO of {1}. I hope you will enjoy the game.\nGood luck." />
-			<nl-NL name="Naam directeur" message="Beste {0},\n\nWelkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.\nVeel succes toegewenst!." />
+			<en-GB name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
+			<en-US name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+			<nl-NL name="Naam directeur" message="Beste {0},&#x0a;&#x0a;Welkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.&#x0a;Veel succes toegewenst!." />
 		</Text>
 </Region>
 </Translator>
