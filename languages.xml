@@ -406,8 +406,7 @@
 			<en-US name="Number of gates" />
 			<nl-NL name="Aantal gates" />
 		</Text>
-</Region>
-</Region> 	 
+</Region> 
 	   <Region name="PageAirportRunways"> 	 
 	     <Text uid="1001"> 	 
 	       <en-GB name="Runway Information (Name / Length / Surface)" /> 	 
