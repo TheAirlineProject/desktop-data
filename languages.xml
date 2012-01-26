@@ -412,7 +412,8 @@
 	   <en-GB name="Runway Information (Name / Length / Surface)" /> 	 
 	   <de-DE name="Runwayinformationen (Name / Länge / Oberfläche)" /> 	 
 	   <en-US name="Runway Information (Name / Length / Surface)" />
-	   <nl-NL name="Runway Information (Name / Length / Surface)" />	 
+	   <nl-NL name="Runway Information (Name / Length / Surface)" />
+	 </Text>	 
    </Region>
 <Region name="PageAirportFacilities">
 	<Text uid="1001">
