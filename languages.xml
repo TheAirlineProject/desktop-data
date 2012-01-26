@@ -7,7 +7,7 @@
 		<Word original="l/seat/km" translated="g/seat/m" />
 		<Word original="ltr" translated="gal" />
 	</Language>
-	<Language culture="en-GB" name="English (GB)" flag="United Kingdom.png" UnitSystem="Metric">
+	<Language culture="en-GB" name="English (UK)" flag="United Kingdom.png" UnitSystem="Metric">
 	</Language>
 	<Language culture="de-DE" name="Deutsch (DE)" flag="Germany.png" UnitSystem="Metric" />
 	<Language culture="nl-NL" name="Nederlands (NL)" flag="Netherlands.png" UnitSystem="Metric" />
@@ -412,8 +412,8 @@
 	   <en-GB name="Runway Information (Name / Length / Surface)" /> 	 
 	   <de-DE name="Runwayinformationen (Name / Länge / Oberfläche)" /> 	 
 	   <en-US name="Runway Information (Name / Length / Surface)" />
-	   <nl-NL name="Runway Information (Name / Length / Surface)" />
-	 </Text>	 
+	   <nl-NL name="Baaninformatie (Naam / Lengte / Verharding)" />
+	 </Text>
    </Region>
 <Region name="PageAirportFacilities">
 	<Text uid="1001">
@@ -973,7 +973,7 @@
 		<en-GB name="Required Runway Length" /> 	 
 		<de-DE name="Minimum Landebahn" /> 	 
 		<en-US name="Required Runway Length" />
-		<nl-NL name="Required Runway Length" /> 	 
+		<nl-NL name="Vereiste lengte landingsbaan" /> 	 
 	</Text>
 </Region>
 <Region name="PanelUsedAirliner">
@@ -1085,7 +1085,7 @@
 		<en-GB name="Runways" /> 	 
 		<de-DE name="Runways" /> 	 
 		<en-US name="Runways" /> 
-		<nl-NL name="Runways" />	 
+		<nl-NL name="Landingsbanen" /> 
 	</Text>
 </Region>
 <Region name="PanelAirports">
