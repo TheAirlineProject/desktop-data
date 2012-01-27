@@ -519,7 +519,7 @@
 		<runway name="18L/36R" length="3400" surface="Asphalt" />
 		<runway name="18C/36C" length="3300" surface="Asphalt" />
 		<runway name="18R/36L" length="3800" surface="Asphalt" />
-	</runway>
+	</runways>
   </airport>
   <airport name="Groningen Airport Eelde" icao="EHGG" iata="GRQ" type="Long_Haul_International">
 	<town town="Groningen" country="179" GMT="02:00:00" DST="01:00:00" />
@@ -1096,7 +1096,7 @@
 		<runway name="18R/36L" length="2743" surface="Concrete" />
 	</runways>
   </airport>
-  <airport name="Denver International Airport" icao="KDEN" iata="DEN" type="Long_Range_International">
+  <airport name="Denver International Airport" icao="KDEN" iata="DEN" type="Long_Haul_International">
     <town town="Denver, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="039°51'30''N" />
@@ -1139,7 +1139,7 @@
 		<runway name="18R/36L" length="4084" surface="Concrete" />
 	</runways>
   </airport>
-  <airport name="Detroit Metropolitan Wayne County Airport" icao="KDTW" iata="DTW" type="Long_Range_International">
+  <airport name="Detroit Metropolitan Wayne County Airport" icao="KDTW" iata="DTW" type="Long_Haul_International">
     <town town="Detroit, MI" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="042°12'44''N" />
@@ -1565,7 +1565,7 @@
 		<runway name="10R/28L" length="3353" surface="Concrete" />
 	</runways>
   </airport>
-  <airport name="Philadelphia International Airport" icao="KPHL" iata="PHL" type="Long_Range_International">
+  <airport name="Philadelphia International Airport" icao="KPHL" iata="PHL" type="Long_Haul_International">
     <town town="Philadelphia, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="039°52'19''N" />
@@ -2710,7 +2710,7 @@
 	</runways>
   </airport>
   <!--Japan Airports (RJ**)-->
-  <airport name="Narita International Airport" icao="RJAA" iata="NRT" type="International">
+  <airport name="Narita International Airport" icao="RJAA" iata="NRT" type="Long_Haul_International">
     <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="035°45'53''N" />
@@ -3260,7 +3260,6 @@
 		<runway name="02L/20R" length="3600" surface="Concrete" />
 		<runway name="02R/20L" length="3800" surface="Concrete" />
 	</runways>
-  </airport>
   </airport>
   <airport name="Shenzhen Bao'an International Airport" icao="ZGSZ" iata="SZX" type="Long_Haul_International">
     <town town="Shenzhen" country="148" GMT="08:00:00" DST="08:00:00" />
