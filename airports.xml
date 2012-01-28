@@ -1,5 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airports>
+	<!--Greenland Airports (BG**)-->
+	<airport name="Kangerlussuaq Airport" icao="BGSF" iata="SFJ" type="Short_Haul_International">
+    <town town="Kangerlussuaq" country="111" GMT="-02:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="067°01'00''N" />
+      <longitude value="050°41'21''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="2" />
+	</terminals>
+	<runways>
+		<runway name="09/27" length="2810" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Iceland Airports (BI**)-->
   <airport name="Keflavík International Airport" icao="BIKF" iata="KEF" type="Long_Haul_International">
     <town town="Keflavík" country="121" GMT="00:00:00" DST="00:00:00" />
@@ -322,6 +337,24 @@
 	</terminals>
 	<runways>
 		<runway name="07/25" length="3345" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Berlin Tegel Airport" icao="EDDT" iata="TXL" type="Long_Haul_International">
+    <town town="Berlin" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="052°33'34''N" />
+      <longitude value="013°17'15''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal A" gates="14" />
+		<terminal name="Terminal B" gates="19" />
+		<terminal name="Terminal C" gates="31" />
+		<terminal name="Terminal D" gates="22" />
+	</terminals>
+	<runways>
+		<runway name="08L/26R" length="3154" surface="Asphalt" />
+		<runway name="08R/26L" length="2540" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Estonia Airports (EE**)-->
@@ -1108,6 +1141,21 @@
 		<runway name="17/35" length="3048" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Albany International Airport" icao="KALB" iata="ALB" type="Short_Haul_International">
+    <town town="Albany, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="042°43'59''N" />
+      <longitude value="073°47'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="20" />
+	</terminals>
+	<runways>
+		<runway name="1/19" length="2591" surface="Asphalt" />
+		<runway name="10/28" length="2195" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Hartsfield-Jackson Atlanta International Airport" icao="KATL" iata="ATL" type="Long_Haul_International">
     <town town="Atlanta, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -1126,6 +1174,21 @@
 		<runway name="10/28" length="2743" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Birmingham-Shuttlesworth International Airport" icao="KBHM" iata="BHM" type="Domestic">
+    <town town="Birmingham, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="033°34'00''N" />
+      <longitude value="086°45'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="6/24" length="3658" surface="Asphalt" />
+		<runway name="18/36" length="2164" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Billings Logan International Airport" icao="KBIL" iata="BIL" type="Domestic">
     <town town="Billings, MT" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
@@ -1140,6 +1203,21 @@
 		<runway name="7/25" length="1677" surface="Asphalt" />
 		<runway name="10L/28R" length="3206" surface="Asphalt" />
 		<runway name="10R/28L" length="1159" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Boise Airport" icao="KBOI" iata="BOI" type="Domestic">
+    <town town="Boise, ID" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="043°33'51''N" />
+      <longitude value="116°13'22''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="10L/28R" length="3048" surface="Asphalt" />
+		<runway name="10R/28L" length="2976" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="General Edward Lawrence Logan International Airport" icao="KBOS" iata="BOS" type="Long_Haul_International">
@@ -1209,6 +1287,21 @@
 		<runway name="15R/33L" length="2869" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Charleston International Airport" icao="KCHS" iata="CHS" type="Domestic">
+    <town town="Charleston, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="032°53'54''N" />
+      <longitude value="080°02'26''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="18" />
+	</terminals>
+	<runways>
+		<runway name="3/21" length="2135" surface="Asphalt" />
+		<runway name="15/33" length="2744" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Cleveland Hopkins International Airport" icao="KCLE" iata="CLE" type="Short_Haul_International">
     <town town="Cleveland, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -1240,6 +1333,86 @@
 		<runway name="18L/36R" length="2644" surface="Asphalt" />
 		<runway name="18C/36C" length="3048" surface="Concrete" />
 		<runway name="18R/36L" length="2743" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Port Columbus International Airport" icao="KCMH" iata="CMH" type="Short_Haul_International">
+    <town town="Columbus, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°59'58''N" />
+      <longitude value="082°53'16''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="44" />
+	</terminals>
+	<runways>
+		<runway name="10L/28R" length="2438" surface="Asphalt" />
+		<runway name="10R/28L" length="3086" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Colorado Springs Airport" icao="KCOS" iata="COS" type="Domestic">
+    <town town="Colorado Springs, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="038°49'00''N" />
+      <longitude value="104°43'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="16" />
+	</terminals>
+	<runways>
+		<runway name="12/30" length="2520" surface="Asphalt" />
+		<runway name="17L/35R" length="4115" surface="Concrete" />
+		<runway name="17R/35L" length="3360" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Cincinnati/Northern Kentucky International Airport" icao="KCVG" iata="CVG" type="Short_Haul_International">
+    <town town="Hebron, KY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°02'51''N" />
+      <longitude value="084°40'03''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="39" />
+	</terminals>
+	<runways>
+		<runway name="9/27" length="3658" surface="Asphalt" />
+		<runway name="18L/36R" length="3048" surface="Concrete" />
+		<runway name="18C/36C" length="3353" surface="Asphalt" />
+		<runway name="18R/36L" length="2438" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Dallas Love Field" icao="KDAL" iata="DAL" type="Domestic">
+    <town town="Dallas, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="032°50'49''N" />
+      <longitude value="096°51'07''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="19" />
+	</terminals>
+	<runways>
+		<runway name="13L/31R" length="2363" surface="Concrete" />
+		<runway name="13R/31L" length="2682" surface="Concrete" />
+		<runway name="18/36" length="1874" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Dayton International Airport" icao="KDAY" iata="DAY" type="Domestic">
+    <town town="Dayton, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°45'00''N" />
+      <longitude value="084°10'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="26" />
+	</terminals>
+	<runways>
+		<runway name="6L/24R" length="3322" surface="Asphalt" />
+		<runway name="6R/24L" length="2220" surface="Concrete" />
+		<runway name="18/36" length="2591" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Ronald Reagan Washington National Airport" icao="KDCA" iata="DCA" type="Short_Haul_International">
@@ -1334,6 +1507,22 @@
 	<runways>
 		<runway name="5/23" length="2744" surface="Asphalt" />
 		<runway name="13/31" length="2744" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="El Paso International Airport" icao="KELP" iata="ELP" type="Domestic">
+    <town town="El Paso, TX" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="031°48'00''N" />
+      <longitude value="106°22'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="3664" surface="Asphalt" />
+		<runway name="8L/26R" length="1674" surface="Asphalt" />
+		<runway name="8R/26L" length="2751" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Newark Liberty International Airport" icao="KEWR" iata="EWR" type="Long_Haul_International">
@@ -1433,6 +1622,36 @@
 		<runway name="18/36" length="2652" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Gerald R. Ford International Airport" icao="KGRR" iata="GRR" type="Short_Haul_International">
+    <town town="Grand Rapids, MI" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="042°52'59''N" />
+      <longitude value="085°31'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="25" />
+	</terminals>
+	<runways>
+		<runway name="8L/26R" length="1524" surface="Concrete" />
+		<runway name="8R/26L" length="3048" surface="Concrete" />
+		<runway name="17/35" length="2591" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Greenville-Spartanburg International Airport" icao="KGSP" iata="GSP" type="Domestic">
+    <town town="Greenville, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="034°53'44''N" />
+      <longitude value="082°13'08''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="3353" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Gary/Chicago International Airport" icao="KGYY" iata="GYY" type="Domestic">
     <town town="Gary, IN" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -1462,6 +1681,38 @@
 		<runway name="5/23" length="1415" surface="Asphalt" />
 		<runway name="9/27" length="2743" surface="Asphalt" />
 		<runway name="16/34" length="911" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="William P. Hobby Airport" icao="KHOU" iata="HOU" type="Domestic">
+    <town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="029°38'43''N" />
+      <longitude value="095°16'43''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="26" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="2317" surface="Concrete" />
+		<runway name="12L/30R" length="1569" surface="Concrete" />
+		<runway name="12R/30L" length="2317" surface="Asphalt" />
+		<runway name="17/35" length="1829" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Huntsville International Airport" icao="KHSV" iata="HSV" type="Domestic">
+    <town town="Huntsville, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="034°38'13''N" />
+      <longitude value="086°46'30''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="18L/36R" length="3050" surface="Asphalt" />
+		<runway name="18R/36L" length="3840" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Washington Dulles International Airport" icao="KIAD" iata="IAD" type="Long_Haul_International">
@@ -1504,6 +1755,22 @@
 		<runway name="15R/33L" length="3048" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Wichita Mid-Continent Airport" icao="KICT" iata="ICT" type="Domestic">
+    <town town="Wichita, KS" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="037°38'59''N" />
+      <longitude value="097°25'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="1L/19R" length="3140" surface="Concrete" />
+		<runway name="1R/19L" length="2225" surface="Concrete" />
+		<runway name="14/32" length="1921" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Indianapolis International Airport" icao="KIND" iata="IND" type="Short_Haul_International">
     <town town="Indianapolis, IN" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -1518,6 +1785,38 @@
 		<runway name="5L/23R" length="3414" surface="Concrete" />
 		<runway name="5R/23L" length="3048" surface="Concrete" />
 		<runway name="14/32" length="2318" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Long Island MacArthur Airport" icao="KISP" iata="ISP" type="Domestic">
+    <town town="Islip, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="040°47'43''N" />
+      <longitude value="073°06'01''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="6/24" length="2135" surface="Asphalt" />
+		<runway name="10/28" length="1534" surface="Asphalt" />
+		<runway name="15L/33R" length="968" surface="Asphalt" />
+		<runway name="15R/33L" length="1581" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Jackson-Evers International Airport" icao="KJAN" iata="JAN" type="Domestic">
+    <town town="Jackson, MS" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="032°18'39''N" />
+      <longitude value="090°04'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="19" />
+	</terminals>
+	<runways>
+		<runway name="16L/34R" length="2591" surface="Asphalt" />
+		<runway name="16R/34L" length="2591" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="John F. Kennedy International Airport" icao="KJFK" iata="JFK" type="Long_Haul_International">
@@ -1602,6 +1901,22 @@
 		<runway name="13/31" length="2135" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Little Rock National Airport" icao="KLIT" iata="LIT" type="Domestic">
+    <town town="Little Rock, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="034°43'45''N" />
+      <longitude value="092°13'27''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="4L/22R" length="2522" surface="Concrete" />
+		<runway name="4R/22L" length="2515" surface="Concrete" />
+		<runway name="18/36" length="1897" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Kansas City International Airport" icao="KMCI" iata="MCI" type="Short_Haul_International">
     <town town="Kansas City, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -1636,6 +1951,24 @@
 		<runway name="17R/35L" length="3048" surface="Concrete" />
 		<runway name="18L/36R" length="3659" surface="Asphalt" />
 		<runway name="18R/36L" length="3659" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Chicago Midway International Airport" icao="KMDW" iata="MDW" type="Short_Haul_International">
+    <town town="Chicago, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="041°47'09''N" />
+      <longitude value="087°45'08''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal" gates="43" />
+	</terminals>
+	<runways>
+		<runway name="4L/22R" length="1679" surface="Asphalt" />
+		<runway name="4R/22L" length="1965" surface="Asphalt" />
+		<runway name="13L/31R" length="1567" surface="Asphalt" />
+		<runway name="13C/31C" length="1988" surface="Concrete" />
+		<runway name="13R/31L" length="1176" surface="Concrete" />
 	</runways>
   </airport>
   <airport name="Memphis International Airport" icao="KMEM" iata="MEM" type="Short_Haul_International">
@@ -1674,6 +2007,40 @@
 		<runway name="8R/26L" length="3202" surface="Asphalt" />
 		<runway name="9/27" length="3962" surface="Asphalt" />
 		<runway name="12/30" length="2851" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="General Mitchell International Airport" icao="KMKE" iata="MKE" type="Short_Haul_International">
+    <town town="Milwaukee, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="042°56'48''N" />
+      <longitude value="087°53'48''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="48" />
+	</terminals>
+	<runways>
+		<runway name="1L/19R" length="2954" surface="Asphalt" />
+		<runway name="1R/19L" length="1275" surface="Asphalt" />
+		<runway name="7L/25R" length="1463" surface="Asphalt" />
+		<runway name="7R/25L" length="2442" surface="Asphalt" />
+		<runway name="13/31" length="1789" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Dane County Regional Airport" icao="KMSN" iata="MSN" type="Regional">
+    <town town="Madison, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="043°08'23''N" />
+      <longitude value="089°20'15''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="3/21" length="2195" surface="Concrete" />
+		<runway name="14/32" length="1782" surface="Concrete" />
+		<runway name="18/36" length="2745" surface="Concrete" />
 	</runways>
   </airport>
   <airport name="Minneapolis−Saint Paul International Airport" icao="KMSP" iata="MSP" type="Long_Haul_International">
@@ -1729,6 +2096,39 @@
 		<runway name="15/33" length="1028" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Will Rogers World Airport" icao="KOKC" iata="OKC" type="Domestic">
+    <town town="Oklahoma City, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="035°23'35''N" />
+      <longitude value="097°36'02''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="17" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="2377" surface="Asphalt" />
+		<runway name="17L/35R" length="2988" surface="Concrete" />
+		<runway name="17R/35R" length="2987" surface="Concrete" />
+		<runway name="18/36" length="938" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Eppley Airfield" icao="KOMA" iata="OMA" type="Domestic">
+    <town town="Omaha, NE" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="041°17'59''N" />
+      <longitude value="095°54'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="20" />
+	</terminals>
+	<runways>
+		<runway name="14L/32R" length="2591" surface="Concrete" />
+		<runway name="14R/32L" length="2896" surface="Asphalt" />
+		<runway name="18/36" length="2485" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Ontario International Airport" icao="KONT" iata="ONT" type="Short_Haul_International">
     <town town="Ontario, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
@@ -1767,6 +2167,21 @@
 		<runway name="10/28" length="3962" surface="Asphalt" />
 		<runway name="14L/32R" length="3050" surface="Asphalt" />
 		<runway name="14R/32L" length="2952" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Norfolk International Airport" icao="KORF" iata="ORF" type="Domestic">
+    <town town="Norfolk, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="036°53'59''N" />
+      <longitude value="076°12'00''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="30" />
+	</terminals>
+	<runways>
+		<runway name="5/23" length="2744" surface="Asphalt" />
+		<runway name="14/32" length="1486" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Palm Beach International Airport" icao="KPBI" iata="PBI" type="Short_Haul_International">
@@ -1876,6 +2291,83 @@
 		<runway name="14/32" length="2469" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Pensacola International Airport" icao="KPNS" iata="PNS" type="Regional">
+    <town town="Pensacola, FL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="030°28'00''N" />
+      <longitude value="087°10'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="8/26" length="2134" surface="Asphalt" />
+		<runway name="17/35" length="2135" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Palm Springs International Airport" icao="KPSP" iata="PSP" type="Short_Haul_International">
+    <town town="Palm Springs, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="033°49'59''N" />
+      <longitude value="116°30'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="13L/31R" length="1509" surface="Asphalt" />
+		<runway name="13R/31L" length="3048" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="T. F. Green Airport" icao="KPVD" iata="PVD" type="Short_Haul_International">
+    <town town="Providence, RI" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="041°43'59''N" />
+      <longitude value="071°25'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="22" />
+	</terminals>
+	<runways>
+		<runway name="5/23" length="2184" surface="Asphalt" />
+		<runway name="16/34" length="1853" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Portland International Jetport" icao="KPWM" iata="PWM" type="Short_Haul_International">
+    <town town="Portland, OR" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="043°38'59''N" />
+      <longitude value="070°17'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="2195" surface="Asphalt" />
+		<runway name="18/36" length="1524" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Raleigh-Durham International Airport" icao="KRDU" iata="RDU" type="Short_Haul_International">
+    <town town="Morrisville, NC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="035°52'19''N" />
+      <longitude value="078°47'06''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal 1" gates="18" />
+		<terminal name="Terminal 2" gates="45" />
+	</terminals>
+	<runways>
+		<runway name="5L/23R" length="3048" surface="Concrete" />
+		<runway name="5R/23L" length="2286" surface="Asphalt" />
+		<runway name="14/32" length="1088" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Chicago Rockford International Airport" icao="KRFD" iata="RFD" type="Domestic">
     <town town="Rockford, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -1889,6 +2381,82 @@
 	<runways>
 		<runway name="1/19" length="2499" surface="Asphalt" />
 		<runway name="7/25" length="3049" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Richmond International Airport" icao="KRIC" iata="RIC" type="Short_Haul_International">
+    <town town="Richmond, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="037°30'00''N" />
+      <longitude value="077°19'00''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="21" />
+	</terminals>
+	<runways>
+		<runway name="2/20" length="2014" surface="Asphalt" />
+		<runway name="7/25" length="1623" surface="Asphalt" />
+		<runway name="16/34" length="2744" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Southwest Florida International Airport" icao="KRSW" iata="RSW" type="Long_Haul_International">
+    <town town="Fort Myers, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="026°32'10''N" />
+      <longitude value="081°45'18''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="28" />
+	</terminals>
+	<runways>
+		<runway name="6/24" length="3658" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="San Diego International Airport" icao="KSAN" iata="SAN" type="Long_Haul_International">
+    <town town="San Diego, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="032°44'00''N" />
+      <longitude value="117°11'22''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal 1" gates="19" />
+		<terminal name="Terminal 2" gates="22" />
+	</terminals>
+	<runways>
+		<runway name="9/27" length="2865" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="San Antonio International Airport" icao="KSAT" iata="SAT" type="Short_Haul_International">
+    <town town="San Antonio, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="029°32'01''N" />
+      <longitude value="098°28'12''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="24" />
+	</terminals>
+	<runways>
+		<runway name="3/21" length="2288" surface="Concrete" />
+		<runway name="12L/30R" length="1682" surface="Asphalt" />
+		<runway name="12R/30L" length="2591" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Savannah/Hilton Head International Airport" icao="KSAV" iata="SAV" type="Domestic">
+    <town town="Savannah, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="032°07'59''N" />
+      <longitude value="081°12'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="1/19" length="2134" surface="Concrete" />
+		<runway name="10/28" length="2850" surface="Concrete" />
 	</runways>
   </airport>
   <airport name="Louisville International Airport" icao="KSDF" iata="SDF" type="Short_Haul_International">
@@ -1925,6 +2493,23 @@
 		<runway name="16R/34L" length="2591" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Orlando Sanford International Airport" icao="KSFB" iata="SFB" type="Long_Haul_International">
+    <town town="Sanford, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="028°46'59''N" />
+      <longitude value="081°15'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="22" />
+	</terminals>
+	<runways>
+		<runway name="9L/27R" length="2926" surface="Asphalt" />
+		<runway name="9C/27C" length="1091" surface="Asphalt" />
+		<runway name="9R/27L" length="2026" surface="Asphalt" />
+		<runway name="18/36" length="1829" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="San Francisco International Airport" icao="KSFO" iata="SFO" type="Long_Haul_International">
     <town town="San Francisco, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
@@ -1942,6 +2527,21 @@
 		<runway name="1R/19L" length="2636" surface="Asphalt" />
 		<runway name="10L/28R" length="3618" surface="Asphalt" />
 		<runway name="10R/28L" length="3231" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Springfield-Branson National Airport" icao="KSGF" iata="SGF" type="Domestic">
+    <town town="Springfield, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="037°15'00''N" />
+      <longitude value="093°22'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="19" />
+	</terminals>
+	<runways>
+		<runway name="2/20" length="2134" surface="Concrete" />
+		<runway name="14/32" length="2438" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Salt Lake City International Airport" icao="KSLC" iata="SLC" type="Short_Haul_International">
@@ -1962,6 +2562,21 @@
 		<runway name="17/35" length="2925" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Sacramento International Airport" icao="KSMF" iata="SMF" type="Short_Haul_International">
+    <town town="Sacramento, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="038°41'42''N" />
+      <longitude value="121°35'29''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal" gates="24" />
+	</terminals>
+	<runways>
+		<runway name="16L/34R" length="2622" surface="Concrete" />
+		<runway name="16R/34L" length="2621" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Lambert-St. Louis International Airport" icao="KSTL" iata="STL" type="Short_Haul_International">
     <town town="St. Louis, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -1978,6 +2593,21 @@
 		<runway name="11/29" length="2743" surface="Concrete" />
 		<runway name="12L/30R" length="2744" surface="Concrete" />
 		<runway name="12R/30L" length="3359" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Syracuse Hancock International Airport" icao="KSYR" iata="SYR" type="Short_Haul_International">
+    <town town="Syracuse, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="043°07'00''N" />
+      <longitude value="076°07'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="16" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="2744" surface="Asphalt" />
+		<runway name="15/33" length="2286" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Tallahassee Regional Airport" icao="KTLH" iata="TLH" type="Regional">
@@ -2006,9 +2636,25 @@
 		<terminal name="Terminal" gates="62" />
 	</terminals>
 	<runways>
+		<runway name="1L/19R" length="3353" surface="Asphalt" />
+		<runway name="1R/19L" length="2530" surface="Asphalt" />
 		<runway name="10/28" length="2133" surface="Asphalt" />
-		<runway name="19L/1R" length="2530" surface="Asphalt" />
-		<runway name="19R/1L" length="3353" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Tulsa International Airport" icao="KTUL" iata="TUL" type="Domestic">
+    <town town="Tulsa, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="036°11'53''N" />
+      <longitude value="095°53'17''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="17" />
+	</terminals>
+	<runways>
+		<runway name="8/26" length="2248" surface="Concrete" />
+		<runway name="18L/36R" length="2530" surface="Concrete" />
+		<runway name="18R/36L" length="3353" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Tucson International Airport" icao="KTUS" iata="TUS" type="Domestic">
@@ -2025,6 +2671,36 @@
 		<runway name="3/21" length="2134" surface="Asphalt" />
 		<runway name="11L/29R" length="3352" surface="Asphalt" />
 		<runway name="11R/29L" length="2563" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="McGhee Tyson Airport" icao="KTYS" iata="TYS" type="Domestic">
+    <town town="Knoxville, TN" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="035°57'00''N" />
+      <longitude value="083°55'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="23" />
+	</terminals>
+	<runways>
+		<runway name="5L/23R" length="2745" surface="Concrete" />
+		<runway name="5R/23L" length="2743" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Northwest Arkansas Regional Airport" icao="KXNA" iata="XNA" type="Regional">
+    <town town="Fayetteville, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="036°16'54''N" />
+      <longitude value="094°18'24''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="20" />
+	</terminals>
+	<runways>
+		<runway name="16/34" length="2682" surface="Concrete" />
+		<runway name="17/35" length="2682" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Cyprus Airports (LC**)-->
@@ -2150,6 +2826,20 @@
 		<runway name="15R/33L" length="4100" surface="Asphalt" />
 		<runway name="18L/36R" length="3500" surface="Asphalt" />
 		<runway name="18R/36L" length="4349" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Málaga Airport" icao="LEMG" iata="AGP" type="Long_Haul_International">
+    <town town="Malaga" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="036°40'25''N" />
+      <longitude value="004°29'56''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal 3" gates="43" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="3200" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Menorca Airport" icao="LEMH" iata="MAH" type="Long_Haul_International">
@@ -2743,6 +3433,21 @@
 		<runway name="01/19" length="3000" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Gibraltar Airports (LX**)-->
+  <airport name="Gibraltar Airport" icao="LXGB" iata="GIB" type="Long_Haul_International">
+    <town town="Gibraltar" country="201" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="036°08'59''N" />
+      <longitude value="005°20'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="09/27" length="1828" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Turks and Caicos Islands Airports (MB**)-->
   <airport name="Providenciales International Airport" icao="MBPV" iata="PLS" type="Long_Haul_International">
     <town town="Providenciales" country="209" GMT="-04:00:00" DST="-05:00:00" />
@@ -2785,6 +3490,21 @@
 	</terminals>
 	<runways>
 		<runway name="17/35" length="3355" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Jamaica Airports (MK**)-->
+  <airport name="Sangster International Airport" icao="MKJS" iata="MBJ" type="Long_Haul_International">
+    <town town="Montego Bay" country="199" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="018°30'00''N" />
+      <longitude value="077°55'00''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="07/25" length="2653" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Mexico Airports (MM**)-->
@@ -2834,6 +3554,22 @@
 	<runways>
 		<runway name="03L/21R" length="2682" surface="Asphalt" />
 		<runway name="03R/21L" length="3050" surface="Concrete" />
+	</runways>
+  </airport>
+  <!--Bahamas Airports (MY**)-->
+  <airport name="Nassau International" icao="MYNN" iata="NAS" type="Long_Haul_International">
+    <town town="Nassau" country="203" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="025°02'20''N" />
+      <longitude value="077°27'57''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="34" />
+	</terminals>
+	<runways>
+		<runway name="09/27" length="2537" surface="Asphalt" />
+		<runway name="14/32" length="3358" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Fiji/Tonga Airports (NF**)-->
@@ -3013,6 +3749,22 @@
 		<runway name="12R/30L" length="4445" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Pakistan Airports (OP**)-->
+  <airport name="Jinnah International Airport" icao="OPKC" iata="KHI" type="Long_Haul_International">
+    <town town="Karachi" country="202" GMT="05:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="024°54'24''N" />
+      <longitude value="067°09'38''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="42" />
+	</terminals>
+	<runways>
+		<runway name="07L/25R" length="3200" surface="Concrete" />
+		<runway name="07R/25L" length="3400" surface="Concrete" />
+	</runways>
+  </airport>
   <!--Iraq Airports (OR**)-->
   <airport name="Baghdad International Airpor" icao="ORBI" iata="BGW" type="Long_Haul_International">
     <town town="Baghdad" country="127" GMT="03:00:00" DST="03:00:00" />
@@ -3062,6 +3814,20 @@
 	</runways>
   </airport>
   <!--Hawaii Airports (PH**)-->
+  <airport name="Kona International Airport" icao="PHKO" iata="KOA" type="Short_Haul_International">
+    <town town="Kona, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
+    <coordinates>
+      <latitude value="019°44'20''N" />
+      <longitude value="156°02'44''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="17/35" length="3353" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Honolulu International" icao="PHNL" iata="HNL" type="Long_Haul_International">
     <town town="Honolulu, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
     <coordinates>
@@ -3161,6 +3927,21 @@
 		<runway name="15L/33R" length="3750" surface="Asphalt" />
 		<runway name="15R/33L" length="3750" surface="Asphalt" />
 		<runway name="16/34" length="4000" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Gimpo Airport" icao="RKSS" iata="GMP" type="Short_Haul_International">
+    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="037°33'29''N" />
+      <longitude value="126°47'26''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal" gates="27" />
+	</terminals>
+	<runways>
+		<runway name="14L/32R" length="3600" surface="Concrete" />
+		<runway name="14R/32L" length="3200" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Philippines Airports (RP**)-->
@@ -3300,7 +4081,22 @@
 		<runway name="17R/35L" length="3800" surface="Asphalt" />
 	</runways>
   </airport>
-  <!--Caribbean Airports (T***)-->
+  <!--Virigin Islands (US) Airports (TI**)-->
+  <airport name="Cyril E. King Airport" icao="TIST" iata="STT" type="Long_Haul_International">
+    <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°20'13''N" />
+      <longitude value="064°58'23''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="2134" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Caribbean Netherlands Airports (TN**)-->
   <airport name="Flamingo International Airport" icao="TNCB" iata="BON" type="Long_Haul_International">
     <town town="Kralendijk" country="109" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
@@ -3315,6 +4111,21 @@
 		<runway name="10/28" length="2880" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Princess Juliana International Airport" icao="TNCM" iata="SXM" type="Long_Haul_International">
+    <town town="Philipsburg" country="109" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°02'26''N" />
+      <longitude value="063°06'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="2300" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--St. Lucia Airports (TL**)-->
   <airport name="George F.L. Charles Airport" icao="TLPC" iata="SLU" type="Long_Haul_International">
     <town town="Castries" country="108" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
@@ -3343,7 +4154,80 @@
 		<runway name="10/28" length="2744" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Trinidad and Tobago Airports (TT**)-->
+  <airport name="Piarco International Airport" icao="TTPP" iata="POS" type="Long_Haul_International">
+    <town town="Port Of Spain" country="205" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="010°39'00''N" />
+      <longitude value="061°31'00''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="16" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="3200" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Bermuda Airports (TX**)-->
+  <airport name="L.F. Wade International Airport" icao="TXKF" iata="BDA" type="Long_Haul_International">
+    <town town="St. George's" country="200" GMT="-03:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="032°21'51''N" />
+      <longitude value="064°40'42''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="16" />
+	</terminals>
+	<runways>
+		<runway name="12/30" length="2947" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Russia Airports (U***) except UA**, UB**, UD**, UG**, UK**, UM** and UT**-->
+  <airport name="Krasnodar International Airport" icao="URKK" iata="KRR" type="Long_Haul_International">
+    <town town="Krasnodar" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="045°02'04''N" />
+      <longitude value="039°10'14''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="08L/26R" length="2497" surface="Asphalt" />
+		<runway name="08R/26L" length="3025" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Volgograd International Airport" icao="URWW" iata="VOG" type="Short_Haul_International">
+    <town town="Volgograd" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="048°45'00''N" />
+      <longitude value="044°30'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="2500" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Koltsovo Airport" icao="USSS" iata="SVX" type="Long_Haul_International">
+    <town town="Ekaterinburg" country="149" GMT="06:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="056°51'00''N" />
+      <longitude value="060°36'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="20" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="2500" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Domodedovo International Airport" icao="UUDD" iata="DME" type="Long_Haul_International">
     <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
@@ -3368,7 +4252,7 @@
     </coordinates>
     <size value="Very_small" />
     <terminals>
-		<terminal name="Terminal" gates="37" />
+		<terminal name="Terminal" gates="17" />
 	</terminals>
 	<runways>
 		<runway name="02/20" length="3060" surface="Concrete" />
@@ -3389,6 +4273,20 @@
 	<runways>
 		<runway name="18L/36R" length="4000" surface="Concrete" />
 		<runway name="18R/36L" length="3500" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Lviv Danylo Halytskyi International Airport" icao="UKLL" iata="LWO" type="Long_Haul_International">
+    <town town="Lviv" country="134" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="049°48'45''N" />
+      <longitude value="023°57'21''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="2080" surface="Concrete" />
 	</runways>
   </airport>
   <!--India Airports (VA**, VE**, VI** and VO**)-->
@@ -3500,6 +4398,20 @@
 		<runway name="01R/19L" length="4000" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Chiang Mai International Airport" icao="VTCC"  iata="CNX" type="Short_Haul_International">
+    <town town="Chiang Mai" country="175" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="018°46'05''N" />
+      <longitude value="098°57'46''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="8" />
+	</terminals>
+	<runways>
+		<runway name="18/36" length="3100" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Vietnam Airports (VV**)-->
   <airport name="Tan Son Nhat International Airport" icao="VVTS" iata="SGN" type="Short_Haul_International">
     <town town="Ho Chi Minh City" country="170" GMT="07:00:00" DST="07:00:00" />
@@ -3564,7 +4476,36 @@
 		<runway name="05/23" length="3000" surface="Asphalt" />
 	</runways>
   </airport>
-  <!--Malaysia Airports (WM**)-->
+  <!--Malaysia Airports (WB, WM**)-->
+  <airport name="Kuching International Airport" icao="WBGG" iata="KCH" type="Short_Haul_International">
+    <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="001°29'04''N" />
+      <longitude value="110°20'48''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="9" />
+	</terminals>
+	<runways>
+		<runway name="07/25" length="3780" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Kota Kinabalu International Airport" icao="WBKK" iata="BKI" type="Short_Haul_International">
+    <town town="Kota Kinabalu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="005°56'13''N" />
+      <longitude value="116°02'59''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal 1" gates="26" />
+		<terminal name="Terminal 2" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="07/25" length="3780" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Kuala Lumpur International Airport" icao="WMKK" iata="KUL" type="Long_Haul_International">
     <town town="Kuala Lumpur" country="173" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
@@ -3579,6 +4520,20 @@
 	<runways>
 		<runway name="14L/32R" length="4124" surface="Concrete" />
 		<runway name="14R/32L" length="4056" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Penang International Airport" icao="WMKP" iata="PEN" type="Short_Haul_International">
+    <town town="Penang" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="005°17'59''N" />
+      <longitude value="100°16'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="04/22" length="3352" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Singapore Airports (WS**)-->
@@ -3725,7 +4680,7 @@
 	</runways>
   </airport>
   <airport name="Sydney (Kingsford Smith) Airport" icao="YSSY" iata="SYD" type="Long_Haul_International">
-    <town town="Sydney" country="116" GMT="10:00:00" DST="11:00:00" />
+    <town town="Sydney, NSW" country="116" GMT="10:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="033°56'46''S" />
       <longitude value="151°10'38''E" />
@@ -3896,33 +4851,6 @@
   </airport>
   
   <!--Not Yet Updated
-  <airport name="Tegel" iata="TXL" type="International">
-    <town town="Berlin" country="163" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="052°33'34''N" />
-      <longitude value="013°17'15''E" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="54" />
-  </airport>
-  <airport name="Malaga" iata="AGP" type="International">
-    <town town="Malaga" country="123" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="036°40'25''N" />
-      <longitude value="004°29'56''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="27" />
-  </airport>
-  <airport name="Gimpo" iata="GMP" type="International">
-    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
-    <coordinates>
-      <latitude value="037°33'29''N" />
-      <longitude value="126°47'26''E" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="27" />
-  </airport>
   <airport name="Sheremetyevo" iata="SVO" type="International">
     <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
@@ -4004,15 +4932,6 @@
     <size value="Small" />
     <gates value="64" />
   </airport>
-  <airport name="San Diego International Lindbergh Fld" iata="SAN" type="International">
-    <town town="San Diego, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
-    <coordinates>
-      <latitude value="032°44'00''N" />
-      <longitude value="117°11'22''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="45" />
-  </airport>
   <airport name="Shuangliu" iata="CTU" type="International">
     <town town="Chengdu" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
@@ -4057,15 +4976,6 @@
     </coordinates>
     <size value="Small" />
     <gates value="70" />
-  </airport>
-  <airport name="Chicago Midway International" iata="MDW" type="International">
-    <town town="Chicago, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="041°47'09''N" />
-      <longitude value="087°45'08''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="43" />
   </airport>
   <airport name="Guararapes International Airport" iata="REC" type="International">
     <town town="Recife" country="138" GMT="-03:00:00" DST="-03:00:00" />
@@ -4264,87 +5174,6 @@
     </coordinates>
     <size value="Smallest" />
     <gates value="5" />
-  </airport>
-  <airport name="Sacramento International Airport" iata="SMF" type="International">
-    <town town="Sacramento, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
-    <coordinates>
-      <latitude value="038°41'42''N" />
-      <longitude value="121°35'29''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="23" />
-  </airport>
-  <airport name="Raleigh-Durham International Airport" iata="RDU" type="International">
-    <town town="Morrisville, NC" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="035°52'19''N" />
-      <longitude value="078°47'06''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="32" />
-  </airport>
-  <airport name="Greater Cincinnati International Airport" iata="CVG" type="International">
-    <town town="Hebron, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="039°02'51''N" />
-      <longitude value="084°40'03''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="21" />
-  </airport>
-  <airport name="Port Columbus International Airport" iata="CMH" type="International">
-    <town town="Columbus, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="039°59'58''N" />
-      <longitude value="082°53'16''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="44" />
-  </airport>
-  <airport name="Southwest Florida International Airport" iata="RSW" type="International">
-    <town town="Fort Myers, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="026°32'10''N" />
-      <longitude value="081°45'18''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="31" />
-  </airport>
-  <airport name="General Mitchell International Airport" iata="MKE" type="International">
-    <town town="Milwaukee, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="042°56'48''N" />
-      <longitude value="087°53'48''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="48" />
-  </airport>
-  <airport name="San Antonio International Airport" iata="SAT" type="International">
-    <town town="San Antonio, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="029°32'01''N" />
-      <longitude value="098°28'12''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="27" />
-  </airport>
-  <airport name="Dallas Love Field" iata="DAL" type="International">
-    <town town="Dallas, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="032°50'49''N" />
-      <longitude value="096°51'07''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="20" />
-  </airport>
-  <airport name="William P Hobby Airport" iata="HOU" type="International">
-    <town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="029°38'43''N" />
-      <longitude value="095°16'43''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="26" />
   </airport>
   <airport name="Juan Santamaria" iata="SJO" type="International">
     <town town="San José" country="192" GMT="-06:00:00" DST="-06:00:00" />
@@ -5048,123 +5877,6 @@
     <size value="Smallest" />
     <gates value="2" />
   </airport>
-  <airport name="Wichita Mid-Continent Airport" iata="ICT" type="International">
-    <town town="Wichita, KS" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="037°38'59''N" />
-      <longitude value="097°25'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="11" />
-  </airport>
-  <airport name="Huntsville International Airport" iata="HSV" type="International">
-    <town town="Huntsville, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="034°38'13''N" />
-      <longitude value="086°46'30''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="12" />
-  </airport>
-  <airport name="Jackson-Evers International Airport" iata="JAN" type="International">
-    <town town="Jackson, MS" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="032°18'39''N" />
-      <longitude value="090°04'32''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="19" />
-  </airport>
-  <airport name="Greenville Spartanbur Int'l Airport" iata="GSP" type="International">
-    <town town="Greenville, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="034°53'44''N" />
-      <longitude value="082°13'08''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="13" />
-  </airport>
-  <airport name="Palm Springs International Airport" iata="PSP" type="International">
-    <town town="Palm Springs, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
-    <coordinates>
-      <latitude value="033°49'59''N" />
-      <longitude value="116°30'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="15" />
-  </airport>
-  <airport name="Dane County Regional Airport" iata="MSN" type="Domestic">
-    <town town="Madison, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="043°08'23''N" />
-      <longitude value="089°20'15''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="13" />
-  </airport>
-  <airport name="McGhee Tyson Airport" iata="TYS" type="Domestic">
-    <town town="Knoxville, TN" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="035°57'00''N" />
-      <longitude value="083°55'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="23" />
-  </airport>
-  <airport name="Springfield-Branson National Airport" iata="SGF" type="Domestic">
-    <town town="Springfield, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="037°15'00''N" />
-      <longitude value="093°22'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="19" />
-  </airport>
-  <airport name="Orlando Sanford International Airport" iata="SFB" type="Domestic">
-    <town town="Sanford, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="028°46'59''N" />
-      <longitude value="081°15'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="22" />
-  </airport>
-  <airport name="Charleston International Airport" iata="CHS" type="International">
-    <town town="Charleston, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="032°53'54''N" />
-      <longitude value="080°02'26''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="18" />
-  </airport>
-  <airport name="Savannah/Hilton Head International Airport" iata="SAV" type="International">
-    <town town="Savannah, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="032°07'59''N" />
-      <longitude value="081°12'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="15" />
-  </airport>
-  <airport name="Colorado Springs Airport" iata="COS" type="Domestic">
-    <town town="Colorado Springs, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
-    <coordinates>
-      <latitude value="038°49'00''N" />
-      <longitude value="104°43'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="16" />
-  </airport>
-  <airport name="Gerald R. Ford International Airport" iata="GRR" type="Regional">
-    <town town="Grand Rapids, MI" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="042°52'59''N" />
-      <longitude value="085°31'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="25" />
-  </airport>
   <airport name="Svalbard Airport" iata="LYR" type="Domestic">
     <town town="Longyearbyen" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
@@ -5173,42 +5885,6 @@
     </coordinates>
     <size value="Smallest" />
     <gates value="3" />
-  </airport>
-  <airport name="Northwest Arkansas Regional Airport" iata="XNA" type="Domestic">
-    <town town="Fayetteville, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="036°16'54''N" />
-      <longitude value="094°18'24''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="8" />
-  </airport>
-  <airport name="Syracuse Hancock International Airport" iata="SYR," type="International">
-    <town town="Syracuse, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="043°07'00''N" />
-      <longitude value="076°07'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="11" />
-  </airport>
-  <airport name="Long Island MacArthur Airport" iata="ISP" type="Domestic">
-    <town town="Islip, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="040°47'43''N" />
-      <longitude value="073°06'01''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="13" />
-  </airport>
-  <airport name="Little Rock National Airport" iata="LIT" type="Domestic">
-    <town town="Little Rock, AR" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="034°43'45''N" />
-      <longitude value="092°13'27''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="16" />
   </airport>
   <airport name="Lihue Airport" iata="LIH" type="Regional">
     <town town="Kauai Island, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
@@ -5219,24 +5895,6 @@
     <size value="Smallest" />
     <gates value="14" />
   </airport>
-  <airport name="Dayton International Airport" iata="DAY" type="International">
-    <town town="Dayton, OH" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="039°45'00''N" />
-      <longitude value="084°10'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="14" />
-  </airport>
-  <airport name="Pensacola Gulf Coast Regional Airport" iata="PNS" type="Domestic">
-    <town town="Pensacola, FL" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="030°28'00''N" />
-      <longitude value="087°10'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="12" />
-  </airport>
   <airport name="Antonio B. Won Pat International Airport" iata="GUM" type="International">
     <town town="Hagåtña, GU" country="122" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
@@ -5245,266 +5903,5 @@
     </coordinates>
     <size value="Smallest" />
     <gates value="17" />
-  </airport>
-  <airport name="Albany International Airport" iata="ALB" type="International">
-    <town town="Albany, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="042°43'59''N" />
-      <longitude value="073°47'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="14" />
-  </airport>
-  <airport name="Kona International Airport" iata="KOA" type="International">
-    <town town="Kona, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
-    <coordinates>
-      <latitude value="019°44'20''N" />
-      <longitude value="156°02'44''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="13" />
-  </airport>
-  <airport name="Tulsa International Airport" iata="TUL" type="International">
-    <town town="Tulsa, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="036°11'53''N" />
-      <longitude value="095°53'17''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="17" />
-  </airport>
-  <airport name="Richmond International Airport" iata="RIC" type="International">
-    <town town="Richmond, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="037°30'00''N" />
-      <longitude value="077°19'00''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="21" />
-  </airport>
-  <airport name="Boise Airport" iata="BOI" type="Domestic">
-    <town town="Boise, ID" country="122" GMT="-06:00:00" DST="-07:00:00" />
-    <coordinates>
-      <latitude value="043°33'51''N" />
-      <longitude value="116°13'22''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="12" />
-  </airport>
-  <airport name="El Paso International Airport" iata="ELP" type="International">
-    <town town="El Paso, TX" country="122" GMT="-06:00:00" DST="-07:00:00" />
-    <coordinates>
-      <latitude value="031°48'00''N" />
-      <longitude value="106°22'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="15" />
-  </airport>
-  <airport name="Will Rogers World Airport" iata="OKC" type="Regional">
-    <town town="Oklahoma City, OK" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="035°23'35''N" />
-      <longitude value="097°36'02''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="17" />
-  </airport>
-  <airport name="Sangster International Airport" iata="MBJ" type="International">
-    <town town="Montego Bay" country="199" GMT="-05:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="018°30'00''N" />
-      <longitude value="077°55'00''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="5" />
-  </airport>
-  <airport name="Princess Juliana International Airport" iata="SXM" type="International">
-    <town town="Philipsburg" country="109" GMT="-04:00:00" DST="-04:00:00" />
-    <coordinates>
-      <latitude value="018°02'26''N" />
-      <longitude value="063°06'32''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="11" />
-  </airport>
-  <airport name="Lviv International Airport" iata="LWO" type="International">
-    <town town="Lviv" country="134" GMT="03:00:00" DST="02:00:00" />
-    <coordinates>
-      <latitude value="049°48'45''N" />
-      <longitude value="023°57'21''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="3" />
-  </airport>
-  <airport name="Kangerlussuaq Airport" iata="SFJ" type="International">
-    <town town="Kangerlussuaq" country="111" GMT="-02:00:00" DST="-03:00:00" />
-    <coordinates>
-      <latitude value="067°01'00''N" />
-      <longitude value="050°41'21''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="2" />
-  </airport>
-  <airport name="Koltsovo International Airport" iata="SVX" type="International">
-    <town town="Ekaterinburg" country="149" GMT="06:00:00" DST="05:00:00" />
-    <coordinates>
-      <latitude value="056°51'00''N" />
-      <longitude value="060°36'00''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="10" />
-  </airport>
-  <airport name="Krasnodar International Airport" iata="KRR" type="International">
-    <town town="Krasnodar" country="149" GMT="04:00:00" DST="03:00:00" />
-    <coordinates>
-      <latitude value="045°02'04''N" />
-      <longitude value="039°10'14''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="5" />
-  </airport>
-  <airport name="Volgograd International Airport" iata="VOG" type="International">
-    <town town="Volgograd" country="149" GMT="04:00:00" DST="03:00:00" />
-    <coordinates>
-      <latitude value="048°45'00''N" />
-      <longitude value="044°30'00''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="4" />
-  </airport>
-  <airport name="Eppley Airfield" iata="OMA" type="Domestic">
-    <town town="Omaha, NE" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="041°17'59''N" />
-      <longitude value="095°54'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="20" />
-  </airport>
-  <airport name="Portland International Jetport" iata="PWM" type="Domestic">
-    <town town="Portland, OR" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="043°38'59''N" />
-      <longitude value="070°17'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="12" />
-  </airport>
-  <airport name="Birmingham-Shuttlesworth International" iata="BHM" type="Domestic">
-    <town town="Birmingham, AL" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="033°34'00''N" />
-      <longitude value="086°45'00''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="5" />
-  </airport>
-  <airport name="T. F. Green Airport" iata="PVD" type="Regional">
-    <town town="Providence, RI" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="041°43'59''N" />
-      <longitude value="071°25'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="22" />
-  </airport>
-  <airport name="L.F. Wade International Airport" iata="BDA" type="International">
-    <town town="St. George's" country="200" GMT="-03:00:00" DST="-04:00:00" />
-    <coordinates>
-      <latitude value="032°21'51''N" />
-      <longitude value="064°40'42''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="8" />
-  </airport>
-  <airport name="Gibraltar Airport" iata="GIB" type="International">
-    <town town="Gibraltar" country="201" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="036°08'59''N" />
-      <longitude value="005°20'59''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="4" />
-  </airport>
-  <airport name="Jinnah International Airport" iata="KHI" type="International">
-    <town town="Karachi" country="202" GMT="05:00:00" DST="05:00:00" />
-    <coordinates>
-      <latitude value="024°54'24''N" />
-      <longitude value="067°09'38''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="12" />
-  </airport>
-  <airport name="Norfolk International Airport" iata="ORF" type="Domestic">
-    <town town="Norfolk, VA" country="122" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="036°53'59''N" />
-      <longitude value="076°12'00''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="30" />
-  </airport>
-  <airport name="Nassau International" iata="NAS" type="International">
-    <town town="Nassau" country="203" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="025°02'20''N" />
-      <longitude value="077°27'57''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="34" />
-  </airport>
-  <airport name="Cyril E. King Airport" iata="STT" type="International">
-    <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00" />
-    <coordinates>
-      <latitude value="018°20'13''N" />
-      <longitude value="064°58'23''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="11" />
-  </airport>
-  <airport name="Piarco International Airport" iata="POS" type="International">
-    <town town="Port Of Spain" country="205" GMT="-04:00:00" DST="-04:00:00" />
-    <coordinates>
-      <latitude value="010°39'00''N" />
-      <longitude value="061°31'00''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="16" />
-  </airport>
-  <airport name="Kota Kinabalu International Airport" iata="BKI" type="International">
-    <town town="Kota Kinabalu" country="173" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="005°56'13''N" />
-      <longitude value="116°02'59''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="14" />
-  </airport>
-  <airport name="Penang International Airport" iata="PEN" type="International">
-    <town town="Penang" country="173" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="005°17'59''N" />
-      <longitude value="100°16'00''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="12" />
-  </airport>
-  <airport name="Kuching International Airport" iata="KCH" type="International">
-    <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="001°29'04''N" />
-      <longitude value="110°20'48''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="9" />
-  </airport>
-  <airport name="Chiang Mai International Airport" iata="CNX" type="International">
-    <town town="Chiang Mai" country="175" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="018°46'05''N" />
-      <longitude value="098°57'46''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="8" />
   </airport>-->
 </airports>
