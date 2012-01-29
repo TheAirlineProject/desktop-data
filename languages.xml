@@ -1454,10 +1454,10 @@
 </Region>
 <Region name="News">
 	<Text uid="1001">
-		<en-GB name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
-		<de-DE name="Name des Geschäftsführers(CEO)" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
-		<en-US name="Name of CEO" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
-		<nl-NL name="Naam directeur" message="Beste {0},&#x0a;&#x0a;Welkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.&#x0a;Veel succes toegewenst!." />
+		<en-GB name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+		<de-DE name="Willkommen zum Spiel" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
+		<en-US name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
+		<nl-NL name="Welkom" message="Beste {0},&#x0a;&#x0a;Welkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.&#x0a;Veel succes toegewenst!." />
 	</Text>
 </Region>
 </Translator>
