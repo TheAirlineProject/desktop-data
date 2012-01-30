@@ -677,36 +677,36 @@
 		<en-US name="Settings" />
 		<nl-NL name="Instellingen" />
 	</Text>
-   <Text uid="1001">
-      <en-GB name="Game speed" />
-      <de-DE name="Spielgeschwindigkeit" />
-      <en-US name="Game speed" />
-      <nl-NL name="-" />
-    </Text>
-    <Text uid="1002">
-      <en-GB name="Language" />
-      <de-DE name="Sprache" />
-      <en-US name="Language" />
-      <nl-NL name="-" />
-    </Text>
-    <Text uid="1003">
-      <en-GB name="Skin" />
-      <de-DE name="Skin" />
-      <en-US name="Skin" />
-      <nl-NL name="-" />
-    </Text>
-    <Text uid="1004">
-      <en-GB name="Mail on landings" />
-      <de-DE name="Mail an landungen" />
-      <en-US name="Mail on landings" />
-      <nl-NL name="-" />
-    </Text>
-    <Text uid="1005">
-      <en-GB name="Airport code format" />
-      <de-DE name="Airport code Format" />
-      <en-US name="Airport code format" />
-      <nl-NL name="-" />
-    </Text>
+  <Text uid="1001">
+    <en-GB name="Game speed" />
+    <de-DE name="Spielgeschwindigkeit" />
+    <en-US name="Game speed" />
+    <nl-NL name="Snelheid" />
+  </Text>
+  <Text uid="1002">
+    <en-GB name="Language" />
+    <de-DE name="Sprache" />
+    <en-US name="Language" />
+    <nl-NL name="Taal" />
+  </Text>
+  <Text uid="1003">
+    <en-GB name="Skin" />
+    <de-DE name="Skin" />
+    <en-US name="Skin" />
+    <nl-NL name="Uiterlijk" />
+  </Text>
+  <Text uid="1004">
+    <en-GB name="Mail on landings" />
+    <de-DE name="Mail an landungen" />
+    <en-US name="Mail on landings" />
+    <nl-NL name="Mail bij landing " />
+  </Text>
+  <Text uid="1005">
+    <en-GB name="Airport code format" />
+    <de-DE name="Airport code Format" />
+    <en-US name="Airport code format" />
+    <nl-NL name="Luchthavencode-indeling" />
+  </Text>
   </Region>
 <Region name="PageAirlineFleet">
 	<Text uid="1001">
