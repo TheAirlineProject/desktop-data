@@ -239,6 +239,24 @@
 		<en-US name="Map" />
 		<nl-NL name="Kaart" />
 	</Text>
+  <Text uid="1001">
+    <en-GB name="Right click for zoom" />
+    <de-DE name="Rechts klicken für Zoom" />
+    <en-US name="Right click for zoom" />
+    <nl-NL name="Kaart" />
+  </Text>
+  <Text uid="1002">
+    <en-GB name="Left click for airport" />
+    <de-DE name="Left klicken für Flughafen" />
+    <en-US name="Left click for airport" />
+    <nl-NL name="Kaart" />
+  </Text>
+  <Text uid="1003">
+    <en-GB name="Zoom out" />
+    <de-DE name="Zoom out" />
+    <en-US name="Zoom out" />
+    <nl-NL name="Kaart" />
+  </Text>
 </Region>
 <Region name="PopUpLoan">
 	<Text uid="1000">
