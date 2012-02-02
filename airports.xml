@@ -469,6 +469,20 @@
 	</runways>
   </airport>
   <!--Germany Airports (ED**)-->
+  <airport name="Leipzig-Altenburg Airport" icao="EDAC" iata="AOC" type="Regional">
+    <town town="Altenburg" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="050°58'59''N" />
+      <longitude value="012°30'29''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="2" />
+	</terminals>
+	<runways>
+		<runway name="04/22" length="2435" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Frankfurt am Main Airport" icao="EDDF" iata="FRA" type="Long_Haul_International">
 	<town town="Frankfurt" country="163" GMT="02:00:00" DST="01:00:00" />
 	<coordinates>
@@ -1272,6 +1286,20 @@
 		<runway name="01R/19L" length="2950" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Svalbard Airport, Longyear" icao="ENSB" iata="LYR" type="Domestic">
+    <town town="Longyearbyen" country="139" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="078°11'30''N" />
+      <longitude value="015°54'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="2323" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Tromsø Airport" icao="ENTC" iata="TOS" type="Short_Haul_International">
     <town town="Tromsø" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
@@ -1452,6 +1480,49 @@
 	</terminals>
 	<runways>
 		<runway name="18/36" length="3200" surface="Concrete" />
+	</runways>
+  </airport>
+  <!--Lithuania Airports (EY**)-->
+  <airport name="Kaunas Airport" icao="EYKO" iata="KUN" type="Long_Haul_International">
+    <town town="Kaunas" country="103" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="054°57'50''N" />
+      <longitude value="023°05'04''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="2" />
+	</terminals>
+	<runways>
+		<runway name="08/26" length="3250" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Palanga International Airport" icao="EYPA" iata="PLQ" type="Short_Haul_International">
+    <town town="Palanga" country="103" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="055°55'00''N" />
+      <longitude value="021°03'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="2" />
+	</terminals>
+	<runways>
+		<runway name="01/19" length="2280" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Vilnius International Airport" icao="EYVI" iata="VNO" type="Long_Haul_International">
+    <town town="Vilnius" country="103" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="054°37'59''N" />
+      <longitude value="025°16'59''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="02/20" length="2515" surface="Asphalt" />
 	</runways>
   </airport>
   <!--South Africa Airports (FA**)-->
@@ -1649,6 +1720,22 @@
 		<runway name="10/28" length="3100" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Senegal Airports (GO**)-->
+  <airport name="Léopold Sédar Senghor International Airport" icao="GOOY" iata="DKR" type="Long_Haul_International">
+    <town town="Dakar" country="101" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="014°44'22''N" />
+      <longitude value="017°29'25''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="03/21" length="1500" surface="Asphalt" />
+		<runway name="18/36" length="3490" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Ethiopia Airports (HA**)-->
   <airport name="Bole International Airport" icao="HAAB" iata="ADD" type="Long_Haul_International">
     <town town="Addis Ababa" country="124" GMT="03:00:00" DST="03:00:00" />
@@ -1697,6 +1784,20 @@
 	</terminals>
 	<runways>
 		<runway name="16/34" length="4000" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Luxor International Airport" icao="HELX" iata="LXR" type="Long_Haul_International">
+    <town town="Luxor" country="155" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="025°40'59''N" />
+      <longitude value="032°42'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="8" />
+	</terminals>
+	<runways>
+		<runway name="02/20" length="3000" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Sharm el-sheikh International Airport" icao="HESH" iata="SSH" type="Long_Haul_International">
@@ -3467,6 +3568,34 @@
 	</runways>
   </airport>
   <!--Croatia Airports (LD**)-->
+  <airport name="Dubrovnik Airport" icao="LDDU" iata="DBV" type="Long_Haul_International">
+    <town town="Dubrovnik" country="120" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°33'41''N" />
+      <longitude value="018°16'05''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="12/30" length="3300" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Split Airport" icao="LDSP" iata="SPU" type="Long_Haul_International">
+    <town town="Split" country="120" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°31'59''N" />
+      <longitude value="016°18'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="05/23" length="2550" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Zagreb Airport" icao="LDZA" iata="ZAG" type="Long_Haul_International">
     <town town="Zagreb" country="120" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
@@ -4094,6 +4223,21 @@
 		<runway name="04R/22L" length="3002" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Slovenia Airports (LJ**)-->
+  <airport name="Ljubljana Jože Pučnik Airport" icao="LJLJ" iata="LJU" type="Long_Haul_International">
+    <town town="Ljubljana" country="105" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°13'24''N" />
+      <longitude value="014°27'26''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="7" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="3300" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Czech Republic Airports (LK**)-->
   <airport name="Prague Ruzyně Airport" icao="LKPR" iata="PRG" type="Long_Haul_International">
     <town town="Prague" country="166" GMT="02:00:00" DST="01:00:00" />
@@ -4632,8 +4776,37 @@
 		<runway name="07/25" length="3200" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Cuba Airports (MU**)-->
+  <airport name="José Martí International Airport" icao="MUHA" iata="HAV" type="Long_Haul_International">
+    <town town="Havana" country="198" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="023°01'00''N" />
+      <longitude value="082°22'59''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="17" />
+	</terminals>
+	<runways>
+		<runway name="06/24" length="4000" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Juan Gualberto Gomez Airport" icao="MUVR" iata="VRA" type="Long_Haul_International">
+    <town town="Varadero" country="198" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="023°07'59''N" />
+      <longitude value="081°17'59''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="06/24" length="3502" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Bahamas Airports (MY**)-->
-  <airport name="Nassau International" icao="MYNN" iata="NAS" type="Long_Haul_International">
+  <airport name="Nassau International Airport" icao="MYNN" iata="NAS" type="Long_Haul_International">
     <town town="Nassau" country="203" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="025°02'20''N" />
@@ -4652,8 +4825,8 @@
   <airport name="Belize International Airport" icao="MZBZ" iata="BZE" type="Long_Haul_International">
     <town town="Belize City" country="197" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
-      <latitude value="017°32'20''N" />
-      <longitude value="008°49'50''W" />
+      <latitude value="017°32'21''N" />
+      <longitude value="088°18'30''W" />
     </coordinates>
     <size value="Smallest" />
     <terminals>
@@ -4850,6 +5023,21 @@
 		<runway name="11R/29L" length="4038" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Mashhad International Airport" icao="OIMM" iata="MHD" type="Short_Haul_International">
+    <town town="Mashad" country="177" GMT="04:30:00" DST="03:30:00" />
+    <coordinates>
+      <latitude value="036°14'20''N" />
+      <longitude value="059°38'17''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="14L/32R" length="3811" surface="Asphalt" />
+		<runway name="14R/32L" length="3925" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Kuwait Airports (OK**)-->
   <airport name="Kuwait International Airport" icao="OKBK" iata="KWI" type="Long_Haul_International">
     <town town="Kuwait City" country="126" GMT="03:00:00" DST="03:00:00" />
@@ -4915,6 +5103,22 @@
 	<runways>
 		<runway name="12L/30R" length="4001" surface="Asphalt" />
 		<runway name="12R/30L" length="4445" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Oman Airports (OO**)-->
+  <airport name="Muscat International Airport" icao="OOMS" iata="MCT" type="Long_Haul_International">
+    <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="023°37'59''N" />
+      <longitude value="058°31'59''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="14" />
+	</terminals>
+	<runways>
+		<runway name="02/20" length="750" surface="Dirt" />
+		<runway name="08/26" length="3584" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Pakistan Airports (OP**)-->
@@ -5280,6 +5484,20 @@
 		<runway name="16/34" length="3000" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Pinto Martins International Airport" icao="SBFZ" iata="FOR" type="Long_Haul_International">
+    <town town="Fortaleza" country="138" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="003°46'35''S" />
+      <longitude value="038°31'56''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="2545" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Rio de Janeiro-Galeão International Airport" icao="SBGL" iata="GIG" type="Long_Haul_International">
     <town town="Rio De Janeiro" country="138" GMT="-03:00:00" DST="-02:00:00" />
     <coordinates>
@@ -5308,6 +5526,20 @@
 	<runways>
 		<runway name="09L/27R" length="3700" surface="Asphalt" />
 		<runway name="09R/27L" length="3000" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Viracopos-Campinas International Airport" icao="SBKP" iata="VCP" type="Short_Haul_International">
+    <town town="Campinas" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="023°00'27''S" />
+      <longitude value="047°08'03''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="17" />
+	</terminals>
+	<runways>
+		<runway name="14/32" length="3240" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Salgado Filho International Airport" icao="SBPA" iata="POA" type="Long_Haul_International">
@@ -5397,6 +5629,22 @@
 	<runways>
 		<runway name="17L/35R" length="3748" surface="Asphalt" />
 		<runway name="17R/35L" length="3800" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Columbia Airports (SK**)-->
+  <airport name="El Dorado International Airport" icao="SKBO" iata="BOG" type="Long_Haul_International">
+    <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="004°42'11''N" />
+      <longitude value="074°08'17''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal" gates="34" />
+	</terminals>
+	<runways>
+		<runway name="13L/31R" length="3800" surface="Asphalt" />
+		<runway name="13R/31L" length="3800" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Peru Airports (SP**)-->
@@ -5761,6 +6009,21 @@
 		<runway name="12/30" length="2045" surface="Concrete" />
 	</runways>
   </airport>
+  <!--Sri Lanka Airports (VC**)-->
+  <airport name="Bandaranaike International Airport" icao="VCBI" iata="CMB" type="Short_Haul_International">
+    <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00" />
+    <coordinates>
+      <latitude value="007°10'45''N" />
+      <longitude value="079°52'59''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="14" />
+	</terminals>
+	<runways>
+		<runway name="04/22" length="3350" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Hong Kong Airports (VH**)-->
   <airport name="Hong Kong International" icao="VHHH" iata="HKG" type="Long_Haul_International">
     <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
@@ -5807,7 +6070,36 @@
 		<runway name="18/36" length="3100" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Phuket International Airport" icao="VTSP" iata="HKT" type="Long_Haul_International">
+    <town town="Phuket" country="175" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="008°06'47''N" />
+      <longitude value="098°19'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="09/27" length="3000" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Vietnam Airports (VV**)-->
+  <airport name="Noi Bai International Airport" icao="VVNB" iata="HAN" type="Long_Haul_International">
+    <town town="Hanoi" country="170" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="021°13'15''N" />
+      <longitude value="105°48'25''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="14" />
+	</terminals>
+	<runways>
+		<runway name="11L/29R" length="3200" surface="Concrete" />
+		<runway name="11R/29L" length="3800" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Tan Son Nhat International Airport" icao="VVTS" iata="SGN" type="Short_Haul_International">
     <town town="Ho Chi Minh City" country="170" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
@@ -6289,186 +6581,4 @@
 		<runway name="02R/20L" length="3600" surface="Concrete" />
 	</runways>
   </airport>
-  
-  <!--Not Yet Updated
-  <airport name="Ljubljana Jože Pučnik Airport" iata="LJU" type="International">
-    <town town="Ljubljana" country="105" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="046°13'24''N" />
-      <longitude value="014°27'26''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="7" />
-  </airport>
-  <airport name="Dubrovnik Airport" iata="DBV" type="International">
-    <town town="Dubrovnik" country="120" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="042°33'41''N" />
-      <longitude value="018°16'05''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="4" />
-  </airport>
-  <airport name="Split Airport" iata="SPU" type="International">
-    <town town="Split" country="120" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="043°31'59''N" />
-      <longitude value="016°18'00''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="5" />
-  </airport>
-  <airport name="Vilnius International Airport" iata="VNO" type="International">
-    <town town="Vilnius" country="103" GMT="03:00:00" DST="02:00:00" />
-    <coordinates>
-      <latitude value="054°37'59''N" />
-      <longitude value="025°16'59''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="3" />
-  </airport>
-  <airport name="Kaunas Airport" iata="KUN" type="International">
-    <town town="Kaunas" country="103" GMT="03:00:00" DST="02:00:00" />
-    <coordinates>
-      <latitude value="054°57'50''N" />
-      <longitude value="023°05'04''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="2" />
-  </airport>
-  <airport name="Palanga International Airport" iata="PLQ" type="International">
-    <town town="Palanga" country="103" GMT="03:00:00" DST="02:00:00" />
-    <coordinates>
-      <latitude value="055°55'00''N" />
-      <longitude value="021°03'00''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="2" />
-  </airport>
-  <airport name="Luxor International Airport" iata="LXR" type="International">
-    <town town="Luxor" country="155" GMT="03:00:00" DST="02:00:00" />
-    <coordinates>
-      <latitude value="025°40'59''N" />
-      <longitude value="032°42'00''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="8" />
-  </airport>
-  <airport name="Léopold Sédar Senghor International Airport" iata="DKR" type="International">
-    <town town="Dakar" country="101" GMT="00:00:00" DST="00:00:00" />
-    <coordinates>
-      <latitude value="014°44'22''N" />
-      <longitude value="017°29'25''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="5" />
-  </airport>
-  <airport name="José Martí International Airport" iata="HAV" type="International">
-    <town town="Havana" country="198" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="023°01'00''N" />
-      <longitude value="082°22'59''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="17" />
-  </airport>
-  <airport name="Juan Gualberto Gomez Airport" iata="VRA" type="International">
-    <town town="Varadero" country="198" GMT="-04:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="023°07'59''N" />
-      <longitude value="081°17'59''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="4" />
-  </airport>
-  <airport name="Viracopos-Campinas International Airport" iata="VCP" type="International">
-    <town town="Campinas" country="138" GMT="-03:00:00" DST="-02:00:00" />
-    <coordinates>
-      <latitude value="023°00'27''S" />
-      <longitude value="047°08'03''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="17" />
-  </airport>
-  <airport name="Phuket International Airport" iata="HKT" type="International">
-    <town town="Phuket" country="175" GMT="07:00:00" DST="07:00:00" />
-    <coordinates>
-      <latitude value="008°06'47''N" />
-      <longitude value="098°19'00''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="12" />
-  </airport>
-  <airport name="El Dorado International Airport" iata="BOG" type="International">
-    <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
-    <coordinates>
-      <latitude value="004°42'11''N" />
-      <longitude value="074°08'17''W" />
-    </coordinates>
-    <size value="Small" />
-    <gates value="34" />
-  </airport>
-  <airport name="Muscat International Airport" iata="MCT" type="International">
-    <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00" />
-    <coordinates>
-      <latitude value="023°37'59''N" />
-      <longitude value="058°31'59''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="14" />
-  </airport>
-  <airport name="Bandaranaike International Airport" iata="CMB" type="International">
-    <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00" />
-    <coordinates>
-      <latitude value="007°10'45''N" />
-      <longitude value="079°52'59''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="14" />
-  </airport>
-  <airport name="Mashhad International Airport" iata="MHD" type="International">
-    <town town="Mashad" country="177" GMT="04:30:00" DST="03:30:00" />
-    <coordinates>
-      <latitude value="036°14'20''N" />
-      <longitude value="059°38'17''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="12" />
-  </airport>
-  <airport name="Noi Bai International Airport" iata="HAN" type="International">
-    <town town="Hanoi" country="170" GMT="07:00:00" DST="07:00:00" />
-    <coordinates>
-      <latitude value="021°13'15''N" />
-      <longitude value="105°48'25''E" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="14" />
-  </airport>
-  <airport name="Pinto Martins International Airport" iata="FOR" type="International">
-    <town town="Fortaleza" country="138" GMT="-03:00:00" DST="-03:00:00" />
-    <coordinates>
-      <latitude value="003°46'35''S" />
-      <longitude value="038°31'56''W" />
-    </coordinates>
-    <size value="Very_small" />
-    <gates value="11" />
-  </airport>
-  <airport name="Leipzig-Altenburg Airport" iata="AOC" type="International">
-    <town town="Altenburg" country="163" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="050°58'59''N" />
-      <longitude value="012°30'29''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="2" />
-  </airport>
-  <airport name="Svalbard Airport" iata="LYR" type="Domestic">
-    <town town="Longyearbyen" country="139" GMT="02:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="078°11'30''N" />
-      <longitude value="015°54'00''E" />
-    </coordinates>
-    <size value="Smallest" />
-    <gates value="3" />
-  </airport>-->
 </airports>
