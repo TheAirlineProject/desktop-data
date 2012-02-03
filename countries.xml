@@ -840,7 +840,7 @@
 			<nl-NL name="Maagdeneilanden VS" />
     </translations>
   </country>
-  <country uid="205" shortname="TRN" region="104" flag="Trinidad &amp; Tobago" tailformat="9Y-\\s3">
+  <country uid="205" shortname="TT" region="104" flag="Trinidad &amp; Tobago" tailformat="9Y-\\s3">
     <translations>
 			<en-US name="Trinidad &amp; Tobago" />
 			<de-DE name="Trinidad &amp; Tobago" />
@@ -856,7 +856,7 @@
 			<nl-NL name="Mauritius" />
     </translations>
   </country>
-  <country uid="207" shortname="DOM" region="104" flag="Dominican Republic" tailformat="HI-\\d3\\s2">
+  <country uid="207" shortname="DO" region="104" flag="Dominican Republic" tailformat="HI-\\d3\\s2">
     <translations>
       <en-US name="Dominican Republic" />
       <de-DE name="Dominikanische Republik" />
@@ -864,7 +864,7 @@
       <nl-NL name="Dominicaanse Republiek" />
     </translations>
   </country>
-  <country uid="208" shortname="TGA" region="105" flag="Tonga" tailformat="A3-\\s3">
+  <country uid="208" shortname="TO" region="105" flag="Tonga" tailformat="A3-\\s3">
     <translations>
       <en-US name="Tonga" />
       <de-DE name="Tonga" />
@@ -872,12 +872,20 @@
       <nl-NL name="Tonga" />
     </translations>
   </country>
-  <country uid="209" shortname="TRC" region="104" flag="Turks and Caicos Islands" tailformat="VQ-T\\s2">
+  <country uid="209" shortname="TC" region="104" flag="Turks and Caicos Islands" tailformat="VQ-T\\s2">
     <translations>
       <en-US name="Turks and Caicos Islands" />
       <de-DE name="Turks-und Caicosinseln" />
       <en-GB name="Turks and Caicos Islands" />
       <nl-NL name="Turks- en Caicoseilanden" />
+    </translations>
+  </country>
+  <country uid="210" shortname="EC" region="101" flag="Ecuador" tailformat="HC-\\s3">
+    <translations>
+      <en-US name="Ecuador" />
+      <de-DE name="Ecuador" />
+      <en-GB name="Ecuador" />
+      <nl-NL name="Ecuador" />
     </translations>
   </country>
 </countries>

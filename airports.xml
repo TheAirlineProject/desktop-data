@@ -1589,7 +1589,7 @@
     <town town="Port Louis" country="206" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="020°25'48''S" />
-      <longitude value="005°46'06''E" />
+      <longitude value="057°40'59''E" />
     </coordinates>
     <size value="Smallest" />
     <terminals>
@@ -5315,6 +5315,20 @@
 		<runway name="18R/36L" length="2700" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Chūbu Centrair International Airport" icao="RJGG" iata="NGO" type="Long_Haul_International">
+    <town town="Tokoname City" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="034°51'30''N" />
+      <longitude value="136°48'19''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="19" />
+	</terminals>
+	<runways>
+		<runway name="18/36" length="3500" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Tokyo International Airport" icao="RJTT" iata="HND" type="Long_Haul_International">
     <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
@@ -5629,6 +5643,21 @@
 	<runways>
 		<runway name="17L/35R" length="3748" surface="Asphalt" />
 		<runway name="17R/35L" length="3800" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Equador Airports (SE**)-->
+  <airport name="Mariscal Sucre International Airport" icao="SEQU" iata="UIO" type="Long_Haul_International">
+    <town town="Quito" country="210" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="000°08'28''S" />
+      <longitude value="078°29'17''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="17/35" length="3120" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Columbia Airports (SK**)-->
