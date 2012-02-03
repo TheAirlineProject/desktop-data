@@ -442,8 +442,8 @@
   <airport name="Brussels South Charleroi Airport" icao="EBCI" iata="CRL" type="Long_Haul_International">
     <town town="Gosselies" country="107" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="005°02'45''N" />
-      <longitude value="004°27'13''E" />
+      <latitude value="050°27'36''N" />
+      <longitude value="004°27'10''E" />
     </coordinates>
     <size value="Small" />
     <terminals>
@@ -707,8 +707,8 @@
   <airport name="Belfast International Airport" icao="EGAA" iata="BFS" type="Long_Haul_International">
     <town town="Belfast" country="130" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
-      <latitude value="005°27'56''N" />
-      <longitude value="006°12'56''W" />
+      <latitude value="054°39'27''N" />
+      <longitude value="006°12'57''W" />
     </coordinates>
     <size value="Very_small" />
     <terminals>
@@ -1603,8 +1603,8 @@
   <airport name="Roland Garros Airport" icao="FMEE" iata="RUN" type="Long_Haul_International">
     <town town="Sainte-Marie" country="143" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
-      <latitude value="002°05'19''S" />
-      <longitude value="055°30'37''E" />
+      <latitude value="020°53'24''S" />
+      <longitude value="055°30'59''E" />
     </coordinates>
     <size value="Smallest" />
     <terminals>
@@ -2153,6 +2153,21 @@
 		<runway name="18L/36R" length="3048" surface="Concrete" />
 		<runway name="18C/36C" length="3353" surface="Asphalt" />
 		<runway name="18R/36L" length="2438" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Cheyenne Regional Airport" icao="KCYS" iata="CYS" type="Regional">
+    <town town="Cheyenne, WY" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="041°09'20''N" />
+      <longitude value="104°48'38''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="9/27" length="2825" surface="Concrete" />
+		<runway name="13/31" length="2039" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Dallas Love Field" icao="KDAL" iata="DAL" type="Domestic">
@@ -4637,6 +4652,20 @@
 	</runways>
   </airport>
   <!--Mexico Airports (MM**)-->
+  <airport name="Cozumel International Airport" icao="MMCZ" iata="CZM" type="Long_Haul_International">
+    <town town="Cozumel" country="157" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="020°30'54''N" />
+      <longitude value="086°55'44''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="2700" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Guadalajara International Airport" icao="MMGL" iata="GDL" type="Long_Haul_International">
     <town town="Guadalajara" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -4682,6 +4711,20 @@
 	<runways>
 		<runway name="11/29" length="3000" surface="Concrete" />
 		<runway name="16/34" length="1801" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Lic. Gustavo Díaz Ordaz International Airport" icao="MMPR" iata="PVR" type="Long_Haul_International">
+    <town town="Puerto Vallarta" country="157" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="020°40'48''N" />
+      <longitude value="105°15'15''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="15" />
+	</terminals>
+	<runways>
+		<runway name="04/22" length="3100" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Cancún International Airport" icao="MMUN" iata="CUN" type="Long_Haul_International">
@@ -5660,6 +5703,21 @@
 		<runway name="17/35" length="3120" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Paraguay Airports (SG**)-->
+  <airport name="Silvio Pettirossi International Airport" icao="SGAS" iata="ASU" type="Short_Haul_International">
+    <town town="Asunción" country="213" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="025°14'23''S" />
+      <longitude value="057°31'09''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="02/20" length="3353" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Columbia Airports (SK**)-->
   <airport name="El Dorado International Airport" icao="SKBO" iata="BOG" type="Long_Haul_International">
     <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
@@ -5676,6 +5734,22 @@
 		<runway name="13R/31L" length="3800" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Columbia Airports (SL**)-->
+  <airport name="El Alto International Airport" icao="SLLP" iata="LPB" type="Long_Haul_International">
+    <town town="La Paz" country="211" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="016°30'48''S" />
+      <longitude value="068°11'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="10L/28R" length="2050" surface="Grass" />
+		<runway name="10R/28L" length="4000" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Peru Airports (SP**)-->
   <airport name="Jorge Chávez International Airport" icao="SPIM" iata="LIM" type="Long_Haul_International">
     <town town="Lima" country="182" GMT="-05:00:00" DST="-05:00:00" />
@@ -5689,6 +5763,23 @@
 	</terminals>
 	<runways>
 		<runway name="15/33" length="3507" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Uruguay Airports (SU**)-->
+  <airport name="Carrasco International Airport" icao="SUMU" iata="MVD" type="Long_Haul_International">
+    <town town="Montevideo" country="212" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="034°50'18''S" />
+      <longitude value="056°01'51''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="01/19" length="2250" surface="Asphalt" />
+		<runway name="06/24" length="3200" surface="Asphalt" />
+		<runway name="10/28" length="1700" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Venezuela Airports (SV**)-->

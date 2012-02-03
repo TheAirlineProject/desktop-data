@@ -856,7 +856,7 @@
 			<nl-NL name="Mauritius" />
     </translations>
   </country>
-  <country uid="207" shortname="DO" region="104" flag="Dominican Republic" tailformat="HI-\\d3\\s2">
+  <country uid="207" shortname="DOM" region="104" flag="Dominican Republic" tailformat="HI-\\d3\\s2">
     <translations>
       <en-US name="Dominican Republic" />
       <de-DE name="Dominikanische Republik" />
@@ -880,12 +880,36 @@
       <nl-NL name="Turks- en Caicoseilanden" />
     </translations>
   </country>
-  <country uid="210" shortname="EC" region="101" flag="Ecuador" tailformat="HC-\\s3">
+  <country uid="210" shortname="ECQ" region="101" flag="Ecuador" tailformat="HC-\\s3">
     <translations>
       <en-US name="Ecuador" />
       <de-DE name="Ecuador" />
       <en-GB name="Ecuador" />
       <nl-NL name="Ecuador" />
+    </translations>
+  </country>
+  <country uid="211" shortname="BOL" region="101" flag="Bolivia" tailformat="CP-\\d4">
+    <translations>
+      <en-US name="Bolivia" />
+      <de-DE name="Bolivia" />
+      <en-GB name="Bolivia" />
+      <nl-NL name="Bolivia" />
+    </translations>
+  </country>
+  <country uid="212" shortname="URY" region="101" flag="Uruguay" tailformat="CX-\\s3">
+    <translations>
+      <en-US name="Uruguay" />
+      <de-DE name="Uruguay" />
+      <en-GB name="Uruguay" />
+      <nl-NL name="Uruguay" />
+    </translations>
+  </country>
+  <country uid="213" shortname="PAR" region="101" flag="Paraguay" tailformat="ZP-\\s3">
+    <translations>
+      <en-US name="Paraguay" />
+      <de-DE name="Paraguay" />
+      <en-GB name="Paraguay" />
+      <nl-NL name="Paraguay" />
     </translations>
   </country>
 </countries>
