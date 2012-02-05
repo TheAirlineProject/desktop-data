@@ -552,6 +552,12 @@
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1993" to="2000"/>
   </airliner>
+  <airliner manufacturer="Tupolev" name="Tupolev Tu-154" price="45000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="37.55" length="48.00" range="3900" speed="950" consumption="0.025" runwaylengthrequired="2000"/>
+    <capacity passengers="114" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
+    <produced from="1972" to="2006"/>
+  </airliner>
   <airliner manufacturer="Saab" name="Saab 340B" price="11000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
     <specs wingspan="21.44" length="19.73" range="1732" speed="467" consumption="0.021" runwaylengthrequired="1290"/>

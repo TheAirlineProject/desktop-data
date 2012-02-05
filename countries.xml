@@ -912,4 +912,20 @@
       <nl-NL name="Paraguay" />
     </translations>
   </country>
+  <country uid="214" shortname="SUR" region="101" flag="Suriname" tailformat="PZ-\\s3">
+    <translations>
+      <en-US name="Suriname" />
+      <de-DE name="Suriname" />
+      <en-GB name="Suriname" />
+      <nl-NL name="Suriname" />
+    </translations>
+  </country>
+  <country uid="215" shortname="GUY" region="101" flag="Guyana" tailformat="8R-\\s3">
+    <translations>
+      <en-US name="Guyana" />
+      <de-DE name="Guyana" />
+      <en-GB name="Guyana" />
+      <nl-NL name="Guyana" />
+    </translations>
+  </country>
 </countries>

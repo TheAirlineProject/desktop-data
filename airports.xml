@@ -122,6 +122,21 @@
 		<runway name="13/31" length="2408" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Thunder Bay International Airport" icao="CYQT" iata="YQT" type="Domestic">
+    <town town="Thunder Bay, ON" country="113" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="048°22'19''N" />
+      <longitude value="089°19'18''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="07/25" length="2231" surface="Asphalt" />
+		<runway name="12/30" length="1615" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Sydney/J.A. Douglas McCurdy Airport" icao="CYQY" iata="YQY" type="Domestic">
     <town town="Sydney, NS" country="113" GMT="-03:00:00" DST="-04:00:00" />
     <coordinates>
@@ -281,6 +296,21 @@
 		<runway name="06R/24L" length="2743" surface="Asphalt" />
 		<runway name="15L/33R" length="3368" surface="Asphalt" />
 		<runway name="15R/33L" length="2770" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Yellowknife Airport" icao="CYZF" iata="YZF" type="Domestic">
+    <town town="Yellowknife, NT" country="113" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="062°27'47''N" />
+      <longitude value="114°26'25''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="10/28" length="1524" surface="Asphalt" />
+		<runway name="16/34" length="2287" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Algeria Airports (DA**)-->
@@ -2138,6 +2168,20 @@
 		<runway name="17R/35L" length="3360" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Yeager Airport" icao="KCRW" iata="CRW" type="Domestic">
+    <town town="Charleston, WY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="038°22'33''N" />
+      <longitude value="081°35'35''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="7" />
+	</terminals>
+	<runways>
+		<runway name="5/23" length="2073" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Cincinnati/Northern Kentucky International Airport" icao="KCVG" iata="CVG" type="Short_Haul_International">
     <town town="Hebron, KY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -2328,6 +2372,21 @@
 		<runway name="11/29" length="2073" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Fairbanks International Airport" icao="KFAI" iata="FAI" type="Short_Haul_International">
+    <town town="Fairbanks, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="064°48'54''N" />
+      <longitude value="147°51'23''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="1L/19R" length="3597" surface="Asphalt" />
+		<runway name="1R/19L" length="1981" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Hector International Airport" icao="KFAR" iata="FAR" type="Domestic">
     <town town="Fargo, ND" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -2439,21 +2498,6 @@
 		<runway name="4/22" length="3353" surface="Asphalt" />
 	</runways>
   </airport>
-  <airport name="Gary/Chicago International Airport" icao="KGYY" iata="GYY" type="Domestic">
-    <town town="Gary, IN" country="122" GMT="-05:00:00" DST="-06:00:00" />
-    <coordinates>
-      <latitude value="041°36'59''N" />
-      <longitude value="087°24'46''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <terminals>
-		<terminal name="Terminal" gates="3" />
-	</terminals>
-	<runways>
-		<runway name="2/20" length="1098" surface="Asphalt" />
-		<runway name="12/30" length="2135" surface="Asphalt" />
-	</runways>
-  </airport>
   <airport name="Helena Regional Airport" icao="KHLN" iata="HLN" type="Regional">
     <town town="Helena, MT" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
@@ -2468,6 +2512,21 @@
 		<runway name="5/23" length="1415" surface="Asphalt" />
 		<runway name="9/27" length="2743" surface="Asphalt" />
 		<runway name="16/34" length="911" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Westchester County Airport" icao="KHPN" iata="HPN" type="Domestic">
+    <town town="White Plains, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="041°04'01''N" />
+      <longitude value="073°42'27''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="1357" surface="Asphalt" />
+		<runway name="16/34" length="1996" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="William P. Hobby Airport" icao="KHOU" iata="HOU" type="Domestic">
@@ -2738,6 +2797,20 @@
 		<runway name="17R/35L" length="3048" surface="Concrete" />
 		<runway name="18L/36R" length="3659" surface="Asphalt" />
 		<runway name="18R/36L" length="3659" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Harrisburg International Airport" icao="KMDT" iata="MDT" type="Short_Haul_International">
+    <town town="Harrisburg, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="040°11'37''N" />
+      <longitude value="076°45'48''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="12" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="3048" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Chicago Midway International Airport" icao="KMDW" iata="MDW" type="Short_Haul_International">
@@ -3226,6 +3299,7 @@
     <terminals>
 		<terminal name="Terminal 1" gates="19" />
 		<terminal name="Terminal 2" gates="22" />
+		<terminal name="Commuter Terminal" gates="4" />
 	</terminals>
 	<runways>
 		<runway name="9/27" length="2865" surface="Asphalt" />
@@ -3922,6 +3996,21 @@
 		<runway name="02/20" length="2400" surface="Concrete" />
 		<runway name="06/24" length="3650" surface="Asphalt" />
 		<runway name="08/26" length="3320" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Brest Bretagne Airport" icao="LFRB" iata="BES" type="Long_Haul_International">
+    <town town="Brest" country="140" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="048°26'50''N" />
+      <longitude value="004°25'18''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="08L/26R" length="700" surface="Asphalt" />
+		<runway name="08R/26L" length="3100" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Greece Airports (LG**)-->
@@ -5750,6 +5839,36 @@
 		<runway name="10R/28L" length="4000" surface="Asphalt" />
 	</runways>
   </airport>
+  <!--Suriname Airports (SM**)-->
+  <airport name="Paramaribo-Zanderij International Airport" icao="SMJP" iata="PBM" type="Long_Haul_International">
+    <town town="Zanderij" country="214" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="005°27'10''N" />
+      <longitude value="055°11'16''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="11/29" length="3480" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--French Guiana Airports (SO**)-->
+  <airport name="Cayenne – Rochambeau Airport" icao="SOCA" iata="CAY" type="Long_Haul_International">
+    <town town="Cayenne" country="140" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="004°49'11''N" />
+      <longitude value="052°21'43''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="4" />
+	</terminals>
+	<runways>
+		<runway name="08/26" length="3200" surface="Asphalt" />
+	</runways>
+  </airport>
   <!--Peru Airports (SP**)-->
   <airport name="Jorge Chávez International Airport" icao="SPIM" iata="LIM" type="Long_Haul_International">
     <town town="Lima" country="182" GMT="-05:00:00" DST="-05:00:00" />
@@ -5796,6 +5915,22 @@
 	<runways>
 		<runway name="09/27" length="3027" surface="Asphalt" />
 		<runway name="10/28" length="3500" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Venezuela Airports (SY**)-->
+  <airport name="Cheddi Jagan International Airport" icao="SYCJ" iata="GEO" type="Long_Haul_International">
+    <town town="Georgetown" country="215" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="006°29'54''N" />
+      <longitude value="058°15'14''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="06/24" length="2270" surface="Asphalt" />
+		<runway name="11/29" length="1525" surface="Asphalt" />
 	</runways>
   </airport>
   <!--United States (Virgin Islands) Airports (TI**)-->
