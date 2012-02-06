@@ -912,6 +912,78 @@
 		<nl-NL name="Passagiers per vlucht" />
 	</Text>
 </Region>
+  <Region name="PanelAirlinesExtendedStatistics">
+    <Text uid="1001">
+      <en-GB name="Fleet Statistics" />
+      <de-DE name="Flotte Statistik" />
+      <en-US name="Fleet Statistics" />
+      <nl-NL name="Vloot Statistieken" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Financial Statistics" />
+      <de-DE name="Finanz Statistik" />
+      <en-US name="Financial Statistics" />
+      <nl-NL name="Financieel Statistieken" />
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Airline Fleet Size" />
+      <de-DE name="Flottengröße" />
+      <en-US name="Airline Fleet Size" />
+      <nl-NL name="Vlootgrootte" />
+    </Text>
+    <Text uid="1004">
+      <en-GB name="Average Airline Fleet Age" />
+      <de-DE name="-" />
+      <en-US name="Average Airline Fleet Age" />
+      <nl-NL name="Gemiddelde leeftijd van vloot" />
+    </Text>
+    <Text uid="1005">
+      <en-GB name="Airline Profit" />
+      <de-DE name="Flugline Profit" />
+      <en-US name="Airline Profit" />
+      <nl-NL name="Bedrijfswinst" />
+    </Text>
+    <Text uid="1006">
+      <en-GB name="Airline Value" />
+      <de-DE name="Fluglinie Wert" />
+      <en-US name="Airline Value" />
+      <nl-NL name="Bedrijfswaarde" />
+    </Text>
+  </Region>"
+  <Region name="PanelAirlinesStatistics">
+    <Text uid="1001">
+      <en-GB name="Flights Statistics" />
+      <de-DE name="Flüge Statistik" />
+      <en-US name="Flights Statistics" />
+      <nl-NL name="Vluchten Statistieken" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Passenger happiness in %" />
+      <de-DE name="Passagiere Freude %" />
+      <en-US name="Passenger happiness in %" />
+      <nl-NL name="Vluchten Statistieken" />
+    </Text>
+  </Region>
+   <Region name="PanelAirlines">
+    <Text uid="1001">
+      <en-GB name="Flights" />
+      <de-DE name="Flüge" />
+      <en-US name="Flights" />
+      <nl-NL name="Vluchten" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Finances" />
+      <de-DE name="Finanzen" />
+      <en-US name="Finances" />
+      <nl-NL name="Financiën" />
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Fleet" />
+      <de-DE name="Flotte" />
+      <en-US name="Fleet" />
+      <nl-NL name="Vloot" />
+    </Text>
+  </Region>
 <Region name="PanelAirline">
 	<Text uid="1001">
 		<en-GB name="Fleet" />
