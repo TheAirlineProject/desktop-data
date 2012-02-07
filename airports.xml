@@ -2041,6 +2041,21 @@
 		<runway name="15R/33L" length="3073" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Burlington International Airport" icao="KBTV" iata="BTV" type="Domestic">
+    <town town="South Burlington, VT" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="044°28'19''N" />
+      <longitude value="073°09'12''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="5" />
+	</terminals>
+	<runways>
+		<runway name="1/19" length="1101" surface="Asphalt" />
+		<runway name="15/33" length="2536" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Buffalo Niagara International Airport" icao="KBUF" iata="BUF" type="Domestic">
     <town town="Buffalo, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -2833,6 +2848,21 @@
 		<runway name="18L/36R" length="2743" surface="Concrete" />
 		<runway name="18C/36C" length="3389" surface="Concrete" />
 		<runway name="18R/36L" length="2841" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Manchester-Boston Regional Airport" icao="KMHT" iata="MHT" type="Domestic">
+    <town town="Manchester, NH" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="042°55'57''N" />
+      <longitude value="071°26'08''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="7" />
+	</terminals>
+	<runways>
+		<runway name="6/24" length="2332" surface="Asphalt" />
+		<runway name="17/35" length="2819" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Miami International Airport" icao="KMIA" iata="MIA" type="Long_Haul_International">
