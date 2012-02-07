@@ -1250,7 +1250,7 @@
     </coordinates>
     <size value="Smallest" />
     <terminals>
-		<terminal name="Terminal" gates="3" />
+		<terminal name="Terminal" gates="5" />
 	</terminals>
 	<runways>
 		<runway name="08L/26R" length="2654" surface="Concrete" />

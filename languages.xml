@@ -240,22 +240,34 @@
 		<nl-NL name="Kaart" />
 	</Text>
   <Text uid="1001">
-    <en-GB name="Right click for zoom" />
-    <de-DE name="Rechts klicken für Zoom" />
-    <en-US name="Right click for zoom" />
-    <nl-NL name="Kaart" />
+    <en-GB name="+/-: Zoom in/Zoom out" />
+    <de-DE name="+/-: Zoom in/Zoom out" />
+    <en-US name="+/-: Zoom in/Zoom out" />
+    <nl-NL name="+/-: Inzoomen/Uitzoomen"/>
   </Text>
   <Text uid="1002">
-    <en-GB name="Left click for airport" />
-    <de-DE name="Left klicken für Flughafen" />
-    <en-US name="Left click for airport" />
-    <nl-NL name="Kaart" />
+    <en-GB name="Right: Right key" />
+    <de-DE name="Rechts: Rechte Taste" />
+    <en-US name="Right: Right key" />
+    <nl-NL name="Rechts: Pijltjestoets rechts" />
   </Text>
   <Text uid="1003">
-    <en-GB name="Zoom out" />
-    <de-DE name="Zoom out" />
-    <en-US name="Zoom out" />
-    <nl-NL name="Kaart" />
+    <en-GB name="Left: Left key" />
+    <de-DE name="Links: Linke Taste" />
+    <en-US name="Left-: Left key" />
+    <nl-NL name="Links: Pijltjestoets links" />
+  </Text>
+  <Text uid="1004">
+    <en-GB name="Up: Up key" />
+    <de-DE name="Aufwärt: Aufwärts-Taste" />
+    <en-US name="Up: Up key" />
+    <nl-NL name="Omhoog: Pijltjestoets omhoog" />
+  </Text>
+  <Text uid="1005">
+    <en-GB name="Down: Down key" />
+    <de-DE name="Abwärt: Abwärts-Taste" />
+    <en-US name="Down: Down key" />
+    <nl-NL name="Omlaag: Pijltjestoets omlaag" />
   </Text>
 </Region>
 <Region name="PopUpLoan">
