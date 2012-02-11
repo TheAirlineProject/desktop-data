@@ -230,7 +230,7 @@
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 747-100" price="24000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="59.60" length="70.60" range="9800" speed="893" consumption="0.011" runwaylengthrequired="3190"/>
+    <specs wingspan="59.60" length="70.60" range="9800" speed="893" consumption="0.041" runwaylengthrequired="3190"/>
     <capacity passengers="452" cockpitcrew="3" cabincrew="9" maxclasses="3"/>
     <produced from="1969" to="1980"/>
   </airliner>
@@ -252,11 +252,11 @@
     <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="1989" to="2007"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-8" price="318000000">
+  <airliner manufacturer="Boeing" name="Boeing 747-8I" price="333000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="68.50" length="76.25" range="14815" speed="918" consumption="0.035" runwaylengthrequired="3090"/>
-    <capacity passengers="467" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
-    <produced from="2011" to="2025"/>
+    <specs wingspan="68.45" length="76.25" range="14100" speed="917" consumption="0.028" runwaylengthrequired="3090"/>
+    <capacity passengers="581" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
+    <produced from="2012" to="2025"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 757-200" price="65000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
@@ -300,11 +300,17 @@
     <capacity passengers="550" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="2004" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 787-8" price="185000000">
+  <airliner manufacturer="Boeing" name="Boeing 787-8" price="194000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.00" length="56.70" range="15200" speed="913" consumption="0.032" runwaylengthrequired="3013"/>
     <capacity passengers="264" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
-    <produced from="2011" to="2024"/>
+    <produced from="2011" to="2026"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 787-9" price="230000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.00" length="62.80" range="15700" speed="913" consumption="0.030" runwaylengthrequired="3015"/>
+    <capacity passengers="290" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
+    <produced from="2014" to="2027"/>
   </airliner>
   <airliner manufacturer="Bombardier" name="Bombardier CRJ200" price="24000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
