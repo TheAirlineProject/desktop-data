@@ -1033,6 +1033,12 @@
 		<en-US name="Wages and Fees" />
 		<nl-NL name="Lonen en toeslagen" />
 	</Text>
+  <Text uid="1007">
+    <en-GB name="Ordered" />
+    <de-DE name="Bestellt" />
+    <en-US name="Ordered" />
+    <nl-NL name="Besteld" />
+  </Text>
 </Region>
 <Region name="PanelAirliner">
 	<Text uid="1001">
