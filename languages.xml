@@ -787,6 +787,12 @@
 		<en-US name="Has Route" />
 		<nl-NL name="Op route" />
 	</Text>
+  <Text uid="1009">
+    <en-GB name="Ordered" />
+    <de-DE name="Bestellt" />
+    <en-US name="Ordered" />
+    <nl-NL name="Besteld" />
+  </Text>
 	<Text uid="1101">
 		<en-GB name="Airline Fleet" />
 		<de-DE name="Flugzeugflotte" />
@@ -1033,13 +1039,7 @@
 		<en-US name="Wages and Fees" />
 		<nl-NL name="Lonen en toeslagen" />
 	</Text>
-  <Text uid="1007">
-    <en-GB name="Ordered" />
-    <de-DE name="Bestellt" />
-    <en-US name="Ordered" />
-    <nl-NL name="Besteld" />
-  </Text>
-</Region>
+ </Region>
 <Region name="PanelAirliner">
 	<Text uid="1001">
 		<en-GB name="Airliner Type Specifications" />
