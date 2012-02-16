@@ -2453,6 +2453,21 @@
 		<runway name="7/25" length="2499" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Gulfport-Biloxi International Airport" icao="KGPT" iata="GPT" type="Domestic">
+    <town town="Gulfport, MS" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="030°24'26''N" />
+      <longitude value="089°04'12''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="14/32" length="2744" surface="Asphalt" />
+		<runway name="18/36" length="1504" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Austin Straubel International Airport" icao="KGRB" iata="GRB" type="Domestic">
     <town town="Green Bay, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -2953,6 +2968,20 @@
 		<runway name="10/28" length="3080" surface="Asphalt" />
 	</runways>
   </airport>
+  <airport name="Myrtle Beach International Airport" icao="KMYR" iata="MYR" type="Domestic">
+    <town town="Myrtle Beach, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="033°40'47''N" />
+      <longitude value="078°55'42''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="7" />
+	</terminals>
+	<runways>
+		<runway name="18/36" length="2897" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Oakland International Airport" icao="KOAK" iata="OAK" type="Short_Haul_International">
     <town town="Oakland, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
     <coordinates>
@@ -3021,7 +3050,7 @@
 		<runway name="8R/26L" length="3109" surface="Concrete" />
 	</runways>
   </airport>
-  <airport name="Chicago O'Hare International" icao="KORD" iata="ORD" type="Long_Haul_International">
+  <airport name="Chicago O'Hare International Airport" icao="KORD" iata="ORD" type="Long_Haul_International">
     <town town="Chicago, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="041°58'46''N" />
