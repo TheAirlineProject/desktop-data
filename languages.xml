@@ -536,7 +536,12 @@
 		<en-US name="Release" />
 		<nl-NL name="Vrijgeven" />
 	</Text>
-	
+  <Text uid="204">
+    <en-GB name="Etablish hub" />
+    <de-DE name="Drehkreuz kaufen" />
+    <en-US name="Etablish hub" />
+    <nl-NL name="Koop hub" />
+  </Text>
 	<Text uid="1001">
 		<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
 		<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
@@ -579,6 +584,12 @@
 		<en-US name="Airline Gates (Total / Used)" />
 		<nl-NL name="Gates van luchtvaartmaatschappij (Totaal / Gebruikt)" />
 	</Text>
+  <Text uid="1008">
+    <en-GB name="Hubs" />
+    <de-DE name="Luftfahrtdrehkreuz" />
+    <en-US name="Hubs" />
+    <nl-NL name="Hubs" />
+  </Text>
 </Region>
 <Region name="PageAirports">
 	<Text uid="1000">
@@ -607,6 +618,12 @@
 		<en-US name="Human airports only" />
 		<nl-NL name="Alleen menselijke luchthavens" />
 	</Text>
+  <Text uid="1003">
+    <en-GB name="Hubs only" />
+    <de-DE name="Nur Luftfahrt-Drehkreuz" />
+    <en-US name="Hubs only" />
+    <nl-NL name="Alleen hubs" />
+  </Text>
 </Region>
 <Region name="PageAirportsStatistics">
 	<Text uid="1001">
@@ -1504,6 +1521,24 @@
 		<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
 		<nl-NL name="Koop terminal" message="Weet u zeker dat u deze terminal voor {0:C} wilt kopen?&#x0a;&#x0a;Al uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
 	</Text>
+  <Text uid="2212">
+    <en-GB name="Not enough money" message="You don't have enough money to etablish a hub." />
+    <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Drehkreuz zu kaufen." />
+    <en-US name="Not enough money" message="You don't have enough money to etablish a hub." />
+    <nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze hub te kopen." />
+  </Text>
+  <Text uid="2213">
+    <en-GB name="Etablish hub" message="Are you sure you want to etablish a hub for {0:C}?" />
+    <de-DE name="Luftfahrtdrehkreuz kaufen" message="Sind Sie sicher, daß Sie dieses Luftfahrtdrehkreuz für {0:c} kaufen möchten?." />
+    <en-US name="Etablish hub" message="Are you sure you want to etablish a hub for {0:C}?" />
+    <nl-NL name="Koop hub" message="Weet u zeker dat u deze hub voor {0:C} wilt kopen?" />
+  </Text>
+  <Text uid="2214">
+    <en-GB name="Error" message="The airport serves as a hub, and needs at least a {0}" />
+    <de-DE name="Fehler" message="{0}" />
+    <en-US name="Error" message="The airport serves as a hub, and needs at least a {0}" />
+    <nl-NL name="Fout" message="{0}" />
+  </Text>
 	<!-- END - Airport Model -->
 	<!-- BEGIN - Fleet Model -->
 	<Text uid="2301">
