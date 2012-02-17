@@ -156,31 +156,31 @@
     <capacity passengers="117" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1998" to="2006"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-100" price="34000000">
+  <airliner manufacturer="Boeing" name="Boeing 727-100" price="5000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="40.60" range="5000" speed="1042" consumption="0.042" runwaylengthrequired="1768"/>
     <capacity passengers="149" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
     <produced from="1963" to="1972"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-200" price="35000000">
+  <airliner manufacturer="Boeing" name="Boeing 727-200" price="9000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="46.70" range="4400" speed="1042" consumption="0.045" runwaylengthrequired="1768"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1967" to="1972"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-100" price="32000000">
+  <airliner manufacturer="Boeing" name="Boeing 737-100" price="7000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.35" length="28.65" range="2850" speed="780" consumption="0.051" runwaylengthrequired="2026"/>
     <capacity passengers="124" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1967" to="1975"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-200" price="35000000">
+  <airliner manufacturer="Boeing" name="Boeing 737-200" price="8000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="3500" speed="780" consumption="0.031" runwaylengthrequired="2026"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1967" to="1985"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." price="36000000">
+  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." price="12000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="4300" speed="780" consumption="0.033" runwaylengthrequired="2026"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
