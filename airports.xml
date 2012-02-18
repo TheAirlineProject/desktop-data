@@ -5422,7 +5422,7 @@
 		<runway name="17/35" length="1981" surface="Asphalt" />
 	</runways>
   </airport>
-  <airport name="Honolulu International" icao="PHNL" iata="HNL" type="Long_Haul_International">
+  <airport name="Honolulu International Airport" icao="PHNL" iata="HNL" type="Long_Haul_International">
     <town town="Honolulu, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
     <coordinates>
       <latitude value="021°18'57''N" />
@@ -5439,6 +5439,36 @@
 		<runway name="4R/22L" length="2743" surface="Asphalt" />
 		<runway name="8L/26R" length="3749" surface="Asphalt" />
 		<runway name="8R/26L" length="3658" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Kahului Airport" icao="PHOG" iata="OGG" type="Short_Haul_International">
+    <town town="Kahului, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
+    <coordinates>
+      <latitude value="020°53'55''N" />
+      <longitude value="156°25'50''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="18" />
+	</terminals>
+	<runways>
+		<runway name="2/20" length="2132" surface="Asphalt" />
+		<runway name="5/23" length="1521" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Hilo International Airport" icao="PHTO" iata="ITO" type="Domestic">
+    <town town="Hilo, HI" country="122" GMT="-10:00:00" DST="-10:00:00" />
+    <coordinates>
+      <latitude value="019°43'13''N" />
+      <longitude value="155°02'54''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="8" />
+	</terminals>
+	<runways>
+		<runway name="3/21" length="1707" surface="Asphalt" />
+		<runway name="8/26" length="2987" surface="Asphalt" />
 	</runways>
   </airport>
   <!--Taiwan Airports (RC**)-->
