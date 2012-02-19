@@ -279,7 +279,7 @@
 		<runway name="13/31" length="1524" surface="Asphalt" />
 	</runways>
   </airport>
-  <airport name="Lester B Pearson International" icao="CYYZ" iata="YYZ" type="Long_Haul_International">
+  <airport name="Lester B Pearson International Airport" icao="CYYZ" iata="YYZ" type="Long_Haul_International">
     <town town="Toronto, ON" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°40'38''N" />
@@ -2403,6 +2403,21 @@
 		<runway name="18/36" length="2743" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="Fresno Yosemite International Airport" icao="KFAT" iata="FAT" type="Short_Haul_International">
+    <town town="Fresno, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="036°46'15''N" />
+      <longitude value="119°43'08''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="10" />
+	</terminals>
+	<runways>
+		<runway name="11L/29R" length="2812" surface="Asphalt" />
+		<runway name="11R/29L" length="2196" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Fort Lauderdale–Hollywood International Airport" icao="KFLL" iata="FLL" type="Long_Haul_International">
     <town town="Fort Lauderdale, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -3159,6 +3174,21 @@
 		<runway name="7L/25R" length="3139" surface="Concrete" />
 		<runway name="7R/25L" length="2377" surface="Concrete" />
 		<runway name="8/26" length="3502" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Peoria International Airport" icao="KPIA" iata="PIA" type="Domestic">
+    <town town="Peoria, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="040°39'51''N" />
+      <longitude value="089°41'36''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="9" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="2439" surface="Asphalt" />
+		<runway name="13/31" length="3080" surface="Concrete" />
 	</runways>
   </airport>
   <airport name="St. Petersburg-Clearwater International Airport" icao="KPIE" iata="PIE" type="Domestic">
@@ -4058,7 +4088,7 @@
 	</runways>
   </airport>
   <!--Greece Airports (LG**)-->
-  <airport name="Athens International" icao="LGAV" iata="ATH" type="Long_Haul_International">
+  <airport name="Athens International Airport" icao="LGAV" iata="ATH" type="Long_Haul_International">
     <town town="Athens" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="037°56'11''N" />
@@ -5314,7 +5344,7 @@
 	</runways>
   </airport>
   <!--Iraq Airports (OR**)-->
-  <airport name="Baghdad International Airpor" icao="ORBI" iata="BGW" type="Long_Haul_International">
+  <airport name="Baghdad International Airport" icao="ORBI" iata="BGW" type="Long_Haul_International">
     <town town="Baghdad" country="127" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
       <latitude value="033°15'45''N" />
@@ -6277,7 +6307,7 @@
 	</runways>
   </airport>
   <!--India Airports (VA**, VE**, VI** and VO**)-->
-  <airport name="Chhatrapati Shivaji International" icao="VABB" iata="BOM" type="Long_Haul_International">
+  <airport name="Chhatrapati Shivaji International Airport" icao="VABB" iata="BOM" type="Long_Haul_International">
     <town town="Mumbai" country="152" GMT="05:30:00" DST="05:30:00" />
     <coordinates>
       <latitude value="019°05'19''N" />
@@ -6369,7 +6399,7 @@
 	</runways>
   </airport>
   <!--Hong Kong Airports (VH**)-->
-  <airport name="Hong Kong International" icao="VHHH" iata="HKG" type="Long_Haul_International">
+  <airport name="Hong Kong International Airport" icao="VHHH" iata="HKG" type="Long_Haul_International">
     <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="022°18'32''N" />
