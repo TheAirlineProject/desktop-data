@@ -19,7 +19,7 @@
 			<nl-NL name="Geen" />
     </translations>
   </airportfacility>
-  <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="500000">
+  <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="1000000">
     <level service="3" luxury="0"></level>
     <translations>
 			<en-US name="Basic Service Center" />
@@ -28,7 +28,7 @@
 			<nl-NL name="Eenvoudige informatiebalie" />
     </translations>
   </airportfacility>
- <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="1000000">
+ <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="2000000">
     <level service="7" luxury="0"></level>
     <translations>
 			<en-US name="Service Center" />
@@ -37,7 +37,7 @@
 			<nl-NL name="Servicecentrum" />
     </translations>
   </airportfacility>
-  <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="3000000">
+  <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="5000000">
     <level service="10" luxury="0"></level>
     <translations>
 			<en-US name="Large Service Center" />
