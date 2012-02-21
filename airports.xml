@@ -6306,6 +6306,21 @@
 		<runway name="13/31" length="2080" surface="Concrete" />
 	</runways>
   </airport>
+  <!--Belarus Airports (UM**)-->
+  <airport name="Minsk National Airport" icao="UMMS" iata="MSQ" type="Long_Haul_International">
+    <town town="Minsk" country="217" GMT="03:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="053°52'57''N" />
+      <longitude value="028°01'57''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="19" />
+	</terminals>
+	<runways>
+		<runway name="13/31" length="3641" surface="Concrete" />
+	</runways>
+  </airport>
   <!--India Airports (VA**, VE**, VI** and VO**)-->
   <airport name="Chhatrapati Shivaji International Airport" icao="VABB" iata="BOM" type="Long_Haul_International">
     <town town="Mumbai" country="152" GMT="05:30:00" DST="05:30:00" />
@@ -6396,6 +6411,21 @@
 	</terminals>
 	<runways>
 		<runway name="04/22" length="3350" surface="Asphalt" />
+	</runways>
+  </airport>
+  <!--Bangladesh Airports (VG**)-->
+  <airport name="Shahjalal International Airport" icao="VGHS" iata="DAC" type="Long_Haul_International">
+    <town town="Dhaka" country="216" GMT="06:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="023°50'34''N" />
+      <longitude value="090°24'02''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="14/32" length="3200" surface="Concrete" />
 	</runways>
   </airport>
   <!--Hong Kong Airports (VH**)-->

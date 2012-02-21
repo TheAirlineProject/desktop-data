@@ -928,4 +928,20 @@
       <nl-NL name="Guyana" />
     </translations>
   </country>
+  <country uid="216" shortname="BGD" region="110" flag="Bangladesh" tailformat="S2-\\s3">
+    <translations>
+      <en-US name="Bangladesh" />
+      <de-DE name="Bangladesh" />
+      <en-GB name="Bangladesh" />
+      <nl-NL name="Bangladesh" />
+    </translations>
+  </country>
+  <country uid="217" shortname="BLR" region="106" flag="Belarus" tailformat="EW-\\d3\\s2">
+    <translations>
+      <en-US name="Belarus" />
+      <de-DE name="Belarus" />
+      <en-GB name="Belarus" />
+      <nl-NL name="Belarus" />
+    </translations>
+  </country>
 </countries>
