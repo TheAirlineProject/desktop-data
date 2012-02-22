@@ -485,10 +485,10 @@
 		<nl-NL name="Luchthavenstatistiek" />
 	</Text>
 	<Text uid="1002">
-		<en-GB name="{0} (Total: {1})" />
-		<de-DE name="{0} (Gesamt: {1})" />
-		<en-US name="{0} (Total: {1})" />
-		<nl-NL name="{0} (Totaal: {1})" />
+		<en-GB name="{0}" />
+		<de-DE name="{0}" />
+		<en-US name="{0}" />
+		<nl-NL name="{0})" />
 	</Text>
 </Region>
   <Region name="PageAirportFlights">
@@ -1538,6 +1538,12 @@
     <de-DE name="Fehler" message="{0}" />
     <en-US name="Error" message="The airport serves as a hub, and needs at least a {0}" />
     <nl-NL name="Fout" message="{0}" />
+  </Text>
+  <Text uid="2215">
+    <en-GB name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub" />
+    <de-DE name="Fehler" message="-" />
+    <en-US name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub." />
+    <nl-NL name="Fout" message="-" />
   </Text>
 	<!-- END - Airport Model -->
 	<!-- BEGIN - Fleet Model -->
