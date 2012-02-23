@@ -1878,6 +1878,22 @@
 	</runways>
   </airport>
   <!--United States Airports (K***)-->
+  <airport name="Abilene Regional Airport" icao="KABI" iata="ABI" type="Regional">
+    <town town="Abilene, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="032°24'47''N" />
+      <longitude value="099°40'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="2" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="1121" surface="Asphalt" />
+		<runway name="17L/35R" length="2194" surface="Asphalt" />
+		<runway name="17R/35L" length="2195" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Albuquerque International Sunport" icao="KABQ" iata="ABQ" type="Domestic">
     <town town="Albuquerque, NM" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
@@ -1908,6 +1924,21 @@
 	<runways>
 		<runway name="1/19" length="2591" surface="Asphalt" />
 		<runway name="10/28" length="2195" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Rick Husband Amarillo International Airport" icao="KAMA" iata="AMA" type="Domestic">
+    <town town="Amarillo, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="035°13'10''N" />
+      <longitude value="101°42'21''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="14" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="4115" surface="Concrete" />
+		<runway name="13/31" length="2408" surface="Concrete" />
 	</runways>
   </airport>
   <airport name="Hartsfield-Jackson Atlanta International Airport" icao="KATL" iata="ATL" type="Long_Haul_International">
@@ -1988,6 +2019,21 @@
 		<runway name="7/25" length="1677" surface="Asphalt" />
 		<runway name="10L/28R" length="3206" surface="Asphalt" />
 		<runway name="10R/28L" length="1159" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Bismarck Municipal Airport" icao="KBIS" iata="BIS" type="Domestic">
+    <town town="Bismarck, ND" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="046°46'22''N" />
+      <longitude value="100°44'45''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="3/21" length="2012" surface="Asphalt" />
+		<runway name="13/31" length="2680" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Boise Airport" icao="KBOI" iata="BOI" type="Domestic">
@@ -2117,6 +2163,21 @@
 	<runways>
 		<runway name="3/21" length="2135" surface="Asphalt" />
 		<runway name="15/33" length="2744" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="The Eastern Iowa Airport" icao="KCID" iata="CID" type="Domestic">
+    <town town="Cedar Rapids, IA" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="041°53'05''N" />
+      <longitude value="091°42'39''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="13" />
+	</terminals>
+	<runways>
+		<runway name="9/27" length="2622" surface="Asphalt" />
+		<runway name="13/31" length="1890" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Cleveland Hopkins International Airport" icao="KCLE" iata="CLE" type="Short_Haul_International">
@@ -2647,6 +2708,22 @@
 		<runway name="14/32" length="1921" surface="Concrete" />
 	</runways>
   </airport>
+  <airport name="New Castle Airport" icao="KILG" iata="ILG" type="Domestic">
+    <town town="Wilmington, DE" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°40'43''N" />
+      <longitude value="075°36'24''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="6" />
+	</terminals>
+	<runways>
+		<runway name="1/19" length="2137" surface="Asphalt" />
+		<runway name="9/27" length="2189" surface="Asphalt" />
+		<runway name="14/32" length="1403" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Indianapolis International Airport" icao="KIND" iata="IND" type="Short_Haul_International">
     <town town="Indianapolis, IN" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -2791,6 +2868,23 @@
 		<runway name="4L/22R" length="2522" surface="Concrete" />
 		<runway name="4R/22L" length="2515" surface="Concrete" />
 		<runway name="18/36" length="1897" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Midland International Airport" icao="KMAF" iata="MAF" type="Domestic">
+    <town town="Midland, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="031°56'33''N" />
+      <longitude value="102°12'07''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="4/22" length="1404" surface="Asphalt" />
+		<runway name="10/28" length="2530" surface="Asphalt" />
+		<runway name="16L/34R" length="1323" surface="Asphalt" />
+		<runway name="16R/34L" length="2896" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Kansas City International Airport" icao="KMCI" iata="MCI" type="Short_Haul_International">
@@ -3283,6 +3377,21 @@
 	<runways>
 		<runway name="11/29" length="2195" surface="Asphalt" />
 		<runway name="18/36" length="1524" surface="Asphalt" />
+	</runways>
+  </airport>
+  <airport name="Rapid City Regional Airport" icao="KRAP" iata="RAP" type="Domestic">
+    <town town="Rapid City, SD" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="044°02'43''N" />
+      <longitude value="103°03'26''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+		<terminal name="Terminal" gates="11" />
+	</terminals>
+	<runways>
+		<runway name="5/23" length="1098" surface="Asphalt" />
+		<runway name="14/32" length="2652" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Raleigh-Durham International Airport" icao="KRDU" iata="RDU" type="Short_Haul_International">
@@ -5564,6 +5673,20 @@
 		<runway name="1R/19L" length="3000" surface="Asphalt" />
 		<runway name="18L/36R" length="3000" surface="Asphalt" />
 		<runway name="18R/36L" length="2700" surface="Concrete" />
+	</runways>
+  </airport>
+  <airport name="Fukuoka Airport" icao="RJFF" iata="FUK" type="Long_Haul_International">
+    <town town="Fukuoka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="033°35'04''N" />
+      <longitude value="130°27'06''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+		<terminal name="Terminal" gates="24" />
+	</terminals>
+	<runways>
+		<runway name="16/34" length="2800" surface="Asphalt" />
 	</runways>
   </airport>
   <airport name="Chūbu Centrair International Airport" icao="RJGG" iata="NGO" type="Long_Haul_International">
