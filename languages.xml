@@ -12,6 +12,7 @@
 	<Language culture="de-DE" name="Deutsch (DE)" flag="Germany.png" UnitSystem="Metric" />
 	<Language culture="nl-NL" name="Nederlands (NL)" flag="Netherlands.png" UnitSystem="Metric" />
 	<Language culture="fr-FR" name="French (FR)" flag="France.png" UnitSystem="Metric" />
+	<Language culture="zh-CN" name="Chinese (CN)" flag="China.png" UnitSystem="Metric" />
 </Languages>
 
 <Region name="MsgYes">
@@ -20,6 +21,7 @@
 		<de-DE name="_Ja" />
 		<en-US name="_Yes" />
 		<nl-NL name="_Ja" />
+		<zh-CN name="是" />
 	</Text>
 </Region>
 <Region name="MsgNo">
@@ -28,6 +30,7 @@
 		<de-DE name="_Nein" />
 		<en-US name="_No" />
 		<nl-NL name="_Nee" />
+		<zh-CN name="否" />
 	</Text>
 </Region>
 <Region name="MsgCancel">
@@ -36,6 +39,7 @@
 		<de-DE name="_Abbrechen" />
 		<en-US name="_Cancel" />
 		<nl-NL name="_Annuleren" />
+		<zh-CN name="取消" />
 	</Text>
 </Region>
 <Region name="MsgOk">
@@ -44,6 +48,7 @@
 		<de-DE name="O_kay" />
 		<en-US name="O_k" />
 		<nl-NL name="O-k" />
+		<zh-CN name="确定" />
 	</Text>
 </Region>
 <Region name="General">
@@ -52,72 +57,84 @@
 		<de-DE name="Okay" />
 		<en-US name="Ok" />
 		<nl-NL name="Ok" />
+		<zh-CN name="确定" />
 	</Text>
 	<Text uid="101">
 		<en-GB name="Cancel" />
 		<de-DE name="Abbrechen" />
 		<en-US name="Cancel" />
 		<nl-NL name="Annuleren" />
+		<zh-CN name="取消" />
 	</Text>
 	<Text uid="102">
 		<en-GB name="Redo" />
 		<de-DE name="Wiederholen" />
 		<en-US name="Redo" />
 		<nl-NL name="Opnieuw" />
+		<zh-CN name="重做" />
 	</Text>
 	<Text uid="103">
 		<en-GB name="Undo" />
-		<de-DE name="Rückgängig" />
+		<de-DE name="Rückg?ngig" />
 		<en-US name="Undo" />
 		<nl-NL name="Ongedaan maken" />
+		<zh-CN name="撤消" />
 	</Text>
 	<Text uid="104">
 		<en-GB name="Add" />
 		<de-DE name="Hinzufügen" />
 		<en-US name="Add" />
 		<nl-NL name="Toevoegen" />
+		<zh-CN name="添加" />
 	</Text>
 	<Text uid="105">
 		<en-GB name="Remove" />
 		<de-DE name="Entfernen" />
 		<en-US name="Remove" />
 		<nl-NL name="Verwijderen" />
+		<zh-CN name="移除" />
 	</Text>
 	<Text uid="106">
 		<en-GB name="Yes" />
 		<de-DE name="Ja" />
 		<en-US name="Yes" />
 		<nl-NL name="Ja" />
+		<zh-CN name="是" />
 	</Text>
 	<Text uid="107">
 		<en-GB name="No" />
 		<de-DE name="Nein" />
 		<en-US name="No" />
 		<nl-NL name="Nee" />
+		<zh-CN name="否" />
 	</Text>
 	<Text uid="108">
 		<en-GB name="Reset" />
 		<de-DE name="Zurücksetzen" />
 		<en-US name="Reset" />
 		<nl-NL name="Terug" />
+		<zh-CN name="重置" />
 	</Text>
 	<Text uid="109">
 		<en-GB name="Search" />
 		<de-DE name="Suchen" />
 		<en-US name="Search" />
 		<nl-NL name="Zoeken" />
+		<zh-CN name="搜索" />
 	</Text>
 	<Text uid="110">
 		<en-GB name="Clear Filter" />
 		<de-DE name="Filter entfernen" />
 		<en-US name="Clear Filter" />
 		<nl-NL name="Geen filter" />
+		<zh-CN name="清除过滤器" />
 	</Text>
 	<Text uid="1000">
 		<en-GB name="Untranslated Title" />
 		<de-DE name="Nicht übersetzter Titel" />
 		<en-US name="Untranslated Title" />
 		<nl-NL name="Niet vertaald" />
+		<zh-CN name="未翻译标题" />
 	</Text>
 </Region>
 <Region name="PopUpTimeTable">
@@ -126,6 +143,7 @@
 		<de-DE name="Zeitplanung Route" />
 		<en-US name="Route Timetable" />
 		<nl-NL name="Vluchtplan" />
+		<zh-CN name="航线时间表" />
 	</Text>
 </Region>
   <Region name="PopUpTerminal">
@@ -134,86 +152,100 @@
       <de-DE name="Neue Terminal erzeugene" />
       <en-US name="Create terminal" />
       <nl-NL name="Nieuwe terminal" />
+      <zh-CN name="新建航站楼" />
     </Text>
     <Text uid="1001">
       <en-GB name="Number of gates" />
       <de-DE name="Anzahl Gates" />
       <en-US name="Number of gates" />
       <nl-NL name="Aantal gates" />
+      <zh-CN name="机位编号" />
     </Text>
     <Text uid="1002">
       <en-GB name="Basic price for terminal" />
       <de-DE name="Terminal preis" />
       <en-US name="Basic price for terminal" />
       <nl-NL name="Basisprijs voor terminal" />
+      <zh-CN name="航站楼的机建费用" />
     </Text>
     <Text uid="1003">
       <en-GB name="Price per terminal gate" />
       <de-DE name="Gatekaufpreis" />
       <en-US name="Price per terminal gate" />
       <nl-NL name="Prijs per gate" />
+      <zh-CN name="每个登机口的费用" />
     </Text>
     <Text uid="1004">
       <en-GB name="Days to create terminal" />
       <de-DE name="Days to create terminal" />
       <en-US name="Days to create terminal" />
       <nl-NL name="Bouwtijd terminal" />
+      <zh-CN name="新建航站楼所需时间" />
     </Text>
     <Text uid="1005">
       <en-GB name="Total terminal price" />
       <de-DE name="Total terminal price" />
       <en-US name="Total terminal price" />
       <nl-NL name="Totale terminal prijs" />
+      <zh-CN name="所有航站楼费用" />
     </Text>
     <Text uid="1006">
       <en-GB name="Total terminal price" />
       <de-DE name="Total terminal price" />
       <en-US name="Total terminal price" />
       <nl-NL name="Totale terminal prijs" />
+      <zh-CN name="所有航站楼费用" />
     </Text>
     <Text uid="1007">
       <en-GB name="Terminal name" />
       <de-DE name="Terminal Name" />
       <en-US name="Terminal name" />
       <nl-NL name="Totale naam" />
+	  <zh-CN name="航站楼名称" />
     </Text>
   </Region>
 <Region name="PopUpRouteFacilities">
 	<Text uid="1000">
 		<en-GB name="Change airliner class facilities" />
-		<de-DE name="Ändern der Ausstattung der Reiseklassen im Flugzeug" />
+		<de-DE name="?ndern der Ausstattung der Reiseklassen im Flugzeug" />
 		<en-US name="Change airliner class facilities" />
 		<nl-NL name="Verander boordfaciliteiten" />
+		<zh-CN name="修改舱位设置" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Food on board" />
 		<de-DE name="Speisenangebot" />
 		<en-US name="Food on board" />
 		<nl-NL name="Eten aan boord" />
+		<zh-CN name="提供餐食" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Drinks on board" />
-		<de-DE name="Getränkeangebot" />
+		<de-DE name="Getr?nkeangebot" />
 		<en-US name="Drinks on board" />
 		<nl-NL name="Drinken aan boord" />
+		<zh-CN name="提供饮料" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Cabin crew on board" />
 		<de-DE name="Kabinenpersonal" />
 		<en-US name="Cabin crew on board" />
 		<nl-NL name="Cabinepersoneel aan boord" />
+		<zh-CN name="搭载乘务员" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Type of seating" />
-		<de-DE name="Sitzqualität" />
+		<de-DE name="Sitzqualit?t" />
 		<en-US name="Type of seating" />
 		<nl-NL name="Type zitplaatsen" />
+		<zh-CN name="座椅类型" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Fare price" />
 		<de-DE name="Flugpreis" />
 		<en-US name="Fare price" />
 		<nl-NL name="Vluchtprijs" />
+		<zh-CN name="票价" />
 	</Text>
 </Region>
 <Region name="PopUpSave">
@@ -222,6 +254,7 @@
 		<de-DE name="Spiel speichern" />
 		<en-US name="Save game" />
 		<nl-NL name="Spel opslaan" />
+		<zh-CN name="保存游戏" />
 	</Text>
 </Region>
 <Region name="PopUpLoad">
@@ -230,6 +263,7 @@
 		<de-DE name="Gespeichertes Spiel laden" />
 		<en-US name="Load a saved game" />
 		<nl-NL name="Opgeslagen spel laden" />
+		<zh-CN name="读取游戏" />
 	</Text>
 </Region>
 <Region name="PopUpMap">
@@ -238,36 +272,42 @@
 		<de-DE name="Karte" />
 		<en-US name="Map" />
 		<nl-NL name="Kaart" />
+		<zh-CN name="地图" />
 	</Text>
   <Text uid="1001">
     <en-GB name="+/-: Zoom in/Zoom out" />
     <de-DE name="+/-: Zoom in/Zoom out" />
     <en-US name="+/-: Zoom in/Zoom out" />
     <nl-NL name="+/-: Inzoomen/Uitzoomen"/>
+    <zh-CN name="+/-:放大/缩小"/>
   </Text>
   <Text uid="1002">
     <en-GB name="Right: Right key" />
     <de-DE name="Rechts: Rechte Taste" />
     <en-US name="Right: Right key" />
     <nl-NL name="Rechts: Pijltjestoets rechts" />
+    <zh-CN name="右:右键"/>
   </Text>
   <Text uid="1003">
     <en-GB name="Left: Left key" />
     <de-DE name="Links: Linke Taste" />
     <en-US name="Left: Left key" />
     <nl-NL name="Links: Pijltjestoets links" />
+    <zh-CN name="左:左键" />
   </Text>
   <Text uid="1004">
     <en-GB name="Up: Up key" />
-    <de-DE name="Aufwärt: Aufwärts-Taste" />
+    <de-DE name="Aufw?rt: Aufw?rts-Taste" />
     <en-US name="Up: Up key" />
     <nl-NL name="Omhoog: Pijltjestoets omhoog" />
+    <zh-CN name="上:上键" />
   </Text>
   <Text uid="1005">
     <en-GB name="Down: Down key" />
-    <de-DE name="Abwärt: Abwärts-Taste" />
+    <de-DE name="Abw?rt: Abw?rts-Taste" />
     <en-US name="Down: Down key" />
     <nl-NL name="Omlaag: Pijltjestoets omlaag" />
+    <zh-CN name="下:下键" />
   </Text>
 </Region>
 <Region name="PopUpLoan">
@@ -275,6 +315,7 @@
 		<en-GB name="Apply for a loan" />
 		<en-US name="Apply for a loan" />
 		<nl-NL name="Lening aanvragen" />
+		<zh-CN name="申请贷款" />
 	</Text>
 </Region>
 <Region name="PopUpEditAirlinerName">
@@ -283,6 +324,7 @@
 		<de-DE name="Flugzeugname" />
 		<en-US name="Airliner name" />
 		<nl-NL name="Naam van vliegtuig" />
+		<zh-CN name="班机编号" />
 	</Text>
 </Region>
  <Region name="PageRoutes">
@@ -290,25 +332,29 @@
 		<en-GB name="Create new route" />
 		<de-DE name="Neue Flugroute erzeugen" />
 		<en-US name="Create new route" />
-		<nl-NL name="Creeër nieuwe route" />
+		<nl-NL name="Cree?r nieuwe route" />
+		<zh-CN name="创建新航线" />
 	</Text>
 	<Text uid="201">
 		<en-GB name="Routes map" />
 		<de-DE name="Routenkarte" />
 		<en-US name="Routes map" />
 		<nl-NL name="Route-overzicht" />
+		<zh-CN name="航线地图" />
 	</Text>
 	<Text uid="1000">
 		<en-GB name="Routes" />
 		<de-DE name="Flugrouten" />
 		<en-US name="Routes" />
 		<nl-NL name="Routes" />
+		<zh-CN name="航线" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Airline Routes" />
 		<de-DE name="Flugrouten" />
 		<en-US name="Airline Routes" />
 		<nl-NL name="Vliegroutes" />
+		<zh-CN name="航空公司航线" />
 	</Text>
 </Region>
 <Region name="PageFleetAirliner">
@@ -317,6 +363,7 @@
 		<de-DE name="Flottenflugzeug" />
 		<en-US name="Fleet Airliner" />
 		<nl-NL name="Vliegtuigvloot" />
+		<zh-CN name="机队" />
 	</Text>
 </Region>
 <Region name="PageAirliners">
@@ -325,18 +372,21 @@
 		<de-DE name="Flugzeuge" />
 		<en-US name="Airliners" />
 		<nl-NL name="Vliegtuigen" />
+		<zh-CN name="班机" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Order New Airliner" />
 		<de-DE name="Neues Flugzeug bestellen" />
 		<en-US name="Order New Airliner" />
 		<nl-NL name="Nieuw vliegtuig bestellen" />
+		<zh-CN name="预订新客机" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Buy Used Airliner" />
 		<de-DE name="Gebrauchtes Flugzeug kaufen" />
 		<en-US name="Buy Used Airliner" />
 		<nl-NL name="Gebruikt vliegtuig kopen" />
+		<zh-CN name="购买二手客机" />
 	</Text>
 </Region>
 <Region name="PageAirport">
@@ -345,122 +395,142 @@
 		<de-DE name="Flughafen" />
 		<en-US name="Airport" />
 		<nl-NL name="Luchthaven" />
+		<zh-CN name="机场" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Weather Informations" />
 		<de-DE name="Wetter Informationen" />
 		<en-US name="Weather Informations" />
 		<nl-NL name="Weersinformatie" />
+		<zh-CN name="天气信息" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Arrivals" />
 		<de-DE name="Ankünfte" />
 		<en-US name="Arrivals" />
 		<nl-NL name="Aankomst" />
+		<zh-CN name="到港" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="From" />
 		<de-DE name="Von" />
 		<en-US name="From" />
 		<nl-NL name="Van" />
+		<zh-CN name="从" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Departures" />
 		<de-DE name="Abflüge" />
 		<en-US name="Departures" />
 		<nl-NL name="Vertrek" />
+		<zh-CN name="启程" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Destination" />
 		<de-DE name="Ziel" />
 		<en-US name="Destination" />
 		<nl-NL name="Bestemming" />
+		<zh-CN name="目的地" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Profile" />
 		<de-DE name="Profil" />
 		<en-US name="Profile" />
 		<nl-NL name="Profiel" />
+		<zh-CN name="档案" />
 	</Text>
 	<Text uid="1007">
 		<en-GB name="Name" />
 		<de-DE name="Name" />
 		<en-US name="Name" />
 		<nl-NL name="Naam" />
+		<zh-CN name="名字" />
 	</Text>
 	<Text uid="1008">
 		<en-GB name="Airport code" />
 		<de-DE name="Flughafen code" />
 		<en-US name="Airport code" />
 		<nl-NL name="Luchthaven code" />
+		<zh-CN name="机场代码" />
 	</Text>
 	<Text uid="1009">
 		<en-GB name="Airport type" />
 		<de-DE name="Flughafentyp" />
 		<en-US name="Airport type" />
 		<nl-NL name="Type luchthaven" />
+		<zh-CN name="机场类型" />
 	</Text>
 	<Text uid="1010">
 		<en-GB name="Town" />
 		<de-DE name="Stadt" />
 		<en-US name="Town" />
 		<nl-NL name="Plaats" />
+		<zh-CN name="城镇" />
 	</Text>
 	<Text uid="1011">
 		<en-GB name="Country" />
 		<de-DE name="Land" />
 		<en-US name="Country" />
 		<nl-NL name="Land" />
+		<zh-CN name="国家" />
 	</Text>
 	<Text uid="1012">
 		<en-GB name="Time zone" />
 		<de-DE name="Zeitzone" />
 		<en-US name="Time zone" />
 		<nl-NL name="Tijdzone" />
+		<zh-CN name="时区" />
 	</Text>
 	<Text uid="1013">
 		<en-GB name="Local time" />
 		<de-DE name="Lokale Zeit" />
 		<en-US name="Local time" />
 		<nl-NL name="Lokale tijd" />
+		<zh-CN name="当地时间" />
 	</Text>
 	<Text uid="1014">
 		<en-GB name="Coordinates" />
 		<de-DE name="Koordinaten" />
 		<en-US name="Coordinates" />
-		<nl-NL name="Coördinaten" />
+		<nl-NL name="Co?rdinaten" />
+		<zh-CN name="坐标" />
 	</Text>
 	<Text uid="1015">
 		<en-GB name="Airport size" />
-		<de-DE name="Flughafengröße" />
+		<de-DE name="Flughafengr??e" />
 		<en-US name="Airport size" />
 		<nl-NL name="Luchthavengrootte" />
+		<zh-CN name="机场规模" />
 	</Text>
 	<Text uid="1016">
 		<en-GB name="Number of gates" />
 		<de-DE name="Anzahl Gates" />
 		<en-US name="Number of gates" />
 		<nl-NL name="Aantal gates" />
+		<zh-CN name="登机门编号" />
 	</Text>
   <Text uid="1017">
     <en-GB name="Number of runways" />
     <de-DE name="Anzahl Runways" />
     <en-US name="Number of runways" />
     <nl-NL name="Aantal runways" />
+    <zh-CN name="跑道编号" />
   </Text>
   <Text uid="1018">
     <en-GB name="Terminals" />
     <de-DE name="Terminals" />
     <en-US name="Terminals" />
     <nl-NL name="Terminals" />
+    <zh-CN name="廊桥" />
   </Text>
 </Region> 	 
    <Region name="PageAirportRunways"> 	 
 	 <Text uid="1001"> 	 
 	   <en-GB name="Runway Information (Name / Length / Surface)" /> 	 
-	   <de-DE name="Runwayinformationen (Name / Länge / Oberfläche)" /> 	 
+	   <de-DE name="Runwayinformationen (Name / L?nge / Oberfl?che)" /> 	 
 	   <en-US name="Runway Information (Name / Length / Surface)" />
 	   <nl-NL name="Baaninformatie (Naam / Lengte / Verharding)" />
+	   <zh-CN name="跑道信息（编号 / 长度 / 表面材质）" />
 	 </Text>
    </Region>
 <Region name="PageAirportFacilities">
@@ -469,12 +539,14 @@
 		<de-DE name="Flughafenausstattung" />
 		<en-US name="Airport Facilities" />
 		<nl-NL name="Luchthavenfaciliteiten" />
+		<zh-CN name="机场设施" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Facilities" />
 		<de-DE name="Ausstattung" />
 		<en-US name="Facilities" />
 		<nl-NL name="Faciliteiten" />
+		<zh-CN name="设施" />
 	</Text>
 </Region>
 <Region name="PageAirportStatistics">
@@ -483,12 +555,14 @@
 		<de-DE name="Statistik Flughafen" />
 		<en-US name="Airport Statistics" />
 		<nl-NL name="Luchthavenstatistiek" />
+		<zh-CN name="机场统计" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="{0}" />
 		<de-DE name="{0}" />
 		<en-US name="{0}" />
-		<nl-NL name="{0})" />
+		<nl-NL name="{0}" />
+		<zh-CN name="{0}" />
 	</Text>
 </Region>
   <Region name="PageAirportFlights">
@@ -497,24 +571,28 @@
       <de-DE name="Flüge" />
       <en-US name="Flights" />
       <nl-NL name="Vluchten" />
+      <zh-CN name="班机" />
     </Text>
     <Text uid="1002">
       <en-GB name="Arrivals" />
       <de-DE name="Ankünfte" />
       <en-US name="Arrivals" />
       <nl-NL name="Aankomst" />
+      <zh-CN name="抵达" />
     </Text>
     <Text uid="1003">
       <en-GB name="Departures" />
       <de-DE name="Abflüge" />
       <en-US name="Departures" />
       <nl-NL name="Vertrek" />
+      <zh-CN name="启程" />
     </Text>
     <Text uid="1004">
       <en-GB name="Destination flights" />
       <de-DE name="Flüge" />
       <en-US name="Destination flights" />
       <nl-NL name="Bestemming vluchten" />
+      <zh-CN name="飞抵目的地的航班" />
     </Text>
   </Region>
 <Region name="PageAirportGates">
@@ -523,114 +601,132 @@
 		<de-DE name="Flughafenterminal bauen" />
 		<en-US name="Build Terminal" />
 		<nl-NL name="Bouw terminal" />
+		<zh-CN name="新建航站楼" />
 	</Text>
 	<Text uid="202">
 		<en-GB name="Rent" />
 		<de-DE name="Mieten" />
 		<en-US name="Rent" />
 		<nl-NL name="Huren" />
+		<zh-CN name="租借" />
 	</Text>
 	<Text uid="203">
 		<en-GB name="Release" />
 		<de-DE name="Kündigen" />
 		<en-US name="Release" />
 		<nl-NL name="Vrijgeven" />
+		<zh-CN name="豁免" />
 	</Text>
   <Text uid="204">
     <en-GB name="Etablish hub" />
     <de-DE name="Drehkreuz kaufen" />
     <en-US name="Etablish hub" />
     <nl-NL name="Koop hub" />
+    <zh-CN name="设立枢纽" />
   </Text>
 	<Text uid="1001">
 		<en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
 		<de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
 		<en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gate / Delivery date)" />
 		<nl-NL name="Terminal Informatie (Eigenaar / Totaal gates / Bestelde gates / Menselijke gates / Opleverdatum)" />
+		<zh-CN name="航站楼信息 （所有者 / 登机口数量 / 被预定的登机口 / 人工值机 / 交货日期）" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Gates Information" />
 		<de-DE name="Gate Informationen" />
 		<en-US name="Gates Information" />
 		<nl-NL name="Gate Informatie" />
+		<zh-CN name="登机口信息" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Total number of gates" />
 		<de-DE name="Gesamtanzahl der Gates" />
 		<en-US name="Total number of gates" />
 		<nl-NL name="Totaal aantal gates" />
+		<zh-CN name="登机口的数量" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Used gates" />
 		<de-DE name="verwendete Gates" />
 		<en-US name="Used gates" />
 		<nl-NL name="Gebruikte gates" />
+		<zh-CN name="正在使用的登机口" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Free gates" />
 		<de-DE name="freie Gates" />
 		<en-US name="Free gates" />
 		<nl-NL name="Vrije gates" />
+		<zh-CN name="空闲的登机口" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Monthly price per gate" />
 		<de-DE name="monatliche Gebühr pro Gate" />
 		<en-US name="Monthly price per gate" />
 		<nl-NL name="Maandelijkse prijs per gate" />
+		<zh-CN name="登机口每月租金" />
 	</Text>
 	<Text uid="1007">
 		<en-GB name="Airline Gates (Total / Used)" />
 		<de-DE name="Fluglinien Gates (gesamt/verwendet)" />
 		<en-US name="Airline Gates (Total / Used)" />
 		<nl-NL name="Gates van luchtvaartmaatschappij (Totaal / Gebruikt)" />
+		<zh-CN name="航空公司的登机口 (共计 / 使用中)" />
 	</Text>
   <Text uid="1008">
     <en-GB name="Hubs" />
     <de-DE name="Luftfahrtdrehkreuz" />
     <en-US name="Hubs" />
     <nl-NL name="Hubs" />
+    <zh-CN name="枢纽" />
   </Text>
 </Region>
 <Region name="PageAirports">
 	<Text uid="1000">
 		<en-GB name="Airports" />
-		<de-DE name="Flughäfen" />
+		<de-DE name="Flugh?fen" />
 		<en-US name="Airports" />
 		<nl-NL name="Luchthavens" />
+		<zh-CN name="机场" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Show results on map" />
 		<de-DE name="Ergebnisse auf Karte anzeigen" />
 		<en-US name="Show results on map" />
 		<nl-NL name="Resultaat op kaart" />
+		<zh-CN name="在地图中显示结果" />
 	</Text>
 </Region>
 <Region name="PageSearchAirports">
 	<Text uid="1001">
 		<en-GB name="Airport search options" />
-		<de-DE name="Suchoptionen Flughäfen" />
+		<de-DE name="Suchoptionen Flugh?fen" />
 		<en-US name="Airport search options" />
 		<nl-NL name="Zoekopties luchthaven" />
+		<zh-CN name="机场搜索选项" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Human airports only" />
-		<de-DE name="Nur Spieler-Flughäfen" />
+		<de-DE name="Nur Spieler-Flugh?fen" />
 		<en-US name="Human airports only" />
 		<nl-NL name="Alleen menselijke luchthavens" />
+		<zh-CN name="仅玩家机场" />
 	</Text>
   <Text uid="1003">
     <en-GB name="Hubs only" />
     <de-DE name="Nur Luftfahrt-Drehkreuz" />
     <en-US name="Hubs only" />
     <nl-NL name="Alleen hubs" />
+    <zh-CN name="仅枢纽" />
   </Text>
 </Region>
 <Region name="PageAirportsStatistics">
 	<Text uid="1001">
 		<en-GB name="Largest Airports / Passengers" />
-		<de-DE name="Größte Flughäfen / Passagiere" />
+		<de-DE name="Gr??te Flugh?fen / Passagiere" />
 		<en-US name="Largest Airports / Passengers" />
 		<nl-NL name="Grootste luchthaven / Passagiers" />
+		<zh-CN name="最大的机场 / 乘客" />
 	</Text>
 </Region>
 <Region name="PageAirline">
@@ -639,66 +735,77 @@
 		<de-DE name="Fluglinie" />
 		<en-US name="Airline" />
 		<nl-NL name="Luchtvaartmaatschappij" />
+		<zh-CN name="航空公司" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Profile" />
 		<de-DE name="Profil" />
 		<en-US name="Profile" />
 		<nl-NL name="Profiel" />
+		<zh-CN name="档案" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Name of Airline" />
 		<de-DE name="Name der Fluglinie" />
 		<en-US name="Name of Airline" />
 		<nl-NL name="Bedrijfsnaam" />
+		<zh-CN name="航空公司名字" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="IATA code" />
 		<de-DE name="IATA Kennung" />
 		<en-US name="IATA code" />
 		<nl-NL name="IATA code" />
+		<zh-CN name="IATA 代码" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="CEO" />
-		<de-DE name="Geschäftsführer" />
+		<de-DE name="Gesch?ftsführer" />
 		<en-US name="CEO" />
 		<nl-NL name="Directeur" />
+		<zh-CN name="总裁" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Home country" />
 		<de-DE name="Heimatland" />
 		<en-US name="Home country" />
 		<nl-NL name="Thuisland" />
+		<zh-CN name="国家" />
 	</Text>
 	<Text uid="1006">
 	  <en-GB name="Airline color" />
 	  <de-DE name="Farbe der Fluglinie" />
 	  <en-US name="Airline color" />
 	  <nl-NL name="Bedrijfskleur" />
+	  <zh-CN name="航空公司代表色" />
 	</Text>
 	<Text uid="1007">
 		<en-GB name="Fleet size" />
-		<de-DE name="Flottengröße" />
+		<de-DE name="Flottengr??e" />
 		<en-US name="Fleet size" />
 		<nl-NL name="Vlootgrootte" />
+		<zh-CN name="机队规模" />
 	</Text>
 	<Text uid="1008">
 		<en-GB name="Capital" />
-		<de-DE name="Vermögen" />
+		<de-DE name="Verm?gen" />
 		<en-US name="Capital" />
 		<nl-NL name="Vermogen" />
+		<zh-CN name="资产" />
 	</Text>
 	<Text uid="1009">
 		<en-GB name="Reputation" />
 		<de-DE name="Ansehen" />
 		<en-US name="Reputation" />
 		<nl-NL name="Reputatie" />
+		<zh-CN name="口碑" />
 	</Text>
 	<Text uid="1010">
 		<en-GB name="Passenger happiness" />
 		<de-DE name="Kundenzufriedenheit" />
 		<en-US name="Passenger happiness" />
 		<nl-NL name="Klanttevredenheid" />
+		<zh-CN name="乘客满意度" />
 	</Text>
 </Region>
 <Region name="PageAirlines">
@@ -707,6 +814,7 @@
 		<de-DE name="Fluglinien" />
 		<en-US name="Airlines" />
 		<nl-NL name="Luchtvaartmaatschappijen" />
+		<zh-CN name="航空公司" />
 	</Text>
 </Region>
 <Region name="PageNewsBox">
@@ -715,6 +823,7 @@
 		<de-DE name="Nachrichten" />
 		<en-US name="News" />
 		<nl-NL name="Nieuws" />
+		<zh-CN name="新闻" />
 	</Text>
 </Region>
 <Region name="PageSettings">
@@ -723,98 +832,114 @@
 		<de-DE name="Einstellungen" />
 		<en-US name="Settings" />
 		<nl-NL name="Instellingen" />
+		<zh-CN name="设置" />
 	</Text>
   <Text uid="1001">
     <en-GB name="Game speed" />
     <de-DE name="Spielgeschwindigkeit" />
     <en-US name="Game speed" />
     <nl-NL name="Snelheid" />
+    <zh-CN name="游戏速度" />
   </Text>
   <Text uid="1002">
     <en-GB name="Language" />
     <de-DE name="Sprache" />
     <en-US name="Language" />
     <nl-NL name="Taal" />
+    <zh-CN name="语言" />
   </Text>
   <Text uid="1003">
     <en-GB name="Skin" />
     <de-DE name="Skin" />
     <en-US name="Skin" />
     <nl-NL name="Uiterlijk" />
+    <zh-CN name="外观" />
   </Text>
   <Text uid="1004">
     <en-GB name="Mail on landings" />
     <de-DE name="Mail an landungen" />
     <en-US name="Mail on landings" />
     <nl-NL name="Mail bij landing " />
+    <zh-CN name="在着陆时邮件通知" />
   </Text>
   <Text uid="1005">
     <en-GB name="Airport code format" />
     <de-DE name="Airport code Format" />
     <en-US name="Airport code format" />
     <nl-NL name="Luchthavencode-indeling" />
+    <zh-CN name="机场代码格式" />
   </Text>
   </Region>
 <Region name="PageAirlineFleet">
 	<Text uid="1001">
 		<en-GB name="Fleet overview" />
-		<de-DE name="Übersicht Flotte" />
+		<de-DE name="übersicht Flotte" />
 		<en-US name="Fleet overview" />
 		<nl-NL name="Overzicht vloot" />
+		<zh-CN name="机队总览" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Fleet route information" />
 		<de-DE name="Routeninformation der Flotte" />
 		<en-US name="Fleet route information" />
 		<nl-NL name="Routeinformatie vloot" />
+		<zh-CN name="机队航线信息" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Airline Fleet" />
 		<de-DE name="Flotte der Fluglinie" />
 		<en-US name="Airline Fleet" />
 		<nl-NL name="Vloot luchtvaartmaatschappij" />
+		<zh-CN name="航空公司机队" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Airliners In Order" />
 		<de-DE name="Bestellte Flugzeuge" />
 		<en-US name="Airliners In Order" />
 		<nl-NL name="Bestelde vliegtuigen" />
+		<zh-CN name="已经预定的飞机" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Name" />
 		<de-DE name="Name" />
 		<en-US name="Name" />
 		<nl-NL name="Naam" />
+		<zh-CN name="名字" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Type" />
 		<de-DE name="Typ" />
 		<en-US name="Type" />
 		<nl-NL name="Type" />
+		<zh-CN name="类型" />
 	</Text>
 	<Text uid="1007">
 		<en-GB name="Ownership" />
 		<de-DE name="Eigentumsstatus" />
 		<en-US name="Ownership" />
 		<nl-NL name="Eigenaar" />
+		<zh-CN name="所有者" />
 	</Text>
 	<Text uid="1008">
 		<en-GB name="Has Route" />
 		<de-DE name="Routeneinsatz" />
 		<en-US name="Has Route" />
 		<nl-NL name="Op route" />
+		<zh-CN name="现有航线" />
 	</Text>
   <Text uid="1009">
     <en-GB name="Ordered" />
     <de-DE name="Bestellt" />
     <en-US name="Ordered" />
     <nl-NL name="Besteld" />
+    <zh-CN name="已订购" />
   </Text>
 	<Text uid="1101">
 		<en-GB name="Airline Fleet" />
 		<de-DE name="Flugzeugflotte" />
 		<en-US name="Airline Fleet" />
 		<nl-NL name="Vloot luchtvaartmaatschappij" />
+		<zh-CN name="航空公司的机队" />
 	</Text>
 </Region>
 <Region name="PageAirlineFinances">
@@ -822,37 +947,43 @@
 		<en-GB name="Airline Finances" />
 		<de-DE name="Finanzen der Fluglinie" />
 		<en-US name="Airline Finances" />
-		<nl-NL name="Financiën luchtvaartmaatschappij" />
+		<nl-NL name="Financi?n luchtvaartmaatschappij" />
+		<zh-CN name="航空公司的财政情况" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Financial Summary" />
 		<de-DE name="Finanzübersicht" />
 		<en-US name="Financial Summary" />
 		<nl-NL name="Financieel overzicht" />
+		<zh-CN name="财政情况总览" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Current cash" />
 		<de-DE name="Bargeld aktuell" />
 		<en-US name="Current cash" />
 		<nl-NL name="Chartaal geld" />
+		<zh-CN name="现有现金" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Total balance" />
 		<de-DE name="Bilanzsumme" />
 		<en-US name="Total balance" />
 		<nl-NL name="Balanstotaal" />
+		<zh-CN name="盈亏" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Loans" />
 		<de-DE name="Anleihe" />
 		<en-US name="Loans" />
 		<nl-NL name="Leningen" />
+		<zh-CN name="贷款" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Apply for loan" />
 		<de-DE name="Anleihe ausgeben" />
 		<en-US name="Apply for loan" />
 		<nl-NL name="Lening aanvragen" />
+		<zh-CN name="申请贷款" />
 	</Text>
 </Region>
 <Region name="PageAirlineFacilities">
@@ -861,24 +992,28 @@
 		<de-DE name="Einrichtungen der Fluglinie" />
 		<en-US name="Airline Facilities" />
 		<nl-NL name="Bedrijfsfaciliteiten" />
+		<zh-CN name="班机设施" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Purchase Facilities" />
 		<de-DE name="Einrichtungen kaufen" />
 		<en-US name="Purchase Facilities" />
 		<nl-NL name="Faciliteiten kopen" />
+		<zh-CN name="购置设施" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Airline Advertisement" />
 		<de-DE name="Werbung der Fluglinie" />
 		<en-US name="Airline Advertisement" />
 		<nl-NL name="Bedrijfsadvertenties" />
+		<zh-CN name="航空公司广告" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Save Advertisements" />
-		<de-DE name="Werbemaßnahmen festlegen" />
+		<de-DE name="Werbema?nahmen festlegen" />
 		<en-US name="Save Advertisements" />
 		<nl-NL name="Bewaar advertenties" />
+		<zh-CN name="保存广告设置" />
 	</Text>
 </Region>
 <Region name="PageAirlineDestinations">
@@ -887,38 +1022,44 @@
 		<de-DE name="Routenkarte" />
 		<en-US name="Routes map" />
 		<nl-NL name="Routekaart" />
+		<zh-CN name="航线地图" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Destinations" />
 		<de-DE name="Ziele" />
 		<en-US name="Destinations" />
 		<nl-NL name="Bestemmingen" />
+		<zh-CN name="目的地" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Destinations" />
 		<de-DE name="Ziele" />
 		<en-US name="Destinations" />
 		<nl-NL name="Bestemmingen" />
+		<zh-CN name="目的地" />
 	</Text>
 </Region>
 <Region name="PageAirlineWages">
 	<Text uid="1001">
 		<en-GB name="Wages" />
-		<de-DE name="Löhne" />
+		<de-DE name="L?hne" />
 		<en-US name="Wages" />
 		<nl-NL name="Lonen" />
+		<zh-CN name="工资" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Food and drinks" />
-		<de-DE name="Essen und Getränke" />
+		<de-DE name="Essen und Getr?nke" />
 		<en-US name="Food and drinks" />
 		<nl-NL name="Eten en drinken" />
+		<zh-CN name="餐食和饮料" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Fees" />
 		<de-DE name="Gebühren" />
 		<en-US name="Fees" />
 		<nl-NL name="Toeslagen" />
+		<zh-CN name="费用" />
 	</Text>
 </Region>
 <Region name="PageAirlineStatistics">
@@ -927,24 +1068,28 @@
 		<de-DE name="Statistiken der Fluglinie" />
 		<en-US name="Airline Statistics" />
 		<nl-NL name="Bedrijfsstatistiek" />
+		<zh-CN name="航空公司统计" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Total departures" />
 		<de-DE name="Abflüge Gesamt" />
 		<en-US name="Total departures" />
 		<nl-NL name="Vertrek totaal" />
+		<zh-CN name="出港总计" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Total passengers" />
 		<de-DE name="Passagiere Gesamt" />
 		<en-US name="Total passengers" />
 		<nl-NL name="Passagiers totaal" />
+		<zh-CN name="总客流量" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Passengers per flight" />
 		<de-DE name="Passagiere pro Flug" />
 		<en-US name="Passengers per flight" />
 		<nl-NL name="Passagiers per vlucht" />
+		<zh-CN name="每趟航班的乘客数" />
 	</Text>
 </Region>
   <Region name="PanelAirlinesExtendedStatistics">
@@ -953,50 +1098,58 @@
       <de-DE name="Flotte Statistik" />
       <en-US name="Fleet Statistics" />
       <nl-NL name="Vloot Statistieken" />
+      <zh-CN name="机队统计" />
     </Text>
     <Text uid="1002">
       <en-GB name="Financial Statistics" />
       <de-DE name="Finanz Statistik" />
       <en-US name="Financial Statistics" />
       <nl-NL name="Financieel Statistieken" />
+      <zh-CN name="财政统计" />
     </Text>
     <Text uid="1003">
       <en-GB name="Airline Fleet Size" />
-      <de-DE name="Flottengröße" />
+      <de-DE name="Flottengr??e" />
       <en-US name="Airline Fleet Size" />
       <nl-NL name="Vlootgrootte" />
+      <zh-CN name="航空公司机队规模" />
     </Text>
     <Text uid="1004">
       <en-GB name="Average Airline Fleet Age" />
       <de-DE name="-" />
       <en-US name="Average Airline Fleet Age" />
       <nl-NL name="Gemiddelde leeftijd van vloot" />
+      <zh-CN name="航空公司平均机龄" />
     </Text>
     <Text uid="1005">
       <en-GB name="Airline Profit" />
       <de-DE name="Flugline Profit" />
       <en-US name="Airline Profit" />
       <nl-NL name="Bedrijfswinst" />
+      <zh-CN name="航空公司盈利" />
     </Text>
     <Text uid="1006">
       <en-GB name="Airline Value" />
       <de-DE name="Fluglinie Wert" />
       <en-US name="Airline Value" />
       <nl-NL name="Bedrijfswaarde" />
+      <zh-CN name="航空公司价值" />
     </Text>
-  </Region>"
+  </Region>
   <Region name="PanelAirlinesStatistics">
     <Text uid="1001">
       <en-GB name="Flights Statistics" />
       <de-DE name="Flüge Statistik" />
       <en-US name="Flights Statistics" />
       <nl-NL name="Vluchten Statistieken" />
+      <zh-CN name="航班统计" />
     </Text>
     <Text uid="1002">
       <en-GB name="Passenger happiness in %" />
       <de-DE name="Passagiere Freude %" />
       <en-US name="Passenger happiness in %" />
       <nl-NL name="Vluchten Statistieken" />
+      <zh-CN name="乘客满意度在 %" />
     </Text>
   </Region>
    <Region name="PanelAirlines">
@@ -1005,18 +1158,21 @@
       <de-DE name="Flüge" />
       <en-US name="Flights" />
       <nl-NL name="Vluchten" />
+      <zh-CN name="航班" />
     </Text>
     <Text uid="1002">
       <en-GB name="Finances" />
       <de-DE name="Finanzen" />
       <en-US name="Finances" />
-      <nl-NL name="Financiën" />
+      <nl-NL name="Financi?n" />
+      <zh-CN name="财政" />
     </Text>
     <Text uid="1003">
       <en-GB name="Fleet" />
       <de-DE name="Flotte" />
       <en-US name="Fleet" />
       <nl-NL name="Vloot" />
+      <zh-CN name="机队" />
     </Text>
   </Region>
 <Region name="PanelAirline">
@@ -1025,36 +1181,42 @@
 		<de-DE name="Flotte" />
 		<en-US name="Fleet" />
 		<nl-NL name="Vloot" />
+		<zh-CN name="机队" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Destinations and Routes" />
 		<de-DE name="Ziele und Routen" />
 		<en-US name="Destinations and Routes" />
 		<nl-NL name="Bestemmingen en routes" />
+		<zh-CN name="目的地和航线" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Facilities and Advertisement" />
 		<de-DE name="Ausstattung und Angebote" />
 		<en-US name="Facilities and Advertisement" />
 		<nl-NL name="Faciliteiten en advertenties" />
+		<zh-CN name="设施和广告" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Statistics" />
 		<de-DE name="Statistik" />
 		<en-US name="Statistics" />
 		<nl-NL name="Statistieken" />
+		<zh-CN name="统计" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Finances" />
 		<de-DE name="Finanzen" />
 		<en-US name="Finances" />
-		<nl-NL name="Financiën" />
+		<nl-NL name="Financi?n" />
+		<zh-CN name="财政" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Wages and Fees" />
-		<de-DE name="Löhne und Abgaben" />
+		<de-DE name="L?hne und Abgaben" />
 		<en-US name="Wages and Fees" />
 		<nl-NL name="Lonen en toeslagen" />
+		<zh-CN name="工资与费用" />
 	</Text>
  </Region>
 <Region name="PanelAirliner">
@@ -1063,90 +1225,105 @@
 		<de-DE name="Flugzeugtyp Spezifikationen" />
 		<en-US name="Airliner Type Specifications" />
 		<nl-NL name="Vliegtuigtype specificaties" />
+		<zh-CN name="飞机参数" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Model" />
 		<de-DE name="Modell" />
 		<en-US name="Model" />
 		<nl-NL name="Model" />
+		<zh-CN name="模型" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Manufacturer" />
 		<de-DE name="Hersteller" />
 		<en-US name="Manufacturer" />
 		<nl-NL name="Fabrikant" />
+		<zh-CN name="厂商" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Body Type" />
 		<de-DE name="Rumpftyp" />
 		<en-US name="Body Type" />
 		<nl-NL name="Body type" />
+		<zh-CN name="体型" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Range" />
 		<de-DE name="Reichweite" />
 		<en-US name="Range" />
 		<nl-NL name="Vliegbereik" />
+		<zh-CN name="航程" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Engine Type" />
 		<de-DE name="Antriebsart" />
 		<en-US name="Engine Type" />
 		<nl-NL name="Voortstuwing" />
+		<zh-CN name="引擎类型" />
 	</Text>
 	<Text uid="1007">
 		<en-GB name="Wingspan" />
 		<de-DE name="Spannweite" />
 		<en-US name="Wingspan" />
 		<nl-NL name="Spanwijdte" />
+		<zh-CN name="翼展" />
 	</Text>
 	<Text uid="1008">
 		<en-GB name="Length" />
-		<de-DE name="Länge" />
+		<de-DE name="L?nge" />
 		<en-US name="Length" />
 		<nl-NL name="Lengte" />
+		<zh-CN name="长度" />
 	</Text>
 	<Text uid="1009">
 		<en-GB name="Passenger Capacity" />
-		<de-DE name="Passagier Kapazität" />
+		<de-DE name="Passagier Kapazit?t" />
 		<en-US name="Passenger Capacity" />
 		<nl-NL name="Passagiers capaciteit" />
+		<zh-CN name="乘客容量" />
 	</Text>
 	<Text uid="1010">
 		<en-GB name="Max. Airliner Classes" />
 		<de-DE name="Max. Reiseklassen" />
 		<en-US name="Max. Airliner Classes" />
 		<nl-NL name="Max. vliegtuigklassen" />
+		<zh-CN name="飞机可设置舱位" />
 	</Text>
 	<Text uid="1011">
 		<en-GB name="Crew requirements" />
-		<de-DE name="Benötigte Besatzung" />
+		<de-DE name="Ben?tigte Besatzung" />
 		<en-US name="Crew requirements" />
 		<nl-NL name="Personeel" />
+		<zh-CN name="机组成员需求" />
 	</Text>
 	<Text uid="1012">
 		<en-GB name="Cruising speed" />
 		<de-DE name="Reisegeschwindigkeit" />
 		<en-US name="Cruising speed" />
 		<nl-NL name="Kruissnelheid" />
+		<zh-CN name="巡航速度" />
 	</Text>
 	<Text uid="1013">
 		<en-GB name="Fuel Consumption" />
 		<de-DE name="Kraftstoffverbrauch" />
 		<en-US name="Fuel Consumption" />
 		<nl-NL name="Brandstofverbuik" />
+		<zh-CN name="耗油率" />
 	</Text>
 	<Text uid="1014">
 		<en-GB name="Time Range of Production" />
 		<de-DE name="Produktionszeitraum" />
 		<en-US name="Time Range of Production" />
 		<nl-NL name="Productietijdsvak" />
+		<zh-CN name="移交时间表" />
 	</Text>
 	<Text uid="1015"> 	 
 		<en-GB name="Required Runway Length" /> 	 
 		<de-DE name="Minimum Landebahn" /> 	 
 		<en-US name="Required Runway Length" />
-		<nl-NL name="Vereiste lengte landingsbaan" /> 	 
+		<nl-NL name="Vereiste lengte landingsbaan" />
+		<zh-CN name="所需最短跑道长度" /> 	 
 	</Text>
 </Region>
 <Region name="PanelUsedAirliner">
@@ -1155,78 +1332,91 @@
 		<de-DE name="Kaufen" />
 		<en-US name="Buy" />
 		<nl-NL name="Kopen" />
+		<zh-CN name="购买" />
 	</Text>
 	<Text uid="201">
 		<en-GB name="Lease" />
 		<de-DE name="Leasen" />
 		<en-US name="Lease" />
 		<nl-NL name="Leasen" />
+		<zh-CN name="出租" />
 	</Text>
 	<Text uid="1001">
 		<en-GB name="Airliner Information" />
 		<de-DE name="Flugzeug Daten" />
 		<en-US name="Airliner Information" />
 		<nl-NL name="Vliegtuiginformatie" />
+		<zh-CN name="飞机信息" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Year of build" />
 		<de-DE name="Baujahr" />
 		<en-US name="Year of build" />
 		<nl-NL name="Bouwjaar" />
+		<zh-CN name="建造年费" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Tail number" />
 		<de-DE name="Kennung" />
 		<en-US name="Tail number" />
 		<nl-NL name="Registratie" />
+		<zh-CN name="机尾代码" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Flown Overall" />
 		<de-DE name="Gesamtflugstrecke" />
 		<en-US name="Flown Overall" />
 		<nl-NL name="Totaal gevlogen" />
+		<zh-CN name="飞行总览" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Flown since last Service" />
 		<de-DE name="Flugstrecke seit letzter Wartung" />
 		<en-US name="Flown since last Service" />
 		<nl-NL name="Laatste onderhoud" />
+		<zh-CN name="只从上次飞行至今" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Equipped with Class" />
 		<de-DE name="Ausgestattet mit Klasse" />
 		<en-US name="Equipped with Class" />
 		<nl-NL name="Uitgerust met klasse" />
+		<zh-CN name="舱位设施" />
 	</Text>
 	<Text uid="1101">
 		<en-GB name="Price Information" />
 		<de-DE name="Preisangaben" />
 		<en-US name="Price Information" />
 		<nl-NL name="Prijsinformatie" />
+		<zh-CN name="票价信息" />
 	</Text>
 	<Text uid="1102">
 		<en-GB name="Purchase Price" />
 		<de-DE name="Kaufpreis" />
 		<en-US name="Purchase Price" />
 		<nl-NL name="Koopprijs" />
+		<zh-CN name="订购价格" />
 	</Text>
 	<Text uid="1103">
 		<en-GB name="Leasing Rate" />
 		<de-DE name="Leasing Rate" />
 		<en-US name="Leasing Rate" />
 		<nl-NL name="Leaseprijs" />
+		<zh-CN name="租借费率" />
 	</Text>
 	<Text uid="1104">
 		<en-GB name="Yearly maintenance Costs" />
-		<de-DE name="Kosten jährliche Wartung" />
+		<de-DE name="Kosten j?hrliche Wartung" />
 		<en-US name="Yearly maintenance Costs" />
 		<nl-NL name="Jaarlijkse onderhoudskosten" />
+		<zh-CN name="每年维护费用" />
 	</Text>
 	<Text uid="1105">
 		<en-GB name="Select home base" />
-		<de-DE name="Heimatstützpunkt auswählen" />
+		<de-DE name="Heimatstützpunkt ausw?hlen" />
 		<en-US name="Select home base" />
 		<nl-NL name="Selecteer thuisbasis" />
+		<zh-CN name="选择基地" />
 	</Text>
 </Region>
 <Region name="PanelAirport">
@@ -1235,30 +1425,35 @@
 		<de-DE name="Gates &amp; Flughafenterminals" />
 		<en-US name="Gates &amp; Terminals" />
 		<nl-NL name="Gates &amp; Terminals" />
+		<zh-CN name="登机口 &amp; 航站楼"/>
 	</Text>
 	<Text uid="202">
 		<en-GB name="Facilities" />
 		<de-DE name="Ausstattung" />
 		<en-US name="Facilities" />
 		<nl-NL name="Faciliteiten" />
+		<zh-CN name="设施" />
 	</Text>
 	<Text uid="203">
 		<en-GB name="Statistics" />
 		<de-DE name="Statistik" />
 		<en-US name="Statistics" />
 		<nl-NL name="Statistieken" />
+		<zh-CN name="设施" />
 	</Text>
 	<Text uid="204">
 		<en-GB name="Flights" />
 		<de-DE name="Flüge" />
 		<en-US name="Flights" />
 		<nl-NL name="Vluchten" />
+		<zh-CN name="航班" />
 	</Text>
 	<Text uid="205"> 	 
 		<en-GB name="Runways" /> 	 
 		<de-DE name="Runways" /> 	 
 		<en-US name="Runways" /> 
 		<nl-NL name="Landingsbanen" /> 
+		<zh-CN name="跑道" />
 	</Text>
 </Region>
 <Region name="PanelAirports">
@@ -1267,20 +1462,23 @@
 		<de-DE name="Suche" />
 		<en-US name="Search" />
 		<nl-NL name="Zoeken" />
+		<zh-CN name="搜索" />
 	</Text>
 	<Text uid="202">
 		<en-GB name="Statistics" />
 		<de-DE name="Statistik" />
 		<en-US name="Statistics" />
 		<nl-NL name="Statistieken" />
+		<zh-CN name="统计" />
 	</Text>
 </Region>
 <Region name="MenuHome">
 	<Text uid="1000">
 		<en-GB name="Home" />
-		<de-DE name="Übersicht" />
+		<de-DE name="übersicht" />
 		<en-US name="Home" />
 		<nl-NL name="Hoofdscherm" />
+		<zh-CN name="主页" />
 	</Text>
 </Region>
 <Region name="MenuOptions">
@@ -1289,6 +1487,7 @@
 		<de-DE name="Spieloptionen" />
 		<en-US name="Options" />
 		<nl-NL name="Opties" />
+		<zh-CN name="设置" />
 	</Text>
 </Region>
 <Region name="MenuNewGame">
@@ -1297,6 +1496,7 @@
 		<de-DE name="Neues Spiel" />
 		<en-US name="New Game" />
 		<nl-NL name="Nieuw spel" />
+		<zh-CN name="开始新游戏" />
 	</Text>
 </Region>
 <Region name="MenuExitGame">
@@ -1304,7 +1504,8 @@
 		<en-GB name="Exit Game" />
 		<de-DE name="Spiel beenden" />
 		<en-US name="Exit Game" />
-		<nl-NL name="Spel beëindigen" />
+		<nl-NL name="Spel be?indigen" />
+		<zh-CN name="退出游戏" />
 	</Text>
 </Region>
 <Region name="MessageBox">
@@ -1314,94 +1515,109 @@
 		<de-DE name="Fehler Dateiname" message="Der angegebene Dateiname ist ungültig.&#x0a;&#x0a;Laden des Spiels wurde abgebrochen." />
 		<en-US name="Filename error" message="The given filename is invalid.&#x0a;&#x0a;Loading of game aborted." />
 		<nl-NL name="Foute bestandsnaam" message="De opgegeven bestandsnaam is ongeldig.&#x0a;&#x0a;Laden van het spel afgebroken." />
+		<zh-CN name="文件名错误" message="您给定的文件名无效。&#x0a;&#x0a;读取游戏终止" />
 	</Text>
 	<!-- END - Helpers -->
 	<!-- BEGIN - General Model -->
 	<Text uid="1001">
 		<en-GB name="New game" message="Are you sure you want to start a new game?" />
-		<de-DE name="Neues Spiel" message="Sind Sie sicher, daß Sie ein neues Spiel beginnen möchten?" />
+		<de-DE name="Neues Spiel" message="Sind Sie sicher, da? Sie ein neues Spiel beginnen m?chten?" />
 		<en-US name="New game" message="Are you sure you want to start a new game?" />
 		<nl-NL name="Nieuw spel" message="Weet u zeker dat u een nieuw spel wilt beginnen?" />
+		<zh-CN name="开始新游戏" message="您确定要开始新游戏？" />
 	</Text>
 	<Text uid="1002">
 		<en-GB name="Load game" message="Are you sure you want to load a saved game?" />
-		<de-DE name="Spiel laden" message="Sind Sie sicher, daß Sie ein gespeichertes Spiel laden möchten?" />
+		<de-DE name="Spiel laden" message="Sind Sie sicher, da? Sie ein gespeichertes Spiel laden m?chten?" />
 		<en-US name="Load game" message="Are you sure you want to load a saved game?" />
 		<nl-NL name="Spel laden" message="Weet u zeker dat u een opgeslagen spel wil laden?" />
+		<zh-CN name="读取游戏" message="您确定要读取存档？" />
 	</Text>
 	<Text uid="1003">
 		<en-GB name="Exit game" message="Are you sure you want to exit the game?" />
-		<de-DE name="Spiel beenden" message="Sind Sie sicher, daß Sie das Spiel beenden möchten?" />
+		<de-DE name="Spiel beenden" message="Sind Sie sicher, da? Sie das Spiel beenden m?chten?" />
 		<en-US name="Exit game" message="Are you sure you want to exit the game?" />
-		<nl-NL name="Spel beëindigen" message="Weet u zeker dat u wilt stoppen?" />
+		<nl-NL name="Spel be?indigen" message="Weet u zeker dat u wilt stoppen?" />
+		<zh-CN name="退出游戏" message="您确定要退出游戏？" />
 	</Text>
 	<Text uid="1004">
 		<en-GB name="Success" message="The airport has been saved to the database." />
 		<de-DE name="Erfolg" message="Der Flughafen wurde in der Datenbank gespeichert." />
 		<en-US name="Success" message="The airport has been saved to the database." />
 		<nl-NL name="Succes" message="De luchthaven is opgeslagen." />
+		<zh-CN name="成功" message="该机场已经成功地存入数据库。" />
 	</Text>
 	<Text uid="1005">
 		<en-GB name="Error" message="The airport can't be saved to the database." />
 		<de-DE name="Fehler" message="Der Flughafen kann in der Datenbank nicht gespeichert werden." />
 		<en-US name="Error" message="The airport can't be saved to the database." />
 		<nl-NL name="Fout" message="De luchthaven kan niet worden opgeslagen." />
+		<zh-CN name="错误" message="该机场无法存入数据库" />
 	</Text>
 	<Text uid="1006">
 		<en-GB name="Error" message="The airport does already exists or the searched IATA-code can't be found in the database." />
 		<de-DE name="Fehler" message="Der Flughafen existiert bereits, oder der gesuchte IATA-Code kann in der Datenbank nicht gefunden werden." />
 		<en-US name="Error" message="The airport does already exists or the searched IATA-code can't be found in the database." />
 		<nl-NL name="Fout" message="De luchthaven bestaat al of de IATA code is niet gevonden." />
+		<zh-CN name="错误" message="该机场已经存在或者在数据库中没有该机场的 IATA 代码。" />
 	</Text>
 	<!-- END - General Model -->
 	<!-- BEGIN - Airliner Model -->
 	<Text uid="2000">
 		<en-GB name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
-		<de-DE name="Kein Heimatstützpunkt verfügbar" message="Sie haben keinen Heimatstützpunkt zur Verfügung und können das Flugzeug somit nicht kaufen." />
+		<de-DE name="Kein Heimatstützpunkt verfügbar" message="Sie haben keinen Heimatstützpunkt zur Verfügung und k?nnen das Flugzeug somit nicht kaufen." />
 		<en-US name="No available homebase" message="There is no available homebase, so it is not possible to buy an airliner." />
 		<nl-NL name="Geen beschikbare thuisbasis" message="Er is geen thuisbasis beschikbaar, dus is het niet mogelijk een vliegtuig te kopen." />
+		<zh-CN name="无效的基地机场" message="该基地机场不可用，所以没办法购买飞机。" />
 	</Text>
 	<Text uid="2001">
 		<en-GB name="Not enough money" message="You don't have any money to order this airliner." />
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu bestellen." />
 		<en-US name="Not enough money" message="You don't have any money to order this airliner." />
 		<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen." />
+		<zh-CN name="不够钱" message="您不够钱来预订此架飞机。" />
 	</Text>
 	<Text uid="2002">
 		<en-GB name="No homebase" message="You haven't selected a home base for this airliner." />
-		<de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgewählt." />
+		<de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgew?hlt." />
 		<en-US name="No homebase" message="You haven't selected a home base for this airliner." />
 		<nl-NL name="Geen thuisbasis" message="Er is nog geen thuisbasis geselecteerd voor dit vliegtuig." />
+		<zh-CN name="没有基地机场" message="您没有为此架飞机选择一个基地机场" />
 	</Text>
 	<Text uid="2003">
 		<en-GB name="Order airliner" message="Are you sure you want to order a {0}?" />
-		<de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie ein {0} bestellen wollen?" />
+		<de-DE name="Flugzeug bestellen" message="Sind Sie sicher da? Sie ein {0} bestellen wollen?" />
 		<en-US name="Order airliner" message="Are you sure you want to order a {0}?" />
 		<nl-NL name="Vliegtuig bestellen" message="Weet u zeker dat u een {0} wilt bestellen?" />
+		<zh-CN name="预订飞机" message="您确定要预订一架 {0}？" />
 	</Text>
 	<Text uid="2004">
 		<en-GB name="Not enough money" message="You don't have any money to lease this airliner." />
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu leasen." />
 		<en-US name="Not enough money" message="You don't have any money to lease this airliner." />
 		<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te leasen." />
+		<zh-CN name="不够钱" message="您没有足够的金钱来租此架飞机" />
 	</Text>
 	<Text uid="2005">
 		<en-GB name="Lease airliner" message="Are you sure you want to lease this {0}?" />
-		<de-DE name="Flugzeug leasen" message="Sind Sie sicher daß Sie diese {0} leasen wollen?" />
+		<de-DE name="Flugzeug leasen" message="Sind Sie sicher da? Sie diese {0} leasen wollen?" />
 		<en-US name="Lease airliner" message="Are you sure you want to lease this {0}?" />
 		<nl-NL name="Lease vliegtuig" message="Weet u zeker dat u deze {0} wilt leasen?" />
+		<zh-CN name="租借飞机" message="您确认要租借此架 {0}？" />
 	</Text>
 	<Text uid="2006">
 		<en-GB name="Not enough money" message="You don't have any money to buy this airliner." />
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen." />
 		<en-US name="Not enough money" message="You don't have any money to buy this airliner." />
 		<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen." />
+		<zh-CN name="不够钱" message="您没有足够的金钱来购买此架飞机" />
 	</Text>
 	<Text uid="2007">
 		<en-GB name="Buy airliner" message="Are you sure you want to buy this {0}?" />
-		<de-DE name="Flugzeug kaufen" message="Sind Sie sicher daß Sie diese {0} kaufen wollen?" />
+		<de-DE name="Flugzeug kaufen" message="Sind Sie sicher da? Sie diese {0} kaufen wollen?" />
 		<en-US name="Buy airliner" message="Are you sure you want to buy this {0}?" />
 		<nl-NL name="Koop vliegtuig" message="Weet u zeker dat u deze {0} wilt kopen?" />
+		<zh-CN name="购买飞机" message="您确认要购买此架 {0}？" />
 	</Text>
 	<!-- END - Airliner Model -->
 	<!-- BEGIN - Airline Model -->
@@ -1410,48 +1626,56 @@
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
 		<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
 		<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om deze faciliteit te kopen." />
+		<zh-CN name="不够钱" message="您没有足够的钱来支付这些设施" />
 	</Text>
 	<Text uid="2102">
 		<en-GB name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
-		<de-DE name="Ausstattung kaufen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement für die Fluglinie kaufen wollen?" />
+		<de-DE name="Ausstattung kaufen" message="Sind Sie sicher, da? Sie {0} als Ausstattungselement für die Fluglinie kaufen wollen?" />
 		<en-US name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
 		<nl-NL name="Koop faciliteit" message="Weet u zeker dat u {0} als voorziening voor de luchtvaartmaatschappij wilt kopen?" />
+		<zh-CN name="购买设施" message="您确认要购买 {0} 作为航空公司的设施吗？" />
 	</Text>
 	<Text uid="2103">
 		<en-GB name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
-		<de-DE name="Ausstattung entfernen" message="Sind Sie sicher, daß Sie {0} als Ausstattungselement der Fluglinie entfernen wollen?" />
+		<de-DE name="Ausstattung entfernen" message="Sind Sie sicher, da? Sie {0} als Ausstattungselement der Fluglinie entfernen wollen?" />
 		<en-US name="Remove facility" message="Are you sure you want to remove {0} as an airline facility?" />
 		<nl-NL name="Verwijder faciliteit" message="Weet u zeker dat u {0} als voorziening voor de luchtvaartmaatschappij wilt verwijderen?" />
+		<zh-CN name="移除设施" message="您确认要移除掉 {0} 吗？" />
 	</Text>
 	<Text uid="2104">
 		<en-GB name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
 		<de-DE name="Ungültiger Betrag" message="Bitte geben Sie einen gültigen Ratenbetrag für die Rückzahlung der Anleihe ein." />
 		<en-US name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
 		<nl-NL name="Ongeldig bedrag" message="Voer altublieft een geldig bedrag in om de lening terug te betalen." />
+		<zh-CN name="无效金额" message="请输入有效的贷款数额。" />
 	</Text>
 	<Text uid="2105">
 		<en-GB name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
-		<de-DE name="Anleihe zurückzahlen" message="Sind Sie sicher, daß Sie den Betrag {0;c} auf die Anleihe zurückzahlen möchten?" />
+		<de-DE name="Anleihe zurückzahlen" message="Sind Sie sicher, da? Sie den Betrag {0;c} auf die Anleihe zurückzahlen m?chten?" />
 		<en-US name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
 		<nl-NL name="Lening aflossen" message="Weet u zeker dat u {0:c} van de lening wilt aflossen?" />
+		<zh-CN name="还款" message="您确认要还款 {0:c} 吗？" />
 	</Text>
 	<Text uid="2106">
 		<en-GB name="Sell airliner" message="Are you sure you want to sell {0}?" />
-		<de-DE name="Flugzeug verkaufen" message="Sind Sie sicher, daß Sie {0} verkaufen möchten?" />
+		<de-DE name="Flugzeug verkaufen" message="Sind Sie sicher, da? Sie {0} verkaufen m?chten?" />
 		<en-US name="Sell airliner" message="Are you sure you want to sell {0}?" />
 		<nl-NL name="Verkoop vliegtuig" message="Weet u zeker dat u {0} wilt verkopen?" />
+		<zh-CN name="卖掉飞机" message="您确认要卖掉 {0}？" />
 	</Text>
 	<Text uid="2107">
 		<en-GB name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
-		<de-DE name="Leasingvertrag kündigen" message="Sind Sie sicher, daß Sie den Leasingvertrag von {0} beenden möchten?" />
+		<de-DE name="Leasingvertrag kündigen" message="Sind Sie sicher, da? Sie den Leasingvertrag von {0} beenden m?chten?" />
 		<en-US name="Terminate leasing" message="Are you sure you want to terminate the leasing of {0}?" />
-		<nl-NL name="Beëindig leasecontract" message="Weet u zeker dat u het leasecontract van {0} wilt beëindigen?" />
+		<nl-NL name="Be?indig leasecontract" message="Weet u zeker dat u het leasecontract van {0} wilt be?indigen?" />
+		<zh-CN name="航站楼租借" message="您确认要租借 {0} 的航站楼？" />
 	</Text>
 	<Text uid="2108">
 		<en-GB name="Change wages" message="Are you sure you want to change the wage rates?" />
-		<de-DE name="Gehälter ändern" message="Sind Sie sicher, daß Sie die Gehälter anpassen möchten?" />
+		<de-DE name="Geh?lter ?ndern" message="Sind Sie sicher, da? Sie die Geh?lter anpassen m?chten?" />
 		<en-US name="Change wages" message="Are you sure you want to change the wage rates?" />
 		<nl-NL name="Wijzig lonen" message="Weet u zeker dat u de lonen wilt aanpassen?" />
+		<zh-CN name="修改工资" message="您确认要修改工资比率吗？" />
 	</Text>
 	<!-- END - Airline Model -->
 	<!-- BEGIN - Airport Model -->
@@ -1460,118 +1684,137 @@
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
 		<en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
 		<nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om deze faciliteiten te kopen." />
+		<zh-CN name="不够钱" message="您不够钱买这些设施。" />
 	</Text>
 	<Text uid="2202">
 		<en-GB name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
-		<de-DE name="Ausstattung verbessern" message="Sind Sie sicher, daß Sie die Ausstattungselemente auf {0} für {1:c} verbessern wollen?" />
+		<de-DE name="Ausstattung verbessern" message="Sind Sie sicher, da? Sie die Ausstattungselemente auf {0} für {1:c} verbessern wollen?" />
 		<en-US name="Upgrade facility" message="Are you sure you want to upgrade the facilities to {0} for {1:c}?" />
 		<nl-NL name="Faciliteit verbeteren" message="Weet u zeker dat u de faciliteit wilt verbeteren naar {0} voor {1:c}?" />
+		<zh-CN name="升级设施" message="您确认要花费 {1:c}  来升级这设施至 {0} 吗？" />
 	</Text>
 	<Text uid="2203">
 		<en-GB name="Error" message="The airport serves as homebase for a fleet airliner, so it needs to have at least basic service facilities." />
 		<de-DE name="Fehler" message="Der Flughafen dient als Heimatstützpunkt für ein Flugzeug der Flotte. Sie müssen wenigstens Basisdienste anbieten." />
 		<en-US name="Error" message="The airport serves as homebase for a fleet airliner, so it needs to have at least basic service facilities." />
 		<nl-NL name="Fout" message="De luchthaven fungeert als thuisbasis voor een vliegtuig, het heeft daarom tenminste de basisfaciliteiten nodig." />
+		<zh-CN name="错误" message="有飞机将此机场作为基地使用，所以需要一些基本维修设施。" />
 	</Text>
 	<Text uid="2204">
 		<en-GB name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
-		<de-DE name="Ausstattung reduzieren" message="Sind Sie sicher, daß Sie die Ausstattungselemente von {0} reduzieren wollen?" />
+		<de-DE name="Ausstattung reduzieren" message="Sind Sie sicher, da? Sie die Ausstattungselemente von {0} reduzieren wollen?" />
 		<en-US name="Downgrade facility" message="Are you sure you want to downgrade the facilities from {0}?" />
 		<nl-NL name="Faciliteit downgraden" message="Weet u zeker dat u de faciliteit {0} wilt downgraden?" />
+		<zh-CN name="设施降级" message="您确认要降级至 {0} 吗？" />
 	</Text>
 	<Text uid="2205">
 		<en-GB name="Not enough money" message="You don't have enough money to buy this terminal." />
 		<de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flughafenterminal zu kaufen." />
 		<en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
 		<nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze terminal te kopen." />
+		<zh-CN name="不够钱" message="您不够钱购买此航站楼" />
 	</Text>
 	<Text uid="2206">
 		<en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
-		<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen möchten?&#x0a;&#x0a;Ihre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
+		<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, da? Sie ein Flughafenterminal mit {0} Gates für {1:c} bauen m?chten?&#x0a;&#x0a;Ihre gemieteten Gates werden auf das Flughafenterminal übertragen,\nwenn der Bau beendet ist." />
 		<en-US name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
 		<nl-NL name="Bouw terminal" message="Weet u zeker dat u {0} gates voor {1:C} wilt bouwen?&#x0a;&#x0a;Al uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
+		<zh-CN name="新建航站楼" message="您确定您要新建带 {0} 个登机口的航站楼花费 {1:C}?&#x0a;&#x0a;您之前租的登机口将在工程完成后被移除掉." />
 	</Text>
 	<Text uid="2207">
 		<en-GB name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
-		<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie den Bau des Flughafenterminals abbrechen wollen?" />
+		<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, da? Sie den Bau des Flughafenterminals abbrechen wollen?" />
 		<en-US name="Remove terminal" message="Are you sure you want to stop building this terminal?" />
 		<nl-NL name="Bouwstop terminal" message="Weet u zeker dat u de bouw van deze terminal wilt stoppen?" />
+		<zh-CN name="移除航站楼" message="您确定要终止航站楼的建设工程?" />
 	</Text>
 	<Text uid="2208">
 		<en-GB name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
-		<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, daß Sie das Flughafenterminal mit {0} Gates entfernen wollen?" />
+		<de-DE name="Flughafenterminal entfernen" message="Sind Sie sicher, da? Sie das Flughafenterminal mit {0} Gates entfernen wollen?" />
 		<en-US name="Remove terminal" message="Are you sure you want to remove this terminal with {0} gates?" />
 		<nl-NL name="Verwijder terminal" message="Weet u zeker dat u deze terminal met {0} gates wil verwijderen?" />
+		<zh-CN name="移除航站楼" message="您确定要移除这个带有 {0} 个登机口的航站楼吗?" />
 	</Text>
 	<Text uid="2209">
 		<en-GB name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
-		<de-DE name="Flughafenterminal entfernen nicht möglich" message="Das Flughafenterminal kann nicht entfernt werden, da es momentan in Gebrauch ist." />
+		<de-DE name="Flughafenterminal entfernen nicht m?glich" message="Das Flughafenterminal kann nicht entfernt werden, da es momentan in Gebrauch ist." />
 		<en-US name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
 		<nl-NL name="Terminal verwijderen niet mogelijk" message="Het is niet mogelijk deze terminal te verwijderen, omdat deze momenteel nog in gebruik is." />
+		<zh-CN name="无法移除" message="航站楼启用后无法移除" />
 	</Text>
 	<Text uid="2210">
 		<en-GB name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
-		<de-DE name="Flughafenterminal erweitern nicht möglich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
+		<de-DE name="Flughafenterminal erweitern nicht m?glich" message="Das Flughafenterminal kann nicht erweitert werden, da der Bau noch nicht abgeschlossen wurde." />
 		<en-US name="Extending not possible" message="It is not possible to extend this terminal, since it isn't finished building." />
 		<nl-NL name="Terminal uitbreiden niet mogelijk" message="Het is niet mogelijk deze terminal uit te breiden, omdat de bouw nog niet afgerond is." />
+		<zh-CN name="无法扩建" message="该航站楼未完工,所以无法进行扩建" />
 	</Text>
 	<Text uid="2211">
 		<en-GB name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
-		<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, daß Sie dieses Flughafenterminal für {0:c} kaufen möchten?." />
+		<de-DE name="Flughafenterminal kaufen" message="Sind Sie sicher, da? Sie dieses Flughafenterminal für {0:c} kaufen m?chten?." />
 		<en-US name="Buy terminal" message="Are you sure you want to buy this terminal for {0:C}?&#x0a;&#x0a;All your rented gates will be moved to the terminal." />
 		<nl-NL name="Koop terminal" message="Weet u zeker dat u deze terminal voor {0:C} wilt kopen?&#x0a;&#x0a;Al uw gehuurde gates worden naar deze terminal verhuisd als deze gereed is." />
+		<zh-CN name="购买航站楼" message="您确定要以 {0:C} 的价格购买此航站楼?&#x0a;&#x0a;您所有租借的登机口将被迁到此航站楼" />
 	</Text>
   <Text uid="2212">
     <en-GB name="Not enough money" message="You don't have enough money to etablish a hub." />
     <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Drehkreuz zu kaufen." />
     <en-US name="Not enough money" message="You don't have enough money to etablish a hub." />
     <nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze hub te kopen." />
+	<zh-CN name="没有足够的钱" message="您没有足够的金钱来设立枢纽" />
   </Text>
   <Text uid="2213">
     <en-GB name="Etablish hub" message="Are you sure you want to etablish a hub for {0:C}?" />
-    <de-DE name="Luftfahrtdrehkreuz kaufen" message="Sind Sie sicher, daß Sie dieses Luftfahrtdrehkreuz für {0:c} kaufen möchten?." />
+    <de-DE name="Luftfahrtdrehkreuz kaufen" message="Sind Sie sicher, da? Sie dieses Luftfahrtdrehkreuz für {0:c} kaufen m?chten?." />
     <en-US name="Etablish hub" message="Are you sure you want to etablish a hub for {0:C}?" />
     <nl-NL name="Koop hub" message="Weet u zeker dat u deze hub voor {0:C} wilt kopen?" />
+	<zh-CN name="设立枢纽" message="您确定要将 {0:C} 设为枢纽吗?" />
   </Text>
   <Text uid="2214">
     <en-GB name="Error" message="The airport serves as a hub, and needs at least a {0}" />
     <de-DE name="Fehler" message="{0}" />
     <en-US name="Error" message="The airport serves as a hub, and needs at least a {0}" />
     <nl-NL name="Fout" message="{0}" />
+	<zh-CN name="错误" message="该机场要设为枢纽至少需要 {0}" />
   </Text>
   <Text uid="2215">
     <en-GB name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub" />
     <de-DE name="Fehler" message="-" />
     <en-US name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub." />
     <nl-NL name="Fout" message="-" />
+	<zh-CN name="错误" message="您无法释放该登机口,因为您至少需要该机场 20% 的登机口才能设为枢纽" />
   </Text>
 	<!-- END - Airport Model -->
 	<!-- BEGIN - Fleet Model -->
 	<Text uid="2301">
 		<en-GB name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
-		<de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges muß für Änderungen an der Ausstattung unterbrochen werden." />
+		<de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges mu? für ?nderungen an der Ausstattung unterbrochen werden." />
 		<en-US name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
 		<nl-NL name="Vliegtuig in de lucht" message="Het vliegtuig moet worden gestopt om de faciliteiten te wijzigen." />
+		<zh-CN name="飞机无法停止" message="飞机需要停飞进行维护" />
 	</Text>
 	<!-- END - Fleet Model -->
 	<!-- BEGIN - Game Model -->
 	<Text uid="2401">
 		<en-GB name="IATA exists" message="Are you sure you want to override {0}?" />
-		<de-DE name="IATA existiert bereits" message="Sind Sie sicher, daß Sie {0} überschreiben wollen?" />
+		<de-DE name="IATA existiert bereits" message="Sind Sie sicher, da? Sie {0} überschreiben wollen?" />
 		<en-US name="IATA exists" message="Are you sure you want to override {0}?" />
 		<nl-NL name="IATA bestaat al" message="Weet u zeker dat u {0} wilt overschrijven?" />
+		<zh-CN name="IATA 存在" message="您确定要覆盖 {0}?" />
 	</Text>
 	<Text uid="2402">
 		<en-GB name="Create airline" message="Are you sure you want to create this airline?" />
-		<de-DE name="Fluglinie gründen" message="Sind Sie sicher, daß Sie diese Fluglinie gründen wollen?" />
+		<de-DE name="Fluglinie gründen" message="Sind Sie sicher, da? Sie diese Fluglinie gründen wollen?" />
 		<en-US name="Create airline" message="Are you sure you want to create this airline?" />
-		<nl-NL name="Luchtvaartmaatschappij creëren" message="Weet u zeker dat u deze luchtvaartmaatschappij wilt creëren?" />
+		<nl-NL name="Luchtvaartmaatschappij cre?ren" message="Weet u zeker dat u deze luchtvaartmaatschappij wilt cre?ren?" />
+		<zh-CN name="创立航空公司" message="您确定要创建此航空公司?" />
 	</Text>
 	<Text uid="2403">
 		<en-GB name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
-		<de-DE name="Name des Geschäftsführers(CEO)" message="Der Name des Geschäftsführers(CEO) muß länger als 2 Buchstaben sein." />
+		<de-DE name="Name des Gesch?ftsführers(CEO)" message="Der Name des Gesch?ftsführers(CEO) mu? l?nger als 2 Buchstaben sein." />
 		<en-US name="Name of CEO" message="The name of the CEO must be longer than 2 characters." />
 		<nl-NL name="Naam directeur" message="De naam van de directeur moet langer als twee letters zijn." />
+		<zh-CN name="总裁姓名" message="总裁的姓名必须长于2个字符" />
 	</Text>
 	<!-- END - Game Model -->
 	<!-- BEGIN - Route Model -->
@@ -1580,33 +1823,38 @@
 		<de-DE name="Ungültige Route" message="Die Route ist ungültig. Entweder steht kein freies Gate am Ziel zur Verfügung oder der Preis ist nicht korrekt." />
 		<en-US name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
 		<nl-NL name="Ongeldige route" message="De route is niet geldig omdat er geen vrije gates op de bestemmingen beschikbaar zijn, of omdat de prijs niet correct is." />
+		<zh-CN name="无效航线" message="该航线可能由于没有空闲的登机口或者票价设置不正确而导致无效" />
 	</Text>
 	<Text uid="2502">
 		<en-GB name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
-		<de-DE name="Flugzeug entfernen" message="Sind Sie sicher, daß Sie {0} von dieser Route entfernen möchten?" />
+		<de-DE name="Flugzeug entfernen" message="Sind Sie sicher, da? Sie {0} von dieser Route entfernen m?chten?" />
 		<en-US name="Remove airliner" message="Are you sure you want to remove {0} from this route?" />
 		<nl-NL name="Vliegtuig verwijderen" message="Weet u zeker dat u {0} van deze route wilt verwijderen?" />
+		<zh-CN name="移除飞机" message="您确定要把 {0} 从该航线移除吗?" />
 	</Text>
 	<Text uid="2503">
 		<en-GB name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
-		<de-DE name="Route entfernen" message="Sind Sie sicher, daß Sie diese Route zwischen {0} und {1} entfernen möchten?" />
+		<de-DE name="Route entfernen" message="Sind Sie sicher, da? Sie diese Route zwischen {0} und {1} entfernen m?chten?" />
 		<en-US name="Remove route" message="Are you sure you want to remove this route between {0} and {1}?" />
 		<nl-NL name="Route verwijderen" message="Weet u zeker dat u de route tussen {0} en {1} wilt verwijderen?" />
+		<zh-CN name="移除航线" message="您确定要移除从 {0} 至 {1} 的航线吗?" />
 	</Text>
 	<Text uid="2504">
 		<en-GB name="Invalid timetable" message="The timetable is invalid." />
 		<de-DE name="Ungültiger Zeitplan" message="Der Zeitplan ist ungültig." />
 		<en-US name="Invalid timetable" message="The timetable is invalid." />
 		<nl-NL name="Ongeldig vluchtplan" message="Het vluchtplan is ongeldig" />
+		<zh-CN name="无效时间表" message="该时间表无效." />
 	</Text>
 	<!-- END - Route Model -->
 </Region>
 <Region name="News">
 	<Text uid="1001">
 		<en-GB name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
-		<de-DE name="Willkommen zum Spiel" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Geschäftsführer(CEO) von {1}. Ich hoffe Sie haben Spaß mit dem Spiel.&#x0a;Viel Erfolg." />
+		<de-DE name="Willkommen zum Spiel" message="Sehr geehrter {0},&#x0a;&#x0a;Willkommen als Gesch?ftsführer(CEO) von {1}. Ich hoffe Sie haben Spa? mit dem Spiel.&#x0a;Viel Erfolg." />
 		<en-US name="Welcome to the game" message="Dear {0},&#x0a;&#x0a;Welcome as the CEO of {1}. I hope you will enjoy the game.&#x0a;Good luck." />
 		<nl-NL name="Welkom" message="Beste {0},&#x0a;&#x0a;Welkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.&#x0a;Veel succes toegewenst!." />
+		<zh-CN name="欢迎来到航空世界" message="亲爱的 {0}，&#x0a;&#x0a;恭喜您成为 {1} 的总裁。衷心希望您能够享受此游戏。&#x0a;祝君好运。" />
 	</Text>
 </Region>
 </Translator>
