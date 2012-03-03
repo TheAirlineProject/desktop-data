@@ -8,6 +8,7 @@
 			<de-DE name="keine Kopfhörer" />
 			<en-GB name="No Audio" />
 			<nl-NL name="Geen hoofdtelefoon" />
+			<zh-CN name="没有音乐服务" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="101" type="Audio" fromyear="1982">
@@ -18,6 +19,7 @@
 			<de-DE name="Standard Kopfhörer auf Nachfrage" />
 			<en-GB name="Standard Audio on Demand" />
 			<nl-NL name="Standaard audiopakket" />
+			<zh-CN name="标准音乐服务" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="102" type="Audio" fromyear="1995">
@@ -28,6 +30,7 @@
 			<de-DE name="Bessere Kopfhörer auf Nachfrage" />
 			<en-GB name="Extended Audio on Demand" />
 			<nl-NL name="Uitgebreid audiopakket" />
+			<zh-CN name="高级音乐服务" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="103" type="Seat" fromyear="1950">
@@ -38,6 +41,7 @@
 			<de-DE name="Standard-Sitze" />
 			<en-GB name="Standard Seats" />
 			<nl-NL name="Standaard stoelen" />
+			<zh-CN name="标准座舱" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="104" type="Seat" fromyear="1960">
@@ -48,6 +52,7 @@
 			<de-DE name="Luxus-Sitze" />
 			<en-GB name="Premium Seats" />
 			<nl-NL name="Comfort stoelen" />
+			<zh-CN name="高级座舱" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="105" type="Seat" fromyear="1970">
@@ -58,6 +63,7 @@
 			<de-DE name="Luxury Seats" />
 			<en-GB name="Luxury Seats" />
 			<nl-NL name="Luxury Seats" />
+			<zh-CN name="豪华座舱" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="106" type="Seat" fromyear="1980">
@@ -68,6 +74,7 @@
 			<de-DE name="Wiege-Sitze" />
 			<en-GB name="Cradle Seats" />
 			<nl-NL name="Extra brede stoel" />
+			<zh-CN name="婴儿座" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="107" type="Seat" fromyear="1990">
@@ -78,6 +85,7 @@
 			<de-DE name="Standard-Liege-Sitze" />
 			<en-GB name="Angled Lie-Flat Seats" />
 			<nl-NL name="Standaard ligstoel" />
+			<zh-CN name="固定角度的靠背椅" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="108" type="Seat" fromyear="1997">
@@ -88,6 +96,7 @@
 			<de-DE name="Luxus-Liege-Sitze" />
 			<en-GB name="Full-Flat Seats" />
 			<nl-NL name="Comfort ligstoel" />
+			<zh-CN name="全角度靠背椅" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="109" type="Seat" fromyear="1999">
@@ -98,6 +107,7 @@
 			<de-DE name="Luxus-Liege-Bett" />
 			<en-GB name="Full-Flat Beds" />
 			<nl-NL name="Comfort bed-stoel" />
+			<zh-CN name="平整的床" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="110" type="Video" fromyear="1950">
@@ -108,6 +118,7 @@
 			<de-DE name="kein Monitor" />
 			<en-GB name="No Video" />
 			<nl-NL name="Geen video" />
+			<zh-CN name="无视频服务" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="111" type="Video" fromyear="1965">
@@ -118,6 +129,7 @@
 			<de-DE name="Kinoleinwand" />
 			<en-GB name="In-flight Movies system" />
 			<nl-NL name="Films tijdens de vlucht" />
+			<zh-CN name="空中影院系统" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="112" type="Video" fromyear="1988">
@@ -128,6 +140,7 @@
 			<de-DE name="Sitzmonitor Standard" />
 			<en-GB name="Standard PTV" />
 			<nl-NL name="Persoonlijk beeldscherm" />
+			<zh-CN name="标准 PTV" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="113" type="Video" fromyear="1997">
@@ -138,6 +151,7 @@
 			<de-DE name="Sitzmonitor Luxus" />
 			<en-GB name="Extended PTV" />
 			<nl-NL name="Interactief persoonlijk beeldscherm" />
+			<zh-CN name="高级 PTV" />
     </translations>
   </airlinerfacility>
 </airlinerfacilities>

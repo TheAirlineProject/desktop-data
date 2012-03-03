@@ -6,6 +6,7 @@
 			<de-DE name="Alle Regionen" />
 			<en-GB name="All regions" />
 			<nl-NL name="Alle regio's" />
+			<zh-CN name="全部地区" />
     </translations>
   </region> 
   <region uid="101">
@@ -14,6 +15,7 @@
 			<de-DE name="Südamerika" />
 			<en-GB name="South America" />
 			<nl-NL name="Zuid-Amerika" />
+			<zh-CN name="南美洲" />
     </translations>
   </region> 
   <region uid="102">
@@ -22,6 +24,7 @@
 			<de-DE name="Nordamerika" />
 			<en-GB name="North America" />
 			<nl-NL name="Noord-Amerika" />
+			<zh-CN name="北美洲" />
     </translations>
   </region> 
   <region uid="103">
@@ -30,6 +33,7 @@
 			<de-DE name="Zentralamerika" />
 			<en-GB name="Central America" />
 			<nl-NL name="Centraal-Amerika" />
+			<zh-CN name="中美洲" />
     </translations>
   </region> 
   <region uid="104">
@@ -38,6 +42,7 @@
 			<de-DE name="Karibik" />
 			<en-GB name="Caribbean" />
 			<nl-NL name="Caraïben" />
+			<zh-CN name="加勒比地区" />
     </translations>
   </region> 
   <region uid="105">
@@ -46,6 +51,7 @@
 			<de-DE name="Ozeanien" />
 			<en-GB name="Oceania" />
 			<nl-NL name="Oceanië" />
+			<zh-CN name="大洋洲" />
     </translations>
   </region> 
   <region uid="106">
@@ -54,6 +60,7 @@
 			<de-DE name="Osteuropa" />
 			<en-GB name="Eastern Europe" />
 			<nl-NL name="Oost-Europa" />
+			<zh-CN name="东欧" />
     </translations>
   </region> 
   <region uid="107">
@@ -62,6 +69,7 @@
 			<de-DE name="Südeuropa" />
 			<en-GB name="Southern Europe" />
 			<nl-NL name="Zuid-Europa" />
+			<zh-CN name="南欧" />
     </translations>
   </region> 
   <region uid="108">
@@ -70,6 +78,7 @@
 			<de-DE name="Westeuropa" />
 			<en-GB name="Western Europe" />
 			<nl-NL name="West-Europa" />
+			<zh-CN name="西欧" />
     </translations>
   </region> 
   <region uid="109">
@@ -78,6 +87,7 @@
 			<de-DE name="Afrika" />
 			<en-GB name="Africa" />
 			<nl-NL name="Afrika" />
+			<zh-CN name="非洲" />
     </translations>
   </region> 
   <region uid="110">
@@ -86,6 +96,7 @@
 			<de-DE name="Asien" />
 			<en-GB name="Asia" />
 			<nl-NL name="Azië" />
+			<zh-CN name="亚洲" />
     </translations>
   </region> 
   <region uid="111">
@@ -94,6 +105,7 @@
 			<de-DE name="Mittlerer Osten" />
 			<en-GB name="Middle East" />
 			<nl-NL name="Midden-Oosten" />
+			<zh-CN name="中东" />
     </translations>
   </region> 
   <region uid="112">
@@ -102,6 +114,7 @@
 			<de-DE name="Großbritannien" />
 			<en-GB name="Great Britain" />
 			<nl-NL name="Groot-Brittanië" />
+			<zh-CN name="大英" />
     </translations>
   </region> 
   <region uid="113">
@@ -110,6 +123,7 @@
 			<de-DE name="Skandinavien" />
 			<en-GB name="Scandinavia" />
 			<nl-NL name="Scandinavïe" />
+			<zh-CN name="斯堪的纳维亚" />
     </translations>
   </region> 
 </regions>

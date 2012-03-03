@@ -8,6 +8,7 @@
 			<de-DE name="Keiner" />
 			<en-GB name="None" />
 			<nl-NL name="Geen" />
+			<zh-CN name="无" />
     </translations>
   </airportfacility>
   <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
@@ -17,6 +18,7 @@
 			<de-DE name="Keiner" />
 			<en-GB name="None" />
 			<nl-NL name="Geen" />
+			<zh-CN name="无" />
     </translations>
   </airportfacility>
   <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="1000000">
@@ -26,6 +28,7 @@
 			<de-DE name="Einfacher Informationsschalter" />
 			<en-GB name="Basic Service Center" />
 			<nl-NL name="Eenvoudige informatiebalie" />
+			<zh-CN name="简陋服务中心" />
     </translations>
   </airportfacility>
  <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="2000000">
@@ -35,6 +38,7 @@
 			<de-DE name="Informationsschalter" />
 			<en-GB name="Service Center" />
 			<nl-NL name="Servicecentrum" />
+			<zh-CN name="服务中心" />
     </translations>
   </airportfacility>
   <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="5000000">
@@ -44,6 +48,7 @@
 			<de-DE name="Großer Informationsschalter" />
 			<en-GB name="Large Service Center" />
 			<nl-NL name="Uitgebreid servicecentrum" />
+			<zh-CN name="大型服务中心" />
     </translations>
   </airportfacility>
   <airportfacility uid="105" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
@@ -53,6 +58,7 @@
 			<de-DE name="Business Aufenthaltsbereich" />
 			<en-GB name="Business Lounge" />
 			<nl-NL name="Business Lounge" />
+			<zh-CN name="商务休息室" />
     </translations>
   </airportfacility>
   <airportfacility uid="106" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
@@ -62,6 +68,7 @@
 			<de-DE name="First Class Aufenthaltsbereich" />
 			<en-GB name="First Class Lounge" />
 			<nl-NL name="First Class Lounge" />
+			<zh-CN name="贵宾休息室" />
     </translations>
   </airportfacility>
 </airportfacilities>
