@@ -1062,4 +1062,13 @@
 	  <zh-CN name="白俄罗斯" />
     </translations>
   </country>
+  <country uid="218" shortname="FRG" region="101" flag="France" tailformat="F-O\\s3">
+    <translations>
+      <en-US name="French Guiana" />
+      <de-DE name="French Guiana" />
+      <en-GB name="French Guiana" />
+      <nl-NL name="French Guiana" />
+	  <zh-CN name="French Guiana" />
+    </translations>
+  </country>
 </countries>

@@ -6098,7 +6098,7 @@
   </airport>
   <!--French Guiana Airports (SO**)-->
   <airport name="Cayenne – Rochambeau Airport" icao="SOCA" iata="CAY" type="Long_Haul_International">
-    <town town="Cayenne" country="140" GMT="-03:00:00" DST="-03:00:00" />
+    <town town="Cayenne" country="218" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="004°49'11''N" />
       <longitude value="052°21'43''W" />
