@@ -159,14 +159,14 @@
       <de-DE name="Anzahl Gates" />
       <en-US name="Number of gates" />
       <nl-NL name="Aantal gates" />
-      <zh-CN name="机位编号" />
+      <zh-CN name="登机口数量" />
     </Text>
     <Text uid="1002">
       <en-GB name="Basic price for terminal" />
       <de-DE name="Terminal preis" />
       <en-US name="Basic price for terminal" />
       <nl-NL name="Basisprijs voor terminal" />
-      <zh-CN name="航站楼的机建费用" />
+      <zh-CN name="航站楼的建设费用" />
     </Text>
     <Text uid="1003">
       <en-GB name="Price per terminal gate" />
@@ -372,7 +372,7 @@
       <de-DE name="Flugzeuge" />
       <en-US name="Airliners" />
       <nl-NL name="Vliegtuigen" />
-      <zh-CN name="班机" />
+      <zh-CN name="飞机" />
     </Text>
     <Text uid="1001">
       <en-GB name="Order New Airliner" />
@@ -465,7 +465,7 @@
       <de-DE name="Stadt" />
       <en-US name="Town" />
       <nl-NL name="Plaats" />
-      <zh-CN name="城镇" />
+      <zh-CN name="城市" />
     </Text>
     <Text uid="1011">
       <en-GB name="Country" />
@@ -571,7 +571,7 @@
       <de-DE name="Flüge" />
       <en-US name="Flights" />
       <nl-NL name="Vluchten" />
-      <zh-CN name="班机" />
+      <zh-CN name="航班" />
     </Text>
     <Text uid="1002">
       <en-GB name="Arrivals" />
@@ -629,7 +629,7 @@
       <de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
       <en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gate / Delivery date)" />
       <nl-NL name="Terminal Informatie (Eigenaar / Totaal gates / Bestelde gates / Menselijke gates / Opleverdatum)" />
-      <zh-CN name="航站楼信息 （所有者 / 登机口数量 / 被预定的登机口 / 人工值机 / 交货日期）" />
+      <zh-CN name="航站楼信息 （所有者 / 登机口数量 / 被预定的登机口 / 玩家的登机口 / 交付日期）" />
     </Text>
     <Text uid="1002">
       <en-GB name="Gates Information" />
@@ -992,7 +992,7 @@
       <de-DE name="Einrichtungen der Fluglinie" />
       <en-US name="Airline Facilities" />
       <nl-NL name="Bedrijfsfaciliteiten" />
-      <zh-CN name="班机设施" />
+      <zh-CN name="航空设施" />
     </Text>
     <Text uid="1002">
       <en-GB name="Purchase Facilities" />
@@ -1232,7 +1232,7 @@
       <de-DE name="Modell" />
       <en-US name="Model" />
       <nl-NL name="Model" />
-      <zh-CN name="模型" />
+      <zh-CN name="型号" />
     </Text>
     <Text uid="1003">
       <en-GB name="Manufacturer" />
@@ -1339,7 +1339,7 @@
       <de-DE name="Leasen" />
       <en-US name="Lease" />
       <nl-NL name="Leasen" />
-      <zh-CN name="出租" />
+      <zh-CN name="租借" />
     </Text>
     <Text uid="1001">
       <en-GB name="Airliner Information" />
@@ -1374,7 +1374,7 @@
       <de-DE name="Flugstrecke seit letzter Wartung" />
       <en-US name="Flown since last Service" />
       <nl-NL name="Laatste onderhoud" />
-      <zh-CN name="只从上次飞行至今" />
+      <zh-CN name="自从上次维护至今飞行里程" />
     </Text>
     <Text uid="1006">
       <en-GB name="Equipped with Class" />
@@ -1582,7 +1582,7 @@
       <de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgewählt." />
       <en-US name="No homebase" message="You haven't selected a home base for this airliner." />
       <nl-NL name="Geen thuisbasis" message="Er is nog geen thuisbasis geselecteerd voor dit vliegtuig." />
-      <zh-CN name="没有基地机场" message="您没有为此架飞机选择一个基地机场" />
+      <zh-CN name="没有基地机场" message="您没有为此架飞机选择一个机场作为基地。" />
     </Text>
     <Text uid="2003">
       <en-GB name="Order airliner" message="Are you sure you want to order a {0}?" />
@@ -1626,7 +1626,7 @@
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Ausstattungselement zu kaufen." />
       <en-US name="Not enough money" message="You don't have enough money to buy these facilities." />
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om deze faciliteit te kopen." />
-      <zh-CN name="不够钱" message="您没有足够的钱来支付这些设施" />
+      <zh-CN name="不够钱" message="您没有足够的钱来支付这些设施。" />
     </Text>
     <Text uid="2102">
       <en-GB name="Buy facility" message="Are you sure you want to buy {0} as an airline facility?" />
@@ -1712,7 +1712,7 @@
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flughafenterminal zu kaufen." />
       <en-US name="Not enough money" message="You don't have enough money to buy this terminal." />
       <nl-NL name="Niet genoeg geld" message="U heeft niet genoeg geld om deze terminal te kopen." />
-      <zh-CN name="不够钱" message="您不够钱购买此航站楼" />
+      <zh-CN name="不够钱" message="您不够钱购买此航站楼。" />
     </Text>
     <Text uid="2206">
       <en-GB name="Build terminal" message="Are you sure you want to build a terminal with {0} gates for {1:C}?&#x0a;&#x0a;All your rented gates will be moved to this terminal when finish building it." />
@@ -1791,7 +1791,7 @@
       <de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges muß für Änderungen an der Ausstattung unterbrochen werden" />
       <en-US name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
       <nl-NL name="Vliegtuig in de lucht" message="Het vliegtuig moet worden gestopt om de faciliteiten te wijzigen." />
-      <zh-CN name="飞机无法停止" message="飞机需要停飞进行维护" />
+      <zh-CN name="飞机仍在飞行" message="飞机需要停飞进行维护" />
     </Text>
     <!-- END - Fleet Model -->
     <!-- BEGIN - Game Model -->
