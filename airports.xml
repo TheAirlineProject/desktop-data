@@ -6934,7 +6934,7 @@
       <latitude value="040°04'48''N" />
       <longitude value="116°35'04''E" />
     </coordinates>
-    <size value="Very_large" />
+    <size value="Largest" />
     <terminals>
 		<terminal name="Terminal 1" gates="16" />
 		<terminal name="Terminal 2" gates="20" />
