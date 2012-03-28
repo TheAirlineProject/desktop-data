@@ -1585,10 +1585,10 @@
       <zh-CN name="没有基地机场" message="您没有为此架飞机选择一个机场作为基地。" />
     </Text>
     <Text uid="2003">
-      <en-GB name="Order airliner" message="Are you sure you want to order a {0}?" />
-      <de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie ein {0} bestellen wollen?" />
-      <en-US name="Order airliner" message="Are you sure you want to order a {0}?" />
-      <nl-NL name="Vliegtuig bestellen" message="Weet u zeker dat u een {0} wilt bestellen?" />
+      <en-GB name="Order airliner" message="Are you sure you want to order {1} {0}?" />
+      <de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie {1} {0} bestellen wollen?" />
+      <en-US name="Order airliner" message="Are you sure you want to order {1} {0}?" />
+      <nl-NL name="Vliegtuig bestellen" message="Weet u zeker dat u {1} {0} wilt bestellen?" />
       <zh-CN name="预订飞机" message="您确定要预订一架 {0}？" />
     </Text>
     <Text uid="2004">
