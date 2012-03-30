@@ -807,6 +807,13 @@
       <nl-NL name="Klanttevredenheid" />
       <zh-CN name="乘客满意度" />
     </Text>
+    <Text uid="1011">
+      <en-GB name="Destinations / Hubs" />
+      <de-DE name="Ziele / Luftfahrtdrehkreuz" />
+      <en-US name="Destinations / Hubs" />
+      <nl-NL name="Bestemmingen / Hubs" />
+      <zh-CN name="目的地 / 枢纽" />
+    </Text>
   </Region>
   <Region name="PageAirlines">
     <Text uid="1000">
