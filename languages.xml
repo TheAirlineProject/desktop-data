@@ -625,11 +625,11 @@
       <zh-CN name="设立枢纽" />
     </Text>
     <Text uid="1001">
-      <en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gates / Delivery date)" />
-      <de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / M Gates / Lieferdatum)" />
-      <en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Human Gate / Delivery date)" />
-      <nl-NL name="Terminal Informatie (Eigenaar / Totaal gates / Bestelde gates / Menselijke gates / Opleverdatum)" />
-      <zh-CN name="航站楼信息 （所有者 / 登机口数量 / 被预定的登机口 / 玩家的登机口 / 交付日期）" />
+      <en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)" />
+      <de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / W Gates / Lieferdatum)" />
+      <en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)" />
+      <nl-NL name="Terminal Informatie (Eigenaar / Totaal gates / Bestelde gates / Gebruikte gates / Opleverdatum)" />
+      <zh-CN name="航站楼信息 （所有者 / 登机口数量 / 被预定的登机口 / 正在使用的登机口 / 交付日期）" />
     </Text>
     <Text uid="1002">
       <en-GB name="Gates Information" />
