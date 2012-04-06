@@ -4165,7 +4165,7 @@
 		<runway name="09R/22L" length="4200" surface="Asphalt" />
 	</runways>
   </airport>
-  <airport name="Paris-Orly Airport" icao="LFPG" iata="ORY" type="Long_Haul_International">
+  <airport name="Paris-Orly Airport" icao="LFPO" iata="ORY" type="Long_Haul_International">
     <town town="Paris" country="140" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°43'31''N" />
