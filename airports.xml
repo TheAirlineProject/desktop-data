@@ -470,7 +470,7 @@
 	</runways>
   </airport>
   <airport name="Brussels South Charleroi Airport" icao="EBCI" iata="CRL" type="Long_Haul_International">
-    <town town="Gosselies" country="107" GMT="01:00:00" DST="01:00:00" />
+    <town town="Gosselies" country="107" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°27'36''N" />
       <longitude value="004°27'10''E" />
@@ -6295,6 +6295,23 @@
 	</runways>
   </airport>
   <!--Russia Airports (U***) except UA**, UB**, UD**, UG**, UK**, UM** and UT**-->
+  <airport name="Vladivostok International Airport" icao="UHWW" iata="VVO" type="Long_Haul_International">
+    <town town="Vladivostok" country="149" GMT="11:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="043°23'57''N" />
+      <longitude value="132°09'05''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+		<terminal name="Terminal" gates="16" />
+	</terminals>
+	<runways>
+		<runway name="06/24" length="973" surface="Asphalt" />
+		<runway name="07L/25R" length="3500" surface="Concrete" />
+		<runway name="07R/25L" length="2500" surface="Asphalt" />
+		<runway name="16/34" length="602" surface="Asphalt" />
+	</runways>
+  </airport>
   <airport name="Pulkovo Airport" icao="ULLI" iata="LED" type="Long_Haul_International">
     <town town="St Petersburg" country="149" GMT="04:00:00" DST="03:00:00" />
     <coordinates>
