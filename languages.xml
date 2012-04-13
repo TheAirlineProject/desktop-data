@@ -1333,6 +1333,66 @@
       <zh-CN name="所需最短跑道长度" />
     </Text>
   </Region>
+  <Region name="PageOrderAirliners">
+    <Text uid="200">
+      <en-GB name="Order New Airliners" />
+      <de-DE name="Neues Flugzeuge bestellen" />
+      <en-US name="Order New Airliners" />
+      <nl-NL name="Nieuw vliegtuige bestellen" />
+      <zh-CN name="预订新客机" />
+    </Text>
+  
+
+    <Text uid="1001">
+      <en-GB name="Order Airliners" />
+      <de-DE name="Missing" />
+      <en-US name="Order Airliners" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Orders" />
+      <de-DE name="Missing" />
+      <en-US name="Orders" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Manufacturer" />
+      <de-DE name="Hersteller" />
+      <en-US name="Manufacturer" />
+      <nl-NL name="Fabrikant" />
+      <zh-CN name="厂商" />
+    </Text>
+    <Text uid="1004">
+      <en-GB name="Add order" />
+      <de-DE name="Missing" />
+      <en-US name="Add order" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1005">
+      <en-GB name="Discount" />
+      <de-DE name="Missing" />
+      <en-US name="Discount" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1006">
+      <en-GB name="Total Price" />
+      <de-DE name="Missing" />
+      <en-US name="Total Price" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1007">
+        <en-GB name="Airport" />
+        <de-DE name="Flughafen" />
+        <en-US name="Airport" />
+        <nl-NL name="Luchthaven" />
+        <zh-CN name="机场" />
+    </Text>
+  </Region>
   <Region name="PanelUsedAirliner">
     <Text uid="200">
       <en-GB name="Buy" />
@@ -1625,6 +1685,13 @@
       <en-US name="Buy airliner" message="Are you sure you want to buy this {0}?" />
       <nl-NL name="Koop vliegtuig" message="Weet u zeker dat u deze {0} wilt kopen?" />
       <zh-CN name="购买飞机" message="您确认要购买此架 {0}？" />
+    </Text>
+    <Text uid="2008">
+      <en-GB name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C}?" />
+      <de-DE name="Missing" message="Missing {0:C}" />
+      <en-US name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C}?" />
+      <nl-NL name="Missing" message="Missing {0:C}" />
+      <zh-CN name="Missing" message="Missing {0:C}" />
     </Text>
     <!-- END - Airliner Model -->
     <!-- BEGIN - Airline Model -->

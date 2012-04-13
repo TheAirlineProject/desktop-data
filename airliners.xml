@@ -400,7 +400,7 @@
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
     <specs wingspan="20.98" length="21.11" range="1850" speed="620" consumption="0.011" runwaylengthrequired="750"/>
     <capacity passengers="30" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1993" to="2013"/>
+    <produced from="1991" to="2000"/>
   </airliner>
   <airliner manufacturer="FD" name="Dornier 328JET" price="11000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
