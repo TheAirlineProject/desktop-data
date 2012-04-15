@@ -1348,14 +1348,14 @@
       <de-DE name="Missing" />
       <en-US name="Order Airliners" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="预订客机" />
     </Text>
     <Text uid="1002">
       <en-GB name="Orders" />
       <de-DE name="Missing" />
       <en-US name="Orders" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="订单" />
     </Text>
     <Text uid="1003">
       <en-GB name="Manufacturer" />
@@ -1369,21 +1369,21 @@
       <de-DE name="Missing" />
       <en-US name="Add order" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="增加订单" />
     </Text>
     <Text uid="1005">
       <en-GB name="Discount" />
       <de-DE name="Missing" />
       <en-US name="Discount" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="折扣" />
     </Text>
     <Text uid="1006">
       <en-GB name="Total Price" />
       <de-DE name="Missing" />
       <en-US name="Total Price" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="总价" />
     </Text>
     <Text uid="1007">
         <en-GB name="Airport" />
@@ -1656,7 +1656,7 @@
       <de-DE name="Flugzeug bestellen" message="Sind Sie sicher daß Sie {1} {0} bestellen wollen?" />
       <en-US name="Order airliner" message="Are you sure you want to order {1} {0}?" />
       <nl-NL name="Vliegtuig bestellen" message="Weet u zeker dat u {1} {0} wilt bestellen?" />
-      <zh-CN name="预订飞机" message="您确定要预订一架 {0}？" />
+      <zh-CN name="预订飞机" message="您确定要预订一架 {1} {0}？" />
     </Text>
     <Text uid="2004">
       <en-GB name="Not enough money" message="You don't have any money to lease this airliner." />
@@ -1691,7 +1691,7 @@
       <de-DE name="Missing" message="Missing {0:C}" />
       <en-US name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C}?" />
       <nl-NL name="Missing" message="Missing {0:C}" />
-      <zh-CN name="Missing" message="Missing {0:C}" />
+      <zh-CN name="预订客机" message="您确定要订购总价为 {0:C} 的客机？" />
     </Text>
     <!-- END - Airliner Model -->
     <!-- BEGIN - Airline Model -->
