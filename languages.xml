@@ -137,6 +137,30 @@
       <zh-CN name="未翻译标题" />
     </Text>
   </Region>
+  <Region name="LanguageTranslationConverter">
+    <!--News page-->
+    <Text uid="1000">
+      <en-GB name="Type" />
+      <de-DE name="Missing" />
+      <en-US name="Type" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1001">
+      <en-GB name="Subject" />
+      <de-DE name="Missing" />
+      <en-US name="Subject" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Received" />
+      <de-DE name="Missing" />
+      <en-US name="Received" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
+  </Region>
   <Region name="PopUpTimeTable">
     <Text uid="1000">
       <en-GB name="Route Timetable" />
