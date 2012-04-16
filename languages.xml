@@ -547,6 +547,13 @@
       <nl-NL name="Terminals" />
       <zh-CN name="廊桥" />
     </Text>
+    <Text uid="1019">
+      <en-GB name="Seasonal" />
+      <de-DE name="Missing" />
+      <en-US name="Seasonal" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
   </Region>
   <Region name="PageAirportRunways">
     <Text uid="1001">
