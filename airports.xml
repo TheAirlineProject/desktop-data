@@ -1941,6 +1941,20 @@
       <runway name="13/31" length="2408" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Aspen – Pitkin County Airport" icao="KASE" iata="ASE" type="Domestic" season="Winter">
+    <town town="Aspen, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="039°13'23''N" />
+      <longitude value="106°52'08''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2135" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Hartsfield-Jackson Atlanta International Airport" icao="KATL" iata="ATL" type="Long_Haul_International" season="All_Year">
     <town town="Atlanta, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -2905,7 +2919,7 @@
       <runway name="9/27" length="2896" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Orlando International Airport" icao="KMCO" iata="MCO" type="Long_Haul_International" season="All_Year">
+  <airport name="Orlando International Airport" icao="KMCO" iata="MCO" type="Long_Haul_International" season="Summer">
     <town town="Orlando, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="028°25'44''N" />
@@ -2989,7 +3003,7 @@
       <runway name="17/35" length="2819" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Miami International Airport" icao="KMIA" iata="MIA" type="Long_Haul_International" season="All_Year">
+  <airport name="Miami International Airport" icao="KMIA" iata="MIA" type="Long_Haul_International" season="Summer">
     <town town="Miami, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="025°47'35''N" />
@@ -3077,7 +3091,7 @@
       <runway name="10/28" length="3080" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Myrtle Beach International Airport" icao="KMYR" iata="MYR" type="Domestic" season="All_Year">
+  <airport name="Myrtle Beach International Airport" icao="KMYR" iata="MYR" type="Domestic" season="Summer">
     <town town="Myrtle Beach, SC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="033°40'47''N" />
@@ -3197,7 +3211,7 @@
       <runway name="14/32" length="1486" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Palm Beach International Airport" icao="KPBI" iata="PBI" type="Short_Haul_International" season="All_Year">
+  <airport name="Palm Beach International Airport" icao="KPBI" iata="PBI" type="Short_Haul_International" season="Summer">
     <town town="West Palm Beach, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="026°40'59''N" />
@@ -3285,7 +3299,7 @@
       <runway name="13/31" length="3080" surface="Concrete" />
     </runways>
   </airport>
-  <airport name="St. Petersburg-Clearwater International Airport" icao="KPIE" iata="PIE" type="Domestic" season="All_Year">
+  <airport name="St. Petersburg-Clearwater International Airport" icao="KPIE" iata="PIE" type="Domestic" season="Summer">
     <town town="St. Petersburg, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="027°54'36''N" />
@@ -3458,7 +3472,7 @@
       <runway name="16R/34L" length="3353" surface="Concrete" />
     </runways>
   </airport>
-  <airport name="Southwest Florida International Airport" icao="KRSW" iata="RSW" type="Long_Haul_International" season="All_Year">
+  <airport name="Southwest Florida International Airport" icao="KRSW" iata="RSW" type="Long_Haul_International" season="Summer">
     <town town="Fort Myers, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="026°32'10''N" />
@@ -3553,7 +3567,7 @@
       <runway name="16R/34L" length="2591" surface="Concrete" />
     </runways>
   </airport>
-  <airport name="Orlando Sanford International Airport" icao="KSFB" iata="SFB" type="Long_Haul_International" season="All_Year">
+  <airport name="Orlando Sanford International Airport" icao="KSFB" iata="SFB" type="Long_Haul_International" season="Summer">
     <town town="Sanford, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="028°46'59''N" />
@@ -3717,7 +3731,7 @@
       <runway name="18/36" length="1852" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Tampa International Airport" icao="KTPA" iata="TPA" type="Long_Haul_International" season="All_Year">
+  <airport name="Tampa International Airport" icao="KTPA" iata="TPA" type="Long_Haul_International" season="Summer">
     <town town="Tampa, FL" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="027°58'32''N" />
@@ -4821,7 +4835,7 @@
     </runways>
   </airport>
   <!--Turks and Caicos Islands Airports (MB**)-->
-  <airport name="Providenciales International Airport" icao="MBPV" iata="PLS" type="Long_Haul_International" season="All_Year">
+  <airport name="Providenciales International Airport" icao="MBPV" iata="PLS" type="Long_Haul_International" season="Winter">
     <town town="Providenciales" country="209" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="021°46'25''N" />
@@ -4909,7 +4923,7 @@
     </runways>
   </airport>
   <!--Jamaica Airports (MK**)-->
-  <airport name="Sangster International Airport" icao="MKJS" iata="MBJ" type="Long_Haul_International" season="All_Year">
+  <airport name="Sangster International Airport" icao="MKJS" iata="MBJ" type="Long_Haul_International" season="Winter">
     <town town="Montego Bay" country="199" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="018°30'00''N" />
@@ -4924,7 +4938,7 @@
     </runways>
   </airport>
   <!--Mexico Airports (MM**)-->
-  <airport name="Cozumel International Airport" icao="MMCZ" iata="CZM" type="Long_Haul_International" season="All_Year">
+  <airport name="Cozumel International Airport" icao="MMCZ" iata="CZM" type="Long_Haul_International" season="Winter">
     <town town="Cozumel" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="020°30'54''N" />
@@ -4985,7 +4999,7 @@
       <runway name="16/34" length="1801" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Lic. Gustavo Díaz Ordaz International Airport" icao="MMPR" iata="PVR" type="Long_Haul_International" season="All_Year">
+  <airport name="Lic. Gustavo Díaz Ordaz International Airport" icao="MMPR" iata="PVR" type="Long_Haul_International" season="Winter">
     <town town="Puerto Vallarta" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="020°40'48''N" />
@@ -4999,7 +5013,7 @@
       <runway name="04/22" length="3100" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Cancún International Airport" icao="MMUN" iata="CUN" type="Long_Haul_International" season="All_Year">
+  <airport name="Cancún International Airport" icao="MMUN" iata="CUN" type="Long_Haul_International" season="Winter">
     <town town="Cancún" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="021°02'11''N" />
@@ -5121,7 +5135,7 @@
     </runways>
   </airport>
   <!--Bahamas Airports (MY**)-->
-  <airport name="Nassau International Airport" icao="MYNN" iata="NAS" type="Long_Haul_International" season="All_Year">
+  <airport name="Nassau International Airport" icao="MYNN" iata="NAS" type="Long_Haul_International" season="Winter">
     <town town="Nassau" country="203" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="025°02'20''N" />
@@ -5484,7 +5498,7 @@
     </runways>
   </airport>
   <!--United States (Alaska) Airports (PA**)-->
-  <airport name="Fairbanks International Airport" icao="PAFA" iata="FAI" type="Short_Haul_International" season="All_Year">
+  <airport name="Fairbanks International Airport" icao="PAFA" iata="FAI" type="Short_Haul_International" season="Summer">
     <town town="Fairbanks, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
     <coordinates>
       <latitude value="064°48'54''N" />
@@ -5499,7 +5513,7 @@
       <runway name="1R/19L" length="1981" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Ted Stevens Anchorage International Airport" icao="PANC" iata="ANC" type="Long_Haul_International" season="All_Year">
+  <airport name="Ted Stevens Anchorage International Airport" icao="PANC" iata="ANC" type="Long_Haul_International" season="Summer">
     <town town="Anchorage, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
     <coordinates>
       <latitude value="061°10'27''N" />
@@ -6176,7 +6190,7 @@
     </runways>
   </airport>
   <!--United States (Virgin Islands) Airports (TI**)-->
-  <airport name="Cyril E. King Airport" icao="TIST" iata="STT" type="Long_Haul_International" season="All_Year">
+  <airport name="Cyril E. King Airport" icao="TIST" iata="STT" type="Long_Haul_International" season="Summer">
     <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="018°20'13''N" />
@@ -6191,7 +6205,7 @@
     </runways>
   </airport>
   <!--United States (Puerto Rico) Airports (TJ**)-->
-  <airport name="Luis Muñoz Marín International Airport" icao="TJSJ" iata="SJU" type="Long_Haul_International" season="All_Year">
+  <airport name="Luis Muñoz Marín International Airport" icao="TJSJ" iata="SJU" type="Long_Haul_International" season="Summer">
     <town town="San Juan" country="181" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="018°26'13''N" />
