@@ -4938,6 +4938,21 @@
     </runways>
   </airport>
   <!--Mexico Airports (MM**)-->
+  <airport name="General Juan N. Álvarez International Airport" icao="MMAA" iata="ACA" type="Long_Haul_International" season="All_Year">
+    <town town="Acapulco" country="157" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="016°45'22''N" />
+      <longitude value="099°45'06''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1700" surface="Concrete" />
+	  <runway name="10/28" length="3302" surface="Concrete" />
+    </runways>
+  </airport>
   <airport name="Cozumel International Airport" icao="MMCZ" iata="CZM" type="Long_Haul_International" season="Winter">
     <town town="Cozumel" country="157" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -5132,6 +5147,21 @@
     </terminals>
     <runways>
       <runway name="06/24" length="3502" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Cayman Islands Airports (MW**)-->
+  <airport name="Owen Roberts International Airport" icao="MWCR" iata="GCM" type="Long_Haul_International" season="Winter">
+    <town town="George Town" country="219" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="019°17'33''N" />
+      <longitude value="081°21'33''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2136" surface="Asphalt" />
     </runways>
   </airport>
   <!--Bahamas Airports (MY**)-->

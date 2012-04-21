@@ -1071,4 +1071,13 @@
 	  <zh-CN name="法属圭亚那" />
     </translations>
   </country>
+  <country uid="219" shortname="CAY" region="104" flag="Cayman Islands" tailformat="VP-C\\s2">
+    <translations>
+      <en-US name="Cayman Islands" />
+      <de-DE name="Cayman Islands" />
+      <en-GB name="Cayman Islands" />
+      <nl-NL name="Cayman Islands" />
+	  <zh-CN name="Cayman Islands" />
+    </translations>
+  </country>
 </countries>
