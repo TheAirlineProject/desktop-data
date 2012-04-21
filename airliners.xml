@@ -475,10 +475,16 @@
     <produced from="1957" to="1961"/>
   </airliner>
   <airliner manufacturer="MD" name="MD-11" price="59000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="51.66" length="58.65" range="6840" speed="945" consumption="0.031" runwaylengthrequired="3100"/>
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="51.66" length="58.65" range="12670" speed="945" consumption="0.031" runwaylengthrequired="2900"/>
     <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="1988" to="2000"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD-11ER" price="64000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="51.66" length="58.65" range="13410" speed="945" consumption="0.027" runwaylengthrequired="2950"/>
+    <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="1994" to="2000"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-9-10" price="37000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
@@ -540,23 +546,35 @@
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1987" to="1997"/>
   </airliner>
+  <airliner manufacturer="MD" name="MD-90-30 (MD-90)" price="48000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.87" length="46.50" range="3860" speed="811" consumption="0.035" runwaylengthrequired="2270"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1993" to="2000"/>
+  </airliner>
   <airliner manufacturer="MD" name="MD DC-10-10" price="46000000">
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.34" length="51.97" range="6114" speed="908" consumption="0.034" runwaylengthrequired="2625"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1970" to="1981"/>
   </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-15" price="49000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="47.34" length="51.97" range="7000" speed="908" consumption="0.036" runwaylengthrequired="2212"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1979" to="1983"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-30" price="48000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="50.40" length="51.97" range="10620" speed="908" consumption="0.033" runwaylengthrequired="2847"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1972" to="1988"/>
+  </airliner>
   <airliner manufacturer="MD" name="MD DC-10-40" price="51000000">
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="50.40" length="51.97" range="5750" speed="908" consumption="0.038" runwaylengthrequired="2817"/>
+    <specs wingspan="50.40" length="51.97" range="9252" speed="908" consumption="0.038" runwaylengthrequired="2817"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1979" to="1988"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD-90-30 (MD-90)" price="48000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.87" length="46.50" range="3860" speed="811" consumption="0.035" runwaylengthrequired="2270"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1993" to="2000"/>
   </airliner>
   <airliner manufacturer="Tupolev" name="Tupolev Tu-154" price="45000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
