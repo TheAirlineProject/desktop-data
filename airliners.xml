@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
+  <!--Airbus-->
   <airliner manufacturer="Airbus" name="Airbus A300B4" price="39000000">
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="44.85" length="54.08" range="6670" speed="829" consumption="0.035" runwaylengthrequired="2135"/>
@@ -96,6 +97,7 @@
     <capacity passengers="853" cockpitcrew="2" cabincrew="17" maxclasses="3"/>
     <produced from="2004" to="2025"/>
   </airliner>
+  <!--Avions de Transport Régional-->
   <airliner manufacturer="ATR" name="ATR 42-500" price="14000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
     <specs wingspan="24.57" length="22.67" range="1611" speed="555" consumption="0.019" runwaylengthrequired="1165"/>
@@ -108,6 +110,71 @@
     <capacity passengers="72" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1997" to="2015"/>
   </airliner>
+  <!--Beechcraft-->
+  <airliner manufacturer="Beechcraft" name="Beechcraft 1900D" price="5000000">
+	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="17.64" length="17.62" range="707" speed="518" consumption="0.015" runwaylengthrequired="600"/>
+    <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
+    <produced from="1991" to="2002"/>
+  </airliner>
+  <!--Bombardier Aerospace-->
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ200" price="24000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="21.21" length="26.77" range="2350" speed="809" consumption="0.018" runwaylengthrequired="1350"/>
+    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1992" to="2014"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ700" price="29000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="23.24" length="32.51" range="2656" speed="876" consumption="0.018" runwaylengthrequired="1564"/>
+    <capacity passengers="70" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1997" to="2016"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ900" price="30000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="24.85" length="36.40" range="2500" speed="850" consumption="0.029" runwaylengthrequired="1778"/>
+    <capacity passengers="86" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2001" to="2007"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ900LR" price="35000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="24.85" length="36.40" range="3385" speed="881" consumption="0.024" runwaylengthrequired="1944"/>
+    <capacity passengers="86" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2007" to="2020"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ1000" price="37000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="26.18" length="39.13" range="2491" speed="850" consumption="0.025" runwaylengthrequired="1996"/>
+    <capacity passengers="100" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2007" to="2021"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-200" price="13000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="25.89" length="22.25" range="1713" speed="537" consumption="0.050" runwaylengthrequired="800"/>
+    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1995" to="2016"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-400" price="27000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="28.40" length="32.81" range="2522" speed="667" consumption="0.033" runwaylengthrequired="1402"/>
+    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="2000" to="2019"/>
+  </airliner>
+  <!--Bristol Aeroplane Company-->
+  <airliner manufacturer="Bristol" name="Bristol Britannia 310" price="1000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Turboprop"/>
+    <specs wingspan="43.36" length="37.88" range="7129" speed="575" consumption="0.033" runwaylengthrequired="2290"/>
+    <capacity passengers="139" cockpitcrew="3" cabincrew="3" maxclasses="1"/>
+    <produced from="1958" to="1960"/>
+  </airliner>
+  <!--British Aerospace-->
+  <airliner manufacturer="BAe" name="BAe 146-200" price="16000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="26.21" length="28.60" range="2909" speed="801" consumption="0.021" runwaylengthrequired="1200"/>
+    <capacity passengers="82" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1982" to="1999"/>
+  </airliner>
+  <!--British Aircraft Company-->
   <airliner manufacturer="BAC" name="BAC One-Eleven 200" price="2000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
     <specs wingspan="26.98" length="28.50" range="1140" speed="882" consumption="0.024" runwaylengthrequired="1981"/>
@@ -120,18 +187,270 @@
     <capacity passengers="119" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1967" to="1975"/>
   </airliner>
-  <airliner manufacturer="BAe" name="BAe 146-200" price="16000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="26.21" length="28.60" range="2909" speed="801" consumption="0.021" runwaylengthrequired="1200"/>
-    <capacity passengers="82" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="1982" to="1999"/>
+  <!--Convair-->
+  <airliner manufacturer="Convair" name="Convair 880" price="3000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="36.58" length="39.42" range="4430" speed="990" consumption="0.043" runwaylengthrequired="2500"/>
+    <capacity passengers="110" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1959" to="1962"/>
   </airliner>
-  <airliner manufacturer="Beechcraft" name="Beechcraft 1900D" price="5000000">
+  <airliner manufacturer="Convair" name="Convair 990" price="4000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="36.58" length="42.49" range="5400" speed="920" consumption="0.044" runwaylengthrequired="2524"/>
+    <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1961" to="1963"/>
+  </airliner>
+  <!--Douglas-->
+  <airliner manufacturer="Douglas" name="Douglas DC-7" price="1000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Turboprop"/>
+    <specs wingspan="35.00" length="33.00" range="5750" speed="653" consumption="0.048" runwaylengthrequired="1371"/>
+    <capacity passengers="95" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
+    <produced from="1953" to="1958"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-8-32" price="6000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="10103" speed="946" consumption="0.050" runwaylengthrequired="2680"/>
+    <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <produced from="1960" to="1970"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-8-51" price="7000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="8171" speed="946" consumption="0.061" runwaylengthrequired="2580"/>
+    <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <produced from="1961" to="1970"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-8-54CF" price="8000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="12139" speed="954" consumption="0.039" runwaylengthrequired="2800"/>
+    <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <produced from="1962" to="1977"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-8-61" price="12000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="57.10" range="9408" speed="935" consumption="0.035" runwaylengthrequired="2975"/>
+    <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
+    <produced from="1967" to="1978"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-8-63CF" price="12000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="45.24" length="57.10" range="11278" speed="959" consumption="0.030" runwaylengthrequired="2995"/>
+    <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
+    <produced from="1968" to="1978"/>
+  </airliner>
+  <!--Dornier Flugzeugwerke-->
+  <airliner manufacturer="Dornier" name="Dornier 228-212" price="3000000">
 	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="17.64" length="17.62" range="707" speed="518" consumption="0.015" runwaylengthrequired="600"/>
+    <specs wingspan="16.97" length="16.56" range="1111" speed="315" consumption="0.009" runwaylengthrequired="628"/>
     <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
-    <produced from="1991" to="2002"/>
+    <produced from="1981" to="1998"/>
   </airliner>
+  <airliner manufacturer="Dornier" name="Dornier 328-110" price="9000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="20.98" length="21.11" range="1850" speed="620" consumption="0.011" runwaylengthrequired="750"/>
+    <capacity passengers="30" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1991" to="2000"/>
+  </airliner>
+  <!--Empresa Brasileira de Aeronáutica-->
+  <airliner manufacturer="Embraer" name="Embraer E-135 ER" price="12000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="26.33" range="2409" speed="828" consumption="0.021" runwaylengthrequired="1250"/>
+    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1989" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-140 ER" price="16000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="28.45" range="2317" speed="828" consumption="0.022" runwaylengthrequired="1250"/>
+    <capacity passengers="44" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1999" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-145 LR" price="16000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.04" length="29.87" range="2873" speed="851" consumption="0.021" runwaylengthrequired="1350"/>
+    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1995" to="2019"/>
+  </airliner>
+  <airliner manufacturer="Embraer" name="Embraer E-170" price="29000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="26.00" length="29.90" range="3334" speed="890" consumption="0.021" runwaylengthrequired="1644"/>
+    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2002" to="2019"/>
+  </airliner>
+  <!--Fairchild Dornier-->
+  <airliner manufacturer="FD" name="Dornier 328JET" price="11000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="20.98" length="21.28" range="3705" speed="750" consumption="0.013" runwaylengthrequired="815"/>
+    <capacity passengers="34" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1999" to="2015"/>
+  </airliner>
+  <!--Fokker-->
+  <airliner manufacturer="Fokker" name="Fokker F27" price="1000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="29.00" length="25.06" range="1826" speed="518" consumption="0.021" runwaylengthrequired="1250"/>
+    <capacity passengers="48" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1955" to="1975"/>
+  </airliner>
+  <airliner manufacturer="Fokker" name="Fokker 50" price="11000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
+    <specs wingspan="29.00" length="25.25" range="2055" speed="453" consumption="0.022" runwaylengthrequired="1355"/>
+    <capacity passengers="58" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1987" to="1997"/>
+  </airliner>
+  <airliner manufacturer="Fokker" name="Fokker 70" price="17000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.08" length="30.91" range="2010" speed="835" consumption="0.023" runwaylengthrequired="1350"/>
+    <capacity passengers="79" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1994" to="1997"/>
+  </airliner>
+  <airliner manufacturer="Fokker" name="Fokker 100" price="21000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.08" length="35.53" range="2450" speed="845" consumption="0.022" runwaylengthrequired="1520"/>
+    <capacity passengers="107" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1986" to="1997"/>
+  </airliner>
+  <!--Lockheed Corporation-->
+  <airliner manufacturer="Lockheed" name="Lockeed L-1011-1" price="43000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="47.35" length="54.15" range="7420" speed="1053" consumption="0.035" runwaylengthrequired="2902"/>
+    <capacity passengers="400" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
+    <produced from="1970" to="1983"/>
+  </airliner>
+  <airliner manufacturer="Lockheed" name="Lockeed L-1011-500" price="47000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="50.09" length="50.04" range="10200" speed="1053" consumption="0.035" runwaylengthrequired="2750"/>
+    <capacity passengers="315" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
+    <produced from="1979" to="1983"/>
+  </airliner>
+  <airliner manufacturer="Lockheed" name="Lockeed L-188A" price="1000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
+    <specs wingspan="30.81" length="31.85" range="3450" speed="721" consumption="0.046" runwaylengthrequired="1750"/>
+    <capacity passengers="98" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
+    <produced from="1957" to="1961"/>
+  </airliner>
+  <!--McDonnell Douglas-->
+  <airliner manufacturer="MD" name="MD-11" price="59000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="51.66" length="58.65" range="12670" speed="945" consumption="0.031" runwaylengthrequired="2900"/>
+    <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="1988" to="2000"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD-11ER" price="64000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="51.66" length="58.65" range="13410" speed="945" consumption="0.027" runwaylengthrequired="2950"/>
+    <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="1994" to="2000"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-10" price="37000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.033" runwaylengthrequired="1250"/>
+    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1965" to="1980"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-20" price="38000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.47" length="31.82" range="3430" speed="896" consumption="0.032" runwaylengthrequired="1295"/>
+    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1968" to="1971"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-30" price="40000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.47" length="36.37" range="3030" speed="917" consumption="0.033" runwaylengthrequired="1345"/>
+    <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1967" to="1982"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-40" price="43000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.47" length="38.28" range="3120" speed="917" consumption="0.033" runwaylengthrequired="1370"/>
+    <capacity passengers="125" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
+    <produced from="1968" to="1981"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-50" price="47000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.47" length="40.72" range="3030" speed="898" consumption="0.034" runwaylengthrequired="1365"/>
+    <capacity passengers="135" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
+    <produced from="1975" to="1982"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-81 (MD-81)" price="44000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="32.82" length="45.01" range="2910" speed="811" consumption="0.044" runwaylengthrequired="1500"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1980" to="1992"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-82 (MD-82)" price="44000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.82" length="45.01" range="3800" speed="811" consumption="0.034" runwaylengthrequired="1500"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1981" to="1997"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-83 (MD-83)" price="46000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.82" length="45.01" range="4600" speed="811" consumption="0.033" runwaylengthrequired="1500"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1985" to="1999"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-87 (MD-87)" price="44000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.82" length="39.73" range="4390" speed="811" consumption="0.036" runwaylengthrequired="1500"/>
+    <capacity passengers="139" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1987" to="1993"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-88 (MD-88)" price="47000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.82" length="45.01" range="3800" speed="811" consumption="0.034" runwaylengthrequired="1500"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1987" to="1997"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD-90-30 (MD-90)" price="48000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.87" length="46.50" range="3860" speed="811" consumption="0.035" runwaylengthrequired="2270"/>
+    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1993" to="2000"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-10" price="46000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="47.34" length="51.97" range="6114" speed="908" consumption="0.034" runwaylengthrequired="2625"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1970" to="1981"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-15" price="49000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="47.34" length="51.97" range="7000" speed="908" consumption="0.036" runwaylengthrequired="2212"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1979" to="1983"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-30" price="48000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="50.40" length="51.97" range="10620" speed="908" consumption="0.033" runwaylengthrequired="2847"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1972" to="1988"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-10-40" price="51000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="50.40" length="51.97" range="9252" speed="908" consumption="0.038" runwaylengthrequired="2817"/>
+    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1979" to="1988"/>
+  </airliner>
+  <!--Public Stock Company Tupolev-->
+  <airliner manufacturer="Tupolev" name="Tupolev Tu-154" price="45000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="37.55" length="48.00" range="3900" speed="950" consumption="0.025" runwaylengthrequired="2000"/>
+    <capacity passengers="114" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
+    <produced from="1972" to="2006"/>
+  </airliner>
+  <!--Saab AB-->
+  <airliner manufacturer="Saab" name="Saab 340B" price="11000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="21.44" length="19.73" range="1732" speed="467" consumption="0.021" runwaylengthrequired="1290"/>
+    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1983" to="1998"/>
+  </airliner>
+  <!--Sud Aviation-->
+  <airliner manufacturer="Sud Aviation" name="Sud Aviation Caravelle III" price="2000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="34.30" length="31.01" range="1700" speed="805" consumption="0.021" runwaylengthrequired="1469"/>
+    <capacity passengers="80" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1959" to="1967"/>
+  </airliner>
+  <!--The Boeing Company-->
   <airliner manufacturer="Boeing" name="Boeing 707-020 (720)" price="5000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="41.25" range="7040" speed="1000" consumption="0.062" runwaylengthrequired="2515"/>
@@ -312,288 +631,7 @@
     <capacity passengers="290" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
     <produced from="2014" to="2027"/>
   </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ200" price="24000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="21.21" length="26.77" range="2350" speed="809" consumption="0.018" runwaylengthrequired="1350"/>
-    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1992" to="2014"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ700" price="29000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="23.24" length="32.51" range="2656" speed="876" consumption="0.018" runwaylengthrequired="1564"/>
-    <capacity passengers="70" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="1997" to="2016"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ900" price="30000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="24.85" length="36.40" range="2500" speed="850" consumption="0.029" runwaylengthrequired="1778"/>
-    <capacity passengers="86" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="2001" to="2007"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ900LR" price="35000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="24.85" length="36.40" range="3385" speed="881" consumption="0.024" runwaylengthrequired="1944"/>
-    <capacity passengers="86" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="2007" to="2020"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ1000" price="37000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="26.18" length="39.13" range="2491" speed="850" consumption="0.025" runwaylengthrequired="1996"/>
-    <capacity passengers="100" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="2007" to="2021"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-200" price="13000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="25.89" length="22.25" range="1713" speed="537" consumption="0.050" runwaylengthrequired="800"/>
-    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1995" to="2016"/>
-  </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-400" price="27000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="28.40" length="32.81" range="2522" speed="667" consumption="0.033" runwaylengthrequired="1402"/>
-    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="2000" to="2019"/>
-  </airliner>
-  <airliner manufacturer="Bristol" name="Bristol Britannia 310" price="1000000">
-	<type body="Narrow_Body" rangetype="Long_Range" engine="Turboprop"/>
-    <specs wingspan="43.36" length="37.88" range="7129" speed="575" consumption="0.033" runwaylengthrequired="2290"/>
-    <capacity passengers="139" cockpitcrew="3" cabincrew="3" maxclasses="1"/>
-    <produced from="1958" to="1960"/>
-  </airliner>
-  <airliner manufacturer="Convair" name="Convair 880" price="3000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="36.58" length="39.42" range="4430" speed="990" consumption="0.043" runwaylengthrequired="2500"/>
-    <capacity passengers="110" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1959" to="1962"/>
-  </airliner>
-  <airliner manufacturer="Convair" name="Convair 990" price="4000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="36.58" length="42.49" range="5400" speed="920" consumption="0.044" runwaylengthrequired="2524"/>
-    <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1961" to="1963"/>
-  </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-7" price="1000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Turboprop"/>
-    <specs wingspan="35.00" length="33.00" range="5750" speed="653" consumption="0.048" runwaylengthrequired="1371"/>
-    <capacity passengers="95" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
-    <produced from="1953" to="1958"/>
-  </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-32" price="6000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="7410" speed="946" consumption="0.046" runwaylengthrequired="3042"/>
-    <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
-    <produced from="1960" to="1970"/>
-  </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-63" price="8000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="45.24" length="57.10" range="3445" speed="946" consumption="0.044" runwaylengthrequired="3042"/>
-    <capacity passengers="259" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
-    <produced from="1968" to="1978"/>
-  </airliner>
-  <airliner manufacturer="Dornier" name="Dornier 228-212" price="3000000">
-	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="16.97" length="16.56" range="1111" speed="315" consumption="0.009" runwaylengthrequired="628"/>
-    <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
-    <produced from="1981" to="1998"/>
-  </airliner>
-  <airliner manufacturer="Dornier" name="Dornier 328-110" price="9000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="20.98" length="21.11" range="1850" speed="620" consumption="0.011" runwaylengthrequired="750"/>
-    <capacity passengers="30" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1991" to="2000"/>
-  </airliner>
-  <airliner manufacturer="FD" name="Dornier 328JET" price="11000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="20.98" length="21.28" range="3705" speed="750" consumption="0.013" runwaylengthrequired="815"/>
-    <capacity passengers="34" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1999" to="2015"/>
-  </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-135 ER" price="12000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="20.04" length="26.33" range="2409" speed="828" consumption="0.021" runwaylengthrequired="1250"/>
-    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1989" to="2019"/>
-  </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-140 ER" price="16000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="20.04" length="28.45" range="2317" speed="828" consumption="0.022" runwaylengthrequired="1250"/>
-    <capacity passengers="44" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1999" to="2019"/>
-  </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-145 LR" price="16000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="20.04" length="29.87" range="2873" speed="851" consumption="0.021" runwaylengthrequired="1350"/>
-    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1995" to="2019"/>
-  </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-170" price="29000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="26.00" length="29.90" range="3334" speed="890" consumption="0.021" runwaylengthrequired="1644"/>
-    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="2002" to="2019"/>
-  </airliner>
-  <airliner manufacturer="Fokker" name="Fokker F27" price="1000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="29.00" length="25.06" range="1826" speed="518" consumption="0.021" runwaylengthrequired="1250"/>
-    <capacity passengers="48" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1955" to="1975"/>
-  </airliner>
-  <airliner manufacturer="Fokker" name="Fokker 50" price="11000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
-    <specs wingspan="29.00" length="25.25" range="2055" speed="453" consumption="0.022" runwaylengthrequired="1355"/>
-    <capacity passengers="58" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1987" to="1997"/>
-  </airliner>
-  <airliner manufacturer="Fokker" name="Fokker 70" price="17000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.08" length="30.91" range="2010" speed="835" consumption="0.023" runwaylengthrequired="1350"/>
-    <capacity passengers="79" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1994" to="1997"/>
-  </airliner>
-  <airliner manufacturer="Fokker" name="Fokker 100" price="21000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.08" length="35.53" range="2450" speed="845" consumption="0.022" runwaylengthrequired="1520"/>
-    <capacity passengers="107" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="1986" to="1997"/>
-  </airliner>
-  <airliner manufacturer="Lockheed" name="Lockeed L-1011-1" price="43000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="47.35" length="54.15" range="7420" speed="1053" consumption="0.035" runwaylengthrequired="2902"/>
-    <capacity passengers="400" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
-    <produced from="1970" to="1983"/>
-  </airliner>
-  <airliner manufacturer="Lockheed" name="Lockeed L-1011-500" price="47000000">
-	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="50.09" length="50.04" range="10200" speed="1053" consumption="0.035" runwaylengthrequired="2750"/>
-    <capacity passengers="315" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
-    <produced from="1979" to="1983"/>
-  </airliner>
-  <airliner manufacturer="Lockheed" name="Lockeed L-188A" price="1000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
-    <specs wingspan="30.81" length="31.85" range="3450" speed="721" consumption="0.046" runwaylengthrequired="1750"/>
-    <capacity passengers="98" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
-    <produced from="1957" to="1961"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD-11" price="59000000">
-	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="51.66" length="58.65" range="12670" speed="945" consumption="0.031" runwaylengthrequired="2900"/>
-    <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
-    <produced from="1988" to="2000"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD-11ER" price="64000000">
-	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="51.66" length="58.65" range="13410" speed="945" consumption="0.027" runwaylengthrequired="2950"/>
-    <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
-    <produced from="1994" to="2000"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-10" price="37000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.033" runwaylengthrequired="1250"/>
-    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1965" to="1980"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-20" price="38000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.47" length="31.82" range="3430" speed="896" consumption="0.032" runwaylengthrequired="1295"/>
-    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1968" to="1971"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-30" price="40000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.47" length="36.37" range="3030" speed="917" consumption="0.033" runwaylengthrequired="1345"/>
-    <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1967" to="1982"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-40" price="43000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.47" length="38.28" range="3120" speed="917" consumption="0.033" runwaylengthrequired="1370"/>
-    <capacity passengers="125" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
-    <produced from="1968" to="1981"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-50" price="47000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.47" length="40.72" range="3030" speed="898" consumption="0.034" runwaylengthrequired="1365"/>
-    <capacity passengers="135" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
-    <produced from="1975" to="1982"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-81 (MD-81)" price="44000000">
-	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="32.82" length="45.01" range="2910" speed="811" consumption="0.044" runwaylengthrequired="1500"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1980" to="1992"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-82 (MD-82)" price="44000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.82" length="45.01" range="3800" speed="811" consumption="0.034" runwaylengthrequired="1500"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1981" to="1997"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-83 (MD-83)" price="46000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.82" length="45.01" range="4600" speed="811" consumption="0.033" runwaylengthrequired="1500"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1985" to="1999"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-87 (MD-87)" price="44000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.82" length="39.73" range="4390" speed="811" consumption="0.036" runwaylengthrequired="1500"/>
-    <capacity passengers="139" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1987" to="1993"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-88 (MD-88)" price="47000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.82" length="45.01" range="3800" speed="811" consumption="0.034" runwaylengthrequired="1500"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1987" to="1997"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD-90-30 (MD-90)" price="48000000">
-	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.87" length="46.50" range="3860" speed="811" consumption="0.035" runwaylengthrequired="2270"/>
-    <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1993" to="2000"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-10" price="46000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="47.34" length="51.97" range="6114" speed="908" consumption="0.034" runwaylengthrequired="2625"/>
-    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
-    <produced from="1970" to="1981"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-15" price="49000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="47.34" length="51.97" range="7000" speed="908" consumption="0.036" runwaylengthrequired="2212"/>
-    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
-    <produced from="1979" to="1983"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-30" price="48000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="50.40" length="51.97" range="10620" speed="908" consumption="0.033" runwaylengthrequired="2847"/>
-    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
-    <produced from="1972" to="1988"/>
-  </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-40" price="51000000">
-	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="50.40" length="51.97" range="9252" speed="908" consumption="0.038" runwaylengthrequired="2817"/>
-    <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
-    <produced from="1979" to="1988"/>
-  </airliner>
-  <airliner manufacturer="Tupolev" name="Tupolev Tu-154" price="45000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="37.55" length="48.00" range="3900" speed="950" consumption="0.025" runwaylengthrequired="2000"/>
-    <capacity passengers="114" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
-    <produced from="1972" to="2006"/>
-  </airliner>
-  <airliner manufacturer="Saab" name="Saab 340B" price="11000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="21.44" length="19.73" range="1732" speed="467" consumption="0.021" runwaylengthrequired="1290"/>
-    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1983" to="1998"/>
-  </airliner>
-  <airliner manufacturer="Sud Aviation" name="Sud Aviation Caravelle III" price="2000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="34.30" length="31.01" range="1700" speed="805" consumption="0.021" runwaylengthrequired="1469"/>
-    <capacity passengers="80" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1959" to="1967"/>
-  </airliner>
+  <!--Vickers-Armstrongs Limited-->
   <airliner manufacturer="Vickers" name="Vickers VC10" price="3000000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="44.55" length="48.36" range="9412" speed="933" consumption="0.024" runwaylengthrequired="2524"/>
