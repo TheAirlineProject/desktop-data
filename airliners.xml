@@ -200,7 +200,7 @@
     <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1961" to="1963"/>
   </airliner>
-  <!--Douglas-->
+  <!--Douglas Aircraft Company-->
   <airliner manufacturer="Douglas" name="Douglas DC-7" price="1000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Turboprop"/>
     <specs wingspan="35.00" length="33.00" range="5750" speed="653" consumption="0.048" runwaylengthrequired="1371"/>
@@ -211,31 +211,37 @@
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="10103" speed="946" consumption="0.050" runwaylengthrequired="2680"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
-    <produced from="1960" to="1970"/>
+    <produced from="1960" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-51" price="7000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="8171" speed="946" consumption="0.061" runwaylengthrequired="2580"/>
     <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
-    <produced from="1961" to="1970"/>
+    <produced from="1961" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-54CF" price="8000000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="12139" speed="954" consumption="0.039" runwaylengthrequired="2800"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
-    <produced from="1962" to="1977"/>
+    <produced from="1962" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-61" price="12000000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="57.10" range="9408" speed="935" consumption="0.035" runwaylengthrequired="2975"/>
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
-    <produced from="1967" to="1978"/>
+    <produced from="1967" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-63CF" price="12000000">
-	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="45.24" length="57.10" range="11278" speed="959" consumption="0.030" runwaylengthrequired="2995"/>
-    <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
-    <produced from="1968" to="1978"/>
+  <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="5000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.033" runwaylengthrequired="1250"/>
+    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1965" to="1967"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-9-20" price="5000000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="28.47" length="31.82" range="3430" speed="896" consumption="0.032" runwaylengthrequired="1295"/>
+    <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1967" to="1967"/>
   </airliner>
   <!--Dornier Flugzeugwerke-->
   <airliner manufacturer="Dornier" name="Dornier 228-212" price="3000000">
@@ -339,31 +345,61 @@
     <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="1994" to="2000"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-10" price="37000000">
+  <airliner manufacturer="MD" name="MD DC-8-32" price="30000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="10103" speed="946" consumption="0.050" runwaylengthrequired="2680"/>
+    <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <produced from="1968" to="1970"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-8-51" price="3100000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="8171" speed="946" consumption="0.061" runwaylengthrequired="2580"/>
+    <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <produced from="1968" to="1970"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-8-54CF" price="3300000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="45.87" range="12139" speed="954" consumption="0.039" runwaylengthrequired="2800"/>
+    <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <produced from="1968" to="1975"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-8-61" price="37000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.41" length="57.10" range="9408" speed="935" consumption="0.035" runwaylengthrequired="2975"/>
+    <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
+    <produced from="1968" to="1978"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-8-63CF" price="12000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="45.24" length="57.10" range="11278" speed="959" consumption="0.030" runwaylengthrequired="2995"/>
+    <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
+    <produced from="1968" to="1978"/>
+  </airliner>
+  <airliner manufacturer="MD" name="MD DC-9-10" price="17000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.033" runwaylengthrequired="1250"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1965" to="1980"/>
+    <produced from="1968" to="1980"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-20" price="38000000">
+  <airliner manufacturer="MD" name="MD DC-9-20" price="18000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="31.82" range="3430" speed="896" consumption="0.032" runwaylengthrequired="1295"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1968" to="1971"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-30" price="40000000">
+  <airliner manufacturer="MD" name="MD DC-9-30" price="20000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="36.37" range="3030" speed="917" consumption="0.033" runwaylengthrequired="1345"/>
     <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1967" to="1982"/>
+    <produced from="1968" to="1982"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-40" price="43000000">
+  <airliner manufacturer="MD" name="MD DC-9-40" price="23000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="38.28" range="3120" speed="917" consumption="0.033" runwaylengthrequired="1370"/>
     <capacity passengers="125" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
     <produced from="1968" to="1981"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-50" price="47000000">
+  <airliner manufacturer="MD" name="MD DC-9-50" price="27000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="40.72" range="3030" speed="898" consumption="0.034" runwaylengthrequired="1365"/>
     <capacity passengers="135" cockpitcrew="2" cabincrew="3" maxclasses="1"/>
