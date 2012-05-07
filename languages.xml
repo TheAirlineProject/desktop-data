@@ -1553,6 +1553,13 @@
       <nl-NL name="Landingsbanen" />
       <zh-CN name="跑道" />
     </Text>
+    <Text uid="206">
+      <en-GB name="Distances" />
+      <de-DE name="Missing" />
+      <en-US name="Distances" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+    </Text>
   </Region>
   <Region name="PanelAirports">
     <Text uid="201">
