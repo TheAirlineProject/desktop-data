@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airports>
+  <airport name="Mineralnye Vody Airport" icao="URMM" iata="MRV" type="Long_Haul_International" season="All_Year">
+    <town town="Mineralnye Vody" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="44°13'30''N" />
+      <longitude value="43°05'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="3900" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Kazan International Airport" icao="UWKD" iata="KZN" type="Long_Haul_International" season="All_Year">
+    <town town="Kazan" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="55°36'24''N" />
+      <longitude value="49°16'54''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="11L/29R" length="3724" surface="Concrete" />
+      <runway name="11R/29L" length="2498" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Roshchino International Airport" icao="USTR" iata="TJM" type="Short_Haul_International" season="All_Year">
+    <town town="Tyumen" country="149" GMT="07:00:00" DST="06:00:00" />
+    <coordinates>
+      <latitude value="57°10'6''N" />
+      <longitude value="65°19'0''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3002" surface="Concrete" />
+      <runway name="12/30" length="2703" surface="Asphalt" />
+    </runways>
+  </airport>
+</airports>
