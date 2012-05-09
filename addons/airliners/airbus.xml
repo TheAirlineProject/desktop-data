@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Airbus" name="Airbus A300B4" price="39000000">
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="44.85" length="54.08" range="6670" speed="829" consumption="0.035" runwaylengthrequired="2135"/>
+    <capacity passengers="266" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <produced from="1972" to="1985"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A300-600R" price="51000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="44.85" length="54.08" range="7540" speed="829" consumption="0.034" runwaylengthrequired="2324"/>
+    <capacity passengers="266" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <produced from="1988" to="2006"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A310-300" price="25000000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="43.9" length="46.66" range="9600" speed="850" consumption="0.033" runwaylengthrequired="1775"/>
+    <capacity passengers="240" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
+    <produced from="1983" to="2007"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A318-100" price="65000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="34.10" length="31.44" range="5700" speed="828" consumption="0.036" runwaylengthrequired="1828"/>
+    <capacity passengers="117" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1999" to="2018"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A319-100" price="78000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="34.10" length="33.84" range="6700" speed="828" consumption="0.027" runwaylengthrequired="2164"/>
+    <capacity passengers="134" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1992" to="2013"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A320-200" price="85000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="34.10" length="37.57" range="5900" speed="828" consumption="0.025" runwaylengthrequired="2090"/>
+    <capacity passengers="164" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1988" to="2013"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A321-200" price="100000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="34.10" length="44.51" range="5600" speed="828" consumption="0.022" runwaylengthrequired="2560"/>
+    <capacity passengers="199" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+    <produced from="1988" to="2017"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A330-200" price="201000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.30" length="58.82" range="13430" speed="871" consumption="0.027" runwaylengthrequired="2220"/>
+    <capacity passengers="380" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="1998" to="2018"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A330-300" price="223000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.30" length="63.69" range="10830" speed="871" consumption="0.020" runwaylengthrequired="2500"/>
+    <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
+    <produced from="1994" to="2015"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A340-200" price="87000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.3" length="59.39" range="15000" speed="871" consumption="0.034" runwaylengthrequired="2990"/>
+    <capacity passengers="300" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
+    <produced from="1993" to="2011"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A340-300" price="86000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.3" length="63.60" range="13700" speed="871" consumption="0.032" runwaylengthrequired="3000"/>
+    <capacity passengers="335" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
+    <produced from="1991" to="2011"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A340-500" price="91000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="63.45" length="67.90" range="16060" speed="881" consumption="0.037" runwaylengthrequired="3050"/>
+    <capacity passengers="359" cockpitcrew="2" cabincrew="7" maxclasses="3"/>
+    <produced from="2002" to="2011"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A340-600" price="96000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="63.45" length="75.30" range="14350" speed="881" consumption="0.033" runwaylengthrequired="3100"/>
+    <capacity passengers="419" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="2002" to="2011"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A350-800" price="237000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.80" length="60.54" range="15700" speed="903" consumption="0.022" runwaylengthrequired="2550"/>
+    <capacity passengers="375" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="2013" to="2022"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A350-900" price="268000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.80" length="66.89" range="15000" speed="903" consumption="0.022" runwaylengthrequired="2610"/>
+    <capacity passengers="420" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="2016" to="2027"/>
+  </airliner>
+  <airliner manufacturer="Airbus" name="Airbus A380-800" price="375000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="79.75" length="72.73" range="15400" speed="945" consumption="0.025" runwaylengthrequired="2750"/>
+    <capacity passengers="853" cockpitcrew="2" cabincrew="17" maxclasses="3"/>
+    <produced from="2004" to="2025"/>
+  </airliner>
+</airliners>

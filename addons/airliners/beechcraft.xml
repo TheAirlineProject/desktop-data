@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Beechcraft" name="Beechcraft 1900D" price="5000000">
+	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="17.64" length="17.62" range="707" speed="518" consumption="0.015" runwaylengthrequired="600"/>
+    <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
+    <produced from="1991" to="2002"/>
+  </airliner>
+</airliners>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="ATR" name="ATR 42-500" price="14000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="24.57" length="22.67" range="1611" speed="555" consumption="0.019" runwaylengthrequired="1165"/>
+    <capacity passengers="46" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1995" to="2013"/>
+  </airliner>
+  <airliner manufacturer="ATR" name="ATR 72-500" price="17000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="27.05" length="27.17" range="1324" speed="511" consumption="0.020" runwaylengthrequired="1165"/>
+    <capacity passengers="72" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1997" to="2015"/>
+  </airliner>
+</airliners>

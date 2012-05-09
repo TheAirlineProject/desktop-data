@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Convair" name="Convair 880" price="3000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="36.58" length="39.42" range="4430" speed="990" consumption="0.043" runwaylengthrequired="2500"/>
+    <capacity passengers="110" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1959" to="1962"/>
+  </airliner>
+  <airliner manufacturer="Convair" name="Convair 990" price="4000000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="36.58" length="42.49" range="5400" speed="920" consumption="0.044" runwaylengthrequired="2524"/>
+    <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1961" to="1963"/>
+  </airliner>
+</airliners>
