@@ -1080,4 +1080,58 @@
 	  <zh-CN name="Cayman Islands" />
     </translations>
   </country>
+   <country uid="220" shortname="CF" region="109" flag="Central African Republic" tailformat="TL-\\s3">
+    <translations>
+			<en-US name="Central African Republic" />
+			<de-DE name="Zentralafrikanische Republik" />
+			<en-GB name="Central African Republic" />
+			<nl-NL name="Centraal-Afrikaanse Republiek" />
+			<zh-CN name="中非共和國" />
+    </translations>
+  </country>
+  <country uid="221" shortname="CD" region="109" flag="Congo-DCR" tailformat="9Q-\\s3">
+    <translations>
+			<en-US name="Democratic Republic of the Congo" />
+			<de-DE name="Demokratische Republik Kongo" />
+			<en-GB name="Democratic Republic of the Congo" />
+			<nl-NL name="Democratische Republiek Congo" />
+			<zh-CN name="剛果民主共和國" />
+    </translations>
+  </country>
+  <country uid="222" shortname="TZ" region="109" flag="Tanzania" tailformat="5H-\\s3">
+    <translations>
+			<en-US name="Tanzania" />
+			<de-DE name="Tansania" />
+			<en-GB name="Tanzania" />
+			<nl-NL name="Tanzania" />
+			<zh-CN name="坦桑尼亚" />
+    </translations>
+  </country>
+    <country uid="223" shortname="SD" region="109" flag="Sudan" tailformat="ST-\\s3">
+    <translations>
+			<en-US name="Sudan" />
+			<de-DE name="Sudan" />
+			<en-GB name="Sudan" />
+			<nl-NL name="Soedan" />
+			<zh-CN name="苏丹共和国" />
+    </translations>
+  </country>
+   <country uid="224" shortname="AO" region="109" flag="Angola" tailformat="D2-\\s3">
+    <translations>
+			<en-US name="Angola" />
+			<de-DE name="Angola" />
+			<en-GB name="Angola" />
+			<nl-NL name="Angola" />
+			<zh-CN name="安哥拉" />
+    </translations>
+  </country>
+     <country uid="225" shortname="ZM" region="109" flag="Zambia" tailformat="9J-\\s3">
+    <translations>
+			<en-US name="Zambia" />
+			<de-DE name="Sambia" />
+			<en-GB name="Zambia" />
+			<nl-NL name="Zambia" />
+			<zh-CN name="赞比亚" />
+    </translations>
+  </country>
 </countries>
