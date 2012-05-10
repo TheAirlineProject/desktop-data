@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--must be placed in \data\addons\airports-->
+<airports>
+<!--Argentina (SA**)-->
+  <airport name="Jorge Newbery Airfield" icao="SABE" iata="AEP" type="Short_Haul_International" season="All_Year">
+    <town town="Buenos Aires" country="106" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="034°33'33''S" />
+      <longitude value="058°24'56''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2100" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Ministro Pistarini International Airport" icao="SAEZ" iata="EZE" type="Long_Haul_International" season="All_Year">
+    <town town="Buenos Aires" country="106" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="034°49'20''S" />
+      <longitude value="058°32'09''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+      <terminal name="Terminal B" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3300" surface="Asphalt" />
+      <runway name="17/35" length="3105" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Comodoro Rivadavia Airport" icao="SAVC" iata="CRD" type="Domestic" season="All_Year">
+    <town town="Comodoro Rivadavia" country="106" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="045°47'06''S" />
+      <longitude value="067°27'56''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2750" surface="Concrete" />
+    </runways>
+  </airport>
+  <!--Brazil (SB**,SD**, SI**, SJ**, SN**, SS** and SW**)-->
+  <airport name="Brasília International Airport" icao="SBBR" iata="BSB" type="Long_Haul_International" season="All_Year">
+    <town town="Brasília" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="015°51'45''S" />
+      <longitude value="047°54'45''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="22" />
+    </terminals>
+    <runways>
+      <runway name="11L/29R" length="3200" surface="Asphalt" />
+      <runway name="11R/29L" length="3300" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Tancredo Neves International Airport" icao="SBCF" iata="CNF" type="Long_Haul_International" season="All_Year">
+    <town town="Belo Horizonte" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="019°38'01''S" />
+      <longitude value="043°58'07''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="14" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pinto Martins International Airport" icao="SBFZ" iata="FOR" type="Long_Haul_International" season="All_Year">
+    <town town="Fortaleza" country="138" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="003°46'35''S" />
+      <longitude value="038°31'56''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2545" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Rio de Janeiro-Galeão International Airport" icao="SBGL" iata="GIG" type="Long_Haul_International" season="All_Year">
+    <town town="Rio De Janeiro" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="022°48'32''S" />
+      <longitude value="043°14'37''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="20" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="4000" surface="Concrete" />
+      <runway name="15/33" length="3180" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="São Paulo-Guarulhos International Airport" icao="SBGR" iata="GRU" type="Long_Haul_International" season="All_Year">
+    <town town="São Paulo" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="023°25'56''S" />
+      <longitude value="046°28'09''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="37" />
+    </terminals>
+    <runways>
+      <runway name="09L/27R" length="3700" surface="Asphalt" />
+      <runway name="09R/27L" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Viracopos-Campinas International Airport" icao="SBKP" iata="VCP" type="Short_Haul_International" season="All_Year">
+    <town town="Campinas" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="023°00'27''S" />
+      <longitude value="047°08'03''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="17" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="3240" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Salgado Filho International Airport" icao="SBPA" iata="POA" type="Long_Haul_International" season="All_Year">
+    <town town="Porto Alegre " country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="029°59'39''S" />
+      <longitude value="051°10'17''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="16" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2280" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Recife Airport" icao="SBRF" iata="REC" type="Long_Haul_International" season="All_Year">
+    <town town="Recife" country="138" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="008°07'36''S" />
+      <longitude value="034°55'22''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="13" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3315" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Santos Dumont Airport" icao="SBRJ" iata="SDU" type="Long_Haul_International" season="All_Year">
+    <town town="Rio De Janeiro" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="022°54'37''S" />
+      <longitude value="043°09'47''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="02L/20R" length="1260" surface="Asphalt" />
+      <runway name="02R/20L" length="1323" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Congonhas-São Paulo Airport" icao="SBSP" iata="CGH" type="Short_Haul_International" season="All_Year">
+    <town town="São Paulo" country="138" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="023°37'36''S" />
+      <longitude value="046°39'19''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="34" />
+    </terminals>
+    <runways>
+      <runway name="17L/35R" length="1435" surface="Asphalt" />
+      <runway name="17R/35L" length="1940" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Deputado Luís Eduardo Magalhães International Airport" icao="SBSV" iata="SSA" type="Long_Haul_International" season="All_Year">
+    <town town="Salvador da Bahia" country="138" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="012°54'39''S" />
+      <longitude value="038°19'51''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="3005" surface="Asphalt" />
+      <runway name="17/35" length="1519" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Chile (SC**)-->
+  <airport name="Comodoro Arturo Merino Benítez International Airport" icao="SCEL" iata="SCL" type="Long_Haul_International" season="All_Year">
+    <town town="Santiago" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="033°23'34''S" />
+      <longitude value="070°47'08''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="23" />
+    </terminals>
+    <runways>
+      <runway name="17L/35R" length="3748" surface="Asphalt" />
+      <runway name="17R/35L" length="3800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Equador (SE**)-->
+  <airport name="Mariscal Sucre International Airport" icao="SEQU" iata="UIO" type="Long_Haul_International" season="All_Year">
+    <town town="Quito" country="210" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="000°08'28''S" />
+      <longitude value="078°29'17''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="3120" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Paraguay (SG**)-->
+  <airport name="Silvio Pettirossi International Airport" icao="SGAS" iata="ASU" type="Short_Haul_International" season="All_Year">
+    <town town="Asunción" country="213" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="025°14'23''S" />
+      <longitude value="057°31'09''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="3353" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Columbia (SK**)-->
+  <airport name="El Dorado International Airport" icao="SKBO" iata="BOG" type="Long_Haul_International" season="All_Year">
+    <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="004°42'11''N" />
+      <longitude value="074°08'17''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="34" />
+    </terminals>
+    <runways>
+      <runway name="13L/31R" length="3800" surface="Asphalt" />
+      <runway name="13R/31L" length="3800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Columbia (SL**)-->
+  <airport name="El Alto International Airport" icao="SLLP" iata="LPB" type="Long_Haul_International" season="All_Year">
+    <town town="La Paz" country="211" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="016°30'48''S" />
+      <longitude value="068°11'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="10L/28R" length="2050" surface="Grass" />
+      <runway name="10R/28L" length="4000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Suriname (SM**)-->
+  <airport name="Paramaribo-Zanderij International Airport" icao="SMJP" iata="PBM" type="Long_Haul_International" season="All_Year">
+    <town town="Zanderij" country="214" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="005°27'10''N" />
+      <longitude value="055°11'16''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3480" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--French Guiana (SO**)-->
+  <airport name="Cayenne – Rochambeau Airport" icao="SOCA" iata="CAY" type="Long_Haul_International" season="All_Year">
+    <town town="Cayenne" country="218" GMT="-03:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="004°49'11''N" />
+      <longitude value="052°21'43''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Peru (SP**)-->
+  <airport name="Jorge Chávez International Airport" icao="SPIM" iata="LIM" type="Long_Haul_International" season="All_Year">
+    <town town="Lima" country="182" GMT="-05:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="012°01'18''S" />
+      <longitude value="077°06'51''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="28" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="3507" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Uruguay (SU**)-->
+  <airport name="Carrasco International Airport" icao="SUMU" iata="MVD" type="Long_Haul_International" season="All_Year">
+    <town town="Montevideo" country="212" GMT="-03:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="034°50'18''S" />
+      <longitude value="056°01'51''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2250" surface="Asphalt" />
+      <runway name="06/24" length="3200" surface="Asphalt" />
+      <runway name="10/28" length="1700" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Venezuela (SV**)-->
+  <airport name="Simón Bolívar International Airport" icao="SVMI" iata="CCS" type="Long_Haul_International" season="All_Year">
+    <town town="Caracas" country="184" GMT="-04:30:00" DST="-04:30:00" />
+    <coordinates>
+      <latitude value="010°36'11''N" />
+      <longitude value="066°59'26''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="28" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3027" surface="Asphalt" />
+      <runway name="10/28" length="3500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Guyana (SY**)-->
+  <airport name="Cheddi Jagan International Airport" icao="SYCJ" iata="GEO" type="Long_Haul_International" season="All_Year">
+    <town town="Georgetown" country="215" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="006°29'54''N" />
+      <longitude value="058°15'14''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2270" surface="Asphalt" />
+      <runway name="11/29" length="1525" surface="Asphalt" />
+    </runways>
+  </airport>
+</airports>
