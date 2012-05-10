@@ -1089,7 +1089,7 @@
 			<zh-CN name="中非共和國" />
     </translations>
   </country>
-  <country uid="221" shortname="CD" region="109" flag="Congo-DCR" tailformat="9Q-\\s3">
+  <country uid="221" shortname="CD" region="109" flag="Congo-DRC" tailformat="9Q-\\s3">
     <translations>
 			<en-US name="Democratic Republic of the Congo" />
 			<de-DE name="Demokratische Republik Kongo" />
