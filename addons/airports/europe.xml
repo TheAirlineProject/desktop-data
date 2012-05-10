@@ -2165,6 +2165,326 @@
     </runways>
   </airport>
   <!--Former Soviet States (U***)-->
+  <!--Russia (U***) except UA**, UB**, UD**, UG**, UK**, UM** and UT**-->
+  <airport name="Khabarovsk Novy Airport" icao="UHHH" iata="KHV" type="Short_Haul_International" season="All_Year">
+    <town town="Khabarovsk" country="149" GMT="11:00:00" DST="10:00:00"/>
+    <coordinates>
+      <latitude value="48°31'41''N"/>
+      <longitude value="135°11'18''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="05R/23L" length="4000" surface="Concrete"/>
+      <runway name="05L/23R" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Vladivostok International Airport" icao="UHWW" iata="VVO" type="Long_Haul_International" season="All_Year">
+    <town town="Vladivostok" country="149" GMT="11:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="043°23'57''N" />
+      <longitude value="132°09'05''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="16" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="973" surface="Asphalt" />
+      <runway name="07L/25R" length="3500" surface="Concrete" />
+      <runway name="07R/25L" length="2500" surface="Asphalt" />
+      <runway name="16/34" length="602" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Irkutsk International Airport" icao="UIII" iata="IKT" type="Long_Haul_International" season="All_Year">
+    <town town="Irkutsk" country="149" GMT="09:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="52°16'05''N"/>
+      <longitude value="104°23'20''E"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="11"/>
+      <terminal name="Terminal 2" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="3165" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Pulkovo Airport" icao="ULLI" iata="LED" type="Long_Haul_International" season="All_Year">
+    <town town="St Petersburg" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="059°57'00''N" />
+      <longitude value="030°03'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="25" />
+    </terminals>
+    <runways>
+      <runway name="10L/28R" length="3397" surface="Asphalt" />
+      <runway name="10R/28L" length="3780" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Khrabrovo Airport" icao="UMKK" iata="KGD" type="Short_Haul_International" season="All_Year">
+    <town town="Kaliningrad" country="149" GMT="03:00:00" DST="02:00:00"/>
+    <coordinates>
+      <latitude value="54°53'24''N"/>
+      <longitude value="20°35'33''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="4"/>
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2499" surface="Concrete"/>
+    </runways>
+  </airport>
+    <airport name="Yemelyanovo International Airport" icao="UNKL" iata="KJA" type="Short_Haul_International" season="All_Year">
+    <town town="Krasnoyarsk" country="149" GMT="08:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="56°10'18''N"/>
+      <longitude value="92°29'36''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="11"/>
+      </terminals>
+    <runways>
+      <runway name="11/29" length="3700" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Novosibirsk Tolmachevo Airport" icao="UNNT" iata="OVB" type="Long_Haul_International" season="All_Year">
+    <town town="Novosibirsk" country="149" GMT="07:00:00" DST="06:00:00"/>
+    <coordinates>
+      <latitude value="55°00'45''N"/>
+      <longitude value="82°39'02''E"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="21"/>
+       <terminal name="Terminal 2" gates="17"/>
+      </terminals>
+    <runways>
+      <runway name="07/25" length="3600" surface="Asphalt"/>
+      <runway name="07L/25R" length="2995" surface="Grass"/>
+        <runway name="16/34" length="3605" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Krasnodar International Airport" icao="URKK" iata="KRR" type="Long_Haul_International" season="All_Year">
+    <town town="Krasnodar" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="045°02'04''N" />
+      <longitude value="039°10'14''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="15" />
+    </terminals>
+    <runways>
+      <runway name="08L/26R" length="2497" surface="Asphalt" />
+      <runway name="08R/26L" length="3025" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Mineralnye Vody Airport" icao="URMM" iata="MRV" type="Long_Haul_International" season="All_Year">
+    <town town="Mineralnye Vody" country="149" GMT="04:00:00" DST="03:00:00"/>
+    <coordinates>
+      <latitude value="44°13'30''N"/>
+      <longitude value="43°05'00''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="3900" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Rostov-on-Don Airport" icao="URRR" iata="ROV" type="Short_Haul_International" season="All_Year">
+    <town town="Rostov-on-Don" country="149" GMT="04:00:00" DST="03:00:00"/>
+    <coordinates>
+      <latitude value="47°15'30''N"/>
+      <longitude value="39°49'6''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="8"/>
+      </terminals>
+    <runways>
+      <runway name="08/26" length="1320" surface="Grass"/>
+      <runway name="04R/22L" length="1951" surface="Grass"/>
+      <runway name="04/22" length="2500" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Sochi International Airport" icao="URSS" iata="AER" type="Long_Haul_International" season="All_Year">
+    <town town="Sochi" country="149" GMT="04:00:00" DST="03:00:00"/>
+    <coordinates>
+      <latitude value="43°27'00''N"/>
+      <longitude value="39°57'24''E"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="27"/>
+       </terminals>
+    <runways>
+      <runway name="02/20" length="2200" surface="Asphalt"/>
+      <runway name="06/24" length="2890" surface="Asphalt"/>
+      </runways>
+  </airport>
+  <airport name="Volgograd International Airport" icao="URWW" iata="VOG" type="Short_Haul_International" season="All_Year">
+    <town town="Volgograd" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="048°45'00''N" />
+      <longitude value="044°30'00''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="15" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Surgut International Airport" icao="USRR" iata="SGC" type="Short_Haul_International" season="All_Year">
+    <town town="Surgut" country="149" GMT="06:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="061°20'36''N" />
+      <longitude value="073°24'12''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="14" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2790" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Roshchino International Airport" icao="USTR" iata="TJM" type="Short_Haul_International" season="All_Year">
+    <town town="Tyumen" country="149" GMT="07:00:00" DST="06:00:00"/>
+    <coordinates>
+      <latitude value="57°10'6''N"/>
+      <longitude value="65°19'0''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3002" surface="Concrete"/>
+      <runway name="12/30" length="2703" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Koltsovo Airport" icao="USSS" iata="SVX" type="Long_Haul_International" season="All_Year">
+    <town town="Ekaterinburg" country="149" GMT="06:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="056°51'00''N" />
+      <longitude value="060°36'00''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="20" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Domodedovo International Airport" icao="UUDD" iata="DME" type="Long_Haul_International" season="All_Year">
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="055°25'09''N" />
+      <longitude value="037°53'08''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="37" />
+    </terminals>
+    <runways>
+      <runway name="14L/32R" length="3800" surface="Concrete" />
+      <runway name="14C/32C" length="2600" surface="Concrete" />
+      <runway name="14R/32L" length="3500" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Sheremetyevo International Airport" icao="UUEE" iata="SVO" type="Long_Haul_International" season="All_Year">
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="055°58'18''N" />
+      <longitude value="037°24'54''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="28" />
+    </terminals>
+    <runways>
+      <runway name="07L/25R" length="3550" surface="Concrete" />
+      <runway name="07R/25L" length="3700" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Vnukovo International Airport" icao="UUWW" iata="VKO" type="Long_Haul_International" season="All_Year">
+    <town town="Moscow" country="149" GMT="04:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="055°35'29''N" />
+      <longitude value="037°15'41''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="17" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="3060" surface="Concrete" />
+      <runway name="06/24" length="3000" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Kazan International Airport" icao="UWKD" iata="KZN" type="Long_Haul_International" season="All_Year">
+    <town town="Kazan" country="149" GMT="04:00:00" DST="03:00:00"/>
+    <coordinates>
+      <latitude value="55°36'24''N"/>
+      <longitude value="49°16'54''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="11L/29R" length="3724" surface="Concrete"/>
+      <runway name="11R/29L" length="2498" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Ufa International Airport" icao="UWUU" iata="UFA" type="Short_Haul_International" season="All_Year">
+    <town town="Ufa" country="149" GMT="06:00:00" DST="05:00:00"/>
+    <coordinates>
+      <latitude value="54°33'27''N"/>
+      <longitude value="55°52'27''E"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="02/20" length="675" surface="Grass"/>
+      <runway name="05/23" length="725" surface="Grass"/>
+      <runway name="14/32" length="644" surface="Grass"/>
+      <runway name="14R/32L" length="3761" surface="Concrete"/>
+      <runway name="14L/32R" length="2513" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Kurumoch International Airport" icao="UWWW" iata="KUF" type="Short_Haul_International" season="All_Year">
+    <town town="Samara" country="149" GMT="05:00:00" DST="04:00:00"/>
+    <coordinates>
+      <latitude value="53°30'06''N"/>
+      <longitude value="50°09'18''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="12"/>
+       </terminals>
+    <runways>
+      <runway name="05/23" length="2548" surface="Asphalt"/>
+      <runway name="15/33" length="3001" surface="Concrete"/>
+      </runways>
+  </airport>
   <!--Ukraine (UK**)-->
   <airport name="Boryspil International Airport" icao="UKBB" iata="KBP" type="Long_Haul_International" season="All_Year">
     <town town="Kiev" country="134" GMT="03:00:00" DST="02:00:00" />
