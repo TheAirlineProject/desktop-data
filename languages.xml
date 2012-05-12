@@ -144,21 +144,21 @@
       <de-DE name="Missing" />
       <en-US name="Type" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="类型" />
     </Text>
     <Text uid="1001">
       <en-GB name="Subject" />
       <de-DE name="Missing" />
       <en-US name="Subject" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="主题" />
     </Text>
     <Text uid="1002">
       <en-GB name="Received" />
       <de-DE name="Missing" />
       <en-US name="Received" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="已收" />
     </Text>
   </Region>
   <Region name="PopUpTimeTable">
@@ -552,7 +552,7 @@
       <de-DE name="Missing" />
       <en-US name="Seasonal" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="季节性" />
     </Text>
   </Region>
   <Region name="PageAirportRunways">
@@ -1558,7 +1558,7 @@
       <de-DE name="Missing" />
       <en-US name="Distances" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="距离" />
     </Text>
   </Region>
   <Region name="PanelAirports">
