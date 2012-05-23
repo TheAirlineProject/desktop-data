@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Bombardier" name="Bombardier CRJ200" price="24000000">
+  <airliner manufacturer="Bombardier" name="Bombardier CRJ100" price="24000000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
     <specs wingspan="21.21" length="26.77" range="2050" speed="809" consumption="0.040" runwaylengthrequired="1575"/>
     <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
