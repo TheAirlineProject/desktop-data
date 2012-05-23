@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Vickers" name="Vickers VC10" price="3000000">
+  <airliner manufacturer="Vickers" name="Vickers VC10" price="6100000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="44.55" length="48.36" range="9412" speed="933" consumption="0.024" runwaylengthrequired="2524"/>
+    <specs wingspan="44.55" length="48.36" range="9412" speed="933" consumption="0.056" runwaylengthrequired="2480"/>
     <capacity passengers="151" cockpitcrew="4" cabincrew="3" maxclasses="1"/>
     <produced from="1962" to="1970"/>
   </airliner>

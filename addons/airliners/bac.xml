@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="BAC" name="BAC One-Eleven 200" price="2000000">
+  <airliner manufacturer="BAC" name="BAC One-Eleven 200" price="1900000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="26.98" length="28.50" range="1140" speed="882" consumption="0.024" runwaylengthrequired="1981"/>
+    <specs wingspan="26.98" length="28.50" range="1140" speed="882" consumption="0.043" runwaylengthrequired="1605"/>
     <capacity passengers="89" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1963" to="1969"/>
+    <produced from="1965" to="1969"/>
   </airliner>
-  <airliner manufacturer="BAC" name="BAC One-Eleven 500" price="5000000">
+  <airliner manufacturer="BAC" name="BAC One-Eleven 300" price="2000000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="26.98" length="28.50" range="2300" speed="882" consumption="0.042" runwaylengthrequired="1620"/>
+    <capacity passengers="89" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1965" to="1969"/>
+  </airliner>
+  <airliner manufacturer="BAC" name="BAC One-Eleven 400" price="2200000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="26.98" length="28.50" range="2300" speed="882" consumption="0.042" runwaylengthrequired="1625"/>
+    <capacity passengers="89" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1966" to="1979"/>
+  </airliner>
+  <airliner manufacturer="BAC" name="BAC One-Eleven 475" price="3200000">
+	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+    <specs wingspan="28.50" length="28.50" range="3000" speed="871" consumption="0.040" runwaylengthrequired="1500"/>
+    <capacity passengers="89" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <produced from="1968" to="1982"/>
+  </airliner>
+  <airliner manufacturer="BAC" name="BAC One-Eleven 500" price="7000000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.50" length="32.61" range="2744" speed="871" consumption="0.021" runwaylengthrequired="1981"/>
-    <capacity passengers="119" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
-    <produced from="1967" to="1975"/>
+    <specs wingspan="28.50" length="32.61" range="2744" speed="871" consumption="0.031" runwaylengthrequired="1590"/>
+    <capacity passengers="119" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="1967" to="1982"/>
   </airliner>
 </airliners>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Sud Aviation" name="Sud Aviation Caravelle III" price="2000000">
-	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="34.30" length="31.01" range="1700" speed="805" consumption="0.021" runwaylengthrequired="1469"/>
-    <capacity passengers="80" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+  <airliner manufacturer="Sud Aviation" name="Sud Aviation Caravelle I" price="2200000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+    <specs wingspan="34.30" length="31.01" range="1700" speed="805" consumption="0.055" runwaylengthrequired="2000"/>
+    <capacity passengers="80" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
     <produced from="1959" to="1967"/>
   </airliner>
 </airliners>

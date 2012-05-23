@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="BAe" name="BAe 146-200" price="16000000">
+  <airliner manufacturer="BAe" name="BAe 146-200" price="12700000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="26.21" length="28.60" range="2909" speed="801" consumption="0.021" runwaylengthrequired="1200"/>
-    <capacity passengers="82" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <specs wingspan="26.21" length="28.60" range="2909" speed="801" consumption="0.039" runwaylengthrequired="1300"/>
+    <capacity passengers="112" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1982" to="1999"/>
   </airliner>
 </airliners>

@@ -2,7 +2,7 @@
 <!--For each type there must be one with typelevel == 0 -->
 <airportfacilities>
   <airportfacility uid="100" shortname="Service None" type="Service" typelevel="0" price="0">
-    <level service="0" luxury="0"></level>
+    <level service="0" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -12,7 +12,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0">
-    <level service="0" luxury="0"></level>
+    <level service="0" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -21,8 +21,38 @@
 			<zh-CN name="无" />
     </translations>
   </airportfacility>
-  <airportfacility uid="102" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="1000000">
-    <level service="3" luxury="0"></level>
+  <airportfacility uid="102" shortname="CheckIn None" type="CheckIn" typelevel="0" price="0">
+    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="None" />
+			<de-DE name="Keiner" />
+			<en-GB name="None" />
+			<nl-NL name="Geen" />
+			<zh-CN name="无" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="103" shortname="SelfCheck None" type="SelfCheck" typelevel="0" price="0">
+    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="None" />
+			<de-DE name="Keiner" />
+			<en-GB name="None" />
+			<nl-NL name="Geen" />
+			<zh-CN name="无" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="104" shortname="Ticket None" type="TicketOffice" typelevel="0" price="0">
+    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="None" />
+			<de-DE name="Keiner" />
+			<en-GB name="None" />
+			<nl-NL name="Geen" />
+			<zh-CN name="无" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000">
+    <level service="3" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Basic Service Center" />
 			<de-DE name="Einfacher Informationsschalter" />
@@ -31,8 +61,8 @@
 			<zh-CN name="简陋服务中心" />
     </translations>
   </airportfacility>
- <airportfacility uid="103" shortname="ServiceCenter" type="Service" typelevel="2" price="2000000">
-    <level service="7" luxury="0"></level>
+ <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000">
+    <level service="7" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Service Center" />
 			<de-DE name="Informationsschalter" />
@@ -41,8 +71,8 @@
 			<zh-CN name="服务中心" />
     </translations>
   </airportfacility>
-  <airportfacility uid="104" shortname="Large ServiceCenter" type="Service" typelevel="3" price="5000000">
-    <level service="10" luxury="0"></level>
+  <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000">
+    <level service="10" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Large Service Center" />
 			<de-DE name="Großer Informationsschalter" />
@@ -51,8 +81,8 @@
 			<zh-CN name="大型服务中心" />
     </translations>
   </airportfacility>
-  <airportfacility uid="105" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
-    <level service="0" luxury="5"></level>
+  <airportfacility uid="108" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000">
+    <level service="0" luxury="15" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Business Lounge" />
 			<de-DE name="Business Aufenthaltsbereich" />
@@ -61,14 +91,44 @@
 			<zh-CN name="商务休息室" />
     </translations>
   </airportfacility>
-  <airportfacility uid="106" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="4000000">
-    <level service="0" luxury="10"></level>
+  <airportfacility uid="109" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="2100000">
+    <level service="0" luxury="30" cargoCapacity="0"></level>
     <translations>
 			<en-US name="First Class Lounge" />
 			<de-DE name="First Class Aufenthaltsbereich" />
 			<en-GB name="First Class Lounge" />
 			<nl-NL name="First Class Lounge" />
 			<zh-CN name="贵宾休息室" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500">
+    <level service="0" luxury="5" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="Check In Desks" />
+			<de-DE name="Missing" />
+			<en-GB name="Check In Desks" />
+			<nl-NL name="Missing" />
+			<zh-CN name="Missing" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="111" shortname="Self CheckIn" type="SelfCheck" typelevel="1" price="330">
+    <level service="0" luxury="9" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="Self Check In" />
+			<de-DE name="Missing" />
+			<en-GB name="Self Check In" />
+			<nl-NL name="Missing" />
+			<zh-CN name="Missing" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="129500">
+    <level service="0" luxury="15" cargoCapacity="0"></level>
+    <translations>
+			<en-US name="Airport Ticket Office" />
+			<de-DE name="Missing" />
+			<en-GB name="Airport Ticket Office" />
+			<nl-NL name="Missing" />
+			<zh-CN name="Missing" />
     </translations>
   </airportfacility>
 </airportfacilities>
