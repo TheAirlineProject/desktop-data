@@ -487,6 +487,21 @@
       <runway name="13/31" length="2680" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Central Illinois Regional Airport" icao="KBMI" iata="BMI" type="Domestic" season="All_Year">
+    <town town="Bloomington, IL" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="040°28'38''N" />
+      <longitude value="088°54'57''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="2/20" length="2438" surface="Concrete" />
+      <runway name="11/29" length="1989" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Boise Airport" icao="KBOI" iata="BOI" type="Domestic" season="All_Year">
     <town town="Boise, ID" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
@@ -2123,6 +2138,22 @@
     <runways>
       <runway name="1/19" length="2134" surface="Concrete" />
       <runway name="10/28" length="2850" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Santa Barbara Municipal Airport" icao="KSBA" iata="SBA" type="Regional" season="All_Year">
+    <town town="Santa Barbara, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="034°25'34''N" />
+      <longitude value="119°50'25''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="7/25" length="1845" surface="Asphalt" />
+	  <runway name="15L/33R" length="1274" surface="Asphalt" />
+      <runway name="15R/33L" length="1275" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Louisville International Airport" icao="KSDF" iata="SDF" type="Short_Haul_International" season="All_Year">
