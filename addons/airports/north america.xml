@@ -284,6 +284,21 @@
     </runways>
   </airport>
   <!--United States (K***)-->
+  <airport name="Lehigh Valley International Airport" icao="KABE" iata="ABE" type="Short_Haul_International" season="All_Year">
+    <town town="Allentown, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="040°39'08''N" />
+      <longitude value="075°26'26''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="6/24" length="2316" surface="Asphalt" />
+      <runway name="13/31" length="1767" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Abilene Regional Airport" icao="KABI" iata="ABI" type="Regional" season="All_Year">
     <town town="Abilene, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -926,6 +941,21 @@
       <runway name="4/22" length="3664" surface="Asphalt" />
       <runway name="8L/26R" length="1674" surface="Asphalt" />
       <runway name="8R/26L" length="2751" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Erie International Airport" icao="KERI" iata="ERI" type="Short_Haul_International" season="All_Year">
+    <town town="Erie, PA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="042°04'55''N" />
+      <longitude value="080°10'34''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="2/20" length="1069" surface="Asphalt" />
+      <runway name="6/24" length="1981" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Newark Liberty International Airport" icao="KEWR" iata="EWR" type="Long_Haul_International" season="All_Year">
@@ -2809,6 +2839,52 @@
       <runway name="07/25" length="2164" surface="Asphalt" />
     </runways>
   </airport>
+  <!--Caribbean (T***)-->
+  <!--Barbados (TB**)-->
+  <airport name="Grantley Adams International Airport" icao="TBPB" iata="BGI" type="Long_Haul_International" season="Summer">
+    <town town="Bridgetown" country="227" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="013°04'29''N" />
+      <longitude value="059°29'33''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3354" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Dominica (TD**)-->
+  <airport name="Melville Hall Airport" icao="TDPD" iata="DOM" type="Long_Haul_International" season="Summer">
+    <town town="Roseau" country="228" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="015°32'49''N" />
+      <longitude value="061°18'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1756" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Grenada (TG**)-->
+  <airport name="Melville Hall Airport" icao="TGPY" iata="GND" type="Long_Haul_International" season="Summer">
+    <town town="St. George's" country="229" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="012°00'15''N" />
+      <longitude value="061°47'10''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2744" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--United States (Virgin Islands) (TI**)-->
   <airport name="Cyril E. King Airport" icao="TIST" iata="STT" type="Long_Haul_International" season="Summer">
     <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00" />
@@ -2840,33 +2916,19 @@
       <runway name="10/28" length="2443" surface="Concrete" />
     </runways>
   </airport>
-  <!--Caribbean Netherlands (TN**)-->
-  <airport name="Flamingo International Airport" icao="TNCB" iata="BON" type="Long_Haul_International" season="All_Year">
-    <town town="Kralendijk" country="109" GMT="-04:00:00" DST="-04:00:00" />
+  <!--Saint Kitts and Nevis (TK**)-->
+  <airport name="Robert L. Bradshaw International Airport" icao="TKPK" iata="SKB" type="Long_Haul_International" season="Summer">
+    <town town="Basseterre" country="230" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
-      <latitude value="012°07'51''N" />
-      <longitude value="068°16'06''W" />
+      <latitude value="017°18'40''N" />
+      <longitude value="062°43'07''W" />
     </coordinates>
     <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="3" />
+      <terminal name="Terminal" gates="6" />
     </terminals>
     <runways>
-      <runway name="10/28" length="2880" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Princess Juliana International Airport" icao="TNCM" iata="SXM" type="Long_Haul_International" season="All_Year">
-    <town town="Philipsburg" country="109" GMT="-04:00:00" DST="-04:00:00" />
-    <coordinates>
-      <latitude value="018°02'26''N" />
-      <longitude value="063°06'32''W" />
-    </coordinates>
-    <size value="Smallest" />
-    <terminals>
-      <terminal name="Terminal" gates="11" />
-    </terminals>
-    <runways>
-      <runway name="10/28" length="2300" surface="Asphalt" />
+      <runway name="07/25" length="2439" surface="Asphalt" />
     </runways>
   </airport>
   <!--St. Lucia (TL**)-->
@@ -2896,6 +2958,35 @@
     </terminals>
     <runways>
       <runway name="10/28" length="2744" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Caribbean Netherlands (TN**)-->
+  <airport name="Flamingo International Airport" icao="TNCB" iata="BON" type="Long_Haul_International" season="All_Year">
+    <town town="Kralendijk" country="109" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="012°07'51''N" />
+      <longitude value="068°16'06''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2880" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Princess Juliana International Airport" icao="TNCM" iata="SXM" type="Long_Haul_International" season="All_Year">
+    <town town="Philipsburg" country="109" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°02'26''N" />
+      <longitude value="063°06'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2300" surface="Asphalt" />
     </runways>
   </airport>
   <!--Trinidad and Tobago (TT**)-->

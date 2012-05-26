@@ -129,7 +129,7 @@
   </airport>
   <!--United States (Guam) (PG**)-->
   <airport name="Antonio B. Won Pat International Airport" icao="PGUM" iata="GUM" type="Long_Haul_International" season="All_Year">
-    <town town="Hagåtña, GU" country="122" GMT="10:00:00" DST="10:00:00" />
+    <town town="Hagåtña, GU" country="226" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="013°29'02''N" />
       <longitude value="144°47'49''E" />
