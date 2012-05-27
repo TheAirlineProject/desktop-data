@@ -2000,7 +2000,7 @@
     </runways>
   </airport>
   <airport name="Portland International Jetport" icao="KPWM" iata="PWM" type="Short_Haul_International" season="All_Year">
-    <town town="Portland, OR" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Portland, ME" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="043°38'59''N" />
       <longitude value="070°17'59''W" />
@@ -2121,6 +2121,22 @@
     </terminals>
     <runways>
       <runway name="6/24" length="3658" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Santa Fe Municipal Airport" icao="KSAF" iata="SAF" type="Domestic" season="All_Year">
+    <town town="Santa Fe, NM" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="035°37'02''N" />
+      <longitude value="106°05'22''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="2/20" length="2543" surface="Asphalt" />
+	  <runway name="10/28" length="1922" surface="Asphalt" />
+	  <runway name="15/33" length="1920" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="San Diego International Airport" icao="KSAN" iata="SAN" type="Long_Haul_International" season="All_Year">
