@@ -554,6 +554,13 @@
       <nl-NL name="Missing" />
       <zh-CN name="季节性" />
     </Text>
+    <Text uid="1020">
+      <en-GB name="Passengers" />
+      <de-DE name="Passagiere" />
+      <en-US name="Passengers" />
+      <nl-NL name="Passagiers" />
+      <zh-CN name="Missing" />
+    </Text>
   </Region>
   <Region name="PageAirportRunways">
     <Text uid="1001">
