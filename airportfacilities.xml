@@ -108,7 +108,7 @@
 			<de-DE name="Missing" />
 			<en-GB name="Check In Desks" />
 			<nl-NL name="Missing" />
-			<zh-CN name="Missing" />
+			<zh-CN name="登机手续办理台" />
     </translations>
   </airportfacility>
   <airportfacility uid="111" shortname="Self CheckIn" type="SelfCheck" typelevel="1" price="330">
@@ -118,7 +118,7 @@
 			<de-DE name="Missing" />
 			<en-GB name="Self Check In" />
 			<nl-NL name="Missing" />
-			<zh-CN name="Missing" />
+			<zh-CN name="自助值机" />
     </translations>
   </airportfacility>
   <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="129500">
@@ -128,7 +128,7 @@
 			<de-DE name="Missing" />
 			<en-GB name="Airport Ticket Office" />
 			<nl-NL name="Missing" />
-			<zh-CN name="Missing" />
+			<zh-CN name="机场售票处" />
     </translations>
   </airportfacility>
 </airportfacilities>

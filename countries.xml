@@ -1140,7 +1140,7 @@
 			<de-DE name="Guam" />
 			<en-GB name="Guam" />
 			<nl-NL name="Guam" />
-			<zh-CN name="Guam" />
+			<zh-CN name="关岛" />
     </translations>
   </country>
   <country uid="227" shortname="BAR" region="104" flag="Barbados" tailformat="8P-\s3">
@@ -1149,7 +1149,7 @@
 			<de-DE name="Barbados" />
 			<en-GB name="Barbados" />
 			<nl-NL name="Barbados" />
-			<zh-CN name="Barbados" />
+			<zh-CN name="巴巴多斯" />
     </translations>
   </country>
   <country uid="228" shortname="DMC" region="104" flag="Dominica" tailformat="J7-\s3">
@@ -1158,7 +1158,7 @@
 			<de-DE name="Dominica" />
 			<en-GB name="Dominica" />
 			<nl-NL name="Dominica" />
-			<zh-CN name="Dominica" />
+			<zh-CN name="多米尼加" />
     </translations>
   </country>
   <country uid="229" shortname="GDA" region="104" flag="Grenada" tailformat="J3-\s3">
@@ -1167,7 +1167,7 @@
 			<de-DE name="Grenada" />
 			<en-GB name="Grenada" />
 			<nl-NL name="Grenada" />
-			<zh-CN name="Grenada" />
+			<zh-CN name="格林纳达" />
     </translations>
   </country>
   <country uid="230" shortname="SKN" region="104" flag="St Kitts &amp; Nevis" tailformat="V4-\s3">
@@ -1176,7 +1176,7 @@
 			<de-DE name="Saint Kitts &amp; Nevis" />
 			<en-GB name="Saint Kitts &amp; Nevis" />
 			<nl-NL name="Saint Kitts &amp; Nevis" />
-			<zh-CN name="Saint Kitts &amp; Nevis" />
+			<zh-CN name="圣基茨尼维斯" />
     </translations>
   </country>
 </countries>

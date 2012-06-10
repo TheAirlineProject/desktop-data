@@ -559,7 +559,7 @@
       <de-DE name="Passagiere" />
       <en-US name="Passengers" />
       <nl-NL name="Passagiers" />
-      <zh-CN name="Missing" />
+      <zh-CN name="乘客" />
     </Text>
   </Region>
   <Region name="PageAirportRunways">
