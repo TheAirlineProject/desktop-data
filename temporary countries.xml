@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country uid="1001" shortname="GDR" region="108" flag="East Germany" tailformat="D-\\s4">
+    <translations>
+			<en-US name="German Democratic Republic" />
+			<de-DE name="Deutsche Demokratische Republik" />
+			<en-GB name="German Democratic Republic" />
+			<nl-NL name="Duitse Democratische Republiek" />
+			<zh-CN name="東德" />
+    </translations>
+    <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
+    <history before="163" after="163"></history>
+  </country>
+  </countries>
