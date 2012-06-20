@@ -860,6 +860,20 @@
       <nl-NL name="Bestemmingen / Hubs"/>
       <zh-CN name="目的地 / 枢纽"/>
     </Text>
+    <Text uid="1012">
+      <en-GB name="Alliances"/>
+      <de-DE name="Missing"/>
+      <en-US name="Alliances"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1013">
+      <en-GB name="None"/>
+      <de-DE name="Missing"/>
+      <en-US name="None"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlines">
     <Text uid="1000">
@@ -868,6 +882,22 @@
       <en-US name="Airlines"/>
       <nl-NL name="Luchtvaartmaatschappijen"/>
       <zh-CN name="航空公司"/>
+    </Text>
+  </Region>
+    <Region name="PageAlliances">
+    <Text uid="1000">
+      <en-GB name="Alliances"/>
+      <de-DE name="Missing"/>
+      <en-US name="Alliances"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="200">
+      <en-GB name="Create new alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Create new alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
     </Text>
   </Region>
   <Region name="PageNewsBox">
@@ -1272,6 +1302,36 @@
       <zh-CN name="工资与费用"/>
     </Text>
   </Region>
+      <Region name="PanelAlliance">
+    <Text uid="200">
+      <en-GB name="Join alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Join alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="201">
+      <en-GB name="Invite to alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Invite to alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="202">
+      <en-GB name="Delete alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Delete alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="203">
+      <en-GB name="Exit from alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Exit from alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+  </Region>
   <Region name="PanelAirliner">
     <Text uid="1001">
       <en-GB name="Airliner Type Specifications"/>
@@ -1590,6 +1650,36 @@
       <zh-CN name="统计"/>
     </Text>
   </Region>
+    <Region name="PanelNewAlliance">
+     <Text uid="200">
+      <en-GB name="New Alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="New Alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="201">
+      <en-GB name="Alliance name"/>
+      <de-DE name="Missing"/>
+      <en-US name="Alliance name"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+  <Text uid="202">
+      <en-GB name="Headquarter"/>
+      <de-DE name="Missing"/>
+      <en-US name="Headquarter"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="203">
+      <en-GB name="Create alliance"/>
+      <de-DE name="Missing"/>
+      <en-US name="Create alliance"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    </Region>
   <Region name="PanelNewRoute">
       <Text uid="201">
       <en-GB name="Create new route"/>
@@ -2030,7 +2120,37 @@
       <zh-CN name="无效时间表" message="该时间表无效."/>
     </Text>
     <!-- END - Route Model -->
-  </Region>
+  <!--BEGIN - Alliance Model-->
+   <Text uid="2601">
+      <en-GB name="Join alliance" message="Are you sure you want to join {0}?."/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Join alliance" message="Are you sure you want to join {0}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
+    <Text uid="2602">
+      <en-GB name="Exit alliance" message="Are you sure you want to exit {0}?."/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Join alliance" message="Are you sure you want to exit {0}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
+    <Text uid="2603">
+      <en-GB name="Delete alliance" message="Are you sure you want to delete {0}?."/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Join alliance" message="Are you sure you want to delete {0}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
+      <Text uid="2604">
+      <en-GB name="Create alliance" message="Are you sure you want to create this alliance?."/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Create alliance" message="Are you sure you want to create this alliance?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
+      <!--END - Alliance Model-->
+    </Region>
   <Region name="News">
     <Text uid="1001">
       <en-GB name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of {1}. I hope you will enjoy the game.&#10;Good luck."/>
