@@ -157,7 +157,7 @@
       <de-DE name="Missing" />
       <en-US name="Received" />
       <nl-NL name="Missing" />
-      <zh-CN name="已收" />
+      <zh-CN name="接收时间" />
     </Text>
   </Region>
   <Region name="PopUpTimeTable">
