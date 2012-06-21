@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--Southwest Asia (O***)-->
@@ -936,6 +936,66 @@
     <runways>
       <runway name="02L/20R" length="3600" surface="Concrete" />
       <runway name="02R/20L" length="3600" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Changsha Huanghua International Airport" icao="ZGHA" iata="CSX" type="Long_Haul_International" season="All_Year">
+    <town town="Changsha" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="28°11'48''N" />
+      <longitude value="113°13'15''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="40" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3200" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Nanjing Lukou International Airport" icao="ZSNJ" iata="NKG" type="Long_Haul_International" season="All_Year">
+    <town town="Nanjing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="31°44'32''N" />
+      <longitude value="118°51'43''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal 1" gates="35" />
+      <terminal name="Terminal 2" gates="68" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="3600" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Taipei Songshan International Airport" icao="RCSS" iata="TSA" type="Long_Haul_International" season="All_Year">
+    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="25°04'10''N" />
+      <longitude value="121°33'06''E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal 1" gates="50" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2605" surface="Paved" />
+    </runways>
+  </airport>
+  <airport name="Kaohsiung International Airport" icao="RCKH" iata="KHH" type="Long_Haul_International" season="All_Year">
+    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="22°34'37''N" />
+      <longitude value="120°21'00''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal 1" gates="35" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3150" surface="Paved" />
     </runways>
   </airport>
 </airports>
