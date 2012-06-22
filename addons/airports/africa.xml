@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--West Africa (D***)-->
@@ -216,19 +216,19 @@
   </airport>
   <!--Central African Republic (FE**)-->
   <airport name="Bangui M’Poko International Airport" icao="FEFF" iata="BGF" type="Long_Haul_International" season="All_Year">
-    <town town="Bangui" country="220" GMT="01:00:00" DST="01:00:00"/>
+    <town town="Bangui" country="220" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="04°23'54''N"/>
-      <longitude value="18°31'07''E"/>
+      <latitude value="04°23'54''N" />
+      <longitude value="18°31'07''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="2"/>
+      <terminal name="Terminal" gates="2" />
     </terminals>
     <runways>
-      <runway name="17/35" length="2600" surface="Asphalt"/>
+      <runway name="17/35" length="2600" surface="Asphalt" />
     </runways>
-   </airport>
+  </airport>
   <!--Mauritius (FI**)-->
   <airport name="Sir Seewoosagur Ramgoolam International Airport" icao="FIMP" iata="MRU" type="Long_Haul_International" season="All_Year">
     <town town="Port Louis" country="206" GMT="00:00:00" DST="00:00:00" />
@@ -246,48 +246,48 @@
   </airport>
   <!--Zambia (FL**)-->
   <airport name="Harry Mwanga Nkumbula International Airport" icao="FLLI" iata="LVI" type="Short_Haul_International" season="All_Year">
-    <town town="Livingstone" country="225" GMT="02:00:00" DST="02:00:00"/>
+    <town town="Livingstone" country="225" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
-      <latitude value="017°49'18''S"/>
-      <longitude value="025°49'21''E"/>
+      <latitude value="017°49'18''S" />
+      <longitude value="025°49'21''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="2"/>
+      <terminal name="Terminal" gates="2" />
     </terminals>
     <runways>
-      <runway name="10/28" length="2292" surface="Asphalt"/>
-      <runway name="15/33" length="1372" surface="Concrete"/>
+      <runway name="10/28" length="2292" surface="Asphalt" />
+      <runway name="15/33" length="1372" surface="Concrete" />
     </runways>
   </airport>
   <airport name="Kenneth Kaunda International Airport" icao="FLLS" iata="LUN" type="Short_Haul_International" season="All_Year">
-    <town town="Lusaka" country="225" GMT="02:00:00" DST="02:00:00"/>
+    <town town="Lusaka" country="225" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
-      <latitude value="015°19'50''S"/>
-      <longitude value="028°27'09''E"/>
+      <latitude value="015°19'50''S" />
+      <longitude value="028°27'09''E" />
     </coordinates>
-    <size value="Very_small"/>
+    <size value="Very_small" />
     <terminals>
-      <terminal name="Terminal" gates="12"/>
+      <terminal name="Terminal" gates="12" />
     </terminals>
     <runways>
-      <runway name="10/28" length="3962" surface="Asphalt"/>
-      <runway name="15/33" length="823" surface="Grass"/>
+      <runway name="10/28" length="3962" surface="Asphalt" />
+      <runway name="15/33" length="823" surface="Grass" />
     </runways>
   </airport>
   <airport name="Ndola Airport" icao="FLND" iata="NLA" type="Regional" season="All_Year">
-    <town town="Ndola" country="225" GMT="02:00:00" DST="02:00:00"/>
+    <town town="Ndola" country="225" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
-      <latitude value="012°59'53''S"/>
-      <longitude value="028°39'53''E"/>
+      <latitude value="012°59'53''S" />
+      <longitude value="028°39'53''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="2"/>
+      <terminal name="Terminal" gates="2" />
     </terminals>
     <runways>
-      <runway name="10L/28R" length="2515" surface="Concrete"/>
-      <runway name="10R/28L" length="1219" surface="Concrete"/>
+      <runway name="10L/28R" length="2515" surface="Concrete" />
+      <runway name="10R/28L" length="1219" surface="Concrete" />
     </runways>
   </airport>
   <!--Comoros, Madagascar, Mayotte and Reunion (FM**)-->
@@ -308,47 +308,47 @@
   </airport>
   <!--Angola (FN**)-->
   <airport name="Quatro De Fevereiro Airport" icao="FNLU" iata="LAD" type="Long_Haul_International" season="All_Year">
-    <town town="Luanda" country="224" GMT="01:00:00" DST="01:00:00"/>
+    <town town="Luanda" country="224" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="008°51'30''S"/>
-      <longitude value="013°13'52''E"/>
+      <latitude value="008°51'30''S" />
+      <longitude value="013°13'52''E" />
     </coordinates>
-    <size value="Very_small"/>
+    <size value="Very_small" />
     <terminals>
-      <terminal name="Terminal" gates="9"/>
+      <terminal name="Terminal" gates="9" />
     </terminals>
     <runways>
-      <runway name="05/23" length="3716" surface="Asphalt"/>
-      <runway name="07/25" length="2600" surface="Asphalt"/>
+      <runway name="05/23" length="3716" surface="Asphalt" />
+      <runway name="07/25" length="2600" surface="Asphalt" />
     </runways>
   </airport>
   <!--Democratic Republic of the Congo (FZ**)-->
   <airport name="N'Djili International Airport" icao="FZAA" iata="FIH" type="Long_Haul_International" season="All_Year">
-    <town town="Kinshasa" country="221" GMT="01:00:00" DST="01:00:00"/>
+    <town town="Kinshasa" country="221" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="04°23'08''N"/>
-      <longitude value="15°26'40''E"/>
+      <latitude value="04°23'08''N" />
+      <longitude value="15°26'40''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="4"/>
+      <terminal name="Terminal" gates="4" />
     </terminals>
     <runways>
-      <runway name="06/24" length="4700" surface="Concrete"/>
+      <runway name="06/24" length="4700" surface="Concrete" />
     </runways>
-   </airport>
-   <airport name="Mbandaka Airport" icao="FZEA" iata="MDK" type="Regional" season="All_Year">
-   <town town="Mbandaka" country="221" GMT="01:00:00" DST="01:00:00"/>
-   <coordinates>
-      <latitude value="00°01'21''N"/>
-      <longitude value="18°17'19''E"/>
+  </airport>
+  <airport name="Mbandaka Airport" icao="FZEA" iata="MDK" type="Regional" season="All_Year">
+    <town town="Mbandaka" country="221" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="00°01'21''N" />
+      <longitude value="18°17'19''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="3"/>
+      <terminal name="Terminal" gates="3" />
     </terminals>
     <runways>
-      <runway name="18/36" length="2202" surface="Asphalt"/>
+      <runway name="18/36" length="2202" surface="Asphalt" />
     </runways>
   </airport>
   <!--Northwestern Africa (G***)-->
@@ -587,63 +587,93 @@
   </airport>
   <!--Sudan (HS**)-->
   <airport name="Khartoum International Airport" icao="HSSS" iata="KRT" type="Long_Haul_International" season="All_Year">
-    <town town="Khartoum" country="223" GMT="03:00:00" DST="03:00:00"/>
+    <town town="Khartoum" country="223" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
-      <latitude value="015°35'22''N"/>
-      <longitude value="032°33'11''E"/>
+      <latitude value="015°35'22''N" />
+      <longitude value="032°33'11''E" />
     </coordinates>
-    <size value="Very_small"/>
+    <size value="Very_small" />
     <terminals>
-      <terminal name="Terminal 1" gates="7"/>
-        <terminal name="Terminal 2" gates="5"/>
-          <terminal name="Terminal 3" gates="4"/>
+      <terminal name="Terminal 1" gates="7" />
+      <terminal name="Terminal 2" gates="5" />
+      <terminal name="Terminal 3" gates="4" />
     </terminals>
     <runways>
-      <runway name="18/36" length="2972" surface="Asphalt"/>
+      <runway name="18/36" length="2972" surface="Asphalt" />
     </runways>
   </airport>
   <!--Tanzania (HT**)-->
   <airport name="Mwalimu Julius K. Nyerere International Airport" icao="HTDA" iata="DAR" type="Long_Haul_International" season="All_Year">
-    <town town="Dar es Salaam" country="222" GMT="03:00:00" DST="03:00:00"/>
+    <town town="Dar es Salaam" country="222" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
-      <latitude value="006°52'41''S"/>
-      <longitude value="039°12'09''E"/>
+      <latitude value="006°52'41''S" />
+      <longitude value="039°12'09''E" />
     </coordinates>
-    <size value="Very_small"/>
+    <size value="Very_small" />
     <terminals>
-      <terminal name="Terminal" gates="22"/>
+      <terminal name="Terminal" gates="22" />
     </terminals>
     <runways>
-      <runway name="05/23" length="3000" surface="Asphalt"/>
-      <runway name="14/32" length="1000" surface="Asphalt"/>
+      <runway name="05/23" length="3000" surface="Asphalt" />
+      <runway name="14/32" length="1000" surface="Asphalt" />
     </runways>
   </airport>
-    <airport name="Kilimanjaro International Airport" icao="HTKJ" iata="JRO" type="Short_Haul_International" season="All_Year">
-    <town town="Arusha" country="222" GMT="03:00:00" DST="03:00:00"/>
+  <airport name="Kilimanjaro International Airport" icao="HTKJ" iata="JRO" type="Short_Haul_International" season="All_Year">
+    <town town="Arusha" country="222" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
-      <latitude value="003°25'45''S"/>
-      <longitude value="037°04'28''E"/>
+      <latitude value="003°25'45''S" />
+      <longitude value="037°04'28''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="5"/>
+      <terminal name="Terminal" gates="5" />
     </terminals>
     <runways>
-      <runway name="09/27" length="3607" surface="Asphalt"/>
+      <runway name="09/27" length="3607" surface="Asphalt" />
     </runways>
   </airport>
-    <airport name="Zanzibar Airport" icao="HTZA" iata="ZNZ" type="Short_Haul_International" season="All_Year">
-    <town town="Kiembi Samaki" country="222" GMT="03:00:00" DST="03:00:00"/>
+  <airport name="Zanzibar Airport" icao="HTZA" iata="ZNZ" type="Short_Haul_International" season="All_Year">
+    <town town="Kiembi Samaki" country="222" GMT="03:00:00" DST="03:00:00" />
     <coordinates>
-      <latitude value="006°13'19''S"/>
-      <longitude value="039°13'29''E"/>
+      <latitude value="006°13'19''S" />
+      <longitude value="039°13'29''E" />
     </coordinates>
-    <size value="Smallest"/>
+    <size value="Smallest" />
     <terminals>
-      <terminal name="Terminal" gates="4"/>
+      <terminal name="Terminal" gates="4" />
     </terminals>
     <runways>
-      <runway name="18/36" length="2462" surface="Asphalt"/>
+      <runway name="18/36" length="2462" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Houari Boumedienne Airport" icao="DAAG" iata="ALG" type="Long_Haul_International" season="All_Year">
+    <town town="Algiers" country="142" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="36°41'27.65''N" />
+      <longitude value="003°12'55.47''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="7" />
+      <terminal name="Terminal 2" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3500" surface="Asphalt" />
+      <runway name="09/27" length="3500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Durban International Airport" icao="FADN" iata="DUR" type="Short_Haul_International" season="All_Year">
+    <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="029°58'07''S" />
+      <longitude value="030°56'52''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2439" surface="Paved" />
     </runways>
   </airport>
 </airports>

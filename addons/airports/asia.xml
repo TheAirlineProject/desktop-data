@@ -1026,4 +1026,47 @@
       <runway name="06/24" length="3200" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Osaka International Airport" icao="RJOO" iata="ITM" type="Long_Haul_International" season="All_Year">
+    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="034°47'04''N" />
+      <longitude value="135°26'21''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="15" />
+    </terminals>
+    <runways>
+      <runway name="14R/32L" length="3000" surface="Asphalt" />
+      <runway name="14L/32R" length="1820" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Akita Airport" icao="RJSK" iata="AXT" type="Short_Haul_International" season="All_Year">
+    <town town="Akita" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="39°36'56''N" />
+      <longitude value="140°13'07''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Asahikawa Airport" icao="RJEC" iata="AKJ" type="Short_Haul_International" season="ALl_Year">
+    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="43°40'15''N" />
+      <longitude value="142°26'51''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2500" surface="Paved" />
+    </runways>
+  </airport>
 </airports>
