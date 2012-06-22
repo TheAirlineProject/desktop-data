@@ -244,6 +244,36 @@
   </airport>
   <!--Western North Pacific (R***)-->
   <!--Taiwan (RC**)-->
+  <airport name="Kaohsiung International Airport" icao="RCKH" iata="KHH" type="Long_Haul_International" season="All_Year">
+    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="022°34'37''N" />
+      <longitude value="120°21'00''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal 1" gates="35" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3150" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Taipei Songshan International Airport" icao="RCSS" iata="TSA" type="Long_Haul_International" season="All_Year">
+    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="025°04'10''N" />
+      <longitude value="121°33'06''E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal 1" gates="50" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2605" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Taiwan Taoyuan International Airport" icao="RCTP" iata="TPE" type="Long_Haul_International" season="All_Year">
     <town town="Taipei" country="172" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
@@ -308,6 +338,20 @@
       <runway name="18R/36L" length="2700" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Asahikawa Airport" icao="RJEC" iata="AKJ" type="Short_Haul_International" season="All_Year">
+    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="43°40'15''N" />
+      <longitude value="142°26'51''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Fukuoka Airport" icao="RJFF" iata="FUK" type="Long_Haul_International" season="All_Year">
     <town town="Fukuoka" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
@@ -334,6 +378,35 @@
     </terminals>
     <runways>
       <runway name="18/36" length="3500" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Osaka International Airport" icao="RJOO" iata="ITM" type="Long_Haul_International" season="All_Year">
+    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="034°47'04''N" />
+      <longitude value="135°26'21''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="15" />
+    </terminals>
+    <runways>
+      <runway name="14R/32L" length="3000" surface="Asphalt" />
+      <runway name="14L/32R" length="1820" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Akita Airport" icao="RJSK" iata="AXT" type="Short_Haul_International" season="All_Year">
+    <town town="Akita" country="171" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="39°36'56''N" />
+      <longitude value="140°13'07''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2500" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Tokyo International Airport" icao="RJTT" iata="HND" type="Long_Haul_International" season="All_Year">
@@ -805,6 +878,21 @@
       <runway name="02R/20L" length="3800" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Changsha Huanghua International Airport" icao="ZGHA" iata="CSX" type="Long_Haul_International" season="All_Year">
+    <town town="Changsha" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="028°11'48''N" />
+      <longitude value="113°13'15''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="40" />
+      <terminal name="Terminal 2" gates="80" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3200" surface="Concrete" />
+    </runways>
+  </airport>
   <airport name="Shenzhen Bao'an International Airport" icao="ZGSZ" iata="SZX" type="Long_Haul_International" season="All_Year">
     <town town="Shenzhen" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
@@ -818,6 +906,20 @@
     <runways>
       <runway name="15/33" length="3400" surface="Concrete" />
       <runway name="16/34" length="3800" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Haikou Meilan International Airport" icao="ZJHK" iata="HAK" type="Long_Haul_International" season="All_Year">
+    <town town="Haikou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="019°56'05''N" />
+      <longitude value="110°27'32''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3600" surface="Concrete" />
     </runways>
   </airport>
   <airport name="Xi'an Xianyang International Airport" icao="ZLXY" iata="XIY" type="Short_Haul_International" season="All_Year">
@@ -862,7 +964,7 @@
       <runway name="05/23" length="3400" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Hangzhou Xiaoshan International Airport" icao="ZSHC" iata="HGH" type="Long_Haul_International" season="All_Year">
+  <airport name="Hangzhou  Xiaoshan International Airport" icao="ZSHC" iata="HGH" type="Long_Haul_International" season="All_Year">
     <town town="Hangzhou" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="030°13'42''N" />
@@ -874,6 +976,21 @@
     </terminals>
     <runways>
       <runway name="07/25" length="3600" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Nanjing Lukou International Airport" icao="ZSNJ" iata="NKG" type="Long_Haul_International" season="All_Year">
+    <town town="Nanjing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="031°44'32''N" />
+      <longitude value="118°51'43''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal 1" gates="35" />
+      <terminal name="Terminal 2" gates="68" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="3600" surface="Concrete" />
     </runways>
   </airport>
   <airport name="Shanghai Pudong International Airport" icao="ZSPD" iata="PVG" type="Long_Haul_International" season="All_Year">
@@ -938,80 +1055,6 @@
       <runway name="02R/20L" length="3600" surface="Concrete" />
     </runways>
   </airport>
-  <airport name="Changsha Huanghua International Airport" icao="ZGHA" iata="CSX" type="Long_Haul_International" season="All_Year">
-    <town town="Changsha" country="148" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="028°11'48''N" />
-      <longitude value="113°13'15''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal 1" gates="40" />
-      <terminal name="Terminal 2" gates="80" />
-    </terminals>
-    <runways>
-      <runway name="18/36" length="3200" surface="Concrete" />
-    </runways>
-  </airport>
-  <airport name="Nanjing Lukou International Airport" icao="ZSNJ" iata="NKG" type="Long_Haul_International" season="All_Year">
-    <town town="Nanjing" country="148" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="031°44'32''N" />
-      <longitude value="118°51'43''E" />
-    </coordinates>
-    <size value="Medium" />
-    <terminals>
-      <terminal name="Terminal 1" gates="35" />
-      <terminal name="Terminal 2" gates="68" />
-    </terminals>
-    <runways>
-      <runway name="06/24" length="3600" surface="Concrete" />
-    </runways>
-  </airport>
-  <airport name="Taipei Songshan International Airport" icao="RCSS" iata="TSA" type="Long_Haul_International" season="All_Year">
-    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="025°04'10''N" />
-      <longitude value="121°33'06''E" />
-    </coordinates>
-    <size value="Large" />
-    <terminals>
-      <terminal name="Terminal 1" gates="50" />
-      <terminal name="Terminal 2" gates="80" />
-    </terminals>
-    <runways>
-      <runway name="10/28" length="2605" surface="Paved" />
-    </runways>
-  </airport>
-  <airport name="Kaohsiung International Airport" icao="RCKH" iata="KHH" type="Long_Haul_International" season="All_Year">
-    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="022°34'37''N" />
-      <longitude value="120°21'00''E" />
-    </coordinates>
-    <size value="Medium" />
-    <terminals>
-      <terminal name="Terminal 1" gates="35" />
-      <terminal name="Terminal 2" gates="80" />
-    </terminals>
-    <runways>
-      <runway name="09/27" length="3150" surface="Paved" />
-    </runways>
-  </airport>
-  <airport name="Haikou Meilan International Airport" icao="ZJHK" iata="HAK" type="Long_Haul_International" season="All_Year">
-    <town town="Haikou" country="148" GMT="08:00:00" DST="08:00:00" />
-    <coordinates>
-      <latitude value="019°56'05''N" />
-      <longitude value="110°27'32''E" />
-    </coordinates>
-    <size value="Medium" />
-    <terminals>
-      <terminal name="Terminal" gates="50" />
-    </terminals>
-    <runways>
-      <runway name="09/27" length="3600" surface="Concrete" />
-    </runways>
-  </airport>
   <airport name="Shenyang Taoxian International Airport" icao="ZYTX" iata="SHE" type="Long_Haul_International" season="All_Year">
     <town town="Shenyang" country="148" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
@@ -1024,49 +1067,6 @@
     </terminals>
     <runways>
       <runway name="06/24" length="3200" surface="Concrete" />
-    </runways>
-  </airport>
-  <airport name="Osaka International Airport" icao="RJOO" iata="ITM" type="Long_Haul_International" season="All_Year">
-    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
-    <coordinates>
-      <latitude value="034°47'04''N" />
-      <longitude value="135°26'21''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="15" />
-    </terminals>
-    <runways>
-      <runway name="14R/32L" length="3000" surface="Asphalt" />
-      <runway name="14L/32R" length="1820" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Akita Airport" icao="RJSK" iata="AXT" type="Short_Haul_International" season="All_Year">
-    <town town="Akita" country="171" GMT="09:00:00" DST="09:00:00" />
-    <coordinates>
-      <latitude value="39°36'56''N" />
-      <longitude value="140°13'07''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="8" />
-    </terminals>
-    <runways>
-      <runway name="10/28" length="2500" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Asahikawa Airport" icao="RJEC" iata="AKJ" type="Short_Haul_International" season="ALl_Year">
-    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00" />
-    <coordinates>
-      <latitude value="43°40'15''N" />
-      <longitude value="142°26'51''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="10" />
-    </terminals>
-    <runways>
-      <runway name="16/34" length="2500" surface="Paved" />
     </runways>
   </airport>
 </airports>

@@ -524,6 +524,63 @@
       <runway name="09R/27L" length="3660" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="London Southend Airport" icao="EGMC" iata="SEN" type="Long_Haul_International" season="All_Year">
+    <town town="Rochford" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="051°34'17''N" />
+      <longitude value="000°41'44''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="38" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1856" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lydd International Airport" icao="EGMD" iata="LYX" type="Short_Haul_International" season="All_Year">
+    <town town="Lydd" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="050°57'22''N" />
+      <longitude value="000°56'21''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="20" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1505" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Manston, Kent's International Airport" icao="EGMH" iata="MSE" type="Short_Haul_International" season="All_Year">
+    <town town="Manston" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="051°20'32''N" />
+      <longitude value="001°20'46''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="30" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2752" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Blackpool International Airport" icao="EGNH" iata="BLK" type="Short_Haul_International" season="All_Year">
+    <town town="Blackpool" country="130" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="053°46'17'N" />
+      <longitude value="003°01'42'W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="25" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1869" surface="Asphalt" />
+      <runway name="13/31" length="1004" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Leeds Bradford International Airport" icao="EGNM" iata="LBA" type="Long_Haul_International" season="All_Year">
     <town town="Leeds" country="130" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
@@ -2528,77 +2585,6 @@
     </terminals>
     <runways>
       <runway name="13/31" length="3641" surface="Concrete" />
-    </runways>
-  </airport>
-  <airport name="Blackpool International Airport" icao="EGNH" iata="BLK" type="Short_Haul_International" season="All_Year">
-    <town town="Blackpool" country="130" GMT="01:00:00" DST="01:00:00" />
-    <coordinates>
-      <latitude value="053°46'17'N" />
-      <longitude value="003°01'42'W" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="25" />
-    </terminals>
-    <runways>
-      <runway name="10/28" length="1869" surface="Asphalt" />
-      <runway name="13/31" length="1004" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Manston, Kent's International Airport" icao="EGMH" iata="MSE" type="Short_Haul_International" season="All_Year">
-    <town town="Manston" country="130" GMT="01:00:00" DST="00:00:00" />
-    <coordinates>
-      <latitude value="051°20'32''N" />
-      <longitude value="001°20'46''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="30" />
-    </terminals>
-    <runways>
-      <runway name="10/28" length="2752" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Humberside Airport" icao="EGNJ" iata="HUY" type="Long_Haul_International" season="All_Year">
-    <town town="Kirmington" country="130" GMT="01:00:00" DST="00:00:00" />
-    <coordinates>
-      <latitude value="053°34'28''N" />
-      <longitude value="000°21'03''W" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="35" />
-    </terminals>
-    <runways>
-      <runway name="02/20" length="2196" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Lydd International Airport" icao="EGMD" iata="LYX" type="Short_Haul_International" season="All_Year">
-    <town town="Lydd" country="130" GMT="01:00:00" DST="00:00:00" />
-    <coordinates>
-      <latitude value="050°57'22''N" />
-      <longitude value="000°56'21''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="20" />
-    </terminals>
-    <runways>
-      <runway name="03/21" length="1505" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="London Southend Airport" icao="EGMC" iata="SEN" type="Long_Haul_International" season="All_Year">
-    <town town="Rochford" country="130" GMT="01:00:00" DST="00:00:00" />
-    <coordinates>
-      <latitude value="051°34'17''N" />
-      <longitude value="000°41'44''E" />
-    </coordinates>
-    <size value="Small" />
-    <terminals>
-      <terminal name="Terminal" gates="38" />
-    </terminals>
-    <runways>
-      <runway name="06/24" length="1856" surface="Asphalt" />
     </runways>
   </airport>
 </airports>
