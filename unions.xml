@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<unions>
+<union uid="101"  shortname="EU" flag="European Union">
+    <translations>
+			<en-US name="European Union" />
+			<de-DE name="Europäische Union" />
+			<en-GB name="European Union" />
+			<nl-NL name="Europese Unie" />
+			<zh-CN name="欧洲联盟" />
+    </translations>
+<period creation="01.01.1949 00:00:00" obsolete="03.10.1990 00:00:00"/>
+<members>
+<member country="110" memberfrom="01.01.1949 00:00:00" memberto="03.10.2090 00:00:00"></member>
+<member country="111" memberfrom="01.01.1949 00:00:00" memberto="03.10.2090 00:00:00"></member>
+</members>
+</union>
+</unions>

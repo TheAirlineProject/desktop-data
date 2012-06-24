@@ -1,14 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <restrictions>
 <restriction type="Flights" start="01.01.1960 00:00:00" end="03.11.2017 00:00:00">
-<countries from="198" to="122"></countries>
+<countries fromtype="C" from="198" totype="C" to="122"></countries>
 </restriction>
 <restriction type="Flights" start="01.01.1960 00:00:00" end="03.11.2017 00:00:00">
-<countries from="122" to="198"></countries>
+<countries fromtype="C" from="122" totype="C" to="198"></countries>
 </restriction>
 <restriction type="Airlines" start="01.01.2007 00:00:00" end="03.11.2013 00:00:00">
-<countries from="131" to="122"></countries>
+<countries fromtype="C" from="131" totype="C" to="122"></countries>
 </restriction>
+<restriction type="Flights" start="01.01.2007 00:00:00" end="03.11.2013 00:00:00">
+<countries fromtype="C" from="142" totype="U" to="101"></countries>
+</restriction>
+
 </restrictions>
 
      
