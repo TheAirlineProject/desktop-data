@@ -12,7 +12,9 @@
 <restriction type="Flights" start="01.01.2007 00:00:00" end="03.11.2013 00:00:00">
 <countries fromtype="C" from="142" totype="U" to="101"></countries>
 </restriction>
-
+<restriction type="Flights" start="01.03.2012 00:00:00" end="03.11.2013 00:00:00">
+<countries fromtype="C" from="113" totype="C" to="122"></countries>
+</restriction>
 </restrictions>
 
      
