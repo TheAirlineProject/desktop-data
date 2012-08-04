@@ -2,13 +2,35 @@
 <countries>
   <country uid="1001" shortname="GDR" region="108" flag="East Germany" tailformat="D-\\s4">
     <translations>
-			<en-US name="German Democratic Republic" />
-			<de-DE name="Deutsche Demokratische Republik" />
-			<en-GB name="German Democratic Republic" />
-			<nl-NL name="Duitse Democratische Republiek" />
-			<zh-CN name="東德" />
+		<en-US name="East Germany" />
+		<de-DE name="East Germany" />
+		<en-GB name="East Germany" />
+		<nl-NL name="East Germany" />
+		<zh-CN name="East Germany" />
     </translations>
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
     <history before="163" after="163"></history>
   </country>
-  </countries>
+  <country uid="1002" shortname="GER" region="108" flag="Germany" tailformat="D-\\s4">
+    <translations>
+		<en-US name="West Germany" />
+		<de-DE name="West Germany" />
+		<en-GB name="West Germany" />
+		<nl-NL name="West Germany" />
+		<zh-CN name="West Germany" />
+    </translations>
+    <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
+    <history before="163" after="163"></history>
+  </country>
+  <country uid="1003" shortname="CZH" region="108" flag="Czech Republic" tailformat="OK-\\s3">
+    <translations>
+		<en-US name="Czechoslovakia" />
+		<de-DE name="Czechoslovakia" />
+		<en-GB name="Czechoslovakia" />
+		<nl-NL name="Czechoslovakia" />
+		<zh-CN name="Czechoslovakia" />
+    </translations>
+    <period start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></period>
+    <history before="166" after="166"></history>
+  </country>
+</countries>

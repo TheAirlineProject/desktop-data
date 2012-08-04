@@ -1,20 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <restrictions>
-<restriction type="Flights" start="01.01.1960 00:00:00" end="03.11.2017 00:00:00">
-<countries fromtype="C" from="198" totype="C" to="122"></countries>
-</restriction>
-<restriction type="Flights" start="01.01.1960 00:00:00" end="03.11.2017 00:00:00">
-<countries fromtype="C" from="122" totype="C" to="198"></countries>
-</restriction>
-<restriction type="Airlines" start="01.01.2007 00:00:00" end="03.11.2013 00:00:00">
-<countries fromtype="C" from="131" totype="C" to="122"></countries>
-</restriction>
-<restriction type="Flights" start="01.01.2007 00:00:00" end="03.11.2013 00:00:00">
-<countries fromtype="C" from="142" totype="U" to="101"></countries>
-</restriction>
-<restriction type="Flights" start="01.03.2012 00:00:00" end="03.11.2013 00:00:00">
-<countries fromtype="C" from="113" totype="C" to="122"></countries>
-</restriction>
+	<restriction type="Flights" start="01.01.1962 00:00:00" end="06.22.2011 00:00:00">
+		<countries fromtype="C" from="198" totype="C" to="122"></countries>
+	</restriction>
+	<restriction type="Flights" start="01.01.1962 00:00:00" end="06.22.2011 00:00:00">
+		<countries fromtype="C" from="122" totype="C" to="198"></countries>
+	</restriction>
+	<restriction type="Flights" start="05.14.1955 00:00:00" end="07.01.1991 00:00:00">
+		<countries fromtype="U" from="102" totype="U" to="103"></countries>
+	</restriction>
+	<restriction type="Flights" start="05.14.1955 00:00:00" end="07.01.1991 00:00:00">
+		<countries fromtype="U" from="103" totype="U" to="102"></countries>
+	</restriction>
 </restrictions>
 
      

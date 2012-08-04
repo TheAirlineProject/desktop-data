@@ -1082,101 +1082,101 @@
   </country>
    <country uid="220" shortname="CFR" region="109" flag="Central African Republic" tailformat="TL-\\s3">
     <translations>
-			<en-US name="Central African Republic" />
-			<de-DE name="Zentralafrikanische Republik" />
-			<en-GB name="Central African Republic" />
-			<nl-NL name="Centraal-Afrikaanse Republiek" />
-			<zh-CN name="中非共和國" />
+	  <en-US name="Central African Republic" />
+	  <de-DE name="Zentralafrikanische Republik" />
+	  <en-GB name="Central African Republic" />
+	  <nl-NL name="Centraal-Afrikaanse Republiek" />
+	  <zh-CN name="中非共和國" />
     </translations>
   </country>
   <country uid="221" shortname="CRD" region="109" flag="Congo-DRC" tailformat="9Q-\\s3">
     <translations>
-			<en-US name="Democratic Republic of the Congo" />
-			<de-DE name="Demokratische Republik Kongo" />
-			<en-GB name="Democratic Republic of the Congo" />
-			<nl-NL name="Democratische Republiek Congo" />
-			<zh-CN name="剛果民主共和國" />
+	  <en-US name="Democratic Republic of the Congo" />
+	  <de-DE name="Demokratische Republik Kongo" />
+	  <en-GB name="Democratic Republic of the Congo" />
+	  <nl-NL name="Democratische Republiek Congo" />
+	  <zh-CN name="剛果民主共和國" />
     </translations>
   </country>
   <country uid="222" shortname="TNZ" region="109" flag="Tanzania" tailformat="5H-\\s3">
     <translations>
-			<en-US name="Tanzania" />
-			<de-DE name="Tansania" />
-			<en-GB name="Tanzania" />
-			<nl-NL name="Tanzania" />
-			<zh-CN name="坦桑尼亚" />
+	  <en-US name="Tanzania" />
+	  <de-DE name="Tansania" />
+	  <en-GB name="Tanzania" />
+	  <nl-NL name="Tanzania" />
+	  <zh-CN name="坦桑尼亚" />
     </translations>
   </country>
   <country uid="223" shortname="SUD" region="109" flag="Sudan" tailformat="ST-\\s3">
     <translations>
-			<en-US name="Sudan" />
-			<de-DE name="Sudan" />
-			<en-GB name="Sudan" />
-			<nl-NL name="Soedan" />
-			<zh-CN name="苏丹共和国" />
+	  <en-US name="Sudan" />
+	  <de-DE name="Sudan" />
+	  <en-GB name="Sudan" />
+	  <nl-NL name="Soedan" />
+	  <zh-CN name="苏丹共和国" />
     </translations>
   </country>
   <country uid="224" shortname="AOG" region="109" flag="Angola" tailformat="D2-\\s3">
     <translations>
-			<en-US name="Angola" />
-			<de-DE name="Angola" />
-			<en-GB name="Angola" />
-			<nl-NL name="Angola" />
-			<zh-CN name="安哥拉" />
+	  <en-US name="Angola" />
+	  <de-DE name="Angola" />
+	  <en-GB name="Angola" />
+	  <nl-NL name="Angola" />
+	  <zh-CN name="安哥拉" />
     </translations>
   </country>
   <country uid="225" shortname="ZAM" region="109" flag="Zambia" tailformat="9J-\\s3">
     <translations>
-			<en-US name="Zambia" />
-			<de-DE name="Sambia" />
-			<en-GB name="Zambia" />
-			<nl-NL name="Zambia" />
-			<zh-CN name="赞比亚" />
+	  <en-US name="Zambia" />
+	  <de-DE name="Sambia" />
+	  <en-GB name="Zambia" />
+	  <nl-NL name="Zambia" />
+	  <zh-CN name="赞比亚" />
     </translations>
   </country>
   <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\d2">
     <translations>
-			<en-US name="Guam" />
-			<de-DE name="Guam" />
-			<en-GB name="Guam" />
-			<nl-NL name="Guam" />
-			<zh-CN name="关岛" />
+	  <en-US name="Guam" />
+	  <de-DE name="Guam" />
+	  <en-GB name="Guam" />
+	  <nl-NL name="Guam" />
+	  <zh-CN name="关岛" />
     </translations>
   </country>
   <country uid="227" shortname="BAR" region="104" flag="Barbados" tailformat="8P-\s3">
     <translations>
-			<en-US name="Barbados" />
-			<de-DE name="Barbados" />
-			<en-GB name="Barbados" />
-			<nl-NL name="Barbados" />
-			<zh-CN name="巴巴多斯" />
+	  <en-US name="Barbados" />
+	  <de-DE name="Barbados" />
+	  <en-GB name="Barbados" />
+	  <nl-NL name="Barbados" />
+	  <zh-CN name="巴巴多斯" />
     </translations>
   </country>
   <country uid="228" shortname="DMC" region="104" flag="Dominica" tailformat="J7-\s3">
     <translations>
-			<en-US name="Dominica" />
-			<de-DE name="Dominica" />
-			<en-GB name="Dominica" />
-			<nl-NL name="Dominica" />
-			<zh-CN name="多米尼加" />
+	  <en-US name="Dominica" />
+	  <de-DE name="Dominica" />
+	  <en-GB name="Dominica" />
+	  <nl-NL name="Dominica" />
+	  <zh-CN name="多米尼加" />
     </translations>
   </country>
   <country uid="229" shortname="GDA" region="104" flag="Grenada" tailformat="J3-\s3">
     <translations>
-			<en-US name="Grenada" />
-			<de-DE name="Grenada" />
-			<en-GB name="Grenada" />
-			<nl-NL name="Grenada" />
-			<zh-CN name="格林纳达" />
+	  <en-US name="Grenada" />
+	  <de-DE name="Grenada" />
+	  <en-GB name="Grenada" />
+	  <nl-NL name="Grenada" />
+	  <zh-CN name="格林纳达" />
     </translations>
   </country>
   <country uid="230" shortname="SKN" region="104" flag="St Kitts &amp; Nevis" tailformat="V4-\s3">
     <translations>
-			<en-US name="Saint Kitts &amp; Nevis" />
-			<de-DE name="Saint Kitts &amp; Nevis" />
-			<en-GB name="Saint Kitts &amp; Nevis" />
-			<nl-NL name="Saint Kitts &amp; Nevis" />
-			<zh-CN name="圣基茨尼维斯" />
+	  <en-US name="Saint Kitts &amp; Nevis" />
+	  <de-DE name="Saint Kitts &amp; Nevis" />
+	  <en-GB name="Saint Kitts &amp; Nevis" />
+	  <nl-NL name="Saint Kitts &amp; Nevis" />
+	  <zh-CN name="圣基茨尼维斯" />
     </translations>
   </country>
 </countries>

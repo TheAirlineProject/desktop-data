@@ -97,7 +97,7 @@
     </runways>
   </airport>
   <airport name="Frankfurt am Main Airport" icao="EDDF" iata="FRA" type="Long_Haul_International" season="All_Year">
-    <town town="Frankfurt" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Frankfurt" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°01'35''N" />
       <longitude value="008°32'35''E" />
@@ -115,7 +115,7 @@
     </runways>
   </airport>
   <airport name="Hamburg Airport" icao="EDDH" iata="HAM" type="Long_Haul_International" season="All_Year">
-    <town town="Hamburg" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Hamburg" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="053°37'49''N" />
       <longitude value="009°59'17''E" />
@@ -130,7 +130,7 @@
     </runways>
   </airport>
   <airport name="Cologne Bonn Airport" icao="EDDK" iata="CGN" type="Long_Haul_International" season="All_Year">
-    <town town="Cologne" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Cologne" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°51'57''N" />
       <longitude value="007°08'33''E" />
@@ -147,7 +147,7 @@
     </runways>
   </airport>
   <airport name="Düsseldorf International Airport" icao="EDDL" iata="DUS" type="Long_Haul_International" season="All_Year">
-    <town town="Düsseldorf" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Düsseldorf" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="051°17'22''N" />
       <longitude value="006°46'00''E" />
@@ -164,7 +164,7 @@
     </runways>
   </airport>
   <airport name="Munich Airport" icao="EDDM" iata="MUC" type="Long_Haul_International" season="All_Year">
-    <town town="Munich" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Munich" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°21'13''N" />
       <longitude value="011°47'09''E" />
@@ -180,7 +180,7 @@
     </runways>
   </airport>
   <airport name="Nuremberg Airport" icao="EDDN" iata="NUE" type="Long_Haul_International" season="All_Year">
-    <town town="Nuremberg" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Nuremberg" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°29'54''N" />
       <longitude value="011°04'00''E" />
@@ -194,7 +194,7 @@
     </runways>
   </airport>
   <airport name="Stuttgart Airport" icao="EDDS" iata="STR" type="Long_Haul_International" season="All_Year">
-    <town town="Stuttgart" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Stuttgart" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°41'23''N" />
       <longitude value="009°13'19''E" />
@@ -208,7 +208,7 @@
     </runways>
   </airport>
   <airport name="Berlin Tegel Airport" icao="EDDT" iata="TXL" type="Long_Haul_International" season="All_Year">
-    <town town="Berlin" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Berlin" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°33'34''N" />
       <longitude value="013°17'15''E" />
@@ -226,7 +226,7 @@
     </runways>
   </airport>
   <airport name="Hannover-Langenhagen Airport" icao="EDDV" iata="HAJ" type="Long_Haul_International" season="All_Year">
-    <town town="Hanover" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Hanover" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="052°27'39''N" />
       <longitude value="009°41'06''E" />
@@ -242,7 +242,7 @@
     </runways>
   </airport>
   <airport name="Frankfurt-Hahn Airport" icao="EDFH" iata="HHN" type="Long_Haul_International" season="All_Year">
-    <town town="Kirchberg" country="163" GMT="02:00:00" DST="01:00:00" />
+    <town town="Kirchberg" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="049°56'55''N" />
       <longitude value="007°15'50''E" />
@@ -1928,7 +1928,7 @@
   </airport>
   <!--Czech Republic (LK**)-->
   <airport name="Prague Ruzyně Airport" icao="LKPR" iata="PRG" type="Long_Haul_International" season="All_Year">
-    <town town="Prague" country="166" GMT="02:00:00" DST="01:00:00" />
+    <town town="Prague" country="1003" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°06'03''N" />
       <longitude value="014°15'36''E" />
