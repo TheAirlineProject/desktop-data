@@ -162,6 +162,12 @@
     <capacity passengers="581" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
     <produced from="2012" to="2025"/>
   </airliner>
+   <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400ERF" price="268000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.40" length="70.60" range="9200" speed="908" consumption="0.030" runwaylengthrequired="2990"/>
+    <capacity cockpitcrew="2" cargo="765"/> <!--cargo in m3-->
+    <produced from="1971" to="2021"/>
+  </airliner>
   <airliner manufacturer="Boeing" name="Boeing 757-200" price="32100000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="38.05" length="47.32" range="7222" speed="850" consumption="0.024" runwaylengthrequired="1825"/>
@@ -216,4 +222,4 @@
     <capacity passengers="290" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
     <produced from="2014" to="2027"/>
   </airliner>
-</airliners>
+  </airliners>
