@@ -1720,6 +1720,43 @@
       <zh-CN name="所需最短跑道长度"/>
     </Text>
   </Region>
+  <Region name="PageSearchAirliners">
+     <Text uid="1001">
+      <en-GB name="Search used airliners"/>
+      <de-DE name="Missing"/>
+      <en-US name="Search used airliners"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+       <Text uid="1002">
+      <en-GB name="Airliner range"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliner range"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+          <Text uid="1003">
+      <en-GB name="Airliner capacity"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliner capacity"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+          <Text uid="1004">
+      <en-GB name="Airliner price"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliner price"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1005">
+      <en-GB name="Airliner built year"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliner built year"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+  </Region>
   <Region name="PageOrderAirliners">
     <Text uid="200">
       <en-GB name="Order New Airliners"/>
