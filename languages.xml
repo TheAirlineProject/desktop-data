@@ -128,6 +128,13 @@
       <nl-NL name="Geen filter"/>
       <zh-CN name="清除过滤器"/>
     </Text>
+    <Text uid="111">
+      <en-GB name="All"/>
+      <de-DE name="Alles"/>
+      <en-US name="All"/>
+      <nl-NL name="MIssing"/>
+      <zh-CN name="MIssing"/>
+    </Text>
     <Text uid="1000">
       <en-GB name="Untranslated Title"/>
       <de-DE name="Nicht übersetzter Titel"/>
@@ -938,6 +945,29 @@
       <en-US name="Hubs only"/>
       <nl-NL name="Alleen hubs"/>
       <zh-CN name="仅枢纽"/>
+    </Text>
+  </Region>
+    <Region name="PageExtendedSearchAirports">
+    <Text uid="1001">
+      <en-GB name="Extended airport search options"/>
+      <de-DE name="Suchoptionen Flughäfen"/>
+      <en-US name="Extended airport search options"/>
+      <nl-NL name="Zoekopties luchthaven"/>
+      <zh-CN name="机场搜索选项"/>
+    </Text>
+      <Text uid="1002">
+      <en-GB name="Search airports within"/>
+      <de-DE name="Missing"/>
+      <en-US name="Search airports within"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+     <Text uid="1003">
+      <en-GB name="of"/>
+      <de-DE name="Missing"/>
+      <en-US name="of"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
     </Text>
   </Region>
   <Region name="PageAirportsStatistics">
