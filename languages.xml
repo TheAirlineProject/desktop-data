@@ -1900,6 +1900,13 @@
       <nl-NL name="Statistieken"/>
       <zh-CN name="统计"/>
     </Text>
+    <Text uid="203">
+      <en-GB name="Extended Search"/>
+      <de-DE name="Missing"/>
+      <en-US name="Extended Search"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PanelNewAlliance">
     <Text uid="200">
