@@ -982,6 +982,7 @@
     </translations>
   </country>
   <country uid="209" shortname="TC" region="104" flag="Turks and Caicos Islands" tailformat="VQ-T\\s2">
+  <territoryof uid ="130" />
     <translations>
       <en-US name="Turks and Caicos Islands" />
       <de-DE name="Turks-und Caicosinseln" />
