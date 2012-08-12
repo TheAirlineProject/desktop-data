@@ -22,7 +22,7 @@
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
     <history before="163" after="163"></history>
   </country>
-  <country uid="1003" shortname="CZH" region="108" flag="Czech Republic" tailformat="OK-\\s3" type="ManyToOne">
+  <country uid="1003" shortname="CZH" region="108" flag="Czech Republic" tailformat="OK-\\s3" type="OneToMany">
     <translations>
 		<en-US name="Czechoslovakia" />
 		<de-DE name="Czechoslovakia" />
@@ -31,9 +31,14 @@
 		<zh-CN name="Czechoslovakia" />
     </translations>
     <period start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></period>
-    <history before="166" after="166"></history>
+    <history>
+    <tempcountries>
+		<tempcountry id="166"></tempcountry>
+		<tempcountry id="231"></tempcountry>
+    </tempcountries>
+  </history>
   </country>
-    <country uid="1004" shortname="USSR" region="108" flag="Soviet Union" tailformat="EW-\\d5" type="OneToMany">
+  <country uid="1004" shortname="USSR" region="108" flag="Soviet Union" tailformat="EW-\\d5" type="OneToMany">
     <translations>
 		<en-US name="Soviet Union" />
 		<de-DE name="Sowjetunion" />
@@ -44,13 +49,31 @@
     <period start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></period>
     <history>
     <tempcountries>
-    <tempcountry id="149"></tempcountry>
-    <tempcountry id="117"></tempcountry>
-    <tempcountry id="103"></tempcountry>
-    <tempcountry id="102"></tempcountry>
-    <tempcountry id="217"></tempcountry>
-    <tempcountry id="134"></tempcountry>
-  </tempcountries>
+		<tempcountry id="102"></tempcountry>
+		<tempcountry id="103"></tempcountry>
+		<tempcountry id="117"></tempcountry>
+		<tempcountry id="134"></tempcountry>
+		<tempcountry id="149"></tempcountry>
+		<tempcountry id="217"></tempcountry>
+		<tempcountry id="232"></tempcountry>
+    </tempcountries>
   </history>
   </country>
-  </countries>
+  <country uid="1005" shortname="YUG" region="108" flag="Yugoslavia" tailformat="EW-\\d5" type="OneToMany">
+    <translations>
+		<en-US name="Yugoslavia" />
+		<de-DE name="Yugoslavia" />
+		<en-GB name="Yugoslavia" />
+		<nl-NL name="Yugoslavia" />
+		<zh-CN name="Yugoslavia" />
+    </translations>
+    <period start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></period>
+    <history>
+    <tempcountries>
+		<tempcountry id="104"></tempcountry>
+		<tempcountry id="105"></tempcountry>
+		<tempcountry id="120"></tempcountry>
+    </tempcountries>
+  </history>
+  </country>
+</countries>

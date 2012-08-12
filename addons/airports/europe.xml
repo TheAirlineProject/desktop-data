@@ -17,7 +17,7 @@
       <runway name="09/27" length="2810" surface="Asphalt" />
     </runways>
   </airport>
-  <!--Iceland(BI**)-->
+  <!--Iceland (BI**)-->
   <airport name="Keflavík International Airport" icao="BIKF" iata="KEF" type="Long_Haul_International" season="All_Year">
     <town town="Keflavík" country="121" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
@@ -1928,7 +1928,7 @@
   </airport>
   <!--Czech Republic (LK**)-->
   <airport name="Prague Ruzyně Airport" icao="LKPR" iata="PRG" type="Long_Haul_International" season="All_Year">
-    <town town="Prague" country="1003" GMT="02:00:00" DST="01:00:00" />
+    <town town="Prague" country="166" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="050°06'03''N" />
       <longitude value="014°15'36''E" />
@@ -2190,6 +2190,21 @@
       <runway name="06/24" length="3000" surface="Concrete" />
     </runways>
   </airport>
+  <!--Moldova (LU**)-->
+  <airport name="Chișinău International Airport" icao="LUKK" iata="KIV" type="Short_Haul_International" season="All_Year">
+    <town town="Chișinău" country="232" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="046°55'40''N" />
+      <longitude value="028°55'51''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3590" surface="Concrete" />
+    </runways>
+  </airport>
   <!--Gibraltar (LX**)-->
   <airport name="Gibraltar Airport" icao="LXGB" iata="GIB" type="Long_Haul_International" season="All_Year">
     <town town="Gibraltar" country="201" GMT="02:00:00" DST="01:00:00" />
@@ -2219,6 +2234,24 @@
     </terminals>
     <runways>
       <runway name="12/30" length="3400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Slovakia (LZ**)-->
+  <airport name="M. R. Štefánik Airport" icao="LZIB" iata="BTS" type="Short_Haul_International" season="All_Year">
+    <town town="Bratislava" country="231" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="048°10'12''N" />
+      <longitude value="017°12'46''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+      <terminal name="Terminal B" gates="5" />
+	  <terminal name="Terminal C" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2900" surface="Concrete" />
+	  <runway name="13/31" length="3190" surface="Concrete" />
     </runways>
   </airport>
   <!--Former Soviet States (U***)-->

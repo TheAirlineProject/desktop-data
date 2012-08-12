@@ -1179,4 +1179,22 @@
 	  <zh-CN name="圣基茨尼维斯" />
     </translations>
   </country>
+  <country uid="231" shortname="SLK" region="106" flag="Slovakia" tailformat="OM-\s3">
+    <translations>
+	  <en-US name="Slovakia" />
+	  <de-DE name="Slovakia" />
+	  <en-GB name="Slovakia" />
+	  <nl-NL name="Slovakia" />
+	  <zh-CN name="Slovakia" />
+    </translations>
+  </country>
+  <country uid="232" shortname="MLD" region="106" flag="Moldova" tailformat="ER-\s3">
+    <translations>
+	  <en-US name="Moldova" />
+	  <de-DE name="Moldova" />
+	  <en-GB name="Moldova" />
+	  <nl-NL name="Moldova" />
+	  <zh-CN name="Moldova" />
+    </translations>
+  </country>
 </countries>
