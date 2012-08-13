@@ -503,6 +503,130 @@
       <runway name="04/22" length="3300" surface="Asphalt" />
     </runways>
   </airport>
+  <!--Former Soviet States (U***)-->
+  <!--Kazakhstan and Kyrgyzstan (UA**)-->
+  <airport name="Astana International Airport" icao="UACC" iata="TSE" type="Long_Haul_International" season="All_Year">
+    <town town="Astana" country="236" GMT="05:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="051°01'20''N" />
+      <longitude value="071°28'01''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="6" />
+	  <terminal name="Terminal 2" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Manas International Airport" icao="UAFM" iata="FRU" type="Long_Haul_International" season="All_Year">
+    <town town="Bishkek" country="239" GMT="06:00:00" DST="06:00:00" />
+    <coordinates>
+      <latitude value="043°03'41''N" />
+      <longitude value="074°28'39''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="4200" surface="Concrete" />
+    </runways>
+  </airport>
+  <!--Azerbaijan (UB**)-->
+  <airport name="Heydar Aliyev International Airport" icao="UBBB" iata="GYD" type="Long_Haul_International" season="All_Year">
+    <town town="Baku" country="235" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="048°28'03''N" />
+      <longitude value="050°02'48''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="16" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2700" surface="Asphalt" />
+	  <runway name="18/36" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Armenia (UD**)-->
+  <airport name="Zvartnots International Airport" icao="UDYZ" iata="EVN" type="Long_Haul_International" season="All_Year">
+    <town town="Yerevan" country="234" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="040°08'50''N" />
+      <longitude value="044°23'45''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="17" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3850" surface="Asphalt" />
+    </runways>
+  </airport>
+  <!--Georgia (UG**)-->
+  <airport name="Tbilisi International Airport" icao="UGTB" iata="TBS" type="Long_Haul_International" season="All_Year">
+    <town town="Tbilisi" country="233" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="041°40'09''N" />
+      <longitude value="044°57'17''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="13L/31R" length="2500" surface="Concrete" />
+      <runway name="13R/31L" length="3000" surface="Concrete" />
+    </runways>
+  </airport>
+  <!--Tajikistan, Turkmenistan and Uzbekistan (UT**)-->
+  <airport name="Ashgabat International Airport" icao="UTAA" iata="ASB" type="Long_Haul_International" season="All_Year">
+    <town town="Ashgabat" country="238" GMT="06:00:00" DST="06:00:00" />
+    <coordinates>
+      <latitude value="037°59'13''N" />
+      <longitude value="058°21'39''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="24" />
+    </terminals>
+    <runways>
+	  <runway name="11/29" length="1800" surface="Asphalt" />
+      <runway name="12L/30R" length="3800" surface="Concrete" />
+	  <runway name="12R/30L" length="2989" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Dushanbe International Airport" icao="UTDD" iata="DYU" type="Long_Haul_International" season="All_Year">
+    <town town="Dushanbe" country="240" GMT="05:00:00" DST="05:00:00" />
+    <coordinates>
+      <latitude value="038°32'36''N" />
+      <longitude value="068°49'30''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3100" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Tashkent International Airport" icao="UTTT" iata="TAS" type="Long_Haul_International" season="All_Year">
+    <town town="Tashkent" country="237" GMT="06:00:00" DST="06:00:00" />
+    <coordinates>
+      <latitude value="041°15'28''N" />
+      <longitude value="069°16'52''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="21" />
+    </terminals>
+    <runways>
+      <runway name="08L/26R" length="4000" surface="Concrete" />
+	  <runway name="08R/26L" length="3905" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--South Asia (V***)-->
   <!--India (VA**, VE**, VI** and VO**)-->
   <airport name="Chhatrapati Shivaji International Airport" icao="VABB" iata="BOM" type="Long_Haul_International" season="All_Year">
@@ -673,7 +797,7 @@
   </airport>
   <!--Vietnam (VV**)-->
   <airport name="Noi Bai International Airport" icao="VVNB" iata="HAN" type="Long_Haul_International" season="All_Year">
-    <town town="Hanoi" country="170" GMT="07:00:00" DST="07:00:00" />
+    <town town="Hanoi" country="1006" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="021°13'15''N" />
       <longitude value="105°48'25''E" />
@@ -688,7 +812,7 @@
     </runways>
   </airport>
   <airport name="Tan Son Nhat International Airport" icao="VVTS" iata="SGN" type="Short_Haul_International" season="All_Year">
-    <town town="Ho Chi Minh City" country="170" GMT="07:00:00" DST="07:00:00" />
+    <town town="Ho Chi Minh City" country="1007" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="010°49'08''N" />
       <longitude value="106°39'07''E" />
@@ -1067,6 +1191,22 @@
     </terminals>
     <runways>
       <runway name="06/24" length="3200" surface="Concrete" />
+    </runways>
+  </airport>
+  <!--Mongolia (ZM**)-->
+  <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
+    <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="047°50'35''N" />
+      <longitude value="106°45'59''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="16" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="3100" surface="Asphalt" />
+	  <runway name="15/33" length="2000" surface="Grass" />
     </runways>
   </airport>
 </airports>

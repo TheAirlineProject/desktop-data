@@ -82,6 +82,7 @@
     </translations>
   </country>
   <country uid="109" shortname="ANT" region="104" flag="Antilles" tailformat="VP-\\s3">
+  <territoryof uid ="179" />
     <translations>
 			<en-US name="Antilles" />
 			<de-DE name="Antillen" />
@@ -100,6 +101,7 @@
     </translations>
   </country>
   <country uid="111" shortname="GRL" region="113" flag="Greenland" tailformat="OY-\\s3">
+  <territoryof uid ="110" />
     <translations>
 			<en-US name="Greenland" />
 			<de-DE name="Grönland" />
@@ -109,6 +111,7 @@
     </translations>
   </country>
   <country uid="112" shortname="FO" region="113" flag="Faroe Islands" tailformat="OY-\\d4">
+  <territoryof uid ="110" />
     <translations>
 			<en-US name="Faroe Islands" />
 			<de-DE name="Färöer-Inseln" />
@@ -388,6 +391,7 @@
     </translations>
   </country>
   <country uid="143" shortname="REU" region="109" flag="Reunion" tailformat="F-\\d5">
+  <territoryof uid ="140" />
     <translations>
 			<en-US name="Reunion" />
 			<de-DE name="Réunion" />
@@ -730,6 +734,7 @@
     </translations>
   </country>
   <country uid="181" shortname="PUR" region="103" flag="Puerto Rico" tailformat="PUER-\\d3">
+  <territoryof uid ="122" />
     <translations>
 			<en-US name="Puerto Rico" />
 			<de-DE name="Puerto Rico" />
@@ -901,6 +906,7 @@
     </translations>
   </country>
   <country uid="200" shortname="BER" region="102" flag="Bermuda" tailformat="VQ-B\s2">
+  <territoryof uid ="130" />
     <translations>
 			<en-US name="Bermuda" />
 			<de-DE name="Bermuda" />
@@ -910,6 +916,7 @@
     </translations>
   </country>
   <country uid="201" shortname="GIB" region="107" flag="Gibraltar" tailformat="VP-G\s2">
+  <territoryof uid ="130" />
     <translations>
 			<en-US name="Gibraltar" />
 			<de-DE name="Gibraltar" />
@@ -937,6 +944,7 @@
     </translations>
   </country>
   <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\d3">
+  <territoryof uid ="122" />
     <translations>
 			<en-US name="Virgin Islands US" />
 			<de-DE name="US-Jungferninseln" />
@@ -1064,6 +1072,7 @@
     </translations>
   </country>
   <country uid="218" shortname="FRG" region="101" flag="France" tailformat="F-O\\s3">
+  <territoryof uid ="140" />
     <translations>
       <en-US name="French Guiana" />
       <de-DE name="French Guiana" />
@@ -1073,6 +1082,7 @@
     </translations>
   </country>
   <country uid="219" shortname="CAY" region="104" flag="Cayman Islands" tailformat="VP-C\\s2">
+  <territoryof uid ="130" />
     <translations>
       <en-US name="Cayman Islands" />
       <de-DE name="Cayman Islands" />
@@ -1136,6 +1146,7 @@
     </translations>
   </country>
   <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\d2">
+  <territoryof uid ="122" />
     <translations>
 	  <en-US name="Guam" />
 	  <de-DE name="Guam" />
@@ -1196,6 +1207,96 @@
 	  <en-GB name="Moldova" />
 	  <nl-NL name="Moldova" />
 	  <zh-CN name="Moldova" />
+    </translations>
+  </country>
+  <country uid="233" shortname="GEO" region="107" flag="Georgia" tailformat="4L-\s3">
+    <translations>
+	  <en-US name="Georgia" />
+	  <de-DE name="Georgia" />
+	  <en-GB name="Georgia" />
+	  <nl-NL name="Georgia" />
+	  <zh-CN name="Georgia" />
+    </translations>
+  </country>
+  <country uid="234" shortname="ARM" region="107" flag="Armenia" tailformat="EK-\d5">
+    <translations>
+	  <en-US name="Armenia" />
+	  <de-DE name="Armenia" />
+	  <en-GB name="Armenia" />
+	  <nl-NL name="Armenia" />
+	  <zh-CN name="Armenia" />
+    </translations>
+  </country>
+  <country uid="235" shortname="AZR" region="107" flag="Azerbaijan" tailformat="4K-\d5">
+    <translations>
+	  <en-US name="Azerbaijan" />
+	  <de-DE name="Azerbaijan" />
+	  <en-GB name="Azerbaijan" />
+	  <nl-NL name="Azerbaijan" />
+	  <zh-CN name="Azerbaijan" />
+    </translations>
+  </country>
+  <country uid="236" shortname="KAZ" region="110" flag="Kazakhstan" tailformat="UP-\s3\d2">
+    <translations>
+	  <en-US name="Kazakhstan" />
+	  <de-DE name="Kazakhstan" />
+	  <en-GB name="Kazakhstan" />
+	  <nl-NL name="Kazakhstan" />
+	  <zh-CN name="Kazakhstan" />
+    </translations>
+  </country>
+  <country uid="237" shortname="UBZ" region="110" flag="Uzbekistan" tailformat="UK-\d5">
+    <translations>
+	  <en-US name="Uzbekistan" />
+	  <de-DE name="Uzbekistan" />
+	  <en-GB name="Uzbekistan" />
+	  <nl-NL name="Uzbekistan" />
+	  <zh-CN name="Uzbekistan" />
+    </translations>
+  </country>
+  <country uid="238" shortname="TRK" region="110" flag="Turkmenistan" tailformat="EZ-\s1\d3">
+    <translations>
+	  <en-US name="Turkmenistan" />
+	  <de-DE name="Turkmenistan" />
+	  <en-GB name="Turkmenistan" />
+	  <nl-NL name="Turkmenistan" />
+	  <zh-CN name="Turkmenistan" />
+    </translations>
+  </country>
+  <country uid="239" shortname="KRG" region="110" flag="Kyrgyzstan" tailformat="EX-\d5">
+    <translations>
+	  <en-US name="Kyrgyzstan" />
+	  <de-DE name="Kyrgyzstan" />
+	  <en-GB name="Kyrgyzstan" />
+	  <nl-NL name="Kyrgyzstan" />
+	  <zh-CN name="Kyrgyzstan" />
+    </translations>
+  </country>
+  <country uid="240" shortname="TJK" region="110" flag="Tajikistan" tailformat="EY-\d5">
+    <translations>
+	  <en-US name="Tajikistan" />
+	  <de-DE name="Tajikistan" />
+	  <en-GB name="Tajikistan" />
+	  <nl-NL name="Tajikistan" />
+	  <zh-CN name="Tajikistan" />
+    </translations>
+  </country>
+  <country uid="241" shortname="MON" region="110" flag="Mongolia" tailformat="JU-\d4">
+    <translations>
+	  <en-US name="Mongolia" />
+	  <de-DE name="Mongolia" />
+	  <en-GB name="Mongolia" />
+	  <nl-NL name="Mongolia" />
+	  <zh-CN name="Mongolia" />
+    </translations>
+  </country>
+  <country uid="242" shortname="ALB" region="107" flag="Albania" tailformat="ZA-\s3">
+    <translations>
+	  <en-US name="Albania" />
+	  <de-DE name="Albania" />
+	  <en-GB name="Albania" />
+	  <nl-NL name="Albania" />
+	  <zh-CN name="Albania" />
     </translations>
   </country>
 </countries>

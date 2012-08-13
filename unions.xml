@@ -50,6 +50,7 @@
 			<member country="147" memberfrom="05.14.1955 00:00:00" memberto="07.01.1991 00:00:00"></member>
 			<member country="159" memberfrom="05.14.1955 00:00:00" memberto="07.01.1991 00:00:00"></member>
 			<member country="185" memberfrom="05.14.1955 00:00:00" memberto="07.01.1991 00:00:00"></member>
+			<member country="242" memberfrom="05.14.1955 00:00:00" memberto="09.13.1968 00:00:00"></member>
 			<member country="1001" memberfrom="05.14.1955 00:00:00" memberto="03.10.1990 00:00:00"></member>
 			<member country="1003" memberfrom="05.14.1955 00:00:00" memberto="07.01.1991 00:00:00"></member>
 			<member country="1004" memberfrom="05.14.1955 00:00:00" memberto="07.01.1991 00:00:00"></member>
@@ -93,6 +94,7 @@
 			<member country="166" memberfrom="03.12.1999 00:00:00" memberto="07.01.2099 00:00:00"></member>
 			<member country="179" memberfrom="04.04.1949 00:00:00" memberto="07.01.2099 00:00:00"></member>
 			<member country="185" memberfrom="03.29.2004 00:00:00" memberto="07.01.2099 00:00:00"></member>
+			<member country="242" memberfrom="04.01.2009 00:00:00" memberto="07.01.2099 00:00:00"></member>
 			<member country="1002" memberfrom="05.09.1955 00:00:00" memberto="3.10.1990 00:00:00"></member>
 		</members>
 	</union>

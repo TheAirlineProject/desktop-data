@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country uid="1001" shortname="GDR" region="108" flag="East Germany" tailformat="D-\\s4" type="ManyToOne">
+  <country uid="1001" shortname="GDR" region="108" flag="East Germany" tailformat="DDR-\\s3" type="ManyToOne">
     <translations>
 		<en-US name="East Germany" />
 		<de-DE name="East Germany" />
@@ -56,10 +56,18 @@
 		<tempcountry id="149"></tempcountry>
 		<tempcountry id="217"></tempcountry>
 		<tempcountry id="232"></tempcountry>
+		<tempcountry id="233"></tempcountry>
+		<tempcountry id="234"></tempcountry>
+		<tempcountry id="235"></tempcountry>
+		<tempcountry id="236"></tempcountry>
+		<tempcountry id="237"></tempcountry>
+		<tempcountry id="238"></tempcountry>
+		<tempcountry id="239"></tempcountry>
+		<tempcountry id="240"></tempcountry>
     </tempcountries>
   </history>
   </country>
-  <country uid="1005" shortname="YUG" region="108" flag="Yugoslavia" tailformat="EW-\\d5" type="OneToMany">
+  <country uid="1005" shortname="YUG" region="108" flag="Yugoslavia" tailformat="YU-\\s3" type="OneToMany">
     <translations>
 		<en-US name="Yugoslavia" />
 		<de-DE name="Yugoslavia" />
@@ -75,5 +83,27 @@
 		<tempcountry id="120"></tempcountry>
     </tempcountries>
   </history>
+  </country>
+  <country uid="1006" shortname="NVN" region="110" flag="Vietnam" tailformat="VN-\\s4" type="ManyToOne">
+    <translations>
+		<en-US name="North Vietnam" />
+		<de-DE name="North Vietnam" />
+		<en-GB name="North Vietnam" />
+		<nl-NL name="North Vietnam" />
+		<zh-CN name="North Vietnam" />
+    </translations>    
+    <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00"></period>
+    <history before="170" after="170"></history>
+  </country>
+  <country uid="1007" shortname="SVN" region="110" flag="South Vietnam" tailformat="VN-\\s4" type="ManyToOne">
+    <translations>
+		<en-US name="South Vietnam" />
+		<de-DE name="South Vietnam" />
+		<en-GB name="South Vietnam" />
+		<nl-NL name="South Vietnam" />
+		<zh-CN name="South Vietnam" />
+    </translations>    
+    <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00"></period>
+    <history before="170" after="170"></history>
   </country>
 </countries>
