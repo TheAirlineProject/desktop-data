@@ -538,7 +538,7 @@
   <airport name="Heydar Aliyev International Airport" icao="UBBB" iata="GYD" type="Long_Haul_International" season="All_Year">
     <town town="Baku" country="235" GMT="04:00:00" DST="04:00:00" />
     <coordinates>
-      <latitude value="048°28'03''N" />
+      <latitude value="040°28'03''N" />
       <longitude value="050°02'48''E" />
     </coordinates>
     <size value="Very_small" />

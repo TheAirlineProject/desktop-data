@@ -946,10 +946,10 @@
   <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\d3">
   <territoryof uid ="122" />
     <translations>
-			<en-US name="Virgin Islands US" />
+			<en-US name="Virgin Islands (US)" />
 			<de-DE name="US-Jungferninseln" />
-			<en-GB name="Virgin Islands US" />
-			<nl-NL name="Maagdeneilanden VS" />
+			<en-GB name="Virgin Islands (US)" />
+			<nl-NL name="Maagdeneilanden (VS)" />
 			<zh-CN name="维尔京群岛" />
     </translations>
   </country>
@@ -1297,6 +1297,16 @@
 	  <en-GB name="Albania" />
 	  <nl-NL name="Albania" />
 	  <zh-CN name="Albania" />
+    </translations>
+  </country>
+  <country uid="243" shortname="VIB" region="104" flag="Virgin Islands British" tailformat="VP-L\s2">
+  <territoryof uid ="130" />
+    <translations>
+		<en-US name="Virgin Islands (British)" />
+		<de-DE name="Briten-Jungferninseln" />
+		<en-GB name="Virgin Islands (British)" />
+		<nl-NL name="Maagdeneilanden (Brits)" />
+		<zh-CN name="Virgin Islands (British)" />
     </translations>
   </country>
 </countries>

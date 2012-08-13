@@ -3020,6 +3020,21 @@
       <runway name="10/28" length="3200" surface="Asphalt" />
     </runways>
   </airport>
+  <!--United Kingdom (Virgin Islands) (TU**)-->
+  <airport name="Terrance B. Lettsome International Airport" icao="TUPJ" iata="EIS" type="Short_Haul_International" season="Summer">
+    <town town="Roadtown" country="243" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°26'44''N" />
+      <longitude value="064°32'35''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="1415" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Bermuda (TX**)-->
   <airport name="L.F. Wade International Airport" icao="TXKF" iata="BDA" type="Long_Haul_International" season="All_Year">
     <town town="St. George's" country="200" GMT="-03:00:00" DST="-04:00:00" />
