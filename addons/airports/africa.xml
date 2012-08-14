@@ -171,6 +171,20 @@
       <runway name="16/34" length="1701" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Durban International Airport" icao="FADN" iata="DUR" type="Short_Haul_International" season="All_Year">
+    <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00"/>
+    <coordinates>
+      <latitude value="029°58'07''S"/>
+      <longitude value="030°56'52''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2439" surface="Paved"/>
+    </runways>
+  </airport>
   <airport name="OR Tambo International Airport" icao="FAJS" iata="JNB" type="Long_Haul_International" season="All_Year">
     <town town="Johannesburg" country="158" GMT="02:00:00" DST="02:00:00"/>
     <coordinates>
@@ -644,20 +658,6 @@
     </terminals>
     <runways>
       <runway name="18/36" length="2462" surface="Asphalt"/>
-    </runways>
-  </airport>
-  <airport name="Durban International Airport" icao="FADN" iata="DUR" type="Short_Haul_International" season="All_Year">
-    <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00"/>
-    <coordinates>
-      <latitude value="029°58'07''S"/>
-      <longitude value="030°56'52''E"/>
-    </coordinates>
-    <size value="Small"/>
-    <terminals>
-      <terminal name="Terminal" gates="10"/>
-    </terminals>
-    <runways>
-      <runway name="06/24" length="2439" surface="Paved"/>
     </runways>
   </airport>
 </airports>
