@@ -156,17 +156,29 @@
     <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="1989" to="2007"/>
   </airliner>
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400F" price="200000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.40" length="70.60" range="8230" speed="908" consumption="0.030" runwaylengthrequired="3000"/>
+    <capacity cockpitcrew="2" cargo="765"/>
+    <produced from="1993" to="2009"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 747-400ER" price="212000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.40" length="70.60" range="14205" speed="917" consumption="0.030" runwaylengthrequired="3000"/>
+    <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
+    <produced from="2000" to="2007"/>
+  </airliner>
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400ERF" price="210000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="64.40" length="70.60" range="9200" speed="908" consumption="0.030" runwaylengthrequired="3000"/>
+    <capacity cockpitcrew="2" cargo="765"/>
+    <produced from="2001" to="2009"/>
+  </airliner>
   <airliner manufacturer="Boeing" name="Boeing 747-8I" price="333000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="68.45" length="76.25" range="14100" speed="917" consumption="0.023" runwaylengthrequired="2785"/>
     <capacity passengers="581" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
     <produced from="2012" to="2025"/>
-  </airliner>
-   <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400ERF" price="268000000">
-	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="64.40" length="70.60" range="9200" speed="908" consumption="0.030" runwaylengthrequired="2990"/>
-    <capacity cockpitcrew="2" cargo="765"/> <!--cargo in m3-->
-    <produced from="1971" to="2021"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 757-200" price="32100000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>

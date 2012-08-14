@@ -4,13 +4,19 @@
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="51.66" length="58.65" range="12670" speed="945" consumption="0.026" runwaylengthrequired="2745"/>
     <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
-    <produced from="1988" to="2000"/>
+    <produced from="1988" to="1998"/>
   </airliner>
   <airliner manufacturer="MD" name="MD-11ER" price="64000000">
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="51.66" length="58.65" range="13410" speed="945" consumption="0.026" runwaylengthrequired="2755"/>
     <capacity passengers="410" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="1994" to="2000"/>
+  </airliner>
+  <airliner type="Cargo" manufacturer="MD" name="MD-11F" price="59000000">
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="51.66" length="58.65" range="7320" speed="945" consumption="0.026" runwaylengthrequired="2745"/>
+    <capacity cockpitcrew="2" cargo="90787"/>
+    <produced from="1986" to="2000"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-8-32" price="3000000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
