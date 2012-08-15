@@ -2065,6 +2065,21 @@
       <runway name="17/35" length="2304" surface="Asphalt"/>
     </runways>
   </airport>
+  <!--Bosnia and Herzegovina (LQ**)-->
+  <airport name="Sarajevo International Airport" icao="LQSA" iata="SJJ" type="Long_Haul_International" season="All_Year">
+    <town town="Sarajevo" country="248" GMT="02:00:00" DST="01:00:00"/>
+    <coordinates>
+      <latitude value="043°49'29''N"/>
+      <longitude value="018°19'53''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2600" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--Romania (LR**)-->
   <airport name="Henri Coandă International Airport" icao="LROP" iata="OTP" type="Long_Haul_International" season="All_Year">
     <town town="Bucharest" country="147" GMT="03:00:00" DST="02:00:00"/>
@@ -2249,6 +2264,20 @@
     </terminals>
     <runways>
       <runway name="12/30" length="3400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Podgorica Airport" icao="LYPG" iata="TGD" type="Long_Haul_International" season="All_Year">
+    <town town="Podgorica" country="249" GMT="02:00:00" DST="01:00:00"/>
+    <coordinates>
+      <latitude value="042°21'34''N"/>
+      <longitude value="019°15'07''E"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="6"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Slovakia (LZ**)-->

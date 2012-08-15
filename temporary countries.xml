@@ -46,24 +46,24 @@
 		<nl-NL name="Sovjet-Unie" />
 		<zh-CN name="苏联" />
     </translations>
-    <period start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></period>
+    <period start="12.30.1922 00:00:00" end="12.25.1991 00:00:00"></period>
     <history>
     <tempcountries>
-		<tempcountry id="102" start="12.30.1922 00:00:00" end="12.26.1960 00:00:00"></tempcountry>
-		<tempcountry id="103" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="117" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="134" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="149" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="217" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="232" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="233" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="234" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="235" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="236" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="237" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="238" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="239" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
-		<tempcountry id="240" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="102" start="08.05.1940 00:00:00" end="08.21.1991 00:00:00"></tempcountry>
+		<tempcountry id="103" start="06.21.1940 00:00:00" end="03.11.1990 00:00:00"></tempcountry>
+		<tempcountry id="117" start="06.16.1940 00:00:00" end="08.20.1991 00:00:00"></tempcountry>
+		<tempcountry id="134" start="12.30.1922 00:00:00" end="08.24.1991 00:00:00"></tempcountry>
+		<tempcountry id="149" start="12.30.1922 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="217" start="12.30.1922 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="232" start="12.30.1922 00:00:00" end="08.27.1991 00:00:00"></tempcountry>
+		<tempcountry id="233" start="12.30.1922 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="234" start="12.30.1922 00:00:00" end="12.21.1991 00:00:00"></tempcountry>
+		<tempcountry id="235" start="12.30.1922 00:00:00" end="10.18.1991 00:00:00"></tempcountry>
+		<tempcountry id="236" start="12.05.1936 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="237" start="10.27.1924 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="238" start="10.27.1924 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="239" start="12.05.1936 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="240" start="10.27.1924 00:00:00" end="12.25.1991 00:00:00"></tempcountry>
     </tempcountries>
   </history>
   </country>
@@ -75,15 +75,33 @@
 		<nl-NL name="Yugoslavia" />
 		<zh-CN name="Yugoslavia" />
     </translations>
-    <period start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></period>
+    <period start="12.04.1918 00:00:00" end="08.28.1992 00:00:00"></period>
     <history>
     <tempcountries>
-		<tempcountry id="104" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
-		<tempcountry id="105" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
-		<tempcountry id="120" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="104" start="12.04.1918 00:00:00" end="08.28.1992 00:00:00"></tempcountry>
+		<tempcountry id="105" start="12.04.1918 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="120" start="12.04.1918 00:00:00" end="10.08.1991 00:00:00"></tempcountry>
+		<tempcountry id="248" start="12.04.1918 00:00:00" end="03.01.1992 00:00:00"></tempcountry>
+		<tempcountry id="249" start="12.04.1918 00:00:00" end="08.28.1992 00:00:00"></tempcountry>
     </tempcountries>
   </history>
   </country>
+  <!--<country uid="1006" shortname="FRY" region="108" flag="Serbia &amp; Montenegro" tailformat="YU-\\s3" type="OneToMany">
+    <translations>
+		<en-US name="Serbia &amp; Montenegro" />
+		<de-DE name="Serbia &amp; Montenegro" />
+		<en-GB name="Serbia &amp; Montenegro" />
+		<nl-NL name="Serbia &amp; Montenegro" />
+		<zh-CN name="Serbia &amp; Montenegro" />
+    </translations>
+    <period start="08.28.1992 00:00:00" end="06.05.2006 00:00:00"></period>
+    <history>
+    <tempcountries>
+		<tempcountry id="104" start="08.28.1992 00:00:00" end="06.05.2006 00:00:00"></tempcountry>
+		<tempcountry id="249" start="08.28.1992 00:00:00" end="06.05.2006 00:00:00"></tempcountry>
+    </tempcountries>
+  </history>
+  </country>-->
   <country uid="1006" shortname="NVN" region="110" flag="Vietnam" tailformat="VN-\\s4" type="ManyToOne">
     <translations>
 		<en-US name="North Vietnam" />
@@ -105,5 +123,23 @@
     </translations>    
     <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00"></period>
     <history before="170" after="170"></history>
+  </country>
+  <country uid="1008" shortname="ANT" region="104" flag="Antilles" tailformat="PJ-\\s3" type="OneToMany">
+    <translations>
+	  <en-US name="Netherlands Antilles" />
+	  <de-DE name="Netherlands Antilles" />
+	  <en-GB name="Netherlands Antilles" />
+	  <nl-NL name="Netherlands Antilles" />
+	  <zh-CN name="Netherlands Antilles" />
+    </translations>
+	<period start="12.15.1954 00:00:00" end="10.10.2010 00:00:00"></period>
+    <history>
+    <tempcountries>
+		<tempcountry id="109" start="12.15.1954 00:00:00" end="10.10.2010 00:00:00"></tempcountry>
+		<tempcountry id="244" start="12.15.1954 00:00:00" end="01.01.1986 00:00:00"></tempcountry>
+		<tempcountry id="245" start="12.15.1954 00:00:00" end="10.10.2010 00:00:00"></tempcountry>
+		<tempcountry id="246" start="12.15.1954 00:00:00" end="10.10.2010 00:00:00"></tempcountry>
+    </tempcountries>
+  </history>
   </country>
 </countries>

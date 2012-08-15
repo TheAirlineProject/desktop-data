@@ -2977,8 +2977,22 @@
     </runways>
   </airport>
   <!--Caribbean Netherlands (TN**)-->
+  <airport name="Queen Beatrix International Airport" icao="TNCA" iata="AUA" type="Long_Haul_International" season="All_Year">
+    <town town="Oranjestad" country="244" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="012°30'05''N" />
+      <longitude value="070°00'55''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2743" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Flamingo International Airport" icao="TNCB" iata="BON" type="Long_Haul_International" season="All_Year">
-    <town town="Kralendijk" country="109" GMT="-04:00:00" DST="-04:00:00" />
+    <town town="Kralendijk" country="245" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="012°07'51''N" />
       <longitude value="068°16'06''W" />
@@ -2989,6 +3003,20 @@
     </terminals>
     <runways>
       <runway name="10/28" length="2880" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Curaçao International Airport" icao="TNCC" iata="CUR" type="Long_Haul_International" season="All_Year">
+    <town town="Willemstad" country="246" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="012°11'20''N" />
+      <longitude value="068°57'35''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3410" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Princess Juliana International Airport" icao="TNCM" iata="SXM" type="Long_Haul_International" season="All_Year">
