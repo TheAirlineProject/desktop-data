@@ -1178,6 +1178,99 @@
       <zh-CN name="机场代码格式"/>
     </Text>
   </Region>
+  <Region name="PageNewGame">
+    <Text uid="200">
+      <en-GB name="Create New Game"/>
+      <de-DE name="Missing"/>
+      <en-US name="Create New Game"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="201">
+      <en-GB name="Create Game"/>
+      <de-DE name="Missing"/>
+      <en-US name="Create Game"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="202">
+      <en-GB name="Start Menu"/>
+      <de-DE name="Missing"/>
+      <en-US name="Start Menu"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1001">
+      <en-GB name="Airline Profile"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airline Profile"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1002">
+      <en-GB name="Select Airline"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select Airline"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1003">
+      <en-GB name="IATA code"/>
+      <de-DE name="Missing"/>
+      <en-US name="IATA code"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1004">
+      <en-GB name="Home country"/>
+      <de-DE name="Missing"/>
+      <en-US name="Home country"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1005">
+      <en-GB name="Name of CEO"/>
+      <de-DE name="Missing"/>
+      <en-US name="Name of CEO"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1006">
+      <en-GB name="Airline color"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airline color"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1007">
+      <en-GB name="Select homebase"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select homebase"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1008">
+      <en-GB name="Select start year"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select start year"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1009">
+      <en-GB name="Select timezone"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select timezone"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1010">
+      <en-GB name="Select # of opponents"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select # of opponents"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+</Region>
   <Region name="PageAirlineFleet">
     <Text uid="1001">
       <en-GB name="Fleet overview"/>
@@ -2111,18 +2204,18 @@
   </Region>
   <Region name="MenuNewGame">
     <Text uid="1000">
-      <en-GB name="New Game"/>
+      <en-GB name="New game"/>
       <de-DE name="Neues Spiel"/>
-      <en-US name="New Game"/>
+      <en-US name="New game"/>
       <nl-NL name="Nieuw spel"/>
       <zh-CN name="开始新游戏"/>
     </Text>
   </Region>
   <Region name="MenuExitGame">
     <Text uid="1000">
-      <en-GB name="Exit Game"/>
+      <en-GB name="Exit game"/>
       <de-DE name="Spiel beenden"/>
-      <en-US name="Exit Game"/>
+      <en-US name="Exit game"/>
       <nl-NL name="Spel be?indigen"/>
       <zh-CN name="退出游戏"/>
     </Text>

@@ -33,8 +33,8 @@
     <period start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></period>
     <history>
     <tempcountries>
-		<tempcountry id="166"></tempcountry>
-		<tempcountry id="231"></tempcountry>
+		<tempcountry id="166" start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></tempcountry>
+		<tempcountry id="231" start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></tempcountry>
     </tempcountries>
   </history>
   </country>
@@ -49,21 +49,21 @@
     <period start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></period>
     <history>
     <tempcountries>
-		<tempcountry id="102"></tempcountry>
-		<tempcountry id="103"></tempcountry>
-		<tempcountry id="117"></tempcountry>
-		<tempcountry id="134"></tempcountry>
-		<tempcountry id="149"></tempcountry>
-		<tempcountry id="217"></tempcountry>
-		<tempcountry id="232"></tempcountry>
-		<tempcountry id="233"></tempcountry>
-		<tempcountry id="234"></tempcountry>
-		<tempcountry id="235"></tempcountry>
-		<tempcountry id="236"></tempcountry>
-		<tempcountry id="237"></tempcountry>
-		<tempcountry id="238"></tempcountry>
-		<tempcountry id="239"></tempcountry>
-		<tempcountry id="240"></tempcountry>
+		<tempcountry id="102" start="12.30.1922 00:00:00" end="12.26.1960 00:00:00"></tempcountry>
+		<tempcountry id="103" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="117" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="134" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="149" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="217" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="232" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="233" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="234" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="235" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="236" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="237" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="238" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="239" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
+		<tempcountry id="240" start="12.30.1922 00:00:00" end="12.26.1991 00:00:00"></tempcountry>
     </tempcountries>
   </history>
   </country>
@@ -78,9 +78,9 @@
     <period start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></period>
     <history>
     <tempcountries>
-		<tempcountry id="104"></tempcountry>
-		<tempcountry id="105"></tempcountry>
-		<tempcountry id="120"></tempcountry>
+		<tempcountry id="104" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="105" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
+		<tempcountry id="120" start="01.31.1936 00:00:00" end="06.25.1991 00:00:00"></tempcountry>
     </tempcountries>
   </history>
   </country>
