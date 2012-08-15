@@ -797,7 +797,7 @@
   </airport>
   <!--Vietnam (VV**)-->
   <airport name="Noi Bai International Airport" icao="VVNB" iata="HAN" type="Long_Haul_International" season="All_Year">
-    <town town="Hanoi" country="1006" GMT="07:00:00" DST="07:00:00" />
+    <town town="Hanoi" country="1007" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="021°13'15''N" />
       <longitude value="105°48'25''E" />
@@ -812,7 +812,7 @@
     </runways>
   </airport>
   <airport name="Tan Son Nhat International Airport" icao="VVTS" iata="SGN" type="Short_Haul_International" season="All_Year">
-    <town town="Ho Chi Minh City" country="1007" GMT="07:00:00" DST="07:00:00" />
+    <town town="Ho Chi Minh City" country="1008" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="010°49'08''N" />
       <longitude value="106°39'07''E" />

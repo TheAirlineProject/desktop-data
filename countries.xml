@@ -1207,8 +1207,18 @@
 	  <zh-CN name="Montenegro" />
     </translations>
   </country>
-  <!--Next uid = 250-->
+  <!--Next uid = 251-->
   <!--Territories-->
+  <country uid="250" shortname="ASM" region="105" flag="American Samoa" tailformat="N-\\n5">
+  <territoryof uid ="122" />
+    <translations>
+	  <en-US name="American Samoa" />
+	  <de-DE name="American Samoa" />
+	  <en-GB name="American Samoa" />
+	  <nl-NL name="American Samoa" />
+	  <zh-CN name="American Samoa" />
+    </translations>
+  </country>
   <country uid="200" shortname="BER" region="102" flag="Bermuda" tailformat="VQ-B\\s2">
   <territoryof uid ="130" />
     <translations>
@@ -1289,7 +1299,7 @@
 	  <zh-CN name="格陵兰" />
     </translations>
   </country>
-  <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\\d2">
+  <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\\d5">
   <territoryof uid ="122" />
     <translations>
 	  <en-US name="Guam" />
@@ -1349,7 +1359,7 @@
 	  <zh-CN name="Virgin Islands (British)" />
     </translations>
   </country>
-  <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\\d3">
+  <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\\d5">
   <territoryof uid ="122" />
     <translations>
 	  <en-US name="Virgin Islands (US)" />

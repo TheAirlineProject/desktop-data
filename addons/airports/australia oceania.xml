@@ -48,6 +48,22 @@
       <runway name="17/35" length="1509" surface="Grass" />
     </runways>
   </airport>
+  <!--Samoa, American (NS**)-->
+  <airport name="Pago Pago International Airport" icao="NSTU" iata="PPG" type="Long_Haul_International" season="All_Year">
+    <town town="Pago Pago" country="250" GMT="11:00:00" DST="11:00:00" />
+    <coordinates>
+      <latitude value="014°16'46''S" />
+      <longitude value="170°42'02''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="5/23" length="3048" surface="Asphalt" />
+      <runway name="8/26" length="1158" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--New Zealand (NZ**)-->
   <airport name="Auckland Airport" icao="NZAA" iata="AKL" type="Long_Haul_International" season="All_Year">
     <town town="Auckland" country="186" GMT="12:00:00" DST="13:00:00" />
