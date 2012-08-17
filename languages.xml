@@ -813,6 +813,15 @@
       <zh-CN name="{0}"/>
     </Text>
   </Region>
+  <Region name="PageAirportTraffic">
+      <Text uid="1001">
+      <en-GB name="Passengers to destination"/>
+      <de-DE name="Missing"/>
+      <en-US name="Passengers to destination"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+  </Region>
   <Region name="PageAirportFlights">
     <Text uid="1001">
       <en-GB name="Flights"/>
@@ -2064,6 +2073,13 @@
       <en-US name="Distances"/>
       <nl-NL name="Missing"/>
       <zh-CN name="距离"/>
+    </Text>
+    <Text uid="207">
+      <en-GB name="Traffic"/>
+      <de-DE name="Missing"/>
+      <en-US name="Traffic"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
     </Text>
   </Region>
   <Region name="PanelAirports">
