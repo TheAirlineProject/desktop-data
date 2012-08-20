@@ -1186,6 +1186,13 @@
       <nl-NL name="Luchthavencode-indeling"/>
       <zh-CN name="机场代码格式"/>
     </Text>
+   <Text uid="1006">
+      <en-GB name="Minutes per turn"/>
+      <de-DE name="Missing"/>
+      <en-US name="Minutes per turn"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageNewGame">
     <Text uid="200">
