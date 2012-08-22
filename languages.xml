@@ -1836,9 +1836,9 @@
       <zh-CN name="耗油率"/>
     </Text>
     <Text uid="1014">
-      <en-GB name="Time Range of Production"/>
+      <en-GB name="Range of Production"/>
       <de-DE name="Produktionszeitraum"/>
-      <en-US name="Time Range of Production"/>
+      <en-US name="Range of Production"/>
       <nl-NL name="Productietijdsvak"/>
       <zh-CN name="移交时间表"/>
     </Text>
