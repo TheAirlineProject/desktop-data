@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Lockheed" name="Lockeed L-1011-1" price="21800000">
+  <airliner manufacturer="Lockheed" name="Lockeed L-1011-1" price="16628530"> <!--21800000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.35" length="54.15" range="7420" speed="963" consumption="0.033" runwaylengthrequired="2690"/>
     <capacity passengers="400" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
     <produced from="1970" to="1983"/>
   </airliner>
-  <airliner manufacturer="Lockheed" name="Lockeed L-1011-200" price="33500000">
+  <airliner manufacturer="Lockheed" name="Lockeed L-1011-200" price="22333330"> <!--33500000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.35" length="54.15" range="9140" speed="954" consumption="0.033" runwaylengthrequired="2600"/>
     <capacity passengers="400" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
     <produced from="1973" to="1983"/>
   </airliner>
-  <airliner manufacturer="Lockheed" name="Lockeed L-1011-500" price="45500000">
+  <airliner manufacturer="Lockheed" name="Lockeed L-1011-500" price="18548720"> <!--45500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="50.09" length="50.04" range="10200" speed="972" consumption="0.034" runwaylengthrequired="2600"/>
     <capacity passengers="315" cockpitcrew="3" cabincrew="7" maxclasses="3"/>

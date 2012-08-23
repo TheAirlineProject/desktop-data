@@ -18,49 +18,49 @@
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1960" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-40" price="6000000">
+  <airliner manufacturer="Douglas" name="Douglas DC-8-40" price="5940590"> <!--6000000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="10603" speed="952" consumption="0.055" runwaylengthrequired="2970"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1961" to="1965"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-51" price="7600000">
+  <airliner manufacturer="Douglas" name="Douglas DC-8-51" price="7524750"> <!--7600000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="8171" speed="946" consumption="0.067" runwaylengthrequired="3000"/>
     <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1961" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-54CF" price="7800000">
+  <airliner manufacturer="Douglas" name="Douglas DC-8-54CF" price="7647060"> <!--7800000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="12139" speed="954" consumption="0.062" runwaylengthrequired="2950"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
     <produced from="1962" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-61" price="9000000">
+  <airliner manufacturer="Douglas" name="Douglas DC-8-61" price="8219180"> <!--9000000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="57.10" range="9408" speed="935" consumption="0.050" runwaylengthrequired="3200"/>
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
     <produced from="1966" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-8-62" price="8200000">
+  <airliner manufacturer="Douglas" name="Douglas DC-8-62" price="7488580"> <!--8200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="43.41" length="47.91" range="8871" speed="946" consumption="0.063" runwaylengthrequired="3000"/>
     <capacity passengers="186" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1966" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="2200000">
+  <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="2009130"> <!--2200000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.051" runwaylengthrequired="1670"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1966" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-9-15" price="2700000">
+  <airliner manufacturer="Douglas" name="Douglas DC-9-15" price="2393620"> <!--2700000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2840" speed="903" consumption="0.049" runwaylengthrequired="1520"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1967" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-9-30" price="5500000">
+  <airliner manufacturer="Douglas" name="Douglas DC-9-30" price="4875890"> <!--5500000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="36.37" range="3030" speed="917" consumption="0.037" runwaylengthrequired="1390"/>
     <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>

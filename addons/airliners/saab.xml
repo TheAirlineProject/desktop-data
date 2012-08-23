@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Saab" name="Saab 340B" price="7700000">
+  <airliner manufacturer="Saab" name="Saab 340B" price="2193730"> <!--7700000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
     <specs wingspan="21.44" length="19.73" range="1732" speed="467" consumption="0.046" runwaylengthrequired="1000"/>
     <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>

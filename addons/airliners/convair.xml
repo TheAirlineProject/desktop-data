@@ -6,13 +6,13 @@
     <capacity passengers="110" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1959" to="1962"/>
   </airliner>
-  <airliner manufacturer="Convair" name="Convair 990" price="6200000">
+  <airliner manufacturer="Convair" name="Convair 990" price="6138610"> <!--6200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="36.58" length="42.49" range="5400" speed="920" consumption="0.069" runwaylengthrequired="3000"/>
     <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1961" to="1963"/>
   </airliner>
-  <airliner manufacturer="Convair" name="Convair 990A" price="5500000">
+  <airliner manufacturer="Convair" name="Convair 990A" price="5392150"> <!--5500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="36.58" length="42.49" range="6900" speed="1015" consumption="0.057" runwaylengthrequired="2260"/>
     <capacity passengers="121" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
