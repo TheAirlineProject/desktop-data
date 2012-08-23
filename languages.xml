@@ -135,6 +135,13 @@
       <nl-NL name="MIssing"/>
       <zh-CN name="全部"/>
     </Text>
+    <Text uid="112">
+        <en-GB name="Auto geneate"/>
+      <de-DE name="Missing"/>
+      <en-US name="Auto generate"/>
+      <nl-NL name="MIssing"/>
+      <zh-CN name="Missing"/>
+    </Text>
     <Text uid="1000">
       <en-GB name="Untranslated Title"/>
       <de-DE name="Nicht übersetzter Titel"/>
@@ -2661,6 +2668,37 @@
       <zh-CN name="拒绝" message="{0} 拒绝加入 {1} 的邀请"/>
     </Text>
     <!--END - Alliance Model-->
+   <!--BEGIN -PopUpAirlinerRoutes-->
+     <Text uid="2701">
+      <en-GB name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>   
+    <Text uid="2702">
+      <en-GB name="Already in route" message="The plane is already in route at that time"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Already in route" message="The plane is already in route at that time"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>   
+      <Text uid="2703">
+      <en-GB name="Already in route" message="The route do already has an airliner at that time"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Already in route" message="The route do already has an airliner at that time"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>   
+          <Text uid="2704">
+      <en-GB name="Not matching" message="The plane can't reach the destination from this entry"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Not matching" message="The plane can't reach the destination from this entrye"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>   
+
+ <!--END - PopUpAirlinerRoutesl-->
   </Region>
   <Region name="News">
     <Text uid="1001">
