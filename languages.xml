@@ -778,6 +778,13 @@
       <nl-NL name="Missing"/>
       <zh-CN name="货舱容积"/>
     </Text>
+    <Text uid="1022">
+      <en-GB name="Opened"/>
+      <de-DE name="Missing"/>
+      <en-US name="Opened"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirportRunways">
     <Text uid="1001">
@@ -2670,9 +2677,9 @@
     <!--END - Alliance Model-->
    <!--BEGIN -PopUpAirlinerRoutes-->
      <Text uid="2701">
-      <en-GB name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}"/>
+      <en-GB name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}?"/>
       <de-DE name="Missing" message="Missing"/>
-      <en-US name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}"/>
+      <en-US name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}?"/>
       <nl-NL name="Missing" message="Missing"/>
       <zh-CN name="Missing" message="Missing"/>
     </Text>   

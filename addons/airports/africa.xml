@@ -172,6 +172,7 @@
     </runways>
   </airport>
   <airport name="Durban International Airport" icao="FADN" iata="DUR" type="Short_Haul_International" season="All_Year">
+  <period from="01.01.1951 00:00:00" to="01.05.2010 00:00:00"/>
     <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00"/>
     <coordinates>
       <latitude value="029°58'07''S"/>
@@ -201,6 +202,7 @@
     </runways>
   </airport>
   <airport name="King Shaka International Airport" icao="FALE" iata="DUR" type="Short_Haul_International" season="All_Year">
+    <period from="01.05.2010 00:00:00" to="01.05.2199 00:00:00"/>
     <town town="Durban" country="158" GMT="02:00:00" DST="02:00:00"/>
     <coordinates>
       <latitude value="029°58'11''S"/>
