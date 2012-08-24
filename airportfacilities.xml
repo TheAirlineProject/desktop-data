@@ -51,7 +51,7 @@
 			<zh-CN name="无" />
     </translations>
   </airportfacility>
-  <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000" buildingdays="30">
+  <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000" buildingdays="45">
     <level service="3" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Basic Service Center" />
@@ -61,7 +61,7 @@
 			<zh-CN name="简陋服务中心" />
     </translations>
   </airportfacility>
- <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000"  buildingdays="45">
+ <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000"  buildingdays="60">
     <level service="7" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Service Center" />
@@ -71,7 +71,7 @@
 			<zh-CN name="服务中心" />
     </translations>
   </airportfacility>
-  <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000" buildingdays="60">
+  <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000" buildingdays="120">
     <level service="10" luxury="0" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Large Service Center" />
@@ -81,7 +81,7 @@
 			<zh-CN name="大型服务中心" />
     </translations>
   </airportfacility>
-  <airportfacility uid="108" shortname="Business Lounge" type="Lounge" typelevel="1" price="1000000" buildingdays="45">
+  <airportfacility uid="108" shortname="Business Lounge" type="Lounge" typelevel="1" price="100000" buildingdays="40">
     <level service="0" luxury="15" cargoCapacity="0"></level>
     <translations>
 			<en-US name="Business Lounge" />
@@ -91,7 +91,7 @@
 			<zh-CN name="商务休息室" />
     </translations>
   </airportfacility>
-  <airportfacility uid="109" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="2100000" buildingdays="60">
+  <airportfacility uid="109" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="175000" buildingdays="60">
     <level service="0" luxury="30" cargoCapacity="0"></level>
     <translations>
 			<en-US name="First Class Lounge" />

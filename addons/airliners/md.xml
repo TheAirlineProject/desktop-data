@@ -132,25 +132,25 @@
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1993" to="2000"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-10" price="14766080"> <!--20200000-->
+  <airliner manufacturer="MD" name="MD DC-10-10" price="15643270"> <!--21400000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.34" length="51.97" range="6114" speed="908" consumption="0.035" runwaylengthrequired="3000"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1971" to="1981"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-15" price="4873120"> <!--21700000-->
+  <airliner manufacturer="MD" name="MD DC-10-15" price="9172440"> <!--22500000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.34" length="51.97" range="7000" speed="908" consumption="0.035" runwaylengthrequired="3080"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1979" to="1983"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-30" price="15934840"> <!--22500000-->
+  <airliner manufacturer="MD" name="MD DC-10-30" price="16855520"> <!--23800000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="50.40" length="51.97" range="10620" speed="908" consumption="0.035" runwaylengthrequired="2735"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1972" to="1988"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-10-40" price="15066670"> <!--22600000-->
+  <airliner manufacturer="MD" name="MD DC-10-40" price="16000000"> <!--24000000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="50.40" length="51.97" range="9252" speed="908" consumption="0.034" runwaylengthrequired="2697"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Boeing" name="Boeing 720 (707-020B)" price="3800000">
+  <airliner manufacturer="Boeing" name="Boeing 720 (707-020)" price="3800000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="41.25" range="4385" speed="905" consumption="0.079" runwaylengthrequired="2520"/>
     <capacity passengers="140" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
@@ -126,7 +126,7 @@
     <capacity passengers="189" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="2000" to="2020"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-900ER" price="86000000"> <!--86000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-900ER" price="13022210"> <!--86000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="42.10" range="5925" speed="823" consumption="0.021" runwaylengthrequired="1800"/>
     <capacity passengers="215" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
@@ -186,7 +186,7 @@
     <capacity passengers="234" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
     <produced from="1983" to="2004"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-200" price="17944790"> <!--58500000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-200" price="17791410"> <!--58000000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.60" length="48.50" range="7300" speed="851" consumption="0.028" runwaylengthrequired="2200"/>
     <capacity passengers="255" cockpitcrew="2" cabincrew="5" maxclasses="3"/>

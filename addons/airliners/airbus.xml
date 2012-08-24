@@ -60,7 +60,7 @@
     <capacity passengers="220" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="1996" to="2017"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A330-200" price="364990010"> <!--201000000-->
+  <airliner manufacturer="Airbus" name="Airbus A330-200" price="36499000"> <!--201000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.30" length="58.82" range="13430" speed="871" consumption="0.021" runwaylengthrequired="2490"/>
     <capacity passengers="380" cockpitcrew="2" cabincrew="8" maxclasses="3"/>

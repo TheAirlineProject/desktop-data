@@ -96,6 +96,37 @@
       <runway name="04/22" length="2435" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Berlin Brandenburg Airport" icao="EDDB" iata="BER" type="Long_Haul_International" season="All_Year">
+  <period from="03.17.2013 00:00:00" to="01.01.2199 00:00:00"/>
+    <town town="Berlin" country="1002" GMT="02:00:00" DST="01:00:00"/>
+    <coordinates>
+      <latitude value="052°22'00''N"/>
+      <longitude value="013°30'12''E"/>
+    </coordinates>
+    <size value="Large"/>
+    <terminals>
+      <terminal name="Terminal" gates="110"/>
+    </terminals>
+    <runways>
+      <runway name="07L/25R" length="3600" surface="Asphalt"/>
+	  <runway name="07R/25L" length="4000" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Berlin Schönefeld Airport" icao="EDDB" iata="SXF" type="Long_Haul_International" season="All_Year">
+  <period from="10.15.1934 00:00:00" to="03.17.2013 00:00:00"/>
+    <town town="Berlin" country="1001" GMT="02:00:00" DST="01:00:00"/>
+    <coordinates>
+      <latitude value="052°22'43''N"/>
+      <longitude value="013°31'14''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="46"/>
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3600" surface="Asphalt"/>
+    </runways>
+  </airport>
   <airport name="Dresden Airport" icao="EDDC" iata="DRS" type="Long_Haul_International" season="All_Year">
     <town town="Dresden" country="1001" GMT="02:00:00" DST="01:00:00"/>
     <coordinates>
@@ -141,6 +172,25 @@
     <runways>
       <runway name="05/23" length="3250" surface="Asphalt"/>
       <runway name="15/33" length="3666" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Berlin Tempelhof Airport" icao="EDDI" iata="THF" type="Long_Haul_International" season="All_Year">
+  <period from="10.08.1923 00:00:00" to="04.27.2008 00:00:00"/>
+    <town town="Berlin" country="1002" GMT="02:00:00" DST="01:00:00"/>
+    <coordinates>
+      <latitude value="052°28'25''N"/>
+      <longitude value="013°24'06''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal A" gates="14"/>
+      <terminal name="Terminal B" gates="19"/>
+      <terminal name="Terminal C" gates="31"/>
+      <terminal name="Terminal D" gates="22"/>
+    </terminals>
+    <runways>
+      <runway name="08L/26R" length="3154" surface="Asphalt"/>
+      <runway name="08R/26L" length="2540" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Cologne Bonn Airport" icao="EDDK" iata="CGN" type="Long_Haul_International" season="All_Year">
@@ -222,6 +272,7 @@
     </runways>
   </airport>
   <airport name="Berlin Tegel Airport" icao="EDDT" iata="TXL" type="Long_Haul_International" season="All_Year">
+  <period from="01.01.1960 00:00:00" to="03.17.2013 00:00:00"/>
     <town town="Berlin" country="1002" GMT="02:00:00" DST="01:00:00"/>
     <coordinates>
       <latitude value="052°33'34''N"/>

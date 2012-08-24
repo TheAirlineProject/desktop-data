@@ -20,7 +20,7 @@
 			<zh-CN name="空中杂志" shortname="杂志" />
     </translations>
   </airlinefacility>
-  <airlinefacility uid="102" price="200000" fromyear="1950" monthlycost="5000">
+  <airlinefacility uid="102" price="125000" fromyear="1950" monthlycost="5000">
     <level service="0" luxury="4"></level>
     <translations>
 			<en-US name="Newspaper Service" shortname="News" />

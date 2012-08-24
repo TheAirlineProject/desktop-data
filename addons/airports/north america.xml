@@ -384,7 +384,7 @@
     </coordinates>
     <size value="Largest" />
     <terminals>
-      <terminal name="Terminal" gates="182" />
+      <terminal name="Terminal" gates="199" />
     </terminals>
     <runways>
       <runway name="8L/26R" length="2743" surface="Concrete" />
@@ -835,6 +835,7 @@
     </runways>
   </airport>
   <airport name="Denver International Airport" icao="KDEN" iata="DEN" type="Long_Haul_International" season="All_Year">
+  <period from="02.28.1995 00:00:00" to="01.01.2199 00:00:00"/>
     <town town="Denver, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="039°51'30''N" />
@@ -853,7 +854,28 @@
       <runway name="17R/35L" length="3658" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Stapleton International Airport" icao="KDEN" iata="DEN" type="Long_Haul_International" season="All_Year">
+  <period from="10.17.1929 00:00:00" to="02.28.1995 00:00:00"/>
+    <town town="Denver, CO" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="039°46'45''N" />
+      <longitude value="104°52'55''W" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal" gates="60" />
+    </terminals>
+    <runways>
+      <runway name="7/25" length="1484" surface="Concrete" />
+      <runway name="8L/26R" length="2621" surface="Concrete" />
+      <runway name="8R/26L" length="3049" surface="Concrete" />
+      <runway name="17L/35R" length="3658" surface="Concrete" />
+      <runway name="17R/35L" length="3505" surface="Concrete" />
+	  <runway name="18/36" length="2362" surface="Concrete" />
+    </runways>
+  </airport>
   <airport name="Dallas/Fort Worth International Airport" icao="KDFW" iata="DFW" type="Long_Haul_International" season="All_Year">
+  <period from="01.13.1974 00:00:00" to="01.01.2199 00:00:00"/>
     <town town="Dallas/Fort Worth, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="032°53'47''N" />
@@ -1194,7 +1216,8 @@
     </runways>
   </airport>
   <airport name="Washington Dulles International Airport" icao="KIAD" iata="IAD" type="Long_Haul_International" season="All_Year">
-    <town town="Washington, DC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+  <period from="11.17.1962 00:00:00" to="01.01.2199 00:00:00"/>
+	<town town="Washington, DC" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="038°56'40''N" />
       <longitude value="077°27'20''W" />
@@ -1212,7 +1235,8 @@
     </runways>
   </airport>
   <airport name="George Bush Intercontinental Airport" icao="KIAH" iata="IAH" type="Long_Haul_International" season="All_Year">
-    <town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+  <period from="06.08.1969 00:00:00" to="01.01.2199 00:00:00"/>
+	<town town="Houston, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
       <latitude value="029°58'49''N" />
       <longitude value="095°20'23''W" />

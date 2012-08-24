@@ -307,6 +307,7 @@
     </runways>
   </airport>
   <airport name="Kansai International Airport" icao="RJBB" iata="KIX" type="Long_Haul_International" season="All_Year">
+  <period from="09.04.1994 00:00:00" to="01.01.2199 00:00:00"/>
     <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
     <coordinates>
       <latitude value="034°25'38''N" />
@@ -737,6 +738,7 @@
   </airport>
   <!--Hong Kong (VH**)-->
   <airport name="Hong Kong International Airport" icao="VHHH" iata="HKG" type="Long_Haul_International" season="All_Year">
+  <period from="07.06.1998 00:00:00" to="01.01.2199 00:00:00"/>
     <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="022°18'32''N" />
@@ -749,6 +751,21 @@
     <runways>
       <runway name="07L/25R" length="3800" surface="Asphalt" />
       <runway name="07R/25L" length="3800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kai Tak Airport" icao="VHHH" iata="HKG" type="Long_Haul_International" season="All_Year">
+  <period from="01.01.1954 00:00:00" to="07.06.1998 00:00:00"/>
+    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="022°19'43''N" />
+      <longitude value="114°11'39''E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal" gates="35" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="3390" surface="Asphalt" />
     </runways>
   </airport>
   <!--Thailand (VT**)-->

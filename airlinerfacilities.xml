@@ -13,7 +13,7 @@
   </airlinerfacility>
   <airlinerfacility uid="101" type="Audio" fromyear="1982">
     <level service="30"></level>
-    <seats percent="100" price="900" uses="1"></seats>
+    <seats percent="100" price="230" uses="1"></seats>
     <translations>
 			<en-US name="Standard Audio on Demand" />
 			<de-DE name="Standard Kopfhörer auf Nachfrage" />
@@ -24,7 +24,7 @@
   </airlinerfacility>
   <airlinerfacility uid="102" type="Audio" fromyear="1995">
     <level service="65"></level>
-    <seats percent="100" price="1200" uses="1"></seats>
+    <seats percent="100" price="250" uses="1"></seats>
     <translations>
 			<en-US name="Extended Audio on Demand" />
 			<de-DE name="Bessere Kopfhörer auf Nachfrage" />
@@ -57,7 +57,7 @@
   </airlinerfacility>
   <airlinerfacility uid="105" type="Seat" fromyear="1970">
     <level service="20"></level>
-    <seats percent="100" price="600" uses="1"></seats>
+    <seats percent="100" price="450" uses="1"></seats>
     <translations>
 			<en-US name="Luxury Seats" />
 			<de-DE name="Luxury Seats" />
@@ -68,7 +68,7 @@
   </airlinerfacility>
   <airlinerfacility uid="106" type="Seat" fromyear="1980">
     <level service="35"></level>
-    <seats percent="100" price="1000" uses="2"></seats>
+    <seats percent="100" price="360" uses="2"></seats>
     <translations>
 			<en-US name="Cradle Seats" />
 			<de-DE name="Wiege-Sitze" />
@@ -79,7 +79,7 @@
   </airlinerfacility>
   <airlinerfacility uid="107" type="Seat" fromyear="1990">
     <level service="50"></level>
-    <seats percent="100" price="1400" uses="2"></seats>
+    <seats percent="100" price="320" uses="2"></seats>
     <translations>
 			<en-US name="Angled Lie-Flat Seats" />
 			<de-DE name="Standard-Liege-Sitze" />
@@ -90,7 +90,7 @@
   </airlinerfacility>
   <airlinerfacility uid="108" type="Seat" fromyear="1997">
     <level service="75"></level>
-    <seats percent="100" price="2000" uses="3"></seats>
+    <seats percent="100" price="370" uses="3"></seats>
     <translations>
 			<en-US name="Full-Flat Seats" />
 			<de-DE name="Luxus-Liege-Sitze" />
@@ -101,7 +101,7 @@
   </airlinerfacility>
   <airlinerfacility uid="109" type="Seat" fromyear="1999">
     <level service="100"></level>
-    <seats percent="100" price="2300" uses="3"></seats>
+    <seats percent="100" price="410" uses="3"></seats>
     <translations>
 			<en-US name="Full-Flat Beds" />
 			<de-DE name="Luxus-Liege-Bett" />
@@ -134,7 +134,7 @@
   </airlinerfacility>
   <airlinerfacility uid="112" type="Video" fromyear="1988">
     <level service="40"></level>
-    <seats percent="100" price="300" uses="1"></seats>
+    <seats percent="100" price="250" uses="1"></seats>
     <translations>
 			<en-US name="Standard PTV" />
 			<de-DE name="Sitzmonitor Standard" />
@@ -145,7 +145,7 @@
   </airlinerfacility>
   <airlinerfacility uid="113" type="Video" fromyear="1997">
     <level service="100"></level>
-    <seats percent="100" price="1200" uses="1"></seats>
+    <seats percent="100" price="220" uses="1"></seats>
     <translations>
 			<en-US name="Extended PTV" />
 			<de-DE name="Sitzmonitor Luxus" />
