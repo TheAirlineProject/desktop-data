@@ -2320,9 +2320,9 @@
       <zh-CN name="无效的基地机场" message="该基地机场不可用，所以没办法购买飞机。"/>
     </Text>
     <Text uid="2001">
-      <en-GB name="Not enough money" message="You don't have any money to order this airliner."/>
+      <en-GB name="Not enough money" message="You don't have enough money to order this airliner."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu bestellen."/>
-      <en-US name="Not enough money" message="You don't have any money to order this airliner."/>
+      <en-US name="Not enough money" message="You don't have enough money to order this airliner."/>
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen."/>
       <zh-CN name="不够钱" message="您不够钱来预订此架飞机。"/>
     </Text>
@@ -2341,9 +2341,9 @@
       <zh-CN name="预订飞机" message="您确定要预订一架 {1} {0}？"/>
     </Text>
     <Text uid="2004">
-      <en-GB name="Not enough money" message="You don't have any money to lease this airliner."/>
+      <en-GB name="Not enough money" message="You don't have enough money to lease this airliner."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu leasen."/>
-      <en-US name="Not enough money" message="You don't have any money to lease this airliner."/>
+      <en-US name="Not enough money" message="You don't have enough money to lease this airliner."/>
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te leasen."/>
       <zh-CN name="不够钱" message="您没有足够的金钱来租此架飞机"/>
     </Text>
@@ -2355,9 +2355,9 @@
       <zh-CN name="租借飞机" message="您确认要租借此架 {0}？"/>
     </Text>
     <Text uid="2006">
-      <en-GB name="Not enough money" message="You don't have any money to buy this airliner."/>
+      <en-GB name="Not enough money" message="You don't have enough money to buy this airliner."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen."/>
-      <en-US name="Not enough money" message="You don't have any money to buy this airliner."/>
+      <en-US name="Not enough money" message="You don't have enough money to buy this airliner."/>
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen."/>
       <zh-CN name="不够钱" message="您没有足够的金钱来购买此架飞机"/>
     </Text>
@@ -2434,9 +2434,9 @@
       <zh-CN name="修改工资" message="您确认要修改工资比率吗？"/>
     </Text>
         <Text uid="2109">
-      <en-GB name="Not enough money" message="You don't have any money to buy this airliner."/>
+      <en-GB name="Not enough money" message="You don't have enough money to buy this airliner."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen."/>
-      <en-US name="Not enough money" message="You don't have any money to buy this airliner."/>
+      <en-US name="Not enough money" message="You don't have enough money to buy this airliner."/>
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen."/>
       <zh-CN name="不够钱" message="您没有足够的金钱来购买此架飞机"/>
     </Text>
