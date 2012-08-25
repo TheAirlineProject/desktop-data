@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<airliners>
+	<airliner manufacturer="Ark" name="Ark 202-100" price="5000000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+		<specs wingspan="25.05" length="24.15" range="1475" speed="450" consumption="0.030" runwaylengthrequired="675"/>
+		<capacity passengers="52" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+		<produced from="2010" to="2016"/> <!--short run prop-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 202-200" price="4700000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+		<specs wingspan="25.05" length="26.50" range="1300" speed="450" consumption="0.032" runwaylengthrequired="695"/>
+		<capacity passengers="62" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+		<produced from="2011" to="2014"/> <!--stretched version-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 202-300" price="5500000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+		<specs wingspan="26.00" length="30.00" range="1150" speed="480" consumption="0.034" runwaylengthrequired="705"/>
+		<capacity passengers="74" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+		<produced from="2012" to="2018"/> <!--x-stretched version-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 232-100" price="12500000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+		<specs wingspan="42.5" length="31.8" range="2700" speed="550" consumption="0.037" runwaylengthrequired="770"/>
+		<capacity passengers="106" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+		<produced from="2012" to="2018"/> <!--heavy prop-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 242-100" price="16000000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+		<specs wingspan="40.0" length="24.8" range="4900" speed="550" consumption="0.028" runwaylengthrequired="640"/>
+		<capacity passengers="64" cockpitcrew="2" cabincrew="3" maxclasses="3"/>
+		<produced from="2013" to="2021"/> <!--long range executive prop-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 315-100" price="26000000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+		<specs wingspan="27.42" length="26.85" range="3400" speed="1100" consumption="0.038" runwaylengthrequired="940"/>
+		<capacity passengers="48" cockpitcrew="2" cabincrew="3" maxclasses="3"/>
+		<produced from="2011" to="2015"/> <!--exec/short haul jet-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 315-200" price="18400000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+		<specs wingspan="28.00" length="29.95" range="3100" speed="1070" consumption="0.037" runwaylengthrequired="940"/>
+		<capacity passengers="56" cockpitcrew="2" cabincrew="3" maxclasses="3"/>
+		<produced from="2012" to="2017"/><!--stretched 242-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 315-300" price="21000000">
+		<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
+		<specs wingspan="28.40" length="33.04" range="2880" speed="1040" consumption="0.037" runwaylengthrequired="940"/>
+		<capacity passengers="68" cockpitcrew="2" cabincrew="4" maxclasses="3"/>
+		<produced from="2014" to="2016"/><!--x-stretched/short range 242-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 325-100" price="19000000">
+		<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+		<specs wingspan="24.1" length="28.05" range="3700" speed="950" consumption="0.038" runwaylengthrequired="1150"/>
+		<capacity passengers="64" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+		<produced from="2013" to="2019"/><!--ER commuter jet-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 325-200" price="22500000">
+		<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+		<specs wingspan="24.1" length="30.5" range="3500" speed="935" consumption="0.041" runwaylengthrequired="1150"/>
+		<capacity passengers="74" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+		<produced from="2015" to="2020"/><!--stretched 325-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 325-300" price="25400000">
+		<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
+		<specs wingspan="24.5" length="35.2" range="2900" speed="910" consumption="0.043" runwaylengthrequired="1150"/>
+		<capacity passengers="96" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+		<produced from="2016" to="2024"/><!--xx-stretched 325-->
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 335-100" price="21000000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="32.1" length="32.1" range="5200" speed="840" consumption="0.044" runwaylengthrequired="1470"/>
+		<capacity passengers="102" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+		<produced from="2012" to="2021"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 335-200" price="23400000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="32.1" length="34.1" range="5700" speed="860" consumption="0.045" runwaylengthrequired="1470"/>
+		<capacity passengers="122" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+		<produced from="2013" to="2026"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 335-300" price="26000000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="32.1" length="37.4" range="5600" speed="860" consumption="0.047" runwaylengthrequired="1470"/>
+		<capacity passengers="146" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+		<produced from="2014" to="2019"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 335-400" price="30000000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="35.6" length="39.4" range="6400" speed="870" consumption="0.047" runwaylengthrequired="2000"/>
+		<capacity passengers="168" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+		<produced from="2016" to="2027"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 335-500" price="34000000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="36.6" length="41.4" range="6400" speed="860" consumption="0.048" runwaylengthrequired="2300"/>
+		<capacity passengers="192" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
+		<produced from="2018" to="2028"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 345-100" price="39000000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="39.5" length="47.2" range="6650" speed="890" consumption="0.050" runwaylengthrequired="2470"/>
+		<capacity passengers="230" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
+		<produced from="2014" to="2021"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 345-200" price="47500000">
+		<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+		<specs wingspan="39.5" length="52.2" range="6900" speed="890" consumption="0.052" runwaylengthrequired="2550"/>
+		<capacity passengers="258" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
+		<produced from="2016" to="2024"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 355-100" price="60000000">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="47.0" length="50.2" range="8370" speed="850" consumption="0.054" runwaylengthrequired="2650"/>
+		<capacity passengers="340" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
+		<produced from="2015" to="2025"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 355-200" price="67000000">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="47.0" length="55.2" range="8600" speed="850" consumption="0.054" runwaylengthrequired="2650"/>
+		<capacity passengers="379" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
+		<produced from="2017" to="2028"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 355-300" price="74000000">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="49.5" length="61.2" range="8800" speed="850" consumption="0.055" runwaylengthrequired="2750"/>
+		<capacity passengers="412" cockpitcrew="2" cabincrew="7" maxclasses="3"/>
+		<produced from="2020" to="2030"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 365-100" price="97000000">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="54.5" length="69.5" range="15100" speed="860" consumption="0.057" runwaylengthrequired="3030"/>
+		<capacity passengers="396" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
+		<produced from="2013" to="2027"/>
+	</airliner>
+	<airliner manufacturer="Ark" name="Ark 365-S" price="171000000">
+		<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="54.5" length="64.5" range="9700" speed="1810" consumption="0.069" runwaylengthrequired="3070"/>
+		<capacity passengers="278" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
+		<produced from="2013" to="2014"/>
+	</airliner>
+</airliners>
