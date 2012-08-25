@@ -2,7 +2,7 @@
 <!--For each type there must be one with typelevel == 0 -->
 <airportfacilities>
   <airportfacility uid="100" shortname="Service None" type="Service" typelevel="0" price="0" buildingdays="0">
-    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <level service="0" luxury="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -12,7 +12,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0" buildingdays="0">
-    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <level service="0" luxury="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -22,7 +22,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="102" shortname="CheckIn None" type="CheckIn" typelevel="0" price="0" buildingdays="0">
-    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <level service="0" luxury="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -32,7 +32,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="103" shortname="SelfCheck None" type="SelfCheck" typelevel="0" price="0" buildingdays="0">
-    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <level service="0" luxury="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -42,7 +42,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="104" shortname="Ticket None" type="TicketOffice" typelevel="0" price="0" buildingdays="0">
-    <level service="0" luxury="0" cargoCapacity="0"></level>
+    <level service="0" luxury="0"></level>
     <translations>
 			<en-US name="None" />
 			<de-DE name="Keiner" />
@@ -52,7 +52,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000" buildingdays="45">
-    <level service="3" luxury="0" cargoCapacity="0"></level>
+    <level service="3" luxury="0"></level>
     <translations>
 			<en-US name="Basic Service Center" />
 			<de-DE name="Einfacher Informationsschalter" />
@@ -62,7 +62,7 @@
     </translations>
   </airportfacility>
  <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000"  buildingdays="60">
-    <level service="7" luxury="0" cargoCapacity="0"></level>
+    <level service="7" luxury="0"></level>
     <translations>
 			<en-US name="Service Center" />
 			<de-DE name="Informationsschalter" />
@@ -72,7 +72,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000" buildingdays="120">
-    <level service="10" luxury="0" cargoCapacity="0"></level>
+    <level service="10" luxury="0"></level>
     <translations>
 			<en-US name="Large Service Center" />
 			<de-DE name="Großer Informationsschalter" />
@@ -82,7 +82,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="108" shortname="Business Lounge" type="Lounge" typelevel="1" price="100000" buildingdays="40">
-    <level service="0" luxury="15" cargoCapacity="0"></level>
+    <level service="0" luxury="15"></level>
     <translations>
 			<en-US name="Business Lounge" />
 			<de-DE name="Business Aufenthaltsbereich" />
@@ -92,7 +92,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="109" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="175000" buildingdays="60">
-    <level service="0" luxury="30" cargoCapacity="0"></level>
+    <level service="0" luxury="30"></level>
     <translations>
 			<en-US name="First Class Lounge" />
 			<de-DE name="First Class Aufenthaltsbereich" />
@@ -102,7 +102,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500" buildingdays="5">
-    <level service="0" luxury="5" cargoCapacity="0"></level>
+    <level service="0" luxury="5"></level>
     <translations>
 			<en-US name="Check In Desks" />
 			<de-DE name="Missing" />
@@ -112,7 +112,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="111" shortname="Self CheckIn" type="SelfCheck" typelevel="1" price="330" buildingdays="5">
-    <level service="0" luxury="9" cargoCapacity="0"></level>
+    <level service="0" luxury="9"></level>
     <translations>
 			<en-US name="Self Check In" />
 			<de-DE name="Missing" />
@@ -122,7 +122,7 @@
     </translations>
   </airportfacility>
   <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="129500" buildingdays="10">
-    <level service="0" luxury="15" cargoCapacity="0"></level>
+    <level service="0" luxury="15"></level>
     <translations>
 			<en-US name="Airport Ticket Office" />
 			<de-DE name="Missing" />
