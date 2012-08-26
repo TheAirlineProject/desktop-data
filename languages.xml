@@ -1958,6 +1958,13 @@
       <nl-NL name="Luchthaven"/>
       <zh-CN name="机场"/>
     </Text>
+       <Text uid="1008">
+      <en-GB name="Pay on delivery"/>
+      <de-DE name="Missing"/>
+      <en-US name="Pay on delivery"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PanelUsedAirliner">
     <Text uid="200">
@@ -2320,16 +2327,16 @@
       <zh-CN name="无效的基地机场" message="该基地机场不可用，所以没办法购买飞机。"/>
     </Text>
     <Text uid="2001">
-      <en-GB name="Not enough money" message="You don't have enough money to order this airliner."/>
+      <en-GB name="Not enough money" message="You don't have enough money to order these airliners."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu bestellen."/>
-      <en-US name="Not enough money" message="You don't have enough money to order this airliner."/>
+      <en-US name="Not enough money" message="You don't have enough money to order these airliners."/>
       <nl-NL name="Niet genoeg geld" message="Er is niet genoeg geld beschikbaar om dit vliegtuig te kopen."/>
       <zh-CN name="不够钱" message="您不够钱来预订此架飞机。"/>
     </Text>
     <Text uid="2002">
-      <en-GB name="No homebase" message="You haven't selected a home base for this airliner."/>
+      <en-GB name="No homebase" message="You haven't selected a home base for the airliners."/>
       <de-DE name="Kein Heimatstützpunkt" message="Sie haben keinen Heimatstützpunkt für dieses Flugzeug ausgew?hlt."/>
-      <en-US name="No homebase" message="You haven't selected a home base for this airliner."/>
+      <en-US name="No homebase" message="You haven't selected a home base for the airliners."/>
       <nl-NL name="Geen thuisbasis" message="Er is nog geen thuisbasis geselecteerd voor dit vliegtuig."/>
       <zh-CN name="没有基地机场" message="您没有为此架飞机选择一个机场作为基地。"/>
     </Text>
@@ -2374,6 +2381,13 @@
       <en-US name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C}?"/>
       <nl-NL name="Missing" message="Missing {0:C}"/>
       <zh-CN name="预订客机" message="您确定要订购总价为 {0:C} 的客机？"/>
+    </Text>
+  <Text uid="2009">
+      <en-GB name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C} with a down payment of {1:C}?"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C} with a down payment of {1:C}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
     </Text>
     <!-- END - Airliner Model -->
     <!-- BEGIN - Airline Model -->
