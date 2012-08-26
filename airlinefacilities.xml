@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airlinefacilities>
-  <airlinefacility uid="100" price="500000" fromyear="1970" monthlycost="10000">
+  <airlinefacility uid="100" price="100000" fromyear="1970" monthlycost="10000">
     <level service="0" luxury="6"></level>
     <translations>
 			<en-US name="Frequent Flyer Program" shortname="Flyer" />
@@ -10,7 +10,7 @@
 			<zh-CN name="飞行常客奖励计划" shortname="常客" />
     </translations>
   </airlinefacility>
-  <airlinefacility uid="101" price="100000" fromyear="1950" monthlycost="8000">
+  <airlinefacility uid="101" price="20000" fromyear="1950" monthlycost="8000">
     <level service="0" luxury="5"></level>
     <translations>
 			<en-US name="Airline InFlight Magazine" shortname="Magazine" />
@@ -20,7 +20,7 @@
 			<zh-CN name="空中杂志" shortname="杂志" />
     </translations>
   </airlinefacility>
-  <airlinefacility uid="102" price="125000" fromyear="1950" monthlycost="5000">
+  <airlinefacility uid="102" price="30000" fromyear="1950" monthlycost="5000">
     <level service="0" luxury="4"></level>
     <translations>
 			<en-US name="Newspaper Service" shortname="News" />
@@ -40,7 +40,7 @@
 			<zh-CN name="自动预订系统" shortname="自动化" />
     </translations>
   </airlinefacility>
-<airlinefacility uid="104" price="500000" fromyear="1975" monthlycost="14000">
+<airlinefacility uid="104" price="750000" fromyear="1975" monthlycost="14000">
     <level service="0" luxury="8"></level>
     <translations>
 			<en-US name="Multi-Access Booking System" shortname="Computer" />
@@ -50,7 +50,7 @@
 			<zh-CN name="多点预订系统" shortname="计算机" />
     </translations>
   </airlinefacility>
-<airlinefacility uid="105" price="500000" fromyear="1997" monthlycost="15000">
+<airlinefacility uid="105" price="1000000" fromyear="1997" monthlycost="15000">
     <level service="0" luxury="10"></level>
     <translations>
 			<en-US name="Online Booking System" shortname="Booking" />
