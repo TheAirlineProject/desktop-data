@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="Canadian Airways" iata="CAA" color="Red" country="113" CEO="Mark Benson" mentality="Aggressive" market="Global"></profile>
+<profile name="Canadian Airways" iata="CAA" color="Red" country="113" CEO="Mark Benson" mentality="Aggressive" market="Global" preferedairport="YYZ"></profile>
 </airline>

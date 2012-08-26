@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="China Southern Airlines" iata="CS" color="Khaki" country="148" CEO="Si Xianmin" mentality="Aggressive" market="Global"></profile>
+<profile name="China Southern Airlines" iata="CS" color="Khaki" country="148" CEO="Si Xianmin" mentality="Aggressive" market="Global" preferedairport="PEK"></profile>
 </airline>
 

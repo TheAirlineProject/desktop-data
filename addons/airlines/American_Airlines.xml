@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="American Airlines" iata="AA" color="Red" country="122" CEO="Tom Horton" mentality="Aggressive" market="Global"></profile>
+<profile name="American Airlines" iata="AA" color="Red" country="122" CEO="Tom Horton" mentality="Aggressive" market="Global" preferedairport="DFW"></profile>
 </airline>
 

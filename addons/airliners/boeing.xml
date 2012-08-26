@@ -48,7 +48,7 @@
     <capacity passengers="117" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1998" to="2006"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-100" price="42553520"> <!--4400000-->
+  <airliner manufacturer="Boeing" name="Boeing 727-100" price="4255320"> <!--4400000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="40.60" range="4000" speed="1042" consumption="0.062" runwaylengthrequired="1460"/>
     <capacity passengers="149" cockpitcrew="3" cabincrew="3" maxclasses="2"/>

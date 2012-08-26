@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="Dinar Líneas Aéreas" iata="D7" color="Gold" country="106" CEO="Manuel Santosa" mentality="Aggressive" market="Local"></profile>
+<profile name="Dinar Líneas Aéreas" iata="D7" color="Gold" country="106" CEO="Manuel Santosa" mentality="Aggressive" market="Local" preferedairport="EZE"></profile>
 </airline> 

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="United Airlines" iata="UA" color="DarkBlue" country="122" CEO="Jeffrey Smisek" mentality="Aggressive" market="Global" preferedairport="ORD"></profile>
+</airline> 

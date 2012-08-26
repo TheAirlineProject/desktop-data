@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="Australian Airlines" iata="AO" color="Orange" country="116" CEO="Clive MacPherson" mentality="Aggressive" market="Global"></profile>
+<profile name="Australian Airlines" iata="AO" color="Orange" country="116" CEO="Clive MacPherson" mentality="Aggressive" market="Global" preferedairport="SYD"></profile>
 </airline> 
