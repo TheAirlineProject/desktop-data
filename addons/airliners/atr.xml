@@ -2,31 +2,31 @@
 <airliners>
   <airliner manufacturer="ATR" name="ATR 42-300" price="1836350"> <!--6800000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="24.57" length="22.67" range="1611" speed="450" consumption="0.031" runwaylengthrequired="995"/>
+    <specs wingspan="24.57" length="22.67" range="1611" speed="450" fuelcapacity="5625" consumption="0.031" runwaylengthrequired="995"/>
     <capacity passengers="48" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1986" to="1995"/>
   </airliner>
   <airliner manufacturer="ATR" name="ATR 42-500" price="2718970"> <!--14000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="24.57" length="22.67" range="1611" speed="515" consumption="0.028" runwaylengthrequired="905"/>
+    <specs wingspan="24.57" length="22.67" range="1611" speed="515" fuelcapacity="5625" consumption="0.028" runwaylengthrequired="905"/>
     <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1995" to="2013"/>
   </airliner>
   <airliner manufacturer="ATR" name="ATR 72-200" price="3849640"> <!--17000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="27.05" length="27.17" range="1324" speed="460" consumption="0.024" runwaylengthrequired="1105"/>
+    <specs wingspan="27.05" length="27.17" range="1324" speed="460" fuelcapacity="7828" consumption="0.024" runwaylengthrequired="1105"/>
     <capacity passengers="74" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1990" to="2015"/>
   </airliner>
   <airliner manufacturer="ATR" name="ATR 72-210" price="3691980"> <!--17500000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="27.05" length="27.17" range="1384" speed="460" consumption="0.023" runwaylengthrequired="1010"/>
+    <specs wingspan="27.05" length="27.17" range="1384" speed="460" fuelcapacity="7828" consumption="0.023" runwaylengthrequired="1010"/>
     <capacity passengers="74" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1992" to="2015"/>
   </airliner>
   <airliner manufacturer="ATR" name="ATR 72-500" price="3319810"> <!--18000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="27.05" length="27.17" range="1500" speed="505" consumption="0.022" runwaylengthrequired="990"/>
+    <specs wingspan="27.05" length="27.17" range="1500" speed="505" fuelcapacity="7840" consumption="0.022" runwaylengthrequired="990"/>
     <capacity passengers="74" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1997" to="2015"/>
   </airliner>

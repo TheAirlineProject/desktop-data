@@ -2,7 +2,7 @@
 <airliners>
   <airliner manufacturer="FD" name="Dornier 328JET" price="1954510"> <!--11000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="20.98" length="21.28" range="3705" speed="750" consumption="0.082" runwaylengthrequired="1130"/>
+    <specs wingspan="20.98" length="21.28" range="3705" speed="750" fuelcapacity="8040" consumption="0.082" runwaylengthrequired="1130"/>
     <capacity passengers="34" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1999" to="2015"/>
   </airliner>
