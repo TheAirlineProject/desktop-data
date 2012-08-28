@@ -598,6 +598,13 @@
       <en-US name="Buying price"/>
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
+	</Text>
+	  <Text uid="1027">
+	  <en-GB name="Fuel Capacity"/>
+	  <de-DE name="Tankinhalt"/>
+	  <en-US name="Fuel Capacity"/>
+	  <nl-NL name="Brandstofcapaciteit"/>
+	  <zh-CN name="燃料容量"/>
     </Text>
    </Region>
   <Region name="PageAirliners">
@@ -1862,6 +1869,13 @@
       <en-US name="Required Runway Length"/>
       <nl-NL name="Vereiste lengte landingsbaan"/>
       <zh-CN name="所需最短跑道长度"/>
+	</Text>
+	<Text uid="1016">
+	  <en-GB name="Fuel Capacity"/>
+	  <de-DE name="Tankinhalt"/>
+	  <en-US name="Fuel Capacity"/>
+	  <nl-NL name="Brandstofcapaciteit"/>
+	  <zh-CN name="燃料容量"/>
     </Text>
   </Region>
   <Region name="PageSearchAirliners">
