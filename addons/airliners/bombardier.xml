@@ -14,7 +14,7 @@
   </airliner>
   <airliner manufacturer="Bombardier" name="Bombardier CRJ700" price="5348580"> <!--29000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="23.24" length="32.51" range="2656" speed="876" feulcapacity="10841" consumption="0.029" runwaylengthrequired="1560"/>
+    <specs wingspan="23.24" length="32.51" range="2656" speed="876" fuelcapacity="10841" consumption="0.029" runwaylengthrequired="1560"/>
     <capacity passengers="70" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1997" to="2016"/>
   </airliner>
