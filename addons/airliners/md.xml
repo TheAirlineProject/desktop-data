@@ -68,7 +68,7 @@
   </airliner>
   <airliner manufacturer="MD" name="MD DC-9-15" price="2295920"> <!--2700000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="27.25" length="31.82" range="2840" speed="903" consumption="0.049" runwaylengthrequired="1520"/>
+    <specs wingspan="27.25" length="31.82" range="2840" speed="903" fuelcapacity="12600" consumption="0.049" runwaylengthrequired="1520"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1968" to="1980"/>
   </airliner>
