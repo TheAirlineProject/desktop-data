@@ -50,19 +50,19 @@
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="2009130"> <!--2200000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="27.25" length="31.82" range="2340" speed="903" consumption="0.051" runwaylengthrequired="1670"/>
+    <specs wingspan="27.25" length="31.82" range="2340" speed="903" fuelcapacity="11000" consumption="0.051" runwaylengthrequired="1670"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1966" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-9-15" price="2393620"> <!--2700000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="27.25" length="31.82" range="2840" speed="903" consumption="0.049" runwaylengthrequired="1520"/>
+    <specs wingspan="27.25" length="31.82" range="2840" speed="903" fuelcapacity="13000" consumption="0.049" runwaylengthrequired="1520"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1967" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-9-30" price="4875890"> <!--5500000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.47" length="36.37" range="3030" speed="917" consumption="0.037" runwaylengthrequired="1390"/>
+    <specs wingspan="28.47" length="36.37" range="3030" speed="917" fuelcapacity="13000" consumption="0.037" runwaylengthrequired="1390"/>
     <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1967" to="1967"/>
   </airliner>
