@@ -2,7 +2,7 @@
 <airliners>
   <airliner manufacturer="Tupolev" name="Tupolev Tu-154" price="2974500"> <!--4200000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="37.55" length="48.00" range="3900" speed="950" consumption="0.075" runwaylengthrequired="2500"/>
+    <specs wingspan="37.55" length="48.00" range="3900" speed="950" fuelcapacity="34000" consumption="0.075" runwaylengthrequired="2500"/>
     <capacity passengers="114" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
     <produced from="1972" to="2006"/>
   </airliner>

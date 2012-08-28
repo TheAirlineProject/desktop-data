@@ -2,49 +2,49 @@
 <airliners>
   <airliner manufacturer="Douglas" name="Douglas DC-8-10" price="4600000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="5800" speed="893" consumption="0.073" runwaylengthrequired="3028"/>
+    <specs wingspan="43.41" length="45.87" range="5800" speed="893" fuelcapacity="74518" consumption="0.073" runwaylengthrequired="3028"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1959" to="1965"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-20" price="5100000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="6870" speed="946" consumption="0.068" runwaylengthrequired="2800"/>
+    <specs wingspan="43.41" length="45.87" range="6870" speed="946" fuelcapacity="66243" consumption="0.068" runwaylengthrequired="2800"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1959" to="1965"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-32" price="5800000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="10103" speed="946" consumption="0.068" runwaylengthrequired="3290"/>
+    <specs wingspan="43.41" length="45.87" range="10103" speed="946" fuelcapacity="88579"	consumption="0.068" runwaylengthrequired="3290"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1960" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-40" price="5940590"> <!--6000000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="10603" speed="952" consumption="0.055" runwaylengthrequired="2970"/>
+    <specs wingspan="43.41" length="45.87" range="10603" speed="952" fuelcapacity="88579" consumption="0.055" runwaylengthrequired="2970"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1961" to="1965"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-51" price="7524750"> <!--7600000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="8171" speed="946" consumption="0.067" runwaylengthrequired="3000"/>
+    <specs wingspan="43.41" length="45.87" range="8171" speed="946" fuelcapacity="88579" consumption="0.067" runwaylengthrequired="3000"/>
     <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1961" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-54CF" price="7647060"> <!--7800000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="45.87" range="12139" speed="954" consumption="0.062" runwaylengthrequired="2950"/>
+    <specs wingspan="43.41" length="45.87" range="12139" speed="954" fuelcapacity="88579" consumption="0.062" runwaylengthrequired="2950"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
     <produced from="1962" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-61" price="8219180"> <!--9000000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="57.10" range="9408" speed="935" consumption="0.050" runwaylengthrequired="3200"/>
+    <specs wingspan="43.41" length="57.10" range="9408" speed="935" fuelcapacity="88579" consumption="0.050" runwaylengthrequired="3200"/>
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
     <produced from="1966" to="1967"/>
   </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-62" price="7488580"> <!--8200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="43.41" length="47.91" range="8871" speed="946" consumption="0.063" runwaylengthrequired="3000"/>
+    <specs wingspan="43.41" length="47.91" range="8871" speed="946" fuelcapacity="91889" consumption="0.063" runwaylengthrequired="3000"/>
     <capacity passengers="186" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1966" to="1967"/>
   </airliner>
