@@ -523,11 +523,11 @@
       <zh-CN name="燃油消耗"/>
     </Text>
     <Text uid="1016">
-      <en-GB name="Airliner Profile"/>
+      <en-GB name="Fuel capacity"/>
       <de-DE name="Missing"/>
-      <en-US name="Airliner Profile"/>
+      <en-US name="Fuel capacity"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="机型档案"/>
+      <zh-CN name="Missing"/>
     </Text>
     <Text uid="1017">
       <en-GB name="Owner"/>
@@ -600,9 +600,9 @@
       <zh-CN name="Missing"/>
 	</Text>
 	  <Text uid="1027">
-	  <en-GB name="Fuel Capacity"/>
+	  <en-GB name="Fuel capacity"/>
 	  <de-DE name="Tankinhalt"/>
-	  <en-US name="Fuel Capacity"/>
+	  <en-US name="Fuel capacity"/>
 	  <nl-NL name="Brandstofcapaciteit"/>
 	  <zh-CN name="燃料容量"/>
     </Text>
