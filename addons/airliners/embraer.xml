@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
+  <airliner manufacturer="Embraer" name="EMB 110 Bandeirante" price="333330"> <!--500000-->
+	<type body="Single_Aisle" rangetype="Short_Range" engine="Turboprop"/>
+    <specs wingspan="15.33" length="15.10" range="1964" speed="341" fuelcapacity="2100" consumption="0.059" runwaylengthrequired="710"/>
+    <capacity passengers="18" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1973" to="1990"/>
+  </airliner>
   <airliner manufacturer="Embraer" name="Embraer E-135 ER" price="2864650"> <!--12000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="20.04" length="26.33" range="2409" speed="828" fuelcapacity="3833" consumption="0.043" runwaylengthrequired="1190"/>

@@ -2,13 +2,13 @@
 <airliners>
   <airliner manufacturer="Beechcraft" name="Beechcraft 1900C" price="170940"> <!--600000-->
 	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="17.64" length="17.62" range="650" fuelcapacity="2520" speed="495" consumption="0.037" runwaylengthrequired="905"/>
+    <specs wingspan="17.64" length="17.62" range="650" speed="495" fuelcapacity="2520" consumption="0.020" runwaylengthrequired="905"/>
     <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
     <produced from="1984" to="1992"/>
   </airliner>
   <airliner manufacturer="Beechcraft" name="Beechcraft 1900D" price="217340"> <!--1000000-->
 	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="17.64" length="17.62" range="707" speed="530" fuelcapacity="2520" consumption="0.042" runwaylengthrequired="890"/>
+    <specs wingspan="17.64" length="17.62" range="707" speed="530" fuelcapacity="2520" consumption="0.019" runwaylengthrequired="890"/>
     <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
     <produced from="1991" to="2002"/>
   </airliner>
