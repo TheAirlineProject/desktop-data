@@ -1,0 +1,11 @@
+﻿<? xml version="1.0" encoding="utf-8"?> 
+
+ 
+<inflations>
+  <inflation year="2013" fuelprice="0.874" inflation="0.0316" pricemodifier="7.997"/>
+  <inflation year="2014" fuelprice="0.901" inflatino="0.0215" pricemodifier="8.137"/>
+  <inflation year="2015" fuelprice="0.933" inflation="0.0311" pricemodifier="8.455"/>
+  <inflation year="2016" fuelprice="0.970" inflation="0.0340" pricemodifier="8.818"/>
+  <inflation year="2017" fuelprice="0.992" inflation="0.0305" pricemodifier="8.994"/>
+  <inflation year="2018" fuelprice="1.003" inflation="0.0299" pricemodifier="9.009"/>
+</inflations>
