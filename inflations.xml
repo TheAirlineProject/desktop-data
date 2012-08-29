@@ -53,4 +53,10 @@
   <inflation year="2010" fuelprice="0.565" inflation="0.0164" pricemodifier="7.368"/>
   <inflation year="2011" fuelprice="0.793" inflation="0.0321" pricemodifier="7.598"/>
   <inflation year="2012" fuelprice="0.816" inflation="0.0332" pricemodifier="7.851"/>
+  <inflation year="2013" fuelprice="0.874" inflation="0.0316" pricemodifier="7.997"/>
+  <inflation year="2014" fuelprice="0.901" inflation="0.0215" pricemodifier="8.137"/>
+  <inflation year="2015" fuelprice="0.933" inflation="0.0311" pricemodifier="8.455"/>
+  <inflation year="2016" fuelprice="0.970" inflation="0.0340" pricemodifier="8.818"/>
+  <inflation year="2017" fuelprice="0.992" inflation="0.0305" pricemodifier="8.994"/>
+  <inflation year="2018" fuelprice="1.003" inflation="0.0299" pricemodifier="9.009"/>
 </inflations>
