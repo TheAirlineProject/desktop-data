@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="Scandinavian Airlines" iata="SK" color="Tan" country="110" CEO="Rickard Gustafson" mentality="Aggressive" market="Regional" preferedairport="CPH"></profile>
+</airline>
