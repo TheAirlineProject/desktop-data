@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="German Wings" iata="GER" color="DarkRed" country="163" CEO="Franz Ötzel" mentality="Aggressive" market="Local"></profile>
+<profile name="German Wings" iata="GER" color="DarkRed" country="163" CEO="Franz Ötzel" mentality="Aggressive" market="Local" preferedairport="THF"></profile>
 </airline>

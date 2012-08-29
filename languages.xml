@@ -497,7 +497,7 @@
     <Text uid="1012">
       <en-GB name="Cockpit: {0} Cabin: {1}"/>
       <de-DE name="Missing"/>
-      <en-US name="Cockpit: {0} Cabing: {1}"/>
+      <en-US name="Cockpit: {0} Cabin: {1}"/>
       <nl-NL name="Missing"/>
       <zh-CN name="机组: {0} 乘务: {1}"/>
     </Text>
