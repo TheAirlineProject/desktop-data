@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Fairchild" name="Fairchild Swearingen Metroliner" price="340140"> <!--400000-->
+	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="17.37" length="18.09" range="1065" speed="515" fuelcapacity="1150" consumption="0.050" runwaylengthrequired="650"/>
+    <capacity passengers="19" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
+    <produced from="1968" to="2001"/>
+  </airliner>
+</airliners>
