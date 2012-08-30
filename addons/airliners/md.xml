@@ -96,41 +96,41 @@
     <capacity passengers="135" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1975" to="1982"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-81 (DC-9-81)" price="2377080"> <!--7300000-->
+  <airliner manufacturer="MD" name="MD-81 (DC-9-81)" price="5633340"> <!--17300000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="32.82" length="45.01" range="2910" speed="811" fuelcapacity="15000" consumption="0.030" runwaylengthrequired="1615"/>
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1981" to="1992"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-82 (DC-9-82)" price="2607360"> <!--8500000-->
+  <airliner manufacturer="MD" name="MD-82 (DC-9-82)" price="5674850"> <!--18500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.82" length="45.01" range="3800" speed="811" fuelcapacity="22000" consumption="0.034" runwaylengthrequired="1500"/>
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1982" to="1997"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-83 (DC-9-83)" price="2704310"> <!--9100000-->
+  <airliner manufacturer="MD" name="MD-83 (DC-9-83)" price="5676080"> <!--19100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.82" length="45.01" range="4600" speed="811" fuelcapacity="22000" consumption="0.028" runwaylengthrequired="1470"/>
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1983" to="1999"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-87 (DC-9-87)" price="3152680"> <!--12100000-->
+  <airliner manufacturer="MD" name="MD-87 (DC-9-87)" price="7425740"> <!--28500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.82" length="39.73" range="4390" speed="811" fuelcapacity="22000" consumption="0.036" runwaylengthrequired="1365"/>
     <capacity passengers="139" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1987" to="1993"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-88 (DC-9-88)" price="3177380"> <!--12700000-->
+  <airliner manufacturer="MD" name="MD-88 (DC-9-88)" price="8181140"> <!--32700000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.82" length="45.01" range="3800" speed="811" fuelcapacity="22000" consumption="0.034" runwaylengthrequired="1435"/>
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1988" to="1997"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD-90-30" price="9832040"> <!--48000000-->
+  <airliner manufacturer="MD" name="MD-90-30" price="8288400"> <!--41500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.87" length="46.50" range="3860" speed="811" fuelcapacity="17000" consumption="0.026" runwaylengthrequired="1480"/>
     <capacity passengers="172" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1993" to="2000"/>
+    <produced from="1994" to="2000"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-10-10" price="15643270"> <!--21400000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
