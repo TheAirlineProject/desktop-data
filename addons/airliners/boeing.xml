@@ -42,25 +42,25 @@
     <capacity passengers="202" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
     <produced from="1961" to="1979"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 717-200" price="8353000"> <!--46000000-->
+  <airliner manufacturer="Boeing" name="Boeing 717-200" price="5847100"> <!--32200000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
     <specs wingspan="28.47" length="37.80" range="2800" speed="825" fuelcapacity="13890" consumption="0.042" runwaylengthrequired="1300"/>
     <capacity passengers="117" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1998" to="2006"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-100" price="4255320"> <!--4400000-->
+  <airliner manufacturer="Boeing" name="Boeing 727-100" price="4061900"> <!--4200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="40.60" range="4000" speed="1042" fuelcapacity="29100" consumption="0.049" runwaylengthrequired="1460"/>
     <capacity passengers="149" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
     <produced from="1963" to="1972"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-200" price="6560280"> <!--7400000-->
+  <airliner manufacturer="Boeing" name="Boeing 727-200" price="6382980"> <!--7200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="46.70" range="4050" speed="1042" fuelcapacity="30600" consumption="0.040" runwaylengthrequired="1515"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1967" to="1972"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 727-200 Adv." price="6066670"> <!--9100000-->
+  <airliner manufacturer="Boeing" name="Boeing 727-200 Adv." price="6800000"> <!--10200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="46.70" range="4400" speed="1042" fuelcapacity="39800" consumption="0.048" runwaylengthrequired="1470"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
@@ -84,49 +84,49 @@
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1971" to="1986"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-300" price="10968660"> <!--38500000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-300" price="7834760"> <!--27500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.88" length="33.40" range="4204" speed="780" fuelcapacity="23170" consumption="0.037" runwaylengthrequired="1365"/>
     <capacity passengers="149" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1984" to="1999"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-400" price="13535075"> <!--49200000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-400" price="8033010"> <!--29200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.90" length="36.50" range="4204" speed="780" fuelcapacity="23800" consumption="0.034" runwaylengthrequired="1590"/>
     <capacity passengers="168" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1985" to="1999"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-500" price="13288170"> <!--51000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-500" price="8077120"> <!--31000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.90" length="31.10" range="4444" speed="780" fuelcapacity="23800" consumption="0.041" runwaylengthrequired="1245"/>
     <capacity passengers="132" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1987" to="2000"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-600" price="11536220"> <!--59400000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-600" price="9128000"> <!--47000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="31.20" range="5648" speed="828" fuelcapacity="26020" consumption="0.035" runwaylengthrequired="1220"/>
     <capacity passengers="130" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1995" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-700" price="12827770"> <!--68000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-700" price="9451050"> <!--50100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="33.60" range="6230" speed="828" fuelcapacity="26020" consumption="0.028" runwaylengthrequired="1545"/>
     <capacity passengers="148" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1996" to="2016"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-800" price="15091490"> <!--80000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-800" price="11356350"> <!--60200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="39.50" range="5665" speed="828" fuelcapacity="26020" consumption="0.024" runwaylengthrequired="1725"/>
     <capacity passengers="189" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="1996" to="2016"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-900" price="14781710"> <!--86000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-900" price="11550360"> <!--67200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="42.10" range="5100" speed="823" fuelcapacity="26020" consumption="0.027" runwaylengthrequired="1780"/>
     <capacity passengers="189" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="2000" to="2020"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-900ER" price="13022210"> <!--86000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-900ER" price="12043630"> <!--79500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="42.10" range="5925" speed="823" fuelcapacity="29660" consumption="0.023" runwaylengthrequired="1800"/>
     <capacity passengers="215" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
@@ -138,31 +138,31 @@
     <capacity passengers="452" cockpitcrew="3" cabincrew="9" maxclasses="3"/>
     <produced from="1970" to="1980"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-200" price="45467840"> <!--62200000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-200" price="45467840"> <!--39000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="59.60" length="70.60" range="12700" speed="893" fuelcapacity="199158" consumption="0.035" runwaylengthrequired="3100"/>
     <capacity passengers="452" cockpitcrew="3" cabincrew="9" maxclasses="3"/>
     <produced from="1971" to="1991"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-300" price="45330460"> <!--126200000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-300" price="2466580"> <!--83000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="59.60" length="70.60" range="12400" speed="893" fuelcapacity="199158" consumption="0.032" runwaylengthrequired="3110"/>
     <capacity passengers="496" cockpitcrew="3" cabincrew="10" maxclasses="3"/>
     <produced from="1983" to="1990"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-400" price="22678440"> <!--95000000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-400" price="33301500"> <!--139500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.40" length="70.60" range="13450" speed="913" fuelcapacity="216840" consumption="0.031" runwaylengthrequired="2990"/>
     <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="1989" to="2007"/>
   </airliner>
-  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400F" price="35845960"> <!--175000000-->
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 747-400F" price="32671040"> <!--159500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.40" length="70.60" range="8230" speed="908" fuelcapacity="216840" consumption="0.031" runwaylengthrequired="3000"/>
     <capacity cockpitcrew="2" cargo="765"/>
     <produced from="1993" to="2009"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-400ER" price="36438640"> <!--212000000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-400ER" price="36524580"> <!--212500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.40" length="70.60" range="14205" speed="917" fuelcapacity="241140" consumption="0.032" runwaylengthrequired="3000"/>
     <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
@@ -180,84 +180,85 @@
     <capacity passengers="581" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
     <produced from="2012" to="2025"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 757-200" price="9539380"> <!--32100000-->
+  <airliner manufacturer="Boeing" name="Boeing 757-200" price="10698370"> <!--36000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="38.05" length="47.32" range="7222" speed="850" fuelcapacity="43490" consumption="0.026" runwaylengthrequired="1825"/>
     <capacity passengers="234" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
     <produced from="1983" to="2005"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 757-300" price="7107320"> <!--40000000-->
+  <airliner manufacturer="Boeing" name="Boeing 757-300" price="13166310"> <!--74100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
 	<specs wingspan="38.05" length="54.47" range="6287" speed="850" fuelcapacity="43400" consumption="0.024" runwaylengthrequired="2926"/>
 	<capacity passengers="289" cockpitcrew="2" cabincrew="6" maxclasses="2"/>
 	<produced from="1999" to="2004"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-200" price="17944790"> <!--58500000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-200" price="21012270"> <!--68500000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.60" length="48.50" range="7300" speed="851" fuelcapacity="63000" consumption="0.034" runwaylengthrequired="2200"/>
     <capacity passengers="255" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
     <produced from="1982" to="1988"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-200ER" price="20854700"> <!--73200000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-200ER" price="20398860"> <!--71600000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 	<specs wingspan="47.60" length="48.50" range="11825" speed="851" fuelcapacity="91000" consumption="0.027" runwaylengthrequired="2743"/>
 	<capacity passengers="290" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
 	<produced from="1984" to="2014"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-300" price="32244130"> <!--119400000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-300" price="32244130"> <!--89900000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 	<specs wingspan="47.6" length="54.9" range="7900" speed="851" fuelcapacity="63000" consumption="0.030" runwaylengthrequired="2410"/>
 	<capacity passengers="269" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
-	<produced from="1986" to="2011"/>
+	<produced from="1986" to="2000"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-300ER" price="32074000"> <!--123100000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-300ER" price="23292470"> <!--93100000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 	<specs wingspan="47.6" length="54.9" range="11065" speed="851" fuelcapacity="91000" consumption="0.031" runwaylengthrequired="2530"/>
 	<capacity passengers="269" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
 	<produced from="1988" to="2014"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 767-400ER" price="30938470"> <!--180000000-->
+  <airliner manufacturer="Boeing" name="Boeing 767-400ER" price="25575800"> <!--148800000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="51.90" length="61.40" range="10415" speed="851" fuelcapacity="91000" consumption="0.023" runwaylengthrequired="2610"/>
     <capacity passengers="375" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="2000" to="2020"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 777-200" price="39230920"> <!--202000000-->
+  <airliner manufacturer="Boeing" name="Boeing 777-200" price="32083900"> <!--165200000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.90" length="63.70" range="9700" speed="905" fuelcapacity="117348" consumption="0.027" runwaylengthrequired="2500"/>
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
     <produced from="1995" to="2003"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 777-200ER" price="42788640"> <!--232000000-->
+  <airliner manufacturer="Boeing" name="Boeing 777-200ER" price="32958320"> <!--178700000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.80" length="63.70" range="14310" speed="905" fuelcapacity="171176" consumption="0.027" runwaylengthrequired="2600"/>
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
-    <produced from="1997" to="2006"/>
-  </airliner>  <airliner manufacturer="Boeing" name="Boeing 777-200LR" price="42760650"> <!--291200000-->
+    <produced from="1997" to="2015"/>
+  </airliner>
+  <airliner manufacturer="Boeing" name="Boeing 777-200LR" price="37092510"> <!--252600000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.80" length="63.70" range="17370" speed="905" fuelcapacity="181283" consumption="0.024" runwaylengthrequired="2970"/>
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
     <produced from="2006" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 777-300" price="46667880"> <!--257000000-->
+  <airliner manufacturer="Boeing" name="Boeing 777-300" price="38587250"> <!--212500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.90" length="73.90" range="11120" speed="905" fuelcapacity="171176" consumption="0.028" runwaylengthrequired="2750"/>
     <capacity passengers="550" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="1998" to="2010"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 777-300ER" price="44500160"> <!--284000000-->
+  <airliner manufacturer="Boeing" name="Boeing 777-300ER" price="40112820"> <!--256000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.80" length="73.90" range="14690" speed="905" fuelcapacity="181283" consumption="0.022" runwaylengthrequired="2780"/>
     <capacity passengers="550" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="2004" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 787-8" price="25533040"> <!--194000000-->
+  <airliner manufacturer="Boeing" name="Boeing 787-8" price="26322720"> <!--200000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.00" length="56.70" range="15200" speed="913" fuelcapacity="126920" consumption="0.032" runwaylengthrequired="2260"/>
     <capacity passengers="264" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
     <produced from="2011" to="2026"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 787-9" price="28750000"> <!--230000000-->
+  <airliner manufacturer="Boeing" name="Boeing 787-9" price="29937320"> <!--243600000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.00" length="62.80" range="15700" speed="913" fuelcapacity="138700" consumption="0.030" runwaylengthrequired="2290"/>
     <capacity passengers="290" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
