@@ -14,7 +14,7 @@
   </airliner>
   <airliner manufacturer="Bombardier" name="Bombardier CRJ700" price="5348580"> <!--29000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
-    <specs wingspan="23.24" length="32.51" range="2656" speed="876" feulcapacity="10841" consumption="0.058" runwaylengthrequired="1560"/>
+    <specs wingspan="23.24" length="32.51" range="2656" speed="876" fuelcapacity="10841" consumption="0.058" runwaylengthrequired="1560"/>
     <capacity passengers="70" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1997" to="2016"/>
   </airliner>
@@ -36,16 +36,28 @@
     <capacity passengers="100" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="2007" to="2021"/>
   </airliner>
-  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-200" price="2524760"> <!--13000000-->
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-100" price="2136750"> <!--7500000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="25.89" length="22.25" range="1713" speed="537" fuelcapacity="3160" consumption="0.050" runwaylengthrequired="830"/>
+    <specs wingspan="25.89" length="22.25" range="1889" speed="500" fuelcapacity="3160" consumption="0.050" runwaylengthrequired="800"/>
     <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
-    <produced from="1995" to="2016"/>
+    <produced from="1984" to="2005"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-200" price="2233440"> <!--11500000-->
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="25.89" length="22.25" range="1713" speed="537" fuelcapacity="3160" consumption="0.050" runwaylengthrequired="800"/>
+    <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1995" to="2009"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Dash 8-300" price="2912390"> <!--12200000-->
+	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="27.43" length="25.68" range="1558" speed="528" fuelcapacity="3160" consumption="0.050" runwaylengthrequired="1180"/>
+    <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1989" to="2009"/>
   </airliner>
   <airliner manufacturer="Bombardier" name="Bombardier Dash 8-400" price="4640770"> <!--27000000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
-    <specs wingspan="28.40" length="32.81" range="2522" speed="667" fuelcapacity="6526" consumption="0.033" runwaylengthrequired="1005"/>
-    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+    <specs wingspan="28.40" length="32.81" range="2522" speed="667" fuelcapacity="6526" consumption="0.033" runwaylengthrequired="1400"/>
+    <capacity passengers="70" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="2000" to="2019"/>
   </airliner>
 </airliners>
