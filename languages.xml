@@ -792,6 +792,20 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>
+    <Text uid="1023">
+      <en-GB name="Airport income"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airport income"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1024">
+      <en-GB name="Closing date"/>
+      <de-DE name="Missing"/>
+      <en-US name="Closing date"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirportRunways">
     <Text uid="1001">
