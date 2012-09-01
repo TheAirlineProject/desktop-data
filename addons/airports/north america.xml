@@ -2226,6 +2226,21 @@
       <runway name="15R/33L" length="1275" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Salisbury Wicomico/Ocean City Regional Airport" icao="KSBY" iata="SBY" type="Regional" season="All_Year">
+    <town town="Salisbury, MD" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="038°20'24''N" />
+      <longitude value="75°30'34''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Richard A. Henson Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="5/23" length="1524" surface="Asphalt" />
+      <runway name="14/32" length="1951" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Louisville International Airport" icao="KSDF" iata="SDF" type="Short_Haul_International" season="All_Year">
     <town town="Louisville, KY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
