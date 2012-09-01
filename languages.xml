@@ -916,7 +916,14 @@
       <nl-NL name="Koop hub"/>
       <zh-CN name="设立枢纽"/>
     </Text>
-    <Text uid="1001">
+    <Text uid="205">
+      <en-GB name="Allocate to {0}"/>
+      <de-DE name="Missing"/>
+      <en-US name="Allocate to {0}"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>  
+      <Text uid="1001">
       <en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)"/>
       <de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / W Gates / Lieferdatum)"/>
       <en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)"/>
@@ -972,6 +979,7 @@
       <nl-NL name="Hubs"/>
       <zh-CN name="枢纽"/>
     </Text>
+ 
   </Region>
   <Region name="PageAirports">
     <Text uid="1000">
@@ -2595,6 +2603,13 @@
       <en-US name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub."/>
       <nl-NL name="Fout" message="-"/>
       <zh-CN name="错误" message="您无法释放该登机口,因为您至少需要该机场 20% 的登机口才能设为枢纽"/>
+    </Text>
+      <Text uid="2216">
+      <en-GB name="Reallocate operations" message="Are you sure you want to move all operations from {0} to {1}?"/>
+      <de-DE name="Fehler" message="-"/>
+      <en-US name="Reallocate operations" message="Are you sure you want to move all operations from {0} to {1}?"/>
+      <nl-NL name="Fout" message="-"/>
+      <zh-CN name="错误" message="-"/>
     </Text>
     <!-- END - Airport Model -->
     <!-- BEGIN - Fleet Model -->
