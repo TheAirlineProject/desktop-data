@@ -131,4 +131,34 @@
 			<zh-CN name="机场售票处" />
     </translations>
   </airportfacility>
+ <!-- <airportfacility uid="113" shortname="International Departures" type="IntlService" typelevel="1" price="260000" buildingdays="10">
+    <level service="0" luxury="5"></level>
+    <translations>
+      <en-US name="International Departures" />
+      <de-DE name="Internationale Abflüge"/>
+      <en-GB name="International Departures" />
+      <nl-NL name="Internationale Vluchten" />
+      <zh-CN name="国际出发" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="114" shortname="Security and Customs" type="IntlService" typelevel="2" price="500000" buildingdays="20">
+    <level service="0" luxury="10"></level>
+    <translations>
+      <en-US name="Security and Customs" />
+      <de-DE name="Sicherheit und Zoll" />
+      <en-GB name="Security and Customs" />
+      <nl-NL name="Veiligheid en Douane" />
+      <zh-CN name="安全和海关" />
+    </translations>
+  </airportfacility>
+  <airportfacility uid="115" shortname="International Full Service" type="IntlService" typelevel="3" price="1000000" buildingdays="30">
+    <level service="0" luxury="20"></level>
+    <translations>
+      <en-US name="International Full Service" />
+      <de-DE name="Internationalen Kompletten Bedienung" />
+      <en-GB name="International Full Service" />
+      <nl-NL name="Missing" />
+      <zh-CN name="国际化全方位的服务" />
+    </translations>
+  </airportfacility> -->
 </airportfacilities>

@@ -80,4 +80,14 @@
 			<zh-CN name="空中无线网络" shortname="Wi-FI" />
     </translations>
   </airlinefacility>
+  <airlinefacility uid="108" price="2500000" fromyear="2006" monthlycost="100000">
+  <level service="0" luxury="30"></level>
+  <translations>
+    <en-US name="Executive VIP Service" shortname="VIP" />
+    <de-DE name="Bewirtung Exekutive" shortname="VIP" />
+    <en-GB name="Executive VIP Service" shortname="VIP" />
+    <nl-NL name="Uitvoerende Gastvrijheid" shortname="VIP" />
+    <zh-CN name="行政贵宾服务" shortname="VIP" />
+  </translations>
+  </airlinefacility>
 </airlinefacilities>
