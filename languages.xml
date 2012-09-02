@@ -2748,16 +2748,16 @@
       <zh-CN name="Missing" message="Missing"/>
     </Text>   
       <Text uid="2703">
-      <en-GB name="Already in route" message="The route do already has an airliner at that time"/>
+      <en-GB name="Already in route" message="The route already has an airliner at that time"/>
       <de-DE name="Missing" message="Missing"/>
-      <en-US name="Already in route" message="The route do already has an airliner at that time"/>
+      <en-US name="Already in route" message="The route already has an airliner at that time"/>
       <nl-NL name="Missing" message="Missing"/>
       <zh-CN name="Missing" message="Missing"/>
     </Text>   
           <Text uid="2704">
       <en-GB name="Not matching" message="The plane can't reach the destination from this entry"/>
       <de-DE name="Missing" message="Missing"/>
-      <en-US name="Not matching" message="The plane can't reach the destination from this entrye"/>
+      <en-US name="Not matching" message="The plane can't reach the destination from this entry"/>
       <nl-NL name="Missing" message="Missing"/>
       <zh-CN name="Missing" message="Missing"/>
     </Text>   
