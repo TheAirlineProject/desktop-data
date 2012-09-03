@@ -1,6 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <holidays>
-	<holiday uid="101" name="Memorial Day (USA)" type="Non_Fixed_Date" holidaytype="Both">
+	<holiday uid="101" name="New Years Day (Worldwide)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="New Years Day"/>
+			<de-DE name="New Years Day"/>
+			<en-GB name="New Years Day"/>
+			<nl-NL name="New Years Day"/>
+			<zh-CN name="New Years Day"/>
+		</translations>
+		<observationdate month="1" day="1"/>
+		<observers>
+			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="102" name="Martin Luther King, Jr. Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Martin Luther King, Jr. Day"/>
+			<de-DE name="Martin Luther King, Jr. Day"/>
+			<en-GB name="Martin Luther King, Jr. Day"/>
+			<nl-NL name="Martin Luther King, Jr. Day"/>
+			<zh-CN name="Martin Luther King, Jr. Day"/>
+		</translations>
+		<observationdate month="1" week="3" dayofweek="Monday"/>
+		<observers>
+			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="103" name="Washington's Birthday (USA)" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Washington's Birthday"/>
+			<de-DE name="Washington's Birthday"/>
+			<en-GB name="Washington's Birthday"/>
+			<nl-NL name="Washington's Birthday"/>
+			<zh-CN name="Washington's Birthday"/>
+		</translations>
+		<observationdate month="2" week="3" dayofweek="Monday"/>
+		<observers>
+			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="104" name="Memorial Day (USA)" type="Non_Fixed_Date" holidaytype="Both">
 		<translations>
 			<en-US name="Memorial Day" />
 			<de-DE name="Memorial Day" />
@@ -13,7 +52,7 @@
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="102" name="Independence Day (USA)" type="Fixed_Date" holidaytype="Normal">
+	<holiday uid="105" name="Independence Day (USA)" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Independence Day" />
 			<de-DE name="Independence Day" />
@@ -26,20 +65,46 @@
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="103" name="Fall Vacation (DEN)" type="Fixed_Week" holidaytype="Travel">
+	<holiday uid="106" name="Labor Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
 		<translations>
-			<en-US name="Danish Fall Vacation"/>
-			<de-DE name="Danish Fall Vacation"/>
-			<en-GB name="Danish Fall Vacation"/>
-			<nl-NL name="Danish Fall Vacation"/>
-			<zh-CN name="Danish Fall Vacation"/>
+			<en-US name="Labor Day" />
+			<de-DE name="Labor Day" />
+			<en-GB name="Labor Day" />
+			<nl-NL name="Labor Day" />
+			<zh-CN name="Labor Day" />
 		</translations>
-		<observationdate week="42"/>
+		<observationdate month="9" week="1" dayofweek="Monday"/>
 		<observers>
-			<observer country="110"></observer>
+			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="104" name="Thanksgiving (USA)" type="Non_Fixed_Date" holidaytype="Both">
+	<holiday uid="107" name="Columbus Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Columbus Day" />
+			<de-DE name="Columbus Day" />
+			<en-GB name="Columbus Day" />
+			<nl-NL name="Columbus Day" />
+			<zh-CN name="Columbus Day" />
+		</translations>
+		<observationdate month="10" week="2" dayofweek="Monday"/>
+		<observers>
+			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="108" name="Veterans Day (USA)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Veterans Day" />
+			<de-DE name="Veterans Day" />
+			<en-GB name="Veterans Day" />
+			<nl-NL name="Veterans Day" />
+			<zh-CN name="Veterans Day" />
+		</translations>
+		<observationdate month="11" day="11"/>
+		<observers>
+			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="109" name="Thanksgiving (USA)" type="Non_Fixed_Date" holidaytype="Both">
 		<translations>
 			<en-US name="Thanksgiving"/>
 			<de-DE name="Thanksgiving"/>
@@ -47,12 +112,12 @@
 			<nl-NL name="Thanksgiving"/>
 			<zh-CN name="Thanksgiving"/>
 		</translations>
-		<observationdate month="11" week="4" dayofweek="Thursday"/>
+		<observationdate month="11" week="3" dayofweek="Thursday"/>
 		<observers>
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="105" name="Christmas (Worldwide)" type="Fixed_Date" holidaytype="Both">
+	<holiday uid="110" name="Christmas (Worldwide)" type="Fixed_Date" holidaytype="Both">
 		<translations>
 			<en-US name="Christmas"/>
 			<de-DE name="Christmas"/>
@@ -66,23 +131,36 @@
 			<observer country="103"></observer>
 			<observer country="110"></observer>
 			<observer country="113"></observer>
+			<observer country="116"></observer>
 			<observer country="122"></observer>
+			<observer country="123"></observer>
+			<observer country="129"></observer>
+			<observer country="131"></observer>
+			<observer country="135"></observer>
+			<observer country="138"></observer>
+			<observer country="145"></observer>
+			<observer country="150"></observer>
+			<observer country="157"></observer>
+			<observer country="159"></observer>
+			<observer country="162"></observer>
+			<observer country="163"></observer>
+			<observer country="164"></observer>
+			<observer country="166"></observer>
+			<observer country="169"></observer>
+			<observer country="173"></observer>
+			<observer country="174"></observer>
+			<observer country="176"></observer>
+			<observer country="183"></observer>
+			<observer country="186"></observer>
+			<observer country="202"></observer>
+			<observer country="216"></observer>
+			<observer country="231"></observer>
+			<observer country="232"></observer>
+			<observer country="234"></observer>
+			<observer country="242"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="106" name="New Years Day (Worldwide)" type="Fixed_Date" holidaytype="Normal">
-		<translations>
-			<en-US name="New Years Day"/>
-			<de-DE name="New Years Day"/>
-			<en-GB name="New Years Day"/>
-			<nl-NL name="New Years Day"/>
-			<zh-CN name="New Years Day"/>
-		</translations>
-		<observationdate month="1" day="1"/>
-		<observers>
-			<observer country="122"></observer>
-		</observers>
-	</holiday>
-	<holiday uid="106" name="Spring Break (USA)" type="Fixed_Month" holidaytype="Travel">
+	<holiday uid="111" name="Spring Break (USA)" type="Fixed_Month" holidaytype="Travel">
 		<translations>
 			<en-US name="Spring Break"/>
 			<de-DE name="Spring Break"/>
@@ -93,6 +171,19 @@
 		<observationdate month="4"/>
 		<observers>
 			<observer country="122"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="112" name="Fall Vacation (DEN)" type="Fixed_Week" holidaytype="Travel">
+		<translations>
+			<en-US name="Danish Fall Vacation"/>
+			<de-DE name="Danish Fall Vacation"/>
+			<en-GB name="Danish Fall Vacation"/>
+			<nl-NL name="Danish Fall Vacation"/>
+			<zh-CN name="Danish Fall Vacation"/>
+		</translations>
+		<observationdate week="42"/>
+		<observers>
+			<observer country="110"></observer>
 		</observers>
 	</holiday>
 </holidays>
