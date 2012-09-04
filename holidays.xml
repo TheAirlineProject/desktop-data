@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <holidays>
-	<holiday uid="101" name="New Years Day (Worldwide)" type="Fixed_Date" holidaytype="Normal">
+	<holiday uid="101" name="New Years Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="New Years Day"/>
 			<de-DE name="New Years Day"/>
@@ -10,7 +10,16 @@
 		</translations>
 		<observationdate month="1" day="1"/>
 		<observers>
+			<observer country="110"></observer>
+			<observer country="113"></observer>
+			<observer country="116"></observer>
 			<observer country="122"></observer>
+			<observer country="123"></observer>
+			<observer country="130"></observer>
+			<observer country="140"></observer>
+			<observer country="150"></observer>
+			<observer country="163"></observer>
+			<observer country="171"></observer>
 		</observers>
 	</holiday>
 	<holiday uid="102" name="Martin Luther King, Jr. Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
@@ -47,7 +56,7 @@
 			<nl-NL name="Memorial Day" />
 			<zh-CN name="Memorial Day" />
 		</translations>
-		<observationdate month="5" week="4" dayofweek="Thursday"/>
+		<observationdate month="5" week="4" dayofweek="Monday"/>
 		<observers>
 			<observer country="122"></observer>
 		</observers>
@@ -65,7 +74,7 @@
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="106" name="Labor Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
+	<holiday uid="106" name="Labor Day (Multinational)" type="Non_Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Labor Day" />
 			<de-DE name="Labor Day" />
@@ -75,6 +84,7 @@
 		</translations>
 		<observationdate month="9" week="1" dayofweek="Monday"/>
 		<observers>
+			<observer country="113"></observer>
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
@@ -91,7 +101,7 @@
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="108" name="Veterans Day (USA)" type="Fixed_Date" holidaytype="Normal">
+	<holiday uid="108" name="Veterans Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Veterans Day" />
 			<de-DE name="Veterans Day" />
@@ -102,6 +112,7 @@
 		<observationdate month="11" day="11"/>
 		<observers>
 			<observer country="122"></observer>
+			<observer country="140"></observer>
 		</observers>
 	</holiday>
 	<holiday uid="109" name="Thanksgiving (USA)" type="Non_Fixed_Date" holidaytype="Both">
@@ -117,7 +128,7 @@
 			<observer country="122"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="110" name="Christmas (Worldwide)" type="Fixed_Date" holidaytype="Both">
+	<holiday uid="110" name="Christmas (Multinational)" type="Fixed_Date" holidaytype="Both">
 		<translations>
 			<en-US name="Christmas"/>
 			<de-DE name="Christmas"/>
@@ -184,6 +195,305 @@
 		<observationdate week="42"/>
 		<observers>
 			<observer country="110"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="113" name="Australia Day (AUS)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Australia Day"/>
+			<de-DE name="Australia Day"/>
+			<en-GB name="Australia Day"/>
+			<nl-NL name="Australia Day"/>
+			<zh-CN name="Australia Day"/>
+		</translations>
+		<observationdate month="1" day="26"/>
+		<observers>
+			<observer country="116"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="114" name="Anzac Day (AUS)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Anzac Day"/>
+			<de-DE name="Anzac Day"/>
+			<en-GB name="Anzac Day"/>
+			<nl-NL name="Anzac Day"/>
+			<zh-CN name="Anzac Day"/>
+		</translations>
+		<observationdate month="4" day="25"/>
+		<observers>
+			<observer country="116"></observer>
+			<observer country="186"></observer>
+			<observer country="208"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="115" name="Boxing Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Boxing Day"/>
+			<de-DE name="Boxing Day"/>
+			<en-GB name="Boxing Day"/>
+			<nl-NL name="Boxing Day"/>
+			<zh-CN name="Boxing Day"/>
+		</translations>
+		<observationdate month="12" day="26"/>
+		<observers>
+			<observer country="113"></observer>
+			<observer country="116"></observer>
+			<observer country="130"></observer>
+			<observer country="163"></observer>
+			<observer country="176"></observer>
+			<observer country="186"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="116" name="Canada Day (CAN)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Canada Day"/>
+			<de-DE name="Canada Day"/>
+			<en-GB name="Canada Day"/>
+			<nl-NL name="Canada Day"/>
+			<zh-CN name="Canada Day"/>
+		</translations>
+		<observationdate month="7" day="1"/>
+		<observers>
+			<observer country="113"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="117" name="Victoria Day (CAN)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Victoria Day"/>
+			<de-DE name="Victoria Day"/>
+			<en-GB name="Victoria Day"/>
+			<nl-NL name="Victoria Day"/>
+			<zh-CN name="Victoria Day"/>
+		</translations>
+		<observationdate month="5" day="21"/>
+		<observers>
+			<observer country="113"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="118" name="Thanksgiving (CAN)" type="Non_Fixed_Date" holidaytype="Both">
+		<translations>
+			<en-US name="Thanksgiving"/>
+			<de-DE name="Thanksgiving"/>
+			<en-GB name="Thanksgiving"/>
+			<nl-NL name="Thanksgiving"/>
+			<zh-CN name="Thanksgiving"/>
+		</translations>
+		<observationdate month="10" week="2" dayofweek="Monday"/>
+		<observers>
+			<observer country="113"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="119" name="Labour Day (ESP)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Labour Day"/>
+			<de-DE name="Labour Day"/>
+			<en-GB name="Labour Day"/>
+			<nl-NL name="Labour Day"/>
+			<zh-CN name="Labour Day"/>
+		</translations>
+		<observationdate month="5" day="1"/>
+		<observers>
+			<observer country="123"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="120" name="Assumption Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Assumption"/>
+			<de-DE name="Assumption"/>
+			<en-GB name="Assumption"/>
+			<nl-NL name="Assumption"/>
+			<zh-CN name="Assumption"/>
+		</translations>
+		<observationdate month="8" day="15"/>
+		<observers>
+			<observer country="123"></observer>
+			<observer country="140"></observer>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="121" name="Fiesta Nacional de España (ESP)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Fiesta Nacional de España"/>
+			<de-DE name="Fiesta Nacional de España"/>
+			<en-GB name="Fiesta Nacional de España"/>
+			<nl-NL name="Fiesta Nacional de España"/>
+			<zh-CN name="Fiesta Nacional de España"/>
+		</translations>
+		<observationdate month="10" day="12"/>
+		<observers>
+			<observer country="123"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="122" name="All Saints Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="All Saints Day"/>
+			<de-DE name="All Saints Day"/>
+			<en-GB name="All Saints Day"/>
+			<nl-NL name="All Saints Day"/>
+			<zh-CN name="All Saints Day"/>
+		</translations>
+		<observationdate month="11" day="1"/>
+		<observers>
+			<observer country="123"></observer>
+			<observer country="140"></observer>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="123" name="Constitution Day (ESP)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Constitution Day"/>
+			<de-DE name="Constitution Day"/>
+			<en-GB name="Constitution Day"/>
+			<nl-NL name="Constitution Day"/>
+			<zh-CN name="Constitution Day"/>
+		</translations>
+		<observationdate month="12" day="6"/>
+		<observers>
+			<observer country="123"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="124" name="Immaculate Conception (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Immaculate Conception"/>
+			<de-DE name="Immaculate Conception"/>
+			<en-GB name="Immaculate Conception"/>
+			<nl-NL name="Immaculate Conception"/>
+			<zh-CN name="Immaculate Conception"/>
+		</translations>
+		<observationdate month="12" day="8"/>
+		<observers>
+			<observer country="123"></observer>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="125" name="Second Day of Christmas (DEN)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Second Day of Christmas"/>
+			<de-DE name="Second Day of Christmas"/>
+			<en-GB name="Second Day of Christmas"/>
+			<nl-NL name="Second Day of Christmas"/>
+			<zh-CN name="Second Day of Christmas"/>
+		</translations>
+		<observationdate month="12" day="26"/>
+		<observers>
+			<observer country="110"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="126" name="German Unity Day (GER)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="German Unity Day"/>
+			<de-DE name="Tag der Deutschen Einheit"/>
+			<en-GB name="German Unity Day"/>
+			<nl-NL name="German Unity Day"/>
+			<zh-CN name="German Unity Day"/>
+		</translations>
+		<observationdate month="10" day="3"/>
+		<observers>
+			<observer country="110"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="127" name="May Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="May Day"/>
+			<de-DE name="Erster Mai"/>
+			<en-GB name="May Day"/>
+			<nl-NL name="May Day"/>
+			<zh-CN name="May Day"/>
+		</translations>
+		<observationdate month="5" day="1"/>
+		<observers>
+			<observer country="140"></observer>
+			<observer country="163"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="128" name="Victory In Europe Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Victory In Europe Day"/>
+			<de-DE name="Victory In Europe Day"/>
+			<en-GB name="Victory In Europe Day"/>
+			<nl-NL name="Victory In Europe Day"/>
+			<zh-CN name="Victory In Europe Day"/>
+		</translations>
+		<observationdate month="5" day="8"/>
+		<observers>
+			<observer country="140"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="129" name="Bastille Day (FRA)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Bastille Day"/>
+			<de-DE name="Bastille Day"/>
+			<en-GB name="Bastille Day"/>
+			<nl-NL name="Bastille Day"/>
+			<zh-CN name="Bastille Day"/>
+		</translations>
+		<observationdate month="7" day="14"/>
+		<observers>
+			<observer country="140"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="130" name="Freedom Day (POR)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Freedom Day"/>
+			<de-DE name="Freedom Day"/>
+			<en-GB name="Freedom Day"/>
+			<nl-NL name="Freedom Day"/>
+			<zh-CN name="Freedom Day"/>
+		</translations>
+		<observationdate month="4" day="25"/>
+		<observers>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="131" name="Labor Day (POR)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Labor Day"/>
+			<de-DE name="Labor Day"/>
+			<en-GB name="Labor Day"/>
+			<nl-NL name="Labor Day"/>
+			<zh-CN name="Labor Day"/>
+		</translations>
+		<observationdate month="5" day="1"/>
+		<observers>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="132" name="Portugal Day (POR)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Portugal Day"/>
+			<de-DE name="Portugal Day"/>
+			<en-GB name="Portugal Day"/>
+			<nl-NL name="Portugal Day"/>
+			<zh-CN name="Portugal Day"/>
+		</translations>
+		<observationdate month="6" day="10"/>
+		<observers>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="133" name="Republic Day (POR)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Republic Day"/>
+			<de-DE name="Republic Day"/>
+			<en-GB name="Republic Day"/>
+			<nl-NL name="Republic Day"/>
+			<zh-CN name="Republic Day"/>
+		</translations>
+		<observationdate month="10" day="5"/>
+		<observers>
+			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="134" name="Restoration of Independence (POR)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Restoration of Independence"/>
+			<de-DE name="Restoration of Independence"/>
+			<en-GB name="Restoration of Independence"/>
+			<nl-NL name="Restoration of Independence"/>
+			<zh-CN name="Restoration of Independence"/>
+		</translations>
+		<observationdate month="12" day="1"/>
+		<observers>
+			<observer country="150"></observer>
 		</observers>
 	</holiday>
 </holidays>
