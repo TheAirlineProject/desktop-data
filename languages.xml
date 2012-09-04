@@ -1161,6 +1161,15 @@
       <zh-CN name="航空公司"/>
     </Text>
   </Region>
+  <Region name="PageCalendar">
+  <Text uid="1000">
+      <en-GB name="Calendar"/>
+      <de-DE name="Missing"/>
+      <en-US name="Calendar"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>  
+  </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
       <en-GB name="Alliances"/>

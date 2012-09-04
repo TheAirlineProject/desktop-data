@@ -112,7 +112,7 @@
 			<nl-NL name="Thanksgiving"/>
 			<zh-CN name="Thanksgiving"/>
 		</translations>
-		<observationdate month="11" week="3" dayofweek="Thursday"/>
+		<observationdate month="11" week="4" dayofweek="Thursday"/>
 		<observers>
 			<observer country="122"></observer>
 		</observers>
