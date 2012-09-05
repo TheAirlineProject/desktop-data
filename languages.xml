@@ -1169,6 +1169,13 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>  
+    <Text uid="200">
+      <en-GB name="Show all holidays"/>
+      <de-DE name="Missing"/>
+      <en-US name="Show all holidays"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>  
   </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
