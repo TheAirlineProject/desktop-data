@@ -388,7 +388,7 @@
 		</translations>
 		<observationdate month="10" day="3"/>
 		<observers>
-			<observer country="110"></observer>
+			<observer country="163"></observer>
 		</observers>
 	</holiday>
 	<holiday uid="127" name="May Day (Multinational)" type="Fixed_Date" holidaytype="Normal">
