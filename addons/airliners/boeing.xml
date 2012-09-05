@@ -56,13 +56,13 @@
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 727-200" price="6382980"> <!--7200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.90" length="46.70" range="4050" speed="1042" fuelcapacity="30600" consumption="0.040" runwaylengthrequired="1515"/>
+    <specs wingspan="32.90" length="46.70" range="4500" speed="1042" fuelcapacity="30600" consumption="0.040" runwaylengthrequired="1515"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1967" to="1972"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 727-200 Adv." price="6800000"> <!--10200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
-    <specs wingspan="32.90" length="46.70" range="4400" speed="1042" fuelcapacity="39800" consumption="0.048" runwaylengthrequired="1470"/>
+    <specs wingspan="32.90" length="46.70" range="4550" speed="1042" fuelcapacity="39800" consumption="0.048" runwaylengthrequired="1470"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1973" to="1984"/>
   </airliner>
