@@ -18,25 +18,25 @@
     <capacity cockpitcrew="2" cargo="90787"/>
     <produced from="1986" to="2000"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-8-32" price="2551020"> <!--3000000-->
+  <airliner manufacturer="MD" name="MD DC-8-32" price="5782310"> <!--6800000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="10103" speed="946" fuelcapacity="120912" consumption="0.068" runwaylengthrequired="3290"/>
     <capacity passengers="176" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1968" to="1970"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-8-51" price="2636050"> <!--3100000-->
+  <airliner manufacturer="MD" name="MD DC-8-51" price="7568030"> <!--8900000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="8171" speed="946" fuelcapacity="100000" consumption="0.068" runwaylengthrequired="3000"/>
     <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
     <produced from="1968" to="1970"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-8-54CF" price="2806120"> <!--3300000-->
+  <airliner manufacturer="MD" name="MD DC-8-54CF" price="7823130"> <!--9200000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="12139" speed="954" fuelcapacity="143000" consumption="0.062" runwaylengthrequired="2800"/>
     <capacity passengers="189" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
     <produced from="1968" to="1975"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-8-61" price="3146260"> <!--3700000-->
+  <airliner manufacturer="MD" name="MD DC-8-61" price="7993200"> <!--9400000-->
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="57.10" range="9408" speed="935" fuelcapacity="127000" consumption="0.050" runwaylengthrequired="3200"/>
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
@@ -60,25 +60,25 @@
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
     <produced from="1982" to="1991"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-10" price="1870750"> <!--2200000-->
+  <airliner manufacturer="MD" name="MD DC-9-10" price="3826530"> <!--4500000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2340" speed="903" fuelcapacity="10800" consumption="0.051" runwaylengthrequired="1670"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1968" to="1974"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-15" price="2295920"> <!--2700000-->
+  <airliner manufacturer="MD" name="MD DC-9-15" price="4166670"> <!--4900000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2840" speed="903" fuelcapacity="12500" consumption="0.049" runwaylengthrequired="1520"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1968" to="1980"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-20" price="4081630"> <!--4800000-->
+  <airliner manufacturer="MD" name="MD DC-9-20" price="4251700"> <!--5000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="31.82" range="3430" speed="896" fuelcapacity="15000" consumption="0.049" runwaylengthrequired="1290"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1968" to="1981"/>
   </airliner>
-  <airliner manufacturer="MD" name="MD DC-9-30" price="4676870"> <!--5500000-->
+  <airliner manufacturer="MD" name="MD DC-9-30" price="4931970"> <!--5800000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.47" length="36.37" range="3030" speed="917" fuelcapacity="15000" consumption="0.043" runwaylengthrequired="1390"/>
     <capacity passengers="115" cockpitcrew="2" cabincrew="2" maxclasses="1"/>

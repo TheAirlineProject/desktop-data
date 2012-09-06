@@ -48,13 +48,13 @@
     <capacity passengers="269" cockpitcrew="3" cabincrew="6" maxclasses="3"/>
     <produced from="1966" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="2009130"> <!--2200000-->
+  <airliner manufacturer="Douglas" name="Douglas DC-9-10" price="3835620"> <!--4200000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2340" speed="903" fuelcapacity="10800" consumption="0.051" runwaylengthrequired="1670"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="1966" to="1967"/>
   </airliner>
-  <airliner manufacturer="Douglas" name="Douglas DC-9-15" price="2393620"> <!--2700000-->
+  <airliner manufacturer="Douglas" name="Douglas DC-9-15" price="4166670"> <!--4700000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="27.25" length="31.82" range="2840" speed="903" fuelcapacity="12500" consumption="0.049" runwaylengthrequired="1520"/>
     <capacity passengers="90" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
