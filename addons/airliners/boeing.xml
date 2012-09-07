@@ -150,7 +150,7 @@
     <capacity passengers="496" cockpitcrew="3" cabincrew="10" maxclasses="3"/>
     <produced from="1983" to="1990"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-400" price="33301500"> <!--139500000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-400" price="33301500" image="Boeing 747-400"> <!--139500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.40" length="70.60" range="13450" speed="913" fuelcapacity="216840" consumption="0.031" runwaylengthrequired="2990"/>
     <capacity passengers="524" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
@@ -222,7 +222,7 @@
     <capacity passengers="375" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="2000" to="2020"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 777-200" price="32083900"> <!--165200000-->
+  <airliner manufacturer="Boeing" name="Boeing 777-200" price="32083900" image="Boeing 777-200"> <!--165200000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.90" length="63.70" range="9700" speed="905" fuelcapacity="117348" consumption="0.027" runwaylengthrequired="2500"/>
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
