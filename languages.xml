@@ -772,11 +772,11 @@
       <zh-CN name="季节性"/>
     </Text>
     <Text uid="1020">
-      <en-GB name="Passengers"/>
-      <de-DE name="Passagiere"/>
-      <en-US name="Passengers"/>
-      <nl-NL name="Passagiers"/>
-      <zh-CN name="乘客"/>
+      <en-GB name="Estimated Daily Passenger Demand"/>
+      <de-DE name="Estimated Daily Passenger Demand"/>
+      <en-US name="Estimated Daily Passenger Demand"/>
+      <nl-NL name="Estimated Daily Passenger Demand"/>
+      <zh-CN name="Estimated Daily Passenger Demand"/>
     </Text>
     <Text uid="1021">
       <en-GB name="Cargo size"/>
