@@ -6,25 +6,25 @@
     <capacity passengers="18" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1973" to="1990"/>
   </airliner>
-  <airliner manufacturer="Embraer" name="EMB 120 Brasilia" price="594350"> <!--2000000-->
+  <airliner manufacturer="Embraer" name="EMB 120 Brasilia" image="Embraer EMB 120" price="594350"> <!--2000000-->
 	<type body="Single_Aisle" rangetype="Short_Range" engine="Turboprop"/>
     <specs wingspan="19.78" length="20.00" range="1750" speed="552" fuelcapacity="2200" consumption="0.059" runwaylengthrequired="900"/>
     <capacity passengers="30" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1983" to="2001"/>
   </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-135 ER" price="2864650"> <!--12000000-->
+  <airliner manufacturer="Embraer" name="Embraer ERJ135 ER" image="Embraer ERJ135" price="2864650"> <!--12000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="20.04" length="26.33" range="2409" speed="828" fuelcapacity="3833" consumption="0.043" runwaylengthrequired="1190"/>
     <capacity passengers="37" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1989" to="2019"/>
   </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-140 ER" price="2842930"> <!--16000000-->
+  <airliner manufacturer="Embraer" name="Embraer ERJ140 ER" price="2842930"> <!--16000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="20.04" length="28.45" range="2317" speed="828" fuelcapacity="3670" consumption="0.036" runwaylengthrequired="1190"/>
     <capacity passengers="44" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
     <produced from="1999" to="2019"/>
   </airliner>
-  <airliner manufacturer="Embraer" name="Embraer E-145 LR" price="3107400"> <!--16000000-->
+  <airliner manufacturer="Embraer" name="Embraer ERJ145 LR" image="Embraer ERJ145" price="3107400"> <!--16000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="20.04" length="29.87" range="2873" speed="851" fuelcapacity="4310" consumption="0.030" runwaylengthrequired="1210"/>
     <capacity passengers="50" cockpitcrew="2" cabincrew="1" maxclasses="1"/>

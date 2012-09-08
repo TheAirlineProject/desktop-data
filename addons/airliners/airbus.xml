@@ -30,49 +30,49 @@
     <capacity passengers="240" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
     <produced from="1985" to="2007"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A318-100" price="8900950"> <!--54100000-->
+  <airliner manufacturer="Airbus" name="Airbus A318-100" image="Airbus A318" price="8900950"> <!--54100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="31.44" range="5700" speed="828" fuelcapacity="24210" consumption="0.032" runwaylengthrequired="1280"/>
     <capacity passengers="132" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="2002" to="2018"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A319-100" price="10625120"> <!--53200000-->
+  <airliner manufacturer="Airbus" name="Airbus A319-100" image="Airbus A319" price="10625120"> <!--53200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="33.84" range="6700" speed="828" fuelcapacity="24210" consumption="0.023" runwaylengthrequired="1480"/>
     <capacity passengers="156" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1994" to="2013"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A320-100" price="11383540"> <!--45500000-->
+  <airliner manufacturer="Airbus" name="Airbus A320-100" image="Airbus A320" price="11383540"> <!--45500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="37.57" range="4800" speed="828" fuelcapacity="24210" consumption="0.028" runwaylengthrequired="1610"/>
     <capacity passengers="180" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1988" to="2013"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A320-200" price="11530190"> <!--48300000-->
+  <airliner manufacturer="Airbus" name="Airbus A320-200" image="Airbus A320" price="11530190"> <!--48300000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="37.57" range="5600" speed="828" fuelcapacity="30190" consumption="0.030" runwaylengthrequired="1560"/>
     <capacity passengers="180" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1989" to="2013"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A321-100" price="13481130"> <!--67500000-->
+  <airliner manufacturer="Airbus" name="Airbus A321-100" image="Airbus A321" price="13481130"> <!--67500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="44.51" range="4500" speed="828" fuelcapacity="24050" consumption="0.024" runwaylengthrequired="1860"/>
     <capacity passengers="220" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="1994" to="2017"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A321-200" price="13620070"> <!--72200000-->
+  <airliner manufacturer="Airbus" name="Airbus A321-200" image="Airbus A321" price="13620070"> <!--72200000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="34.10" length="44.51" range="5600" speed="828" fuelcapacity="30030" consumption="0.024" runwaylengthrequired="1895"/>
     <capacity passengers="220" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="1996" to="2017"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A330-200" price="26366440"> <!--145200000-->
+  <airliner manufacturer="Airbus" name="Airbus A330-200" image="Airbus A330-200" price="26366440"> <!--145200000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.30" length="58.82" range="13430" speed="871" fuelcapacity="139090" consumption="0.027" runwaylengthrequired="2490"/>
     <capacity passengers="380" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
     <produced from="1998" to="2018"/>
   </airliner>
-  <airliner manufacturer="Airbus" name="Airbus A330-300" price="29259040"> <!--146500000-->
+  <airliner manufacturer="Airbus" name="Airbus A330-300" image="Airbus A330-300" price="29259040"> <!--146500000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.30" length="63.69" range="10830" speed="871" fuelcapacity="97530" consumption="0.020" runwaylengthrequired="2610"/>
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
