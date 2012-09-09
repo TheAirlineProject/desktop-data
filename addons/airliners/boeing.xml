@@ -252,7 +252,7 @@
     <capacity passengers="550" cockpitcrew="2" cabincrew="11" maxclasses="3"/>
     <produced from="2004" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 787-8" price="26322720"> <!--200000000-->
+  <airliner manufacturer="Boeing" name="Boeing 787-8" image="Boeing 787-8" price="26322720"> <!--200000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.00" length="56.70" range="15200" speed="913" fuelcapacity="126920" consumption="0.032" runwaylengthrequired="2260"/>
     <capacity passengers="264" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
