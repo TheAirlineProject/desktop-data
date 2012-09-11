@@ -60,4 +60,34 @@
     <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
     <produced from="2000" to="2019"/>
   </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier Global 5000" price="5499040"> <!--40000000-->
+    <type body="Single_Aisle" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="28.65" length="29.5" range="9360" speed="904" fuelcapacity="21850" consumption="0.123" runwaylengthrequired="1689"/>
+    <capacity passengers="19" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1996" to="2016"/>
+ </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CS-100" price="7423260"> <!--58280000-->
+    <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="35.1" length="34.9" range="4074" speed="828" fuelcapacity="15775" consumption="0.035" runwaylengthrequired="1509"/>
+    <capacity passengers="110" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2013" to="2026"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CS-100ER" price="7954400"> <!--63611340-->
+    <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="35.1" length="34.9" range="5463" speed="828" fuelcapacity="20431" consumption="0.034" runwaylengthrequired="1509"/>
+    <capacity passengers="110" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2014" to="2022"/>
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CS-300" price="8324370"> <!--66570000-->
+    <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="35.10" length="38.0" range="4074" speed="828" fuelcapacity="16947" consumption="0.032" runwaylengthrequired="1902"/>
+    <capacity passengers="130" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2013" to="2025"/>    
+  </airliner>
+  <airliner manufacturer="Bombardier" name="Bombardier CS-300ER" price="8705000">
+    <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="35.1" length="38.0" range="5463" speed="828" fuelcapacity="22015" consumption="0.031" runwaylengthrequired="1890"/>
+    <capacity passengers="130" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <produced from="2014" to="2019"/>    
+  </airliner>
 </airliners>
