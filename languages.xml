@@ -1550,6 +1550,20 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>
+      <Text uid="1006">
+      <en-GB name="Inflight Services"/>
+      <de-DE name="Missing"/>
+      <en-US name="Inflight Services"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1007">
+      <en-GB name="Inflight Services"/>
+      <de-DE name="Missing"/>
+      <en-US name="Inflight Services"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlineStatistics">
     <Text uid="1001">
