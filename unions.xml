@@ -42,7 +42,7 @@
 			<de-DE name="Warsaw Pact" />
 			<en-GB name="Warsaw Pact" />
 			<nl-NL name="Warsaw Pact" />
-			<zh-CN name="Warsaw Pact" />
+			<zh-CN name="华沙条约组织" />
 		</translations>
 		<period creation="05.14.1955 00:00:00" obsolete="07.01.1991 00:00:00"/>
 		<members>
@@ -62,7 +62,7 @@
 			<de-DE name="NATO" />
 			<en-GB name="NATO" />
 			<nl-NL name="NATO" />
-			<zh-CN name="NATO" />
+			<zh-CN name="北大西洋公约组织" />
 		</translations>
 		<period creation="04.04.1949 00:00:00" obsolete="07.01.2099 00:00:00"/>
 		<members>

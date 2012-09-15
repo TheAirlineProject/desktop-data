@@ -6,7 +6,7 @@
 			<de-DE name="New Years Day"/>
 			<en-GB name="New Years Day"/>
 			<nl-NL name="New Years Day"/>
-			<zh-CN name="New Years Day"/>
+			<zh-CN name="元旦"/>
 		</translations>
 		<observationdate month="1" day="1"/>
 		<observers>
@@ -28,7 +28,7 @@
 			<de-DE name="Martin Luther King, Jr. Day"/>
 			<en-GB name="Martin Luther King, Jr. Day"/>
 			<nl-NL name="Martin Luther King, Jr. Day"/>
-			<zh-CN name="Martin Luther King, Jr. Day"/>
+			<zh-CN name="马丁·路德·金纪念日"/>
 		</translations>
 		<observationdate month="1" week="3" dayofweek="Monday"/>
 		<observers>
@@ -41,7 +41,7 @@
 			<de-DE name="Washington's Birthday"/>
 			<en-GB name="Washington's Birthday"/>
 			<nl-NL name="Washington's Birthday"/>
-			<zh-CN name="Washington's Birthday"/>
+			<zh-CN name="乔治华盛顿诞辰纪念日"/>
 		</translations>
 		<observationdate month="2" week="3" dayofweek="Monday"/>
 		<observers>
@@ -54,7 +54,7 @@
 			<de-DE name="Memorial Day" />
 			<en-GB name="Memorial Day" />
 			<nl-NL name="Memorial Day" />
-			<zh-CN name="Memorial Day" />
+			<zh-CN name="阵亡将士纪念日" />
 		</translations>
 		<observationdate month="5" week="4" dayofweek="Monday"/>
 		<observers>
@@ -67,7 +67,7 @@
 			<de-DE name="Independence Day" />
 			<en-GB name="Independence Day" />
 			<nl-NL name="Independence Day" />
-			<zh-CN name="Independence Day" />
+			<zh-CN name="美国独立纪念日" />
 		</translations>
 		<observationdate month="7" day="4"/>
 		<observers>
@@ -80,7 +80,7 @@
 			<de-DE name="Labor Day" />
 			<en-GB name="Labor Day" />
 			<nl-NL name="Labor Day" />
-			<zh-CN name="Labor Day" />
+			<zh-CN name="劳动节" />
 		</translations>
 		<observationdate month="9" week="1" dayofweek="Monday"/>
 		<observers>
@@ -94,7 +94,7 @@
 			<de-DE name="Columbus Day" />
 			<en-GB name="Columbus Day" />
 			<nl-NL name="Columbus Day" />
-			<zh-CN name="Columbus Day" />
+			<zh-CN name="哥伦布发现美洲纪念日" />
 		</translations>
 		<observationdate month="10" week="2" dayofweek="Monday"/>
 		<observers>
@@ -107,7 +107,7 @@
 			<de-DE name="Veterans Day" />
 			<en-GB name="Veterans Day" />
 			<nl-NL name="Veterans Day" />
-			<zh-CN name="Veterans Day" />
+			<zh-CN name="美国退伍军人节" />
 		</translations>
 		<observationdate month="11" day="11"/>
 		<observers>
@@ -121,7 +121,7 @@
 			<de-DE name="Thanksgiving"/>
 			<en-GB name="Thanksgiving"/>
 			<nl-NL name="Thanksgiving"/>
-			<zh-CN name="Thanksgiving"/>
+			<zh-CN name="感恩节"/>
 		</translations>
 		<observationdate month="11" week="4" dayofweek="Thursday"/>
 		<observers>
@@ -134,7 +134,7 @@
 			<de-DE name="Christmas"/>
 			<en-GB name="Christmas"/>
 			<nl-NL name="Christmas"/>
-			<zh-CN name="Christmas"/>
+			<zh-CN name="圣诞节"/>
 		</translations>
 		<observationdate month="12" day="25"/>
 		<observers>
@@ -177,7 +177,7 @@
 			<de-DE name="Spring Break"/>
 			<en-GB name="Spring Break"/>
 			<nl-NL name="Spring Break"/>
-			<zh-CN name="Spring Break"/>
+			<zh-CN name="春假"/>
 		</translations>
 		<observationdate month="4"/>
 		<observers>
@@ -190,7 +190,7 @@
 			<de-DE name="Danish Fall Vacation"/>
 			<en-GB name="Danish Fall Vacation"/>
 			<nl-NL name="Danish Fall Vacation"/>
-			<zh-CN name="Danish Fall Vacation"/>
+			<zh-CN name="丹麦秋天假期"/>
 		</translations>
 		<observationdate week="42"/>
 		<observers>
@@ -203,7 +203,7 @@
 			<de-DE name="Australia Day"/>
 			<en-GB name="Australia Day"/>
 			<nl-NL name="Australia Day"/>
-			<zh-CN name="Australia Day"/>
+			<zh-CN name="澳大利亚国庆日"/>
 		</translations>
 		<observationdate month="1" day="26"/>
 		<observers>
@@ -216,7 +216,7 @@
 			<de-DE name="Anzac Day"/>
 			<en-GB name="Anzac Day"/>
 			<nl-NL name="Anzac Day"/>
-			<zh-CN name="Anzac Day"/>
+			<zh-CN name="澳纽军团日"/>
 		</translations>
 		<observationdate month="4" day="25"/>
 		<observers>
@@ -231,7 +231,7 @@
 			<de-DE name="Boxing Day"/>
 			<en-GB name="Boxing Day"/>
 			<nl-NL name="Boxing Day"/>
-			<zh-CN name="Boxing Day"/>
+			<zh-CN name=" 节礼日"/>
 		</translations>
 		<observationdate month="12" day="26"/>
 		<observers>
@@ -249,7 +249,7 @@
 			<de-DE name="Canada Day"/>
 			<en-GB name="Canada Day"/>
 			<nl-NL name="Canada Day"/>
-			<zh-CN name="Canada Day"/>
+			<zh-CN name="加拿大国庆日"/>
 		</translations>
 		<observationdate month="7" day="1"/>
 		<observers>
@@ -262,7 +262,7 @@
 			<de-DE name="Victoria Day"/>
 			<en-GB name="Victoria Day"/>
 			<nl-NL name="Victoria Day"/>
-			<zh-CN name="Victoria Day"/>
+			<zh-CN name="维多利亚日"/>
 		</translations>
 		<observationdate month="5" day="21"/>
 		<observers>
@@ -275,7 +275,7 @@
 			<de-DE name="Thanksgiving"/>
 			<en-GB name="Thanksgiving"/>
 			<nl-NL name="Thanksgiving"/>
-			<zh-CN name="Thanksgiving"/>
+			<zh-CN name="感恩节"/>
 		</translations>
 		<observationdate month="10" week="2" dayofweek="Monday"/>
 		<observers>
@@ -288,7 +288,7 @@
 			<de-DE name="Labour Day"/>
 			<en-GB name="Labour Day"/>
 			<nl-NL name="Labour Day"/>
-			<zh-CN name="Labour Day"/>
+			<zh-CN name="劳动节"/>
 		</translations>
 		<observationdate month="5" day="1"/>
 		<observers>
@@ -301,7 +301,7 @@
 			<de-DE name="Assumption"/>
 			<en-GB name="Assumption"/>
 			<nl-NL name="Assumption"/>
-			<zh-CN name="Assumption"/>
+			<zh-CN name="圣母升天节"/>
 		</translations>
 		<observationdate month="8" day="15"/>
 		<observers>
@@ -316,7 +316,7 @@
 			<de-DE name="Fiesta Nacional de España"/>
 			<en-GB name="Fiesta Nacional de España"/>
 			<nl-NL name="Fiesta Nacional de España"/>
-			<zh-CN name="Fiesta Nacional de España"/>
+			<zh-CN name="西班牙国庆"/>
 		</translations>
 		<observationdate month="10" day="12"/>
 		<observers>
@@ -329,7 +329,7 @@
 			<de-DE name="All Saints Day"/>
 			<en-GB name="All Saints Day"/>
 			<nl-NL name="All Saints Day"/>
-			<zh-CN name="All Saints Day"/>
+			<zh-CN name="万圣节"/>
 		</translations>
 		<observationdate month="11" day="1"/>
 		<observers>
@@ -344,7 +344,7 @@
 			<de-DE name="Constitution Day"/>
 			<en-GB name="Constitution Day"/>
 			<nl-NL name="Constitution Day"/>
-			<zh-CN name="Constitution Day"/>
+			<zh-CN name="挪威宪法日"/>
 		</translations>
 		<observationdate month="12" day="6"/>
 		<observers>
@@ -357,7 +357,7 @@
 			<de-DE name="Immaculate Conception"/>
 			<en-GB name="Immaculate Conception"/>
 			<nl-NL name="Immaculate Conception"/>
-			<zh-CN name="Immaculate Conception"/>
+			<zh-CN name="圣母圣洁日"/>
 		</translations>
 		<observationdate month="12" day="8"/>
 		<observers>
@@ -371,7 +371,7 @@
 			<de-DE name="Second Day of Christmas"/>
 			<en-GB name="Second Day of Christmas"/>
 			<nl-NL name="Second Day of Christmas"/>
-			<zh-CN name="Second Day of Christmas"/>
+			<zh-CN name="圣诞节的第二天"/>
 		</translations>
 		<observationdate month="12" day="26"/>
 		<observers>
@@ -384,7 +384,7 @@
 			<de-DE name="Tag der Deutschen Einheit"/>
 			<en-GB name="German Unity Day"/>
 			<nl-NL name="German Unity Day"/>
-			<zh-CN name="German Unity Day"/>
+			<zh-CN name="德国统一日"/>
 		</translations>
 		<observationdate month="10" day="3"/>
 		<observers>
@@ -397,7 +397,7 @@
 			<de-DE name="Erster Mai"/>
 			<en-GB name="May Day"/>
 			<nl-NL name="May Day"/>
-			<zh-CN name="May Day"/>
+			<zh-CN name="五一国际劳动节"/>
 		</translations>
 		<observationdate month="5" day="1"/>
 		<observers>
@@ -411,7 +411,7 @@
 			<de-DE name="Victory In Europe Day"/>
 			<en-GB name="Victory In Europe Day"/>
 			<nl-NL name="Victory In Europe Day"/>
-			<zh-CN name="Victory In Europe Day"/>
+			<zh-CN name="欧洲胜利日"/>
 		</translations>
 		<observationdate month="5" day="8"/>
 		<observers>
@@ -424,7 +424,7 @@
 			<de-DE name="Bastille Day"/>
 			<en-GB name="Bastille Day"/>
 			<nl-NL name="Bastille Day"/>
-			<zh-CN name="Bastille Day"/>
+			<zh-CN name="巴士底日"/>
 		</translations>
 		<observationdate month="7" day="14"/>
 		<observers>
@@ -437,7 +437,7 @@
 			<de-DE name="Freedom Day"/>
 			<en-GB name="Freedom Day"/>
 			<nl-NL name="Freedom Day"/>
-			<zh-CN name="Freedom Day"/>
+			<zh-CN name="自由日"/>
 		</translations>
 		<observationdate month="4" day="25"/>
 		<observers>
@@ -450,7 +450,7 @@
 			<de-DE name="Labor Day"/>
 			<en-GB name="Labor Day"/>
 			<nl-NL name="Labor Day"/>
-			<zh-CN name="Labor Day"/>
+			<zh-CN name="劳动节"/>
 		</translations>
 		<observationdate month="5" day="1"/>
 		<observers>
@@ -463,7 +463,7 @@
 			<de-DE name="Portugal Day"/>
 			<en-GB name="Portugal Day"/>
 			<nl-NL name="Portugal Day"/>
-			<zh-CN name="Portugal Day"/>
+			<zh-CN name="葡萄牙日"/>
 		</translations>
 		<observationdate month="6" day="10"/>
 		<observers>
@@ -476,7 +476,7 @@
 			<de-DE name="Republic Day"/>
 			<en-GB name="Republic Day"/>
 			<nl-NL name="Republic Day"/>
-			<zh-CN name="Republic Day"/>
+			<zh-CN name="共和国日"/>
 		</translations>
 		<observationdate month="10" day="5"/>
 		<observers>
@@ -489,7 +489,7 @@
 			<de-DE name="Restoration of Independence"/>
 			<en-GB name="Restoration of Independence"/>
 			<nl-NL name="Restoration of Independence"/>
-			<zh-CN name="Restoration of Independence"/>
+			<zh-CN name="恢复独立日"/>
 		</translations>
 		<observationdate month="12" day="1"/>
 		<observers>

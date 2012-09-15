@@ -151,7 +151,7 @@
       <de-DE name="Internationale Abflüge"/>
       <en-GB name="International Departures" />
       <nl-NL name="Internationale Vluchten" />
-      <zh-CN name="国际出发" />
+      <zh-CN name="国际出境" />
     </translations>
   </airportfacility>
   <airportfacility uid="114" shortname="Security and Customs" type="IntlService" typelevel="2" price="500000" buildingdays="20">
@@ -171,7 +171,7 @@
       <de-DE name="Internationalen Kompletten Bedienung" />
       <en-GB name="International Full Service" />
       <nl-NL name="Missing" />
-      <zh-CN name="国际化全方位的服务" />
+      <zh-CN name="国际化的全方位服务" />
     </translations>
   </airportfacility> -->
 </airportfacilities>

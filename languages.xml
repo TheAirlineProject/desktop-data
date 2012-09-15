@@ -136,11 +136,11 @@
       <zh-CN name="全部"/>
     </Text>
     <Text uid="112">
-        <en-GB name="Auto geneate"/>
+      <en-GB name="Auto geneate"/>
       <de-DE name="Missing"/>
       <en-US name="Auto generate"/>
       <nl-NL name="MIssing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="自动生成"/>
     </Text>
     <Text uid="1000">
       <en-GB name="Untranslated Title"/>
@@ -403,12 +403,12 @@
     </Text>
   </Region>
   <Region name="PageFleetAirliner">
-           <Text uid="200">
+    <Text uid="200">
       <en-GB name="Buy airliner"/>
       <de-DE name="Missing"/>
       <en-US name="Buy airliner"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="购买飞机"/>
     </Text>
     <Text uid="1000">
       <en-GB name="Fleet Airliner"/>
@@ -527,7 +527,7 @@
       <de-DE name="Missing"/>
       <en-US name="Fuel capacity"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="燃油容量"/>
     </Text>
     <Text uid="1017">
       <en-GB name="Owner"/>
@@ -585,28 +585,28 @@
       <nl-NL name="Missing"/>
       <zh-CN name="现在的位置"/>
     </Text>
-      <Text uid="1025">
+    <Text uid="1025">
       <en-GB name="Date of purchase"/>
       <de-DE name="Missing"/>
       <en-US name="Date of purchase"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="订购日期"/>
     </Text>
-        <Text uid="1026">
+    <Text uid="1026">
       <en-GB name="Buying price"/>
       <de-DE name="Missing"/>
       <en-US name="Buying price"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
-	</Text>
-	  <Text uid="1027">
-	  <en-GB name="Fuel capacity"/>
-	  <de-DE name="Tankinhalt"/>
-	  <en-US name="Fuel capacity"/>
-	  <nl-NL name="Brandstofcapaciteit"/>
-	  <zh-CN name="燃料容量"/>
+      <zh-CN name="购买价格"/>
     </Text>
-   </Region>
+    <Text uid="1027">
+      <en-GB name="Fuel capacity"/>
+      <de-DE name="Tankinhalt"/>
+      <en-US name="Fuel capacity"/>
+      <nl-NL name="Brandstofcapaciteit"/>
+      <zh-CN name="燃料容量"/>
+    </Text>
+  </Region>
   <Region name="PageAirliners">
     <Text uid="1000">
       <en-GB name="Airliners"/>
@@ -776,7 +776,7 @@
       <de-DE name="Estimated Daily Passenger Demand"/>
       <en-US name="Estimated Daily Passenger Demand"/>
       <nl-NL name="Estimated Daily Passenger Demand"/>
-      <zh-CN name="Estimated Daily Passenger Demand"/>
+      <zh-CN name="预计每天的客运量"/>
     </Text>
     <Text uid="1021">
       <en-GB name="Cargo size"/>
@@ -790,21 +790,21 @@
       <de-DE name="Missing"/>
       <en-US name="Opened"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="已经开启"/>
     </Text>
     <Text uid="1023">
       <en-GB name="Airport income"/>
       <de-DE name="Missing"/>
       <en-US name="Airport income"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="机场收入"/>
     </Text>
     <Text uid="1024">
       <en-GB name="Closing date"/>
       <de-DE name="Missing"/>
       <en-US name="Closing date"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="关闭日期"/>
     </Text>
   </Region>
   <Region name="PageAirportRunways">
@@ -849,12 +849,12 @@
     </Text>
   </Region>
   <Region name="PageAirportTraffic">
-      <Text uid="1001">
+    <Text uid="1001">
       <en-GB name="Passengers to destination"/>
       <de-DE name="Missing"/>
       <en-US name="Passengers to destination"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="抵达目的地的乘客"/>
     </Text>
   </Region>
   <Region name="PageAirportFlights">
@@ -921,9 +921,9 @@
       <de-DE name="Missing"/>
       <en-US name="Allocate to {0}"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
-    </Text>  
-      <Text uid="1001">
+      <zh-CN name="分配给　{0}"/>
+    </Text>
+    <Text uid="1001">
       <en-GB name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)"/>
       <de-DE name="Terminalinformationen (Eigentümer / Gesamt Gates / bestellte Gates / W Gates / Lieferdatum)"/>
       <en-US name="Terminals Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)"/>
@@ -979,7 +979,6 @@
       <nl-NL name="Hubs"/>
       <zh-CN name="枢纽"/>
     </Text>
- 
   </Region>
   <Region name="PageAirports">
     <Text uid="1000">
@@ -1162,20 +1161,20 @@
     </Text>
   </Region>
   <Region name="PageCalendar">
-  <Text uid="1000">
+    <Text uid="1000">
       <en-GB name="Calendar"/>
       <de-DE name="Missing"/>
       <en-US name="Calendar"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
-    </Text>  
+      <zh-CN name="日历"/>
+    </Text>
     <Text uid="200">
       <en-GB name="Show all holidays"/>
       <de-DE name="Missing"/>
       <en-US name="Show all holidays"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
-    </Text>  
+      <zh-CN name="显示所有假日"/>
+    </Text>
   </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
@@ -1245,12 +1244,12 @@
       <nl-NL name="Luchthavencode-indeling"/>
       <zh-CN name="机场代码格式"/>
     </Text>
-   <Text uid="1006">
+    <Text uid="1006">
       <en-GB name="Minutes per turn"/>
       <de-DE name="Missing"/>
       <en-US name="Minutes per turn"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="每轮游戏时间（分钟)"/>
     </Text>
   </Region>
   <Region name="PageNewGame">
@@ -1259,93 +1258,93 @@
       <de-DE name="Missing"/>
       <en-US name="Create New Game"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="开始新游戏"/>
     </Text>
-      <Text uid="201">
+    <Text uid="201">
       <en-GB name="Create Game"/>
       <de-DE name="Missing"/>
       <en-US name="Create Game"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="开始游戏"/>
     </Text>
-      <Text uid="202">
+    <Text uid="202">
       <en-GB name="Start Menu"/>
       <de-DE name="Missing"/>
       <en-US name="Start Menu"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="开始菜单"/>
     </Text>
     <Text uid="1001">
       <en-GB name="Airline Profile"/>
       <de-DE name="Missing"/>
       <en-US name="Airline Profile"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="航空公司档案"/>
     </Text>
     <Text uid="1002">
       <en-GB name="Select Airline"/>
       <de-DE name="Missing"/>
       <en-US name="Select Airline"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="选择航空公司"/>
     </Text>
     <Text uid="1003">
       <en-GB name="IATA code"/>
       <de-DE name="Missing"/>
       <en-US name="IATA code"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="IATA 代码"/>
     </Text>
-      <Text uid="1004">
+    <Text uid="1004">
       <en-GB name="Home country"/>
       <de-DE name="Missing"/>
       <en-US name="Home country"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="基地所在地"/>
     </Text>
-      <Text uid="1005">
+    <Text uid="1005">
       <en-GB name="Name of CEO"/>
       <de-DE name="Missing"/>
       <en-US name="Name of CEO"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="CEO 名字"/>
     </Text>
     <Text uid="1006">
       <en-GB name="Airline color"/>
       <de-DE name="Missing"/>
       <en-US name="Airline color"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="航空公司代表色"/>
     </Text>
-        <Text uid="1007">
+    <Text uid="1007">
       <en-GB name="Select homebase"/>
       <de-DE name="Missing"/>
       <en-US name="Select homebase"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="选择基地"/>
     </Text>
-        <Text uid="1008">
+    <Text uid="1008">
       <en-GB name="Select start year"/>
       <de-DE name="Missing"/>
       <en-US name="Select start year"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="选择年份"/>
     </Text>
-        <Text uid="1009">
+    <Text uid="1009">
       <en-GB name="Select timezone"/>
       <de-DE name="Missing"/>
       <en-US name="Select timezone"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="选择时区"/>
     </Text>
-        <Text uid="1010">
+    <Text uid="1010">
       <en-GB name="Select # of opponents"/>
       <de-DE name="Missing"/>
       <en-US name="Select # of opponents"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="选择 # 对手"/>
     </Text>
-</Region>
+  </Region>
   <Region name="PageAirlineFleet">
     <Text uid="1001">
       <en-GB name="Fleet overview"/>
@@ -1537,6 +1536,20 @@
       <nl-NL name="Toeslagen"/>
       <zh-CN name="费用"/>
     </Text>
+    <Text uid="1004">
+      <en-GB name="Charges and Fees"/>
+      <de-DE name="Missing"/>
+      <en-US name="Charges and Fees"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1005">
+      <en-GB name="Employees"/>
+      <de-DE name="Missing"/>
+      <en-US name="Employees"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlineStatistics">
     <Text uid="1001">
@@ -1688,11 +1701,11 @@
       <zh-CN name="财政"/>
     </Text>
     <Text uid="1006">
-      <en-GB name="Wages and Fees"/>
-      <de-DE name="L?hne und Abgaben"/>
-      <en-US name="Wages and Fees"/>
-      <nl-NL name="Lonen en toeslagen"/>
-      <zh-CN name="工资与费用"/>
+      <en-GB name="Airline Policies"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airline Policies"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
     </Text>
   </Region>
   <Region name="PanelAlliance">
@@ -1907,13 +1920,13 @@
       <en-US name="Required Runway Length"/>
       <nl-NL name="Vereiste lengte landingsbaan"/>
       <zh-CN name="所需最短跑道长度"/>
-	</Text>
-	<Text uid="1016">
-	  <en-GB name="Fuel Capacity"/>
-	  <de-DE name="Tankinhalt"/>
-	  <en-US name="Fuel Capacity"/>
-	  <nl-NL name="Brandstofcapaciteit"/>
-	  <zh-CN name="燃料容量"/>
+    </Text>
+    <Text uid="1016">
+      <en-GB name="Fuel Capacity"/>
+      <de-DE name="Tankinhalt"/>
+      <en-US name="Fuel Capacity"/>
+      <nl-NL name="Brandstofcapaciteit"/>
+      <zh-CN name="燃料容量"/>
     </Text>
   </Region>
   <Region name="PageSearchAirliners">
@@ -2010,12 +2023,12 @@
       <nl-NL name="Luchthaven"/>
       <zh-CN name="机场"/>
     </Text>
-       <Text uid="1008">
+    <Text uid="1008">
       <en-GB name="Pay on delivery"/>
       <de-DE name="Missing"/>
       <en-US name="Pay on delivery"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="货到付款"/>
     </Text>
   </Region>
   <Region name="PanelUsedAirliner">
@@ -2159,7 +2172,7 @@
       <de-DE name="Missing"/>
       <en-US name="Traffic"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="交通"/>
     </Text>
   </Region>
   <Region name="PanelAirports">
@@ -2434,12 +2447,12 @@
       <nl-NL name="Missing" message="Missing {0:C}"/>
       <zh-CN name="预订客机" message="您确定要订购总价为 {0:C} 的客机？"/>
     </Text>
-  <Text uid="2009">
+    <Text uid="2009">
       <en-GB name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C} with a down payment of {1:C}?"/>
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Ordering airliner(s)" message="Are you sure you want to order airliner(s) worth {0:C} with a down payment of {1:C}?"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="Missing" message="Missing"/>
+      <zh-CN name="预订客机" message="您确定要订购总价为 {0:C} 的客机，并且以 {1:C} 分期付款吗？"/>
     </Text>
     <!-- END - Airliner Model -->
     <!-- BEGIN - Airline Model -->
@@ -2499,7 +2512,7 @@
       <nl-NL name="Wijzig lonen" message="Weet u zeker dat u de lonen wilt aanpassen?"/>
       <zh-CN name="修改工资" message="您确认要修改工资比率吗？"/>
     </Text>
-        <Text uid="2109">
+    <Text uid="2109">
       <en-GB name="Not enough money" message="You don't have enough money to buy this airliner."/>
       <de-DE name="Nicht genug Geld" message="Sie haben nicht genug Geld, um dieses Flugzeug zu kaufen."/>
       <en-US name="Not enough money" message="You don't have enough money to buy this airliner."/>
@@ -2511,7 +2524,7 @@
       <de-DE name="Flugzeug kaufen" message="Missing"/>
       <en-US name="Buy airliner" message="Are you sure you want to buy your leased airliner {0}?"/>
       <nl-NL name="Koop vliegtuig" message="Missing"/>
-      <zh-CN name="购买飞机" message="Missing"/>
+      <zh-CN name="购买飞机" message="您确认要购买正在租借的飞机 {0} 吗？"/>
     </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
@@ -2620,12 +2633,12 @@
       <nl-NL name="Fout" message="-"/>
       <zh-CN name="错误" message="您无法释放该登机口,因为您至少需要该机场 20% 的登机口才能设为枢纽"/>
     </Text>
-      <Text uid="2216">
+    <Text uid="2216">
       <en-GB name="Reallocate operations" message="Are you sure you want to move all operations from {0} to {1}?"/>
       <de-DE name="Fehler" message="-"/>
       <en-US name="Reallocate operations" message="Are you sure you want to move all operations from {0} to {1}?"/>
       <nl-NL name="Fout" message="-"/>
-      <zh-CN name="错误" message="-"/>
+      <zh-CN name="错误" message="飞机需要停飞进行改造"/>
     </Text>
     <!-- END - Airport Model -->
     <!-- BEGIN - Fleet Model -->
@@ -2748,37 +2761,36 @@
       <zh-CN name="拒绝" message="{0} 拒绝加入 {1} 的邀请"/>
     </Text>
     <!--END - Alliance Model-->
-   <!--BEGIN -PopUpAirlinerRoutes-->
-     <Text uid="2701">
+    <!--BEGIN -PopUpAirlinerRoutes-->
+    <Text uid="2701">
       <en-GB name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}?"/>
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Auto generate time table" message="Are you sure you want to clear the current time table and auto generate a time table between {0} and {1}?"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="Missing" message="Missing"/>
-    </Text>   
+      <zh-CN name="自动生成时间表" message="您确认要清除现有的时间表并且自动生成 {0} 至 {1} 的时间表吗？"/>
+    </Text>
     <Text uid="2702">
       <en-GB name="Already in route" message="The plane is already in route at that time"/>
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Already in route" message="The plane is already in route at that time"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="Missing" message="Missing"/>
-    </Text>   
-      <Text uid="2703">
+      <zh-CN name="已经有这条航路" message="飞机在指定时间已经安排了班次"/>
+    </Text>
+    <Text uid="2703">
       <en-GB name="Already in route" message="The route already has an airliner at that time"/>
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Already in route" message="The route already has an airliner at that time"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="Missing" message="Missing"/>
-    </Text>   
-          <Text uid="2704">
+      <zh-CN name="已经有这条航路" message="此航路已经有飞机在执飞了"/>
+    </Text>
+    <Text uid="2704">
       <en-GB name="Not matching" message="The plane can't reach the destination from this entry"/>
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Not matching" message="The plane can't reach the destination from this entry"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="Missing" message="Missing"/>
-    </Text>   
-
- <!--END - PopUpAirlinerRoutesl-->
+      <zh-CN name="未找到" message="飞机目前无法抵达目的地"/>
+    </Text>
+    <!--END - PopUpAirlinerRoutesl-->
   </Region>
   <Region name="News">
     <Text uid="1001">
