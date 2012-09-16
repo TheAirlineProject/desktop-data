@@ -655,7 +655,7 @@
 			<de-DE name="Hong Kong" />
 			<en-GB name="Hong Kong" />
 			<nl-NL name="Hongkong" />
-			<zh-CN name="香港" />
+			<zh-CN name="香港地区" />
     </translations>
   </country>
   <country uid="177" shortname="IRA" region="111" flag="Iran" tailformat="EP-\\d3">
