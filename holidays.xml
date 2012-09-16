@@ -17,9 +17,12 @@
 			<observer country="123"></observer>
 			<observer country="130"></observer>
 			<observer country="140"></observer>
+			<observer country="148"></observer>
 			<observer country="150"></observer>
 			<observer country="163"></observer>
 			<observer country="171"></observer>
+			<observer country="172"></observer>
+			<observer country="176"></observer>
 		</observers>
 	</holiday>
 	<holiday uid="102" name="Martin Luther King, Jr. Day (USA)" type="Non_Fixed_Date" holidaytype="Normal">
@@ -494,6 +497,76 @@
 		<observationdate month="12" day="1"/>
 		<observers>
 			<observer country="150"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="135" name="National Day (PRC)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="National Day (PRC)"/>
+			<de-DE name="National Day (PRC)"/>
+			<en-GB name="National Day  (PRC)"/>
+			<nl-NL name="Nationale dag van de Volksrepubliek China"/>
+			<zh-CN name="中国国庆节"/>
+		</translations>
+		<observationdate month="10" day="1"/>
+		<observers>
+			<observer country="148"></observer>
+			<observer country="176"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="136" name="Chinese New Year" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Chinese New Year"/>
+			<de-DE name="Chinesisches Neujahrsfest"/>
+			<en-GB name="Chinese New Year"/>
+			<nl-NL name="Chinees nieuwjaar"/>
+			<zh-CN name="春节"/>
+		</translations>
+		<observationdate month="2" day="10"/>
+		<observers>
+			<observer country="148"></observer>
+			<observer country="172"></observer>
+			<observer country="176"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="137" name="Mid-Autumn Festival" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Mid-Autumn Festival"/>
+			<de-DE name="Mondfest"/>
+			<en-GB name="Mid-Autumn Festival"/>
+			<nl-NL name="Midherfstfestival"/>
+			<zh-CN name="中秋节"/>
+		</translations>
+		<observationdate month="8" day="15"/>
+		<observers>
+			<observer country="148"></observer>
+			<observer country="172"></observer>
+			<observer country="176"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="138" name="Foundation Day (Japan)" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Foundation Day"/>
+			<de-DE name="Foundation Day"/>
+			<en-GB name="Foundation Day "/>
+			<nl-NL name="Foundation Day"/>
+			<zh-CN name="建国纪念日"/>
+		</translations>
+		<observationdate month="2" day="11"/>
+		<observers>
+			<observer country="171"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="138" name="Vernal Equinox Day" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Vernal Equinox Day"/>
+			<de-DE name="Vernal Equinox Day"/>
+			<en-GB name="Vernal Equinox Day "/>
+			<nl-NL name="Vernal Equinox Day"/>
+			<zh-CN name="春分日"/>
+		</translations>
+		<observationdate month="3" day="20"/>
+		<observers>
+			<observer country="171"></observer>
 		</observers>
 	</holiday>
 </holidays>
