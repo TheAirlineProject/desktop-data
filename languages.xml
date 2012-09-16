@@ -147,14 +147,14 @@
       <de-DE name="Missing"/>
       <en-US name="Save"/>
       <nl-NL name="MIssing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="保存"/>
     </Text>
       <Text uid="114">
       <en-GB name="Load"/>
       <de-DE name="Missing"/>
       <en-US name="Load"/>
       <nl-NL name="MIssing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="读取"/>
     </Text>
     <Text uid="1000">
       <en-GB name="Untranslated Title"/>
@@ -1569,7 +1569,7 @@
       <de-DE name="Missing"/>
       <en-US name="Inflight Services"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="Missing"/>
+      <zh-CN name="空中服务"/>
     </Text>
   </Region>
   <Region name="PageAirlineStatistics">
