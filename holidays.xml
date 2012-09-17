@@ -543,7 +543,37 @@
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="138" name="Foundation Day (Japan)" type="Fixed_Date" holidaytype="Normal">
+	<holiday uid="138" name="Duanwu Festival" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Duanwu Festival"/>
+			<de-DE name="Drachenbootfest"/>
+			<en-GB name="Duanwu Festival"/>
+			<nl-NL name="Drakenbootfeest"/>
+			<zh-CN name="端午节"/>
+		</translations>
+		<observationdate month="5" day="5"/>
+		<observers>
+			<observer country="148"></observer>
+			<observer country="172"></observer>
+			<observer country="176"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="139" name="Qingming Festival" type="Non_Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Qingming Festival"/>
+			<de-DE name="Qinging Fest"/>
+			<en-GB name="Qingming Festival"/>
+			<nl-NL name="Qingming Festival"/>
+			<zh-CN name="清明节"/>
+		</translations>
+		<observationdate month="4" day="5"/>
+		<observers>
+			<observer country="148"></observer>
+			<observer country="172"></observer>
+			<observer country="176"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="140" name="Foundation Day (Japan)" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Foundation Day"/>
 			<de-DE name="Foundation Day"/>
@@ -556,7 +586,7 @@
 			<observer country="171"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="138" name="Vernal Equinox Day" type="Fixed_Date" holidaytype="Normal">
+	<holiday uid="141" name="Vernal Equinox Day" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Vernal Equinox Day"/>
 			<de-DE name="Vernal Equinox Day"/>
@@ -565,6 +595,19 @@
 			<zh-CN name="春分日"/>
 		</translations>
 		<observationdate month="3" day="20"/>
+		<observers>
+			<observer country="171"></observer>
+		</observers>
+	</holiday>
+	<holiday uid="142" name="Greenery Day" type="Fixed_Date" holidaytype="Normal">
+		<translations>
+			<en-US name="Greenery Day"/>
+			<de-DE name="Greenery Day"/>
+			<en-GB name="Greenery Day "/>
+			<nl-NL name="Dag van het natuurgroeng"/>
+			<zh-CN name="绿之日"/>
+		</translations>
+		<observationdate month="5" day="4"/>
 		<observers>
 			<observer country="171"></observer>
 		</observers>
