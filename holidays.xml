@@ -22,6 +22,7 @@
 			<observer country="163"></observer>
 			<observer country="171"></observer>
 			<observer country="172"></observer>
+			<observer country="174"></observer>
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
@@ -525,6 +526,7 @@
 		<observers>
 			<observer country="148"></observer>
 			<observer country="172"></observer>
+			<observer country="174"></observer>
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
@@ -540,6 +542,7 @@
 		<observers>
 			<observer country="148"></observer>
 			<observer country="172"></observer>
+			<observer country="174"></observer>
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
@@ -555,6 +558,7 @@
 		<observers>
 			<observer country="148"></observer>
 			<observer country="172"></observer>
+			<observer country="174"></observer>
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
@@ -570,6 +574,7 @@
 		<observers>
 			<observer country="148"></observer>
 			<observer country="172"></observer>
+			<observer country="174"></observer>
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
