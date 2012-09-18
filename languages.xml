@@ -156,6 +156,13 @@
       <nl-NL name="MIssing"/>
       <zh-CN name="读取"/>
     </Text>
+ <Text uid="115">
+      <en-GB name="Load configuration"/>
+      <de-DE name="Missing"/>
+      <en-US name="Load configuration"/>
+      <nl-NL name="MIssing"/>
+      <zh-CN name="读取"/>
+    </Text>
     <Text uid="1000">
       <en-GB name="Untranslated Title"/>
       <de-DE name="Nicht übersetzter Titel"/>
