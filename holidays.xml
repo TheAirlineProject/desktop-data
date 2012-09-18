@@ -514,7 +514,7 @@
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="136" name="Chinese New Year" type="Non_Fixed_Date" holidaytype="Normal">
+	<holiday uid="136" name="Chinese New Year" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Chinese New Year"/>
 			<de-DE name="Chinesisches Neujahrsfest"/>
@@ -530,7 +530,7 @@
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="137" name="Mid-Autumn Festival" type="Non_Fixed_Date" holidaytype="Normal">
+	<holiday uid="137" name="Mid-Autumn Festival" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Mid-Autumn Festival"/>
 			<de-DE name="Mondfest"/>
@@ -546,7 +546,7 @@
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="138" name="Duanwu Festival" type="Non_Fixed_Date" holidaytype="Normal">
+	<holiday uid="138" name="Duanwu Festival" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Duanwu Festival"/>
 			<de-DE name="Drachenbootfest"/>
@@ -562,7 +562,7 @@
 			<observer country="176"></observer>
 		</observers>
 	</holiday>
-	<holiday uid="139" name="Qingming Festival" type="Non_Fixed_Date" holidaytype="Normal">
+	<holiday uid="139" name="Qingming Festival" type="Fixed_Date" holidaytype="Normal">
 		<translations>
 			<en-US name="Qingming Festival"/>
 			<de-DE name="Qinging Fest"/>
