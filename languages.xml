@@ -1592,6 +1592,48 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>
+          <Text uid="1009">
+      <en-GB name="Cockpit crew"/>
+      <de-DE name="Missing"/>
+      <en-US name="Cockpit crew"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1010">
+      <en-GB name="Cabin crew"/>
+      <de-DE name="Missing"/>
+      <en-US name="Cabin crew"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1011">
+      <en-GB name="Support crew"/>
+      <de-DE name="Missing"/>
+      <en-US name="Support crew"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+  <Text uid="1012">
+      <en-GB name="Maintenance crew"/>
+      <de-DE name="Missing"/>
+      <en-US name="Maintenance crew"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1013">
+      <en-GB name="Select configuration name"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select configutration name"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1014">
+      <en-GB name="Select configuration"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select configutration"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlineStatistics">
     <Text uid="1001">
