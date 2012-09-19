@@ -111,7 +111,7 @@
 			<zh-CN name="贵宾休息室" />
     </translations>
   </airportfacility>
-  <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500" buildingdays="5">
+  <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500" buildingdays="0">
     <level service="0" luxury="5"></level>
 	<employees type="Support" numberofemployees="15"></employees>
     <translations>

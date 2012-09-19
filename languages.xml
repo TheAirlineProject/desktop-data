@@ -2724,6 +2724,13 @@
       <nl-NL name="Fout" message="-"/>
       <zh-CN name="错误" message="飞机需要停飞进行改造"/>
     </Text>
+     <Text uid="2217">
+      <en-GB name="Error renting gate" message="You can't rent a gate at the airport because you need a check-in facility at the airport"/>
+      <de-DE name="Fehler" message="-"/>
+      <en-US name="Error renting gate" message="You can't rent a gate at the airport because you need a check-in facility at the airport"/>
+      <nl-NL name="Fout" message="-"/>
+      <zh-CN name="错误" message="-"/>
+    </Text>
     <!-- END - Airport Model -->
     <!-- BEGIN - Fleet Model -->
     <Text uid="2301">
