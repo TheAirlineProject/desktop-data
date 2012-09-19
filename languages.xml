@@ -1578,6 +1578,20 @@
       <nl-NL name="Missing"/>
       <zh-CN name="空中服务"/>
     </Text>
+      <Text uid="1007">
+      <en-GB name="Airline Services"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airline Services"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1008">
+      <en-GB name="Advertisement"/>
+      <de-DE name="Missing"/>
+      <en-US name="Advertisement"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlineStatistics">
     <Text uid="1001">
