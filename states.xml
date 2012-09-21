@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<states>
+<state country="122" name="Alabama" shortname="AL"  flag="Alabama-Flag-48"></state>
+<state country="122" name="Alaska" shortname="AK"  flag="Alaska-Flag-48"></state>
+<state country="122" name="Arizona" shortname="AZ"  flag="Arizona-Flag-48"></state>
+<state country="122" name="Arkansas" shortname="AR"  flag="Arkansas-Flag-48"></state>
+<state country="122" name="California" shortname="CA"  flag="California-Flag-48"></state>
+<state country="122" name="Connecticut" shortname="CT"  flag="Connecticut-Flag-48"></state>
+<state country="122" name="Colorado" shortname="CO"  flag="Colorado-Flag-48"></state>
+<state country="122" name="Delaware" shortname="DE"  flag="Delaware-Flag-48"></state>
+<state country="122" name="Florida" shortname="FL"  flag="Florida-Flag-48"></state>
+<state country="122" name="Georgia" shortname="GA"  flag="Georgia-Flag-48"></state>
+<state country="122" name="Hawaii" shortname="HI"  flag="Hawaii-Flag-48"></state>
+<state country="122" name="Idaho" shortname="ID"  flag="Idaho-Flag-48"></state>
+<state country="122" name="Illinios" shortname="IL"  flag="Illinois-Flag-48"></state>
+<state country="122" name="Inidiana" shortname="IN"  flag="Indiana-Flag-48"></state>
+<state country="122" name="Iowa" shortname="IA"  flag="Iowa-Flag-48"></state>
+<state country="122" name="Kansas" shortname="KS"  flag="Kansas-Flag-48"></state>
+<state country="122" name="Kentucky" shortname="KY"  flag="Kentucky-Flag-48"></state>
+<state country="122" name="Luisiana" shortname="LA"  flag="Louisiana-Flag-48"></state>
+<state country="122" name="Maine" shortname="ME"  flag="Maine-Flag-48"></state>
+<state country="122" name="Maryland" shortname="MD"  flag="Maryland-Flag-48"></state>
+<state country="122" name="Massachusetts" shortname="MA"  flag="Massachusetts-Flag-48"></state>
+<state country="122" name="Michigan" shortname="MI"  flag="Michigan-Flag-48"></state>
+<state country="122" name="Minnesota" shortname="MN"  flag="Minnesota-Flag-48"></state>
+<state country="122" name="Mississippi" shortname="MS"  flag="Mississippi-Flag-48"></state>
+<state country="122" name="Missouri" shortname="MO"  flag="Missouri-Flag-48"></state>
+<state country="122" name="Montana" shortname="MT"  flag="Montana-Flag-48"></state>
+<state country="122" name="Nebraska" shortname="NE"  flag="Nebraska-Flag-48"></state>
+<state country="122" name="Nevada" shortname="NV"  flag="Nevada-Flag-48"></state>
+<state country="122" name="New Hampshire" shortname="NH"  flag="New-Hampshire-Flag-48"></state>
+<state country="122" name="New Jersey" shortname="NJ"  flag="New-Jersey-Flag-48"></state>
+<state country="122" name="New Mexico" shortname="NM"  flag="New-Mexico-Flag-48"></state>
+<state country="122" name="New York" shortname="NY"  flag="New-York-Flag-48"></state>
+<state country="122" name="North Carolina" shortname="NC"  flag="North-Carolina-Flag-48"></state>
+<state country="122" name="North Dakota" shortname="ND"  flag="North-Dakota-Flag-48"></state>
+<state country="122" name="Ohio" shortname="OH"  flag="Ohio-Flag-48"></state>
+<state country="122" name="Oklahoma" shortname="OK"  flag="Oklahoma-Flag-48"></state>
+<state country="122" name="Oregoni" shortname="OR"  flag="Oregon-Flag-48"></state>
+<state country="122" name="Pennsylvania" shortname="PA"  flag="Pennsylvania-Flag-48"></state>
+<state country="122" name="Rhode Island" shortname="RI"  flag="Rhode-Island-Flag-48"></state>
+<state country="122" name="South Carolina" shortname="SC"  flag="South-Carolina-Flag-48"></state>
+<state country="122" name="South Dakota" shortname="SD"  flag="South-Dakota-Flag-48"></state>
+<state country="122" name="Tennessee" shortname="TN"  flag="Tennessee-Flag-48"></state>
+<state country="122" name="Texas" shortname="TX"  flag="Texas-Flag-48"></state>
+<state country="122" name="Utah" shortname="UT"  flag="Utah-Flag-48"></state>
+<state country="122" name="Vermont" shortname="VT"  flag="Vermont-Flag-48"></state>
+<state country="122" name="Virginia" shortname="VA"  flag="Virginia-Flag-48"></state>
+<state country="122" name="Washington" shortname="WA"  flag="Washington-Flag-48"></state>
+<state country="122" name="West Virginia" shortname="WV"  flag="West-Virginia-Flag-48"></state>
+<state country="122" name="Wisconsin" shortname="WI"  flag="Wisconsin-Flag-48"></state>
+<state country="122" name="Wyoming" shortname="WY"  flag="Wyoming-Flag-48"></state>
+</states>
