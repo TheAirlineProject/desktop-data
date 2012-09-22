@@ -2729,7 +2729,7 @@
       <de-DE name="Fehler" message="-" />
       <en-US name="Error renting gate" message="You can't rent a gate at the airport because you need a check-in facility at the airport" />
       <nl-NL name="Fout" message="-" />
-      <zh-CN name="错误" message="-" />
+      <zh-CN name="错误" message="您在本机场没有值机柜台，所以没法租借登机口。" />
     </Text>
     <!-- END - Airport Model -->
     <!-- BEGIN - Fleet Model -->
