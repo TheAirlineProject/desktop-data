@@ -1171,6 +1171,48 @@
       <nl-NL name="Missing"/>
       <zh-CN name="无"/>
     </Text>
+      <Text uid="1014">
+      <en-GB name="Manufacturer contract"/>
+      <de-DE name="Missing"/>
+      <en-US name="Manufacturer contract"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1015">
+      <en-GB name="Manufacturer"/>
+      <de-DE name="Missing"/>
+      <en-US name="Manufacturer"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1016">
+      <en-GB name="Signing date"/>
+      <de-DE name="Missing"/>
+      <en-US name="Signing date"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1017">
+      <en-GB name="Expire date"/>
+      <de-DE name="Missing"/>
+      <en-US name="Expire date"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+        <Text uid="1018">
+      <en-GB name="Discount"/>
+      <de-DE name="Missing"/>
+      <en-US name="Discount"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1019">
+      <en-GB name="Airliners"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliners"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlines">
     <Text uid="1000">
@@ -2118,6 +2160,20 @@
       <en-GB name="Contract"/>
       <de-DE name="Missing"/>
       <en-US name="Contract"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+      <Text uid="1010">
+      <en-GB name="Extend contract length"/>
+      <de-DE name="Missing"/>
+      <en-US name="Extend contract length"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1011">
+      <en-GB name="Select contract length"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select contract length"/>
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>
