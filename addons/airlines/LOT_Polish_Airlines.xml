@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="LOT Polish Airlines" iata="LO" color="DarkBlue" country="135" CEO="Marcin Piróg" mentality="Moderate" market="Regional" preferedairport="WAW"></profile>
+<subsidiaries>
+<subsidiary name="EuroLOT" IATA="K2" homebase="WAW" mentality="Moderate" market="Local" logo="K2"></subsidiary>
+</subsidiaries>
+</airline>
