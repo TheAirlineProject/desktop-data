@@ -1409,13 +1409,6 @@
       <nl-NL name="Missing" />
       <zh-CN name="每轮游戏时间（分钟)" />
     </Text>
-	<Text uid="1050">
-	  <en-GB name="Difficulty" />
-	  <de-DE name="Missing" />
-	  <en-US name="Difficulty" />
-	  <nl-NL name="Missing" />
-	  <zh-CN name="每轮游戏时间（分钟" />
-	</Text>
   </Region>
   <Region name="PageNewGame">
     <Text uid="200">
@@ -1509,6 +1502,13 @@
       <nl-NL name="Missing" />
       <zh-CN name="选择 # 对手" />
     </Text>
+	<Text uid="1011">
+	  <en-GB name="Difficulty" />
+	  <de-DE name="Missing" />
+	  <en-US name="Difficulty" />
+	  <nl-NL name="Missing" />
+	  <zh-CN name="每轮游戏时间（分钟" />
+	</Text>
   </Region>
   <Region name="PageAirlineFleet">
     <Text uid="1001">
