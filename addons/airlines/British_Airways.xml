@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="British Airways" iata="BA" color="GreenYellow" country="130" CEO="Keith Williams" mentality="Aggressive" market="Global" preferedairport="LHR"></profile>
+<subsidiaries>
+<subsidiary name="British Midland International" IATA="BD" homebase="LHR" mentality="Moderate" market="Regional" logo="BD"></subsidiary>
+</subsidiaries>
 </airline>
 
