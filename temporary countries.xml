@@ -6,7 +6,7 @@
 		<de-DE name="East Germany" />
 		<en-GB name="East Germany" />
 		<nl-NL name="East Germany" />
-		<zh-CN name="East Germany" />
+		<zh-CN name="东德" />
     </translations>    
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
     <history before="163" after="163"></history>
@@ -17,7 +17,7 @@
 		<de-DE name="West Germany" />
 		<en-GB name="West Germany" />
 		<nl-NL name="West Germany" />
-		<zh-CN name="West Germany" />
+		<zh-CN name="西德" />
     </translations>
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00"></period>
     <history before="163" after="163"></history>
@@ -28,7 +28,7 @@
 		<de-DE name="Czechoslovakia" />
 		<en-GB name="Czechoslovakia" />
 		<nl-NL name="Czechoslovakia" />
-		<zh-CN name="Czechoslovakia" />
+		<zh-CN name="捷克斯洛伐克" />
     </translations>
     <period start="10.28.1918 00:00:00" end="01.01.1993 00:00:00"></period>
     <history>
@@ -73,7 +73,7 @@
 		<de-DE name="Yugoslavia" />
 		<en-GB name="Yugoslavia" />
 		<nl-NL name="Yugoslavia" />
-		<zh-CN name="Yugoslavia" />
+		<zh-CN name="南斯拉夫" />
     </translations>
     <period start="12.04.1918 00:00:00" end="08.28.1992 00:00:00"></period>
     <history>
@@ -92,7 +92,7 @@
 		<de-DE name="Serbia &amp; Montenegro" />
 		<en-GB name="Serbia &amp; Montenegro" />
 		<nl-NL name="Serbia &amp; Montenegro" />
-		<zh-CN name="Serbia &amp; Montenegro" />
+		<zh-CN name="塞尔维亚黑山" />
     </translations>
     <period start="08.28.1992 00:00:00" end="06.05.2006 00:00:00"></period>
     <history>
@@ -108,7 +108,7 @@
 		<de-DE name="North Vietnam" />
 		<en-GB name="North Vietnam" />
 		<nl-NL name="North Vietnam" />
-		<zh-CN name="North Vietnam" />
+		<zh-CN name="越南民主共和国" />
     </translations>    
     <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00"></period>
     <history before="170" after="170"></history>
@@ -119,7 +119,7 @@
 		<de-DE name="South Vietnam" />
 		<en-GB name="South Vietnam" />
 		<nl-NL name="South Vietnam" />
-		<zh-CN name="South Vietnam" />
+		<zh-CN name="越南共和国" />
     </translations>    
     <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00"></period>
     <history before="170" after="170"></history>
@@ -131,7 +131,7 @@
 	  <de-DE name="Netherlands Antilles" />
 	  <en-GB name="Netherlands Antilles" />
 	  <nl-NL name="Netherlands Antilles" />
-	  <zh-CN name="Netherlands Antilles" />
+	  <zh-CN name="荷属安的列斯" />
     </translations>
 	<period start="12.15.1954 00:00:00" end="10.10.2010 00:00:00"></period>
     <history>
