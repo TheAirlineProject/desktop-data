@@ -53,7 +53,7 @@
       <latitude value="015°51'45''S" />
       <longitude value="047°54'45''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal" gates="22" />
     </terminals>
@@ -96,9 +96,10 @@
       <latitude value="022°48'32''S" />
       <longitude value="043°14'37''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
-      <terminal name="Terminal" gates="20" />
+      <terminal name="Terminal 1" gates="15" />
+	  <terminal name="Terminal 2" gates="16" />
     </terminals>
     <runways>
       <runway name="10/28" length="4000" surface="Concrete" />
@@ -111,7 +112,7 @@
       <latitude value="023°25'56''S" />
       <longitude value="046°28'09''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Very_large" />
     <terminals>
       <terminal name="Terminal" gates="37" />
     </terminals>
@@ -168,7 +169,7 @@
       <latitude value="022°54'37''S" />
       <longitude value="043°09'47''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -183,7 +184,7 @@
       <latitude value="023°37'36''S" />
       <longitude value="046°39'19''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal" gates="34" />
     </terminals>
@@ -214,7 +215,7 @@
       <latitude value="033°23'34''S" />
       <longitude value="070°47'08''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal" gates="23" />
     </terminals>
@@ -260,7 +261,7 @@
       <latitude value="004°42'11''N" />
       <longitude value="074°08'17''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal" gates="34" />
     </terminals>
@@ -322,7 +323,7 @@
       <latitude value="012°01'18''S" />
       <longitude value="077°06'51''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal" gates="28" />
     </terminals>

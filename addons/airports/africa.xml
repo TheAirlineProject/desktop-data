@@ -192,7 +192,7 @@
       <latitude value="026°08'21''S"/>
       <longitude value="028°14'45''E"/>
     </coordinates>
-    <size value="Medium"/>
+    <size value="Large"/>
     <terminals>
       <terminal name="Terminal" gates="34"/>
     </terminals>
@@ -514,7 +514,7 @@
       <latitude value="030°07'19''N"/>
       <longitude value="031°24'20''E"/>
     </coordinates>
-    <size value="Medium"/>
+    <size value="Large"/>
     <terminals>
       <terminal name="Terminal 1" gates="12"/>
       <terminal name="Terminal 2" gates="7"/>

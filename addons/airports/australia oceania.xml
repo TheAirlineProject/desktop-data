@@ -71,7 +71,7 @@
       <latitude value="037°00'29''S" />
       <longitude value="174°47'30''E" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal 1" gates="17" />
       <terminal name="Terminal 2" gates="26" />
@@ -195,7 +195,7 @@
       <latitude value="021°18'57''N" />
       <longitude value="157°55'36''W" />
     </coordinates>
-    <size value="Medium" />
+    <size value="Large" />
     <terminals>
       <terminal name="Commuter Terminal" gates="18" />
       <terminal name="Interisland Terminal" gates="12" />
@@ -245,7 +245,7 @@
       <latitude value="027°23'03''S" />
       <longitude value="153°07'03''E" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal 1" gates="14" />
       <terminal name="Terminal 2" gates="11" />
@@ -305,7 +305,7 @@
       <latitude value="037°40'24''S" />
       <longitude value="144°50'36''E" />
     </coordinates>
-    <size value="Medium" />
+    <size value="Very_large" />
     <terminals>
       <terminal name="Terminal 1" gates="16" />
       <terminal name="Terminal 2" gates="20" />
@@ -337,7 +337,7 @@
       <latitude value="031°56'25''S" />
       <longitude value="115°58'01''E" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal 1" gates="7" />
       <terminal name="Terminal 2" gates="9" />
@@ -384,7 +384,7 @@
       <latitude value="033°56'46''S" />
       <longitude value="151°10'38''E" />
     </coordinates>
-    <size value="Large" />
+    <size value="Very_large" />
     <terminals>
       <terminal name="Terminal 1" gates="30" />
       <terminal name="Terminal 2" gates="15" />
