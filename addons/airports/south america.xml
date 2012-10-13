@@ -22,10 +22,11 @@
       <latitude value="034°49'20''S" />
       <longitude value="058°32'09''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
-      <terminal name="Terminal A" gates="7" />
-      <terminal name="Terminal B" gates="7" />
+      <terminal name="Terminal A" gates="9" />
+      <terminal name="Terminal B" gates="3" />
+      <terminal name="Terminal C" gates="4" />
     </terminals>
     <runways>
       <runway name="11/29" length="3300" surface="Asphalt" />
@@ -231,7 +232,7 @@
       <latitude value="000°08'28''S" />
       <longitude value="078°29'17''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -277,7 +278,7 @@
       <latitude value="016°30'48''S" />
       <longitude value="068°11'32''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -355,7 +356,7 @@
       <latitude value="010°36'11''N" />
       <longitude value="066°59'26''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="28" />
     </terminals>

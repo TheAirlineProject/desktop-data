@@ -133,7 +133,7 @@
       <latitude value="061°10'27''N" />
       <longitude value="149°59'46''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
