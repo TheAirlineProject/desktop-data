@@ -1480,8 +1480,8 @@
       <runway name="12/30" length="3048" surface="Asphalt" />
       <runway name="7L/25R" length="1887" surface="Asphalt" />
       <runway name="7R/25L" length="1653" surface="Asphalt" />
-      <runway name="16L/34R" length="1212" surface="Ashpalt" />
-      <runway name="16R/34L" length="1362" surface="Ashpalt" />
+      <runway name="16L/34R" length="1212" surface="Asphalt" />
+      <runway name="16R/34L" length="1362" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Little Rock National Airport" icao="KLIT" iata="LIT" type="Domestic" season="All_Year">
