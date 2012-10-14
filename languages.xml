@@ -701,6 +701,13 @@
       <nl-NL name="Brandstofcapaciteit"/>
       <zh-CN name="燃料容量"/>
     </Text>
+    <Text uid="1028">
+      <en-GB name="Select airliner owner"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select airliner owner"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirliners">
     <Text uid="1000">
@@ -1293,6 +1300,13 @@
       <en-US name="Human controlling airline"/>
       <nl-NL name="Missing"/>
       <zh-CN name="玩家拥有的航空公司"/>
+    </Text>
+    <Text uid="1021">
+      <en-GB name="Parent airline"/>
+      <de-DE name="Missing"/>
+      <en-US name="Parent ailrine"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
     </Text>
   </Region>
   <Region name="PageAirlines">
