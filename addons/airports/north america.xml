@@ -8,7 +8,7 @@
       <latitude value="053°18'35''N" />
       <longitude value="113°34'47''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="30" />
     </terminals>
@@ -23,7 +23,7 @@
       <latitude value="044°52'50''N" />
       <longitude value="063°30'30''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="31" />
     </terminals>
@@ -38,7 +38,7 @@
       <latitude value="049°57'21''N" />
       <longitude value="119°22'40''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="8" />
     </terminals>
@@ -52,7 +52,7 @@
       <latitude value="045°19'21''N" />
       <longitude value="075°40'09''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -68,7 +68,7 @@
       <latitude value="046°47'32''N" />
       <longitude value="071°23'03''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -83,7 +83,7 @@
       <latitude value="050°25'54''N" />
       <longitude value="104°39'56''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -98,7 +98,7 @@
       <latitude value="048°22'19''N" />
       <longitude value="089°19'18''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -128,7 +128,7 @@
       <latitude value="043°37'39''N" />
       <longitude value="079°23'46''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="3" />
     </terminals>
@@ -177,7 +177,7 @@
       <latitude value="049°54'36''N" />
       <longitude value="097°14'23''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -192,7 +192,7 @@
       <latitude value="052°10'14''N" />
       <longitude value="106°41'58''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
@@ -207,7 +207,7 @@
       <latitude value="047°37'06''N" />
       <longitude value="052°45'06''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -239,7 +239,7 @@
       <latitude value="048°38'49''N" />
       <longitude value="123°25'33''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -290,7 +290,7 @@
       <latitude value="040°39'08''N" />
       <longitude value="075°26'26''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -353,7 +353,7 @@
       <latitude value="035°13'10''N" />
       <longitude value="101°42'21''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="14" />
     </terminals>
@@ -368,7 +368,7 @@
       <latitude value="039°13'23''N" />
       <longitude value="106°52'08''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -415,7 +415,7 @@
       <latitude value="040°20'18''N" />
       <longitude value="075°43'24''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -430,7 +430,7 @@
       <latitude value="042°14'06''N" />
       <longitude value="085°33'07''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -477,7 +477,7 @@
       <latitude value="045°48'28''N" />
       <longitude value="108°32'34''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -493,7 +493,7 @@
       <latitude value="046°46'22''N" />
       <longitude value="100°44'45''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -508,7 +508,7 @@
       <latitude value="040°28'38''N" />
       <longitude value="088°54'57''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -574,7 +574,7 @@
       <latitude value="044°28'19''N" />
       <longitude value="073°09'12''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
@@ -652,7 +652,7 @@
       <latitude value="041°53'05''N" />
       <longitude value="091°42'39''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -715,7 +715,7 @@
       <latitude value="038°49'00''N" />
       <longitude value="104°43'00''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="16" />
     </terminals>
@@ -731,7 +731,7 @@
       <latitude value="027°46'13''N" />
       <longitude value="097°30'04''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -746,7 +746,7 @@
       <latitude value="038°22'33''N" />
       <longitude value="081°35'35''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -905,7 +905,7 @@
       <latitude value="046°50'32''N" />
       <longitude value="092°11'37''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
@@ -940,7 +940,7 @@
       <latitude value="041°32'02''N" />
       <longitude value="093°39'47''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -971,7 +971,7 @@
       <latitude value="042°04'55''N" />
       <longitude value="080°10'34''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -1002,7 +1002,7 @@
       <latitude value="046°55'14''N" />
       <longitude value="096°48'57''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -1018,7 +1018,7 @@
       <latitude value="036°46'15''N" />
       <longitude value="119°43'08''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
@@ -1052,7 +1052,7 @@
       <latitude value="042°57'56''N" />
       <longitude value="083°44'37''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -1067,7 +1067,7 @@
       <latitude value="043°34'55''N" />
       <longitude value="096°44'31''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -1098,7 +1098,7 @@
       <latitude value="030°24'26''N" />
       <longitude value="089°04'12''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -1113,7 +1113,7 @@
       <latitude value="044°28'59''N" />
       <longitude value="088°07'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -1160,7 +1160,7 @@
       <latitude value="034°53'44''N" />
       <longitude value="082°13'08''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -1190,7 +1190,7 @@
       <latitude value="041°04'01''N" />
       <longitude value="073°42'27''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -1222,7 +1222,7 @@
       <latitude value="034°38'13''N" />
       <longitude value="086°46'30''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -1279,7 +1279,7 @@
       <latitude value="037°38'59''N" />
       <longitude value="097°25'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -1327,7 +1327,7 @@
       <latitude value="040°47'43''N" />
       <longitude value="073°06'01''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -1344,7 +1344,7 @@
       <latitude value="032°18'39''N" />
       <longitude value="090°04'32''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="19" />
     </terminals>
@@ -1397,7 +1397,7 @@
       <latitude value="042°46'43''N" />
       <longitude value="084°35'10''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -1506,7 +1506,7 @@
       <latitude value="040°51'04''N" />
       <longitude value="096°45'33''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -1522,7 +1522,7 @@
       <latitude value="027°32'38''N" />
       <longitude value="099°27'42''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -1538,7 +1538,7 @@
       <latitude value="031°56'33''N" />
       <longitude value="102°12'07''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -1591,7 +1591,7 @@
       <latitude value="040°11'37''N" />
       <longitude value="076°45'48''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -1694,7 +1694,7 @@
       <latitude value="041°26'55''N" />
       <longitude value="090°30'27''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -1710,7 +1710,7 @@
       <latitude value="043°08'23''N" />
       <longitude value="089°20'15''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -1761,7 +1761,7 @@
       <latitude value="033°40'47''N" />
       <longitude value="078°55'42''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -1954,7 +1954,7 @@
       <latitude value="040°39'51''N" />
       <longitude value="089°41'36''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -1969,7 +1969,7 @@
       <latitude value="027°54'36''N" />
       <longitude value="082°41'15''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -2018,7 +2018,7 @@
       <latitude value="030°28'00''N" />
       <longitude value="087°10'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -2033,7 +2033,7 @@
       <latitude value="033°49'59''N" />
       <longitude value="116°30'00''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="15" />
     </terminals>
@@ -2063,7 +2063,7 @@
       <latitude value="043°38'59''N" />
       <longitude value="070°17'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -2078,7 +2078,7 @@
       <latitude value="044°02'43''N" />
       <longitude value="103°03'26''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -2235,7 +2235,7 @@
       <latitude value="032°07'59''N" />
       <longitude value="081°12'00''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="15" />
     </terminals>
@@ -2250,7 +2250,7 @@
       <latitude value="034°25'34''N" />
       <longitude value="119°50'25''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
@@ -2351,7 +2351,7 @@
       <latitude value="037°15'00''N" />
       <longitude value="093°22'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="19" />
     </terminals>
@@ -2366,7 +2366,7 @@
       <latitude value="032°26'48''N" />
       <longitude value="093°49'32''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="8" />
     </terminals>
@@ -2479,7 +2479,7 @@
       <latitude value="030°23'48''N" />
       <longitude value="084°21'01''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -2542,7 +2542,7 @@
       <latitude value="035°57'00''N" />
       <longitude value="083°55'00''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="23" />
     </terminals>
@@ -2557,7 +2557,7 @@
       <latitude value="036°16'54''N" />
       <longitude value="094°18'24''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="20" />
     </terminals>
@@ -2574,7 +2574,7 @@
       <latitude value="021°46'25''N" />
       <longitude value="072°15'57''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -2589,7 +2589,7 @@
       <latitude value="019°45'28''N" />
       <longitude value="070°34'12''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
@@ -2603,7 +2603,7 @@
       <latitude value="018°25'46''N" />
       <longitude value="069°40'08''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -2618,7 +2618,7 @@
       <latitude value="014°34'59''N" />
       <longitude value="090°31'38''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="15" />
     </terminals>
@@ -2632,7 +2632,7 @@
       <latitude value="016°54'49''N" />
       <longitude value="089°51'58''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="2" />
     </terminals>
@@ -2647,7 +2647,7 @@
       <latitude value="016°19'00''N" />
       <longitude value="086°31'22''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="2" />
     </terminals>
@@ -2662,7 +2662,7 @@
       <latitude value="018°30'00''N" />
       <longitude value="077°55'00''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
@@ -2677,7 +2677,7 @@
       <latitude value="016°45'22''N" />
       <longitude value="099°45'06''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -2692,7 +2692,7 @@
       <latitude value="020°30'54''N" />
       <longitude value="086°55'44''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -2706,7 +2706,7 @@
       <latitude value="020°31'18''N" />
       <longitude value="103°18'40''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="14" />
     </terminals>
@@ -2737,7 +2737,7 @@
       <latitude value="025°46'42''N" />
       <longitude value="100°06'24''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal A" gates="20" />
       <terminal name="Terminal B" gates="8" />
@@ -2753,7 +2753,7 @@
       <latitude value="020°40'48''N" />
       <longitude value="105°15'15''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="15" />
     </terminals>
@@ -2767,7 +2767,7 @@
       <latitude value="021°02'11''N" />
       <longitude value="086°52'37''W" />
     </coordinates>
-    <size value="Small" />
+    <size value="Large" />
     <terminals>
       <terminal name="Terminal 1" gates="7" />
       <terminal name="Terminal 2" gates="22" />
@@ -2785,7 +2785,7 @@
       <latitude value="012°08'29''N" />
       <longitude value="086°10'05''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
@@ -2800,7 +2800,7 @@
       <latitude value="009°04'17''N" />
       <longitude value="079°23'01''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="28" />
     </terminals>
@@ -2816,7 +2816,7 @@
       <latitude value="010°35'35''N" />
       <longitude value="085°32'39''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
@@ -2830,7 +2830,7 @@
       <latitude value="009°59'37''N" />
       <longitude value="084°12'31''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="17" />
     </terminals>
@@ -2845,7 +2845,7 @@
       <latitude value="013°26'27''N" />
       <longitude value="089°03'30''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="17" />
     </terminals>
@@ -2860,7 +2860,7 @@
       <latitude value="023°01'00''N" />
       <longitude value="082°22'59''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="17" />
     </terminals>
@@ -2874,7 +2874,7 @@
       <latitude value="023°07'59''N" />
       <longitude value="081°17'59''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -2904,7 +2904,7 @@
       <latitude value="025°02'20''N" />
       <longitude value="077°27'57''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Medium" />
     <terminals>
       <terminal name="Terminal" gates="34" />
     </terminals>
@@ -2920,7 +2920,7 @@
       <latitude value="017°32'21''N" />
       <longitude value="088°18'30''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
@@ -2936,7 +2936,7 @@
       <latitude value="013°04'29''N" />
       <longitude value="059°29'33''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>
@@ -2960,13 +2960,13 @@
     </runways>
   </airport>
   <!--Grenada (TG**)-->
-  <airport name="Melville Hall Airport" icao="TGPY" iata="GND" type="Long_Haul_International" season="Summer">
+  <airport name="Maurice Bishop International Airport" icao="TGPY" iata="GND" type="Long_Haul_International" season="Summer">
     <town town="St. George's" country="229" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
       <latitude value="012°00'15''N" />
       <longitude value="061°47'10''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -2981,7 +2981,7 @@
       <latitude value="018°20'13''N" />
       <longitude value="064°58'23''W" />
     </coordinates>
-    <size value="Very_small" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
