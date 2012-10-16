@@ -1308,6 +1308,20 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
     </Text>
+  <Text uid="1022">
+      <en-GB name="Airline purchasing"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airline purchasing"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
+    <Text uid="1023">
+      <en-GB name="Buy airline"/>
+      <de-DE name="Missing"/>
+      <en-US name="Buy airline"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlines">
     <Text uid="1000">
@@ -2042,6 +2056,7 @@
       <nl-NL name="Missing"/>
       <zh-CN name="下属公司"/>
     </Text>
+
   </Region>
   <Region name="PanelAlliance">
     <Text uid="200">
@@ -2909,6 +2924,13 @@
       <en-US name="Error closing subsidiary" message="You can't close {0} since your are controlling it"/>
       <nl-NL name="Missing" message="Missing"/>
       <zh-CN name="无法关闭关闭子公司" message="您无法关闭正处于您控制中的 {0}。"/>
+    </Text>
+      <Text uid="2113">
+      <en-GB name="Buy airline" message="Are you sure you want to buy {0} for {1:C}?"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Buy airline" message="Are you sure you want to buy {0} for {1:C}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
     </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
