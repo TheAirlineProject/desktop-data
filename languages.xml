@@ -496,6 +496,13 @@
       <nl-NL name="Missing"/>
       <zh-CN name="航班限制"/>
     </Text>
+      <Text uid="1003">
+      <en-GB name="{0} Routes"/>
+      <de-DE name="{0} Flugrouten"/>
+      <en-US name="{0} Routes"/>
+      <nl-NL name="{0} Routes"/>
+      <zh-CN name="{0} 航线"/>
+    </Text>
   </Region>
   <Region name="PageFleetAirliner">
     <Text uid="200">
