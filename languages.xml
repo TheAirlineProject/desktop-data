@@ -3207,11 +3207,11 @@
   </Region>
   <Region name="News">
     <Text uid="1001">
-      <en-GB name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of [LI airline={1}]. I hope you will enjoy the game.&#10;Good luck."/>
-      <de-DE name="Willkommen zum Spiel" message="Sehr geehrter {0},&#10;&#10;Willkommen als Gesch?ftsführer(CEO) von {1}. Ich hoffe Sie haben Spa? mit dem Spiel.&#10;Viel Erfolg."/>
-      <en-US name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of [LI airline={1}]. I hope you will enjoy the game.&#10;Good luck."/>
-      <nl-NL name="Welkom" message="Beste {0},&#10;&#10;Welkom als nieuwe directeur van {1}. Ik wens u veel plezier toe met dit spel.&#10;Veel succes toegewenst!."/>
-      <zh-CN name="欢迎来到航空世界" message="亲爱的 {0}，&#10;&#10;恭喜您成为 {1} 的总裁。衷心希望您能够享受此游戏。&#10;祝君好运。"/>
+      <en-GB name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of [LI airline={1}]. We hope you will enjoy the game.&#10;Good luck."/>
+      <de-DE name="Willkommen zum Spiel" message="Sehr geehrter {0},&#10;&#10;Willkommen als Gesch?ftsführer(CEO) von [LI airline={1}]. Ich hoffe Sie haben Spa? mit dem Spiel.&#10;Viel Erfolg."/>
+      <en-US name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of [LI airline={1}]. We hope you will enjoy the game.&#10;Good luck."/>
+      <nl-NL name="Welkom" message="Beste {0},&#10;&#10;Welkom als nieuwe directeur van [LI airline={1}]. Ik wens u veel plezier toe met dit spel.&#10;Veel succes toegewenst!."/>
+      <zh-CN name="欢迎来到航空世界" message="亲爱的 {0}，&#10;&#10;恭喜您成为 [LI airline={1}] 的总裁。衷心希望您能够享受此游戏。&#10;祝君好运。"/>
     </Text>
   </Region>
 </Translator>
