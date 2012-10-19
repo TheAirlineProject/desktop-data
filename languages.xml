@@ -1453,6 +1453,13 @@
       <nl-NL name="Missing"/>
       <zh-CN name="每轮游戏时间（分钟)"/>
     </Text>
+    <Text uid="1007">
+      <en-GB name="Mail on bad weather"/>
+      <de-DE name="Missing"/>
+      <en-US name="Mail on bad weather"/>
+      <nl-NL name="Missing "/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageNewGame">
     <Text uid="200">
@@ -3234,6 +3241,20 @@
       <en-US name="Welcome to the game" message="Dear {0},&#10;&#10;Welcome as the CEO of [LI airline={1}]. We hope you will enjoy the game.&#10;Good luck."/>
       <nl-NL name="Welkom" message="Beste {0},&#10;&#10;Welkom als nieuwe directeur van [LI airline={1}]. Ik wens u veel plezier toe met dit spel.&#10;Veel succes toegewenst!."/>
       <zh-CN name="欢迎来到航空世界" message="亲爱的 {0}，&#10;&#10;恭喜您成为 [LI airline={1}] 的总裁。衷心希望您能够享受此游戏。&#10;祝君好运。"/>
+    </Text>
+       <Text uid="1002">
+      <en-GB name="Bad weather" message="The weather forecast for [LI airport={0}] predicts bad weather on {1}"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Bad weather" message="The weather forecast for [LI airport={0}] predicts bad weather on {1}"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
+   <Text uid="1003">
+      <en-GB name="Cancelled flight" message="Your flight [LI airliner={0}] has been cancelled due to bad weather at [LI airport={1}]"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Cancelled flight" message="Your flight [LI airliner={0}] has been cancelled due to bad weather at [LI airport={1}]"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
     </Text>
   </Region>
 </Translator>
