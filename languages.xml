@@ -1560,6 +1560,13 @@
       <nl-NL name="Missing"/>
       <zh-CN name="每轮游戏时间（分钟"/>
     </Text>
+    <Text uid="1012">
+      <en-GB name="Select playing region"/>
+      <de-DE name="Missing"/>
+      <en-US name="Select playing region"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageAirlineFleet">
     <Text uid="1001">
