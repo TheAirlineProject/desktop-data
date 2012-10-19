@@ -2947,6 +2947,13 @@
       <nl-NL name="Missing" message="Missing"/>
       <zh-CN name="购买飞机" message="您确定要以 {1:C} 的价格购买 {0}？"/>
     </Text>
+      <Text uid="2114">
+      <en-GB name="Buy subsidiay airline" message="Are you sure you want to purchase all of the subsidiary airlines as well?"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Buy subsidiay airline" message="Are you sure you want to purchase all of the subsidiary airlines as well?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+    </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
     <Text uid="2201">
