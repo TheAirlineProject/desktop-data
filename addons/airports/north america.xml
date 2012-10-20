@@ -332,6 +332,112 @@
       <runway name="17/35" length="3048" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Aberdeen Regional Airport" icao="KABR" iata="ABR" type="Regional" season="All_Year">
+    <town town="Aberdeen, SD" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="045°26'56''N" />
+      <longitude value="098°25'18''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2103" surface="Concrete" />
+      <runway name="17/35" length="1676" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Southwest Georgia Regional Airport" icao="KABY" iata="ABY" type="Regional" season="All_Year">
+    <town town="Albany, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="031°32'07''N" />
+      <longitude value="084°11'40''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2012" surface="Asphalt" />
+      <runway name="16/34" length="1585" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Nantucket Memorial Airport" icao="KACK" iata="ACK" type="Regional" season="All_Year">
+    <town town="Nantucket, MA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="041°15'11''N" />
+      <longitude value="070°03'36''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1921" surface="Asphalt" />
+      <runway name="12/30" length="822" surface="Asphalt" />
+      <runway name="15/33" length="1219" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Waco Regional Airport" icao="KACT" iata="ACT" type="Regional" season="All_Year">
+    <town town="Waco, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="031°36'40''N" />
+      <longitude value="097°13'49''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2010" surface="Asphalt" />
+      <runway name="14/32" length="1797" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Atlantic City International Airport" icao="KACY" iata="ACY" type="Domestic" season="All_Year">
+    <town town="Atlantic City, NJ" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°27'27''N" />
+      <longitude value="074°34'37''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1873" surface="Asphalt" />
+      <runway name="13/31" length="3048" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Alexandria International Airport" icao="KAEX" iata="AEX" type="Regional" season="All_Year">
+    <town town="Alexandria, LA" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="031°19'38''N" />
+      <longitude value="092°32'59''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2850" surface="Concrete" />
+      <runway name="18/36" length="2134" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Augusta Regional At Bush Field" icao="KAGS" iata="AGS" type="Regional" season="All_Year">
+    <town town="Augusta, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="033°22'11''N" />
+      <longitude value="081°57'52''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1829" surface="Asphalt" />
+      <runway name="17/35" length="2439" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Albany International Airport" icao="KALB" iata="ALB" type="Short_Haul_International" season="All_Year">
     <town town="Albany, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -345,6 +451,22 @@
     <runways>
       <runway name="1/19" length="2591" surface="Asphalt" />
       <runway name="10/28" length="2195" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Walla Walla Regional Airport" icao="KALW" iata="ALW" type="Regional" season="All_Year">
+    <town town="Walla Walla, WA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="046°05'41''N" />
+      <longitude value="118°17'16''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1989" surface="Asphalt" />
+      <runway name="07/25" length="1367" surface="Asphalt" />
+      <runway name="16/34" length="1813" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Rick Husband Amarillo International Airport" icao="KAMA" iata="AMA" type="Domestic" season="All_Year">
@@ -394,6 +516,21 @@
       <runway name="10/28" length="2743" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Outagamie County Regional Airport" icao="KATW" iata="ATW" type="Regional" season="All_Year">
+    <town town="Appleton, WI" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="044°15'29''N" />
+      <longitude value="088°31'08''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2439" surface="Concrete" />
+      <runway name="11/29" length="1982" surface="Concrete" />
+    </runways>
+  </airport>
   <airport name="Austin-Bergstrom International Airport" icao="KAUS" iata="AUS" type="Short_Haul_International" season="All_Year">
     <town town="Austin, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
     <coordinates>
@@ -407,6 +544,20 @@
     <runways>
       <runway name="17L/35R" length="2743" surface="Concrete" />
       <runway name="17R/35L" length="3733" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Asheville Regional Airport" icao="KAVL" iata="AVL" type="Domestic" season="All_Year">
+    <town town="Asheville, NC" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="035°26'10''N" />
+      <longitude value="082°32'30''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2439" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Wilkes-Barre/Scranton International Airport" icao="KAVP" iata="AVP" type="Domestic" season="All_Year">
@@ -440,6 +591,20 @@
 	  <runway name="17/35" length="1981" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Branson Airport" icao="KBBG" iata="BKG" type="Regional" season="All_Year">
+	<town town="Branson, MO" country="122" GMT="-05:00:00" DST="-06:00:00" />
+	<coordinates>
+		<latitude value="036°31'55''N" />
+		<longitude value="093°12'02''W" />
+	</coordinates>
+	<size value="Smallest" />
+	<terminals>
+		<terminal name="Terminal" gates="3" />
+	</terminals>
+	<runways>
+		<runway name="14/32" length="2176" surface="Concrete" />
+	</runways>
+  </airport>
   <airport name="Bradley International Airport" icao="KBDL" iata="BDL" type="Short_Haul_International" season="All_Year">
     <town town="Windsor Locks, CT" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -454,6 +619,81 @@
       <runway name="1/19" length="1301" surface="Asphalt" />
       <runway name="6/24" length="2899" surface="Asphalt" />
       <runway name="15/33" length="2087" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Boeing Field King County International Airport" icao="KBFI" iata="BFI" type="Regional" season="All_Year">
+    <town town="Seattle, WA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="047°31'47''N" />
+      <longitude value="122°18'07''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="13L/31R" length="1131" surface="Asphalt" />
+      <runway name="13R/31L" length="3048" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Meadows Field" icao="KBFL" iata="BFL" type="Domestic" season="All_Year">
+    <town town="Bakersfield, CA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="035°26'00''N" />
+      <longitude value="119°03'25''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="12L/30R" length="3309" surface="Asphalt" />
+      <runway name="12R/30L" length="1128" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Greater Binghamton/Edwin A Link field" icao="KBGM" iata="BGM" type="Regional" season="All_Year">
+    <town town="Binghamton, NY" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="042°12'31''N" />
+      <longitude value="075°58'47''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1525" surface="Asphalt" />
+      <runway name="16/34" length="2164" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Bangor International Airport" icao="KBGR" iata="BGR" type="Domestic" season="All_Year">
+    <town town="Bangor, ME" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="044°48'26''N" />
+      <longitude value="068°49'41''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="3487" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Hancock County-Bar Harbor Airport" icao="KBHB" iata="BHB" type="Regional" season="All_Year">
+    <town town="Bar Harbor, ME" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="044°27'00''N" />
+      <longitude value="068°21'41''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1585" surface="Asphalt" />
+      <runway name="11/29" length="1097" surface="Asphalt" />
+      <runway name="17/35" length="1025" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Birmingham-Shuttlesworth International Airport" icao="KBHM" iata="BHM" type="Domestic" season="All_Year">
@@ -500,6 +740,20 @@
     <runways>
       <runway name="3/21" length="2012" surface="Asphalt" />
       <runway name="13/31" length="2680" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Bellingham International Airport" icao="KBLI" iata="BLI" type="Regional" season="All_Year">
+    <town town="Bellingham, WA" country="122" GMT="-07:00:00" DST="-08:00:00" />
+    <coordinates>
+      <latitude value="048°47'34''N" />
+      <longitude value="122°32'16''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2042" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Central Illinois Regional Airport" icao="KBMI" iata="BMI" type="Domestic" season="All_Year">
@@ -568,6 +822,83 @@
       <runway name="15R/33L" length="3073" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Southeast Texas Regional Airport" icao="KBPT" iata="BPT" type="Regional" season="All_Year">
+    <town town="Beaumont/Port Arthur, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="029°57'02''N" />
+      <longitude value="094°01'14''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2057" surface="Concrete" />
+      <runway name="16/34" length="1545" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Brunswick Golden Isles Airport" icao="KBQK" iata="BQK" type="Regional" season="All_Year">
+    <town town="Brunswick, GA" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="031°15'31''N" />
+      <longitude value="081°27'59''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2439" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Brownsville South Padre Island International Airport" icao="KBRO" iata="BRO" type="Short_Haul_International" season="All_Year">
+    <town town="Brownsville, TX" country="122" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="025°54'24''N" />
+      <longitude value="097°25'33''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="13L/31R" length="914" surface="Asphalt" />
+      <runway name="13R/31L" length="2256" surface="Asphalt" />
+      <runway name="17/35" length="1829" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Bert Mooney Airport" icao="KBTM" iata="BTM" type="Regional" season="All_Year">
+    <town town="Butte, MT" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="045°57'17''N" />
+      <longitude value="112°29'49''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1690" surface="Asphalt" />
+      <runway name="11/29" length="1554" surface="Asphalt" />
+      <runway name="15/33" length="2744" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Baton Rouge Metropolitan Airport" icao="KBTR" iata="BTR" type="Domestic" season="All_Year">
+	<town town="Baton Rouge, LA" country="122" GMT="-05:00:00" DST="-06:00:00" />
+	<coordinates>
+		<latitude value="030°31'58''N" />
+		<longitude value="091°09'00''W" />
+	</coordinates>
+	<size value="Very_small" />
+	<terminals>
+	  <terminal name="Terminal" gates="7" />
+	</terminals>
+	<runways>
+	  <runway name="4L/22R" length="2286" surface="Concrete" />
+	  <runway name="4R/22L" length="1158" surface="Asphalt" />
+	  <runway name="13/31" length="2135" surface="Asphalt" />
+	</runways>
+	</airport>
   <airport name="Burlington International Airport" icao="KBTV" iata="BTV" type="Domestic" season="All_Year">
     <town town="South Burlington, VT" country="122" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
@@ -629,6 +960,22 @@
       <runway name="10/28" length="3201" surface="Asphalt" />
       <runway name="15L/33R" length="1524" surface="Asphalt" />
       <runway name="15R/33L" length="2869" surface="Asphalt" />
+    </runways>
+  </airport>
+     <airport name="Bozeman Yellowstone International Airport" icao="KBZN" iata="BZN" type="Regional" season="All_Year">
+    <town town="Bozeman, MT" country="122" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="045°46'39''N" />
+      <longitude value="111°09'10''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal 1" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="808" surface="Asphalt" />
+      <runway name="11/29" length="974" surface="Asphalt" />
+      <runway name="12/30" length="2744" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Charleston International Airport" icao="KCHS" iata="CHS" type="Domestic" season="All_Year">
@@ -2566,6 +2913,67 @@
       <runway name="17/35" length="2682" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Bethel Airport" icao="PABE" iata="BET" type="Regional" season="All_Year">
+    <town town="Bethel, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="060°46'47''N" />
+      <longitude value="161°50'16''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01L/19R" length="1951" surface="Asphalt" />
+      <runway name="01R/19L" length="1219" surface="Asphalt" />
+      <runway name="12/30" length="567" surface="Asphalt" />
+    </runways>
+  </airport>  <airport name="Wiley Post Will Rogers Memorial Airport" icao="PABR" iata="BRW" type="Regional" season="All_Year">
+    <town town="Barrow, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="071°17'07''N" />
+      <longitude value="156°45'57''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1981" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Kodiak Airport" icao="PADQ" iata="ADQ" type="Regional" season="All_Year">
+    <town town="Kodiak, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="057°45'00''N" />
+      <longitude value="152°29'38''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2299" surface="Asphalt" />
+      <runway name="11/29" length="1646" surface="Asphalt" />
+      <runway name="18/36" length="1528" surface="Asphalt" />
+    </runways>
+  </airport>    
+  <airport name="King Salmon Airport" icao="PAKN" iata="AKN" type="Regional" season="All_Year">
+    <town town="King Salmon, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="058°40'36''N" />
+      <longitude value="156°38'56''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal 1" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2713" surface="Asphalt" />
+      <runway name="18/36" length="1225" surface="Asphalt" />
+      <runway name="NW/SE" length="1219" surface="Asphalt" />
+    </runways>
+</airport>
   <!--Central America (M***)-->
   <!--Turks and Caicos Islands (MB**)-->
   <airport name="Providenciales International Airport" icao="MBPV" iata="PLS" type="Long_Haul_International" season="Winter">
