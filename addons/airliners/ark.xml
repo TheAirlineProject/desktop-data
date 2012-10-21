@@ -7,11 +7,23 @@
 		<capacity passengers="306" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
 		<produced from="2012" to="2027"/>
 	</airliner>
+	<airliner manufacturer="Ark" name="Ark 365-200" price="31044680">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="54.5" length="71.5" range="20115" speed="860" fuelcapacity="321000" consumption="0.022" runwaylengthrequired="3030"/>
+		<capacity passengers="306" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
+		<produced from="2014" to="2025"/>
+		</airliner>
+	<airliner manufacturer="Ark" name="Ark 365-300" price="31557510">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="54.5" length="71.5" range="18800" speed="860" fuelcapacity="320000" consumption="0.023" runwaylengthrequired="3030"/>
+		<capacity passengers="344" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
+		<produced from="2015" to="2022"/>
+		</airliner>
 	<airliner manufacturer="Ark" name="Ark 375" price="39070714"> <!--244000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-  	<specs wingspan="54.5" length="64.5" range="9700" speed="1810" fuelcapacity="245700" consumption="0.045" runwaylengthrequired="3070"/>
+		<specs wingspan="54.5" length="64.5" range="9700" speed="1810" fuelcapacity="245700" consumption="0.045" runwaylengthrequired="3070"/>
 		<capacity passengers="338" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
-		<produced from="2012" to="2016"/>
+		<produced from="2013" to="2016"/>
 	</airliner>
   <airliner manufacturer="Ark" name="Ark 202-100" price="1055600"> <!--5000000-->
 		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
@@ -139,5 +151,11 @@
 		<capacity passengers="412" cockpitcrew="2" cabincrew="7" maxclasses="3"/>
 		<produced from="2018" to="2030"/>
 	</airliner>
+	<airliner manufacturer="Ark" name="Ark 355-400" price="19577640">
+		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+		<specs wingspan="49.5" length="70.2" range="7900" speed="850" consumption="0.028" runwaylengthrequired="2750"/>
+		<capacity passengers="468" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+		<produced from="2019" to="2025"/>
+		</airliner>
 
 </airliners>
