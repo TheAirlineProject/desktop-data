@@ -3446,6 +3446,236 @@
       <runway name="07/25" length="2090" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Ahuas Airport" icao="MHAH" iata="AHS" type="Domestic" season="All_Year">
+    <town town="Ahuas" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°28'19''N" />
+      <longitude value="084°21'07''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Brus Laguna Airport" icao="MHBL" iata="BHG" type="Domestic" season="All_Year">
+    <town town="Brus Laguna" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°45'47''N" />
+      <longitude value="084°32'36''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Catacamas Airport" icao="MHCA" iata="CAA" type="Domestic" season="All_Year">
+    <town town="Catacamas" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°55'01''N" />
+      <longitude value="085°54'00''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Cauquira Airport" icao="MHCU" iata="CDD" type="Domestic" season="All_Year">
+    <town town="Cauquira" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°18'59''N" />
+      <longitude value="083°35'30''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Đakovica Airfield" icao="LYDK" iata="GJA" type="Domestic" season="All_Year">
+    <town town="Gjakovë" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="042°26'06''N" />
+      <longitude value="020°25'38''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="1800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Jutigalpa airport" icao="MHJU" iata="JUT" type="Domestic" season="All_Year">
+    <town town="Jutigalpa" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°39'09''N" />
+      <longitude value="086°13'13''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Goloson International Airport" icao="MHLC" iata="LCE" type="Short_Haul_International" season="All_Year">
+    <town town="La Ceiba" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°44'33''N" />
+      <longitude value="086°51'10''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3010" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="La Esperanza Airport" icao="MHLE" iata="LEZ" type="Domestic" season="All_Year">
+    <town town="La Esperanza" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°17'27''N" />
+      <longitude value="088°10'30''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Puerto Lempira Airport" icao="MHPL" iata="PEU" type="Domestic" season="All_Year">
+    <town town="Puerto Lempira" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°15'43''N" />
+      <longitude value="083°46'52''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Copan Ruinas Airport" icao="MHRU" iata="RUY" type="Domestic" season="All_Year">
+    <town town="Ruinas de Copan" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°50'25''N" />
+      <longitude value="089°08'38''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Ramón Villeda Morales International Airport" icao="MHLM" iata="SAP" type="Short_Haul_International" season="All_Year">
+    <town town="La Mesa" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°27'09''N" />
+      <longitude value="087°55'24''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2805" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Sulaco Airport" icao="MHUL" iata="SCD" type="Domestic" season="All_Year">
+    <town town="Sulaco" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°54'25''N" />
+      <longitude value="087°15'48''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Santa Rosa Copán Airport" icao="MHRS" iata="SDH" type="Domestic" season="All_Year">
+    <town town="Santa Rosa de Copán" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°48'53''N" />
+      <longitude value="088°45'05''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Tela Airport" icao="MHTE" iata="TEA" type="Domestic" season="All_Year">
+    <town town="Tela" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°46'33''N" />
+      <longitude value="087°28'32''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1346" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Toncontín International Airport" icao="MHTG" iata="TGU" type="Short_Haul_International" season="All_Year">
+    <town town="Tegucigalpa" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°03'39''N" />
+      <longitude value="087°13'01''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1863" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Trujillo Airport" icao="MHTJ" iata="TJI" type="Domestic" season="All_Year">
+    <town town="Trujillo" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="015°55'36''N" />
+      <longitude value="085°56'17''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1071" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Utila Airport" icao="MHUT" iata="UII" type="Domestic" season="All_Year">
+    <town town="Utila Island" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="016°06'47''N" />
+      <longitude value="086°52'49''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Coronel Enrique Soto Cano Air Base" icao="MHSC" iata="XPL" type="Domestic" season="All_Year">
+    <town town="Comayagua" country="196" GMT="-06:00:00" DST="-07:00:00" />
+    <coordinates>
+      <latitude value="014°22'56''N" />
+      <longitude value="087°37'16''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2441" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Jamaica (MK**)-->
   <airport name="Sangster International Airport" icao="MKJS" iata="MBJ" type="Long_Haul_International" season="Winter">
     <town town="Montego Bay" country="199" GMT="-05:00:00" DST="-05:00:00" />
@@ -3459,6 +3689,75 @@
     </terminals>
     <runways>
       <runway name="07/25" length="2653" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Norman Manley International Airport" icao="MKJP" iata="KIN" type="Long_Haul_International" season="All_Year">
+    <town town="Kingston" country="199" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="017°56'08''N" />
+      <longitude value="076°47'14''W" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal A" gates="9" />
+      <terminal name="Terminal B" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2713" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Boscobel Aerodrome" icao="MKBS" iata="OCJ" type="Short_Haul_International" season="All_Year">
+    <town town="Ocho Rios" country="199" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="018°24'15''N" />
+      <longitude value="076°58'08''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="914" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Tinson Pen Airport" icao="MKTP" iata="KTP" type="Domestic" season="All_Year">
+    <town town="Tinson Pen" country="199" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="017°59'18''N" />
+      <longitude value="076°49'25''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="1311" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Negril Airport" icao="MKNG" iata="NEG" type="Domestic" season="All_Year">
+    <town town="Negril" country="199" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="018°20'34''N" />
+      <longitude value="078°19'55''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Ken Jones Airport" icao="MKKJ" iata="POT" type="Domestic" season="All_Year">
+    <town town="Ken Jones" country="199" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="018°11'55''N" />
+      <longitude value="076°32'04''W" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1040" surface="Asphalt" />
     </runways>
   </airport>
   <!--Mexico (MM**)-->
