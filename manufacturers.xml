@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manufacturers>
+  <manufacturer name="Aerospatiale" shortname="Aerospatiale" country="140"/>
   <manufacturer name="Airbus" shortname="Airbus" country="140"/>
   <manufacturer name="Antonov" shortname="Antonov" country="134"/>
   <manufacturer name="Ark Aerospace Industries" shortname="Ark" country="122"/>
@@ -16,6 +17,7 @@
   <manufacturer name="Fairchild Aircraft" shortname="Fairchild" country="122"/>
   <manufacturer name="Fairchild Dornier" shortname="FD" country="122"/>
   <manufacturer name="Fokker" shortname="Fokker" country="179"/>
+  <manufacturer name="Let Kunovice" shortname="Let" country="106"/>
   <manufacturer name="Lockheed Corporation" shortname="Lockheed" country="122"/>
   <manufacturer name="McDonnell Douglas" shortname="MD" country="122"/>
   <manufacturer name="Public Stock Company Tupolev" shortname="Tupolev" country="149"/>

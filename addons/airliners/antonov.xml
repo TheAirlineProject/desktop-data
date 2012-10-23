@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
+  <airliner manufacturer="Antonov" name="Antonov An-10" price="3200000">
+    <type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
+	<specs wingspan="38" length="34" range="4075" speed="610" fuelcapacity="17120" consumption="0.042" runwaylengthrequired="720"/>
+	<capacity passengers="100" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+	<produced from="1960" to="1972"/>
+  </airliner>
   <airliner manufacturer="Antonov" name="Antonov An-24" price="1900000">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
 	<specs wingspan="29.2" length="23.53" range="2761" speed="450" fuelcapacity="6200" consumption="0.045" runwaylengthrequired="650"/>
 	<capacity passengers="50" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
 	<produced from="1960" to="1979"/>
+  </airliner>
+  <airliner manufacturer="Antonov" name="Antonov An-38" price="8553480">
+	<type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
+	<specs wingspan="22.06" length="15.67" range="1750" speed="380" fuelcapacity="1940" consumption="0.041" runwaylengthrequired="600"/>
+	<capacity passengers="27" cockpitcrew="2" cabincrew="2" maxclasses="1"/>
+	<produced from="2000" to="2008"/>
   </airliner>
   <airliner manufacturer="Antonov" name="Antonov An-74" price="9770390"> <!--20000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>

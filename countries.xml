@@ -1198,6 +1198,15 @@
 	  <zh-CN name="波斯尼亚 &amp; 黑塞戈维亚" />
     </translations>
   </country>
+  <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Nepal" />
+      <de-DE name="Nepal" />
+      <en-GB name="Nepal" />
+      <nl-NL name="Nepal" />
+      <zh-CN name="Missing" />
+    </translations>
+  </country>
   <country uid="249" shortname="SBM" region="107" flag="Montenegro" tailformat="4O-\\s3">
     <translations>
 	  <en-US name="Montenegro" />
