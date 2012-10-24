@@ -14,7 +14,7 @@
     <Language culture="fr-FR" name="French (FR)" flag="France.png" UnitSystem="Metric" />
     <Language culture="zh-CN" name="Chinese (CN)" flag="China.png" UnitSystem="Metric" />
     <Language culture="da-DK" name="Danish (DA)" flag="Denmark.png" UnitSystem="Metric" />
-    <Language culture="es-ES" name="Spanish (Spain)" flag="Spanish (Spain).png" UnitSystem="Metric" />
+    <Language culture="es-ES" name="Spanish (Spain)" flag="Spain.png" UnitSystem="Metric" />
   </Languages>
   <Region name="MsgYes">
     <Text uid="1000">
