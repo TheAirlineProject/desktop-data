@@ -3489,7 +3489,7 @@
       <nl-NL name="Foute bestandsnaam" message="De opgegeven bestandsnaam is ongeldig.&#xA;&#xA;Laden van het spel afgebroken." />
       <zh-CN name="文件名错误" message="您给定的文件名无效。&#xA;&#xA;读取游戏终止" />
       <da-DK name="Fejl med filnavn" message="Ugyldigt filnavn.\n\nSpillet bliver ikke indlæst" />
-      <es-ES name="Error de archivo" message="El nombre dado no es válido.⏎ ⏎ No se puede cargar el juego." />
+      <es-ES name="Error de archivo" message="El nombre dado no es válido.&#xA;&#xA; No se puede cargar el juego." />
     </Text>
     <!-- END - Helpers -->
     <!-- BEGIN - General Model -->
@@ -4140,7 +4140,7 @@
       <nl-NL name="Welkom" message="Beste {0},&#xA;&#xA;Welkom als nieuwe directeur van [LI airline={1}]. Ik wens u veel plezier toe met dit spel.&#xA;Veel succes toegewenst!." />
       <zh-CN name="欢迎来到航空世界" message="亲爱的 {0}，&#xA;&#xA;恭喜您成为 [LI airline={1}] 的总裁。衷心希望您能够享受此游戏。&#xA;祝君好运。" />
       <da-DK name="Velkommen til spillet" message="Missing" />
-      <es-ES name="Bienvenido al juego" message="Estimado {0},⏎ ⏎ Bienvenido como Presidente de [LI aerolínea={1}]. Esperamos que disfrute del juego.⏎ Buena Suerte." />
+      <es-ES name="Bienvenido al juego" message="Estimado {0},&#xA;&#xA; Bienvenido como Presidente de [LI aerolínea={1}]. Esperamos que disfrute del juego.⏎ Buena Suerte." />
     </Text>
     <Text uid="1002">
       <en-GB name="Bad weather" message="The weather forecast for [LI airport={0}] predicts bad weather on {1}" />
