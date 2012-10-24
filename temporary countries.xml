@@ -8,6 +8,7 @@
       <nl-NL name="East Germany" />
       <zh-CN name="东德" />
       <da-DK name="Østtyskland" />
+      <es-ES name="Alemania Oriental" />
     </translations>
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00">
     </period>
@@ -22,6 +23,7 @@
       <nl-NL name="West Germany" />
       <zh-CN name="西德" />
       <da-DK name="Vesttyskland" />
+      <es-ES name="Alemania Occidental" />
     </translations>
     <period start="01.01.1949 00:00:00" end="03.10.1990 00:00:00">
     </period>
@@ -36,6 +38,7 @@
       <nl-NL name="Czechoslovakia" />
       <zh-CN name="捷克斯洛伐克" />
       <da-DK name="Tjekkoslovakiet" />
+      <es-ES name="Checoeslovaquia" />
     </translations>
     <period start="10.28.1918 00:00:00" end="01.01.1993 00:00:00">
     </period>
@@ -56,6 +59,7 @@
       <nl-NL name="Sovjet-Unie" />
       <zh-CN name="苏联" />
       <da-DK name="Sovjetunionen" />
+      <es-ES name="Unión Soviética" />
     </translations>
     <period start="12.30.1922 00:00:00" end="12.25.1991 00:00:00">
     </period>
@@ -102,6 +106,7 @@
       <nl-NL name="Yugoslavia" />
       <zh-CN name="南斯拉夫" />
       <da-DK name="Jugoslavien" />
+      <es-ES name="Yugoslavia" />
     </translations>
     <period start="12.04.1918 00:00:00" end="08.28.1992 00:00:00">
     </period>
@@ -128,6 +133,7 @@
       <nl-NL name="Serbia &amp; Montenegro" />
       <zh-CN name="塞尔维亚黑山" />
       <da-DK name="Serbien og Montenegro" />
+      <es-ES name="Serbia y Montenegro" />
     </translations>
     <period start="08.28.1992 00:00:00" end="06.05.2006 00:00:00">
     </period>
@@ -148,6 +154,7 @@
       <nl-NL name="North Vietnam" />
       <zh-CN name="越南民主共和国" />
       <da-DK name="Nordvietnam" />
+      <es-ES name="Vietnam del Norte" />
     </translations>
     <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00">
     </period>
@@ -162,6 +169,7 @@
       <nl-NL name="South Vietnam" />
       <zh-CN name="越南共和国" />
       <da-DK name="Sydvietnam" />
+      <es-ES name="Vietnam del Sur" />
     </translations>
     <period start="09.02.1945 00:00:00" end="07.02.1976 00:00:00">
     </period>
@@ -177,6 +185,7 @@
       <nl-NL name="Netherlands Antilles" />
       <zh-CN name="荷属安的列斯" />
       <da-DK name="Nederlandske Antiller" />
+      <es-ES name="Antillas Holandesas" />
     </translations>
     <period start="12.15.1954 00:00:00" end="10.10.2010 00:00:00">
     </period>

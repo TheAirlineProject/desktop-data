@@ -8,6 +8,7 @@
       <nl-NL name="Alle landen" />
       <zh-CN name="所有国家" />
       <da-DK name="Alle lande" />
+      <es-ES name="Todos los países" />
     </translations>
   </country>
   <!--Countries-->
@@ -19,6 +20,7 @@
       <nl-NL name="Senegal" />
       <zh-CN name="塞内加尔" />
       <da-DK name="Senegal" />
+      <es-ES name="Senegal" />
     </translations>
   </country>
   <country uid="102" shortname="LAT" region="106" flag="Latvia" tailformat="YL-\\s3">
@@ -29,6 +31,7 @@
       <nl-NL name="Letland" />
       <zh-CN name="拉脱维亚" />
       <da-DK name="Letland" />
+      <es-ES name="Letonia" />
     </translations>
   </country>
   <country uid="103" shortname="LIT" region="106" flag="Lithuania" tailformat="LY-\\s3">
@@ -39,6 +42,7 @@
       <nl-NL name="Litouwen" />
       <zh-CN name="立陶宛" />
       <da-DK name="Litauen" />
+      <es-ES name="Lituania" />
     </translations>
   </country>
   <country uid="104" shortname="SRB" region="106" flag="Serbia" tailformat="YU-\\s3">
@@ -49,6 +53,7 @@
       <nl-NL name="Servië" />
       <zh-CN name="塞尔维亚" />
       <da-DK name="Serbien" />
+      <es-ES name="Serbia" />
     </translations>
   </country>
   <country uid="105" shortname="SLO" region="106" flag="Slovenia" tailformat="S5-\\s3">
@@ -59,6 +64,7 @@
       <nl-NL name="Slovenië" />
       <zh-CN name="斯洛文尼亚" />
       <da-DK name="Slovenien" />
+      <es-ES name="Eslovenia" />
     </translations>
   </country>
   <country uid="106" shortname="ARG" region="101" flag="Argentina" tailformat="LV-\\s3">
@@ -69,6 +75,7 @@
       <nl-NL name="Argentinië" />
       <zh-CN name="阿根廷" />
       <da-DK name="Argentina" />
+      <es-ES name="Argentina" />
     </translations>
   </country>
   <country uid="107" shortname="BEL" region="108" flag="Belgium" tailformat="OO-\\s3">
@@ -79,6 +86,7 @@
       <nl-NL name="België" />
       <zh-CN name="比利时" />
       <da-DK name="Belgien" />
+      <es-ES name="Bélgica" />
     </translations>
   </country>
   <country uid="108" shortname="SLC" region="104" flag="St. Lucia Island" tailformat="J6-\\s3">
@@ -89,6 +97,7 @@
       <nl-NL name="Saint Lucia" />
       <zh-CN name="圣卢西亚岛" />
       <da-DK name="St. Lucia" />
+      <es-ES name="St Lucia isla" />
     </translations>
   </country>
   <country uid="110" shortname="DEN" region="113" flag="Denmark" tailformat="OY-\\s4">
@@ -99,6 +108,7 @@
       <nl-NL name="Denemarken" />
       <zh-CN name="丹麦" />
       <da-DK name="Danmark" />
+      <es-ES name="Dinamarca" />
     </translations>
   </country>
   <country uid="113" shortname="CAN" region="102" flag="Canada" tailformat="CF-\\s3">
@@ -109,6 +119,7 @@
       <nl-NL name="Canada" />
       <zh-CN name="加拿大" />
       <da-DK name="Canada" />
+      <es-ES name="Canadá" />
     </translations>
   </country>
   <country uid="114" shortname="FJ" region="105" flag="Fiji" tailformat="DQ-\\s3">
@@ -119,6 +130,7 @@
       <nl-NL name="Fiji" />
       <zh-CN name="斐济" />
       <da-DK name="Fiji" />
+      <es-ES name="Fiji" />
     </translations>
   </country>
   <country uid="115" shortname="KIR" region="105" flag="Kiribati" tailformat="T3-\\s3">
@@ -129,6 +141,7 @@
       <nl-NL name="Kiribati" />
       <zh-CN name="基里巴斯" />
       <da-DK name="Kiribati" />
+      <es-ES name="Kiribati" />
     </translations>
   </country>
   <country uid="116" shortname="AUS" region="105" flag="Australia" tailformat="VH-\\s3">
@@ -139,6 +152,7 @@
       <nl-NL name="Australië" />
       <zh-CN name="澳大利亚" />
       <da-DK name="Australien" />
+      <es-ES name="Australia" />
     </translations>
   </country>
   <country uid="117" shortname="EST" region="106" flag="Estonia" tailformat="ES-\\s3">
@@ -149,6 +163,7 @@
       <nl-NL name="Estland" />
       <zh-CN name="爱沙尼亚" />
       <da-DK name="Estland" />
+      <es-ES name="Estonia" />
     </translations>
   </country>
   <country uid="118" shortname="GRE" region="107" flag="Greece" tailformat="SX-\\s3">
@@ -159,6 +174,7 @@
       <nl-NL name="Griekenland" />
       <zh-CN name="希腊" />
       <da-DK name="Grækenland" />
+      <es-ES name="Grecia" />
     </translations>
   </country>
   <country uid="119" shortname="LUX" region="108" flag="Luxembourg" tailformat="LX-\\s3">
@@ -169,6 +185,7 @@
       <nl-NL name="Luxemburg" />
       <zh-CN name="卢森堡" />
       <da-DK name="Luxembourg" />
+      <es-ES name="Luxemburgo" />
     </translations>
   </country>
   <country uid="120" shortname="CRO" region="106" flag="Croatia" tailformat="9A-\\s3">
@@ -179,6 +196,7 @@
       <nl-NL name="Kroatië" />
       <zh-CN name="克罗地亚" />
       <da-DK name="Kroatien" />
+      <es-ES name="Croacia" />
     </translations>
   </country>
   <country uid="121" shortname="ICE" region="113" flag="Iceland" tailformat="TF-\\s3">
@@ -189,6 +207,7 @@
       <nl-NL name="IJsland" />
       <zh-CN name="冰岛" />
       <da-DK name="Island" />
+      <es-ES name="Islandia" />
     </translations>
   </country>
   <country uid="122" shortname="USA" region="102" flag="United States" tailformat="N-\\d4">
@@ -199,6 +218,7 @@
       <nl-NL name="Verenigde Staen" />
       <zh-CN name="美国" />
       <da-DK name="USA" />
+      <es-ES name="Estados Unidos" />
     </translations>
   </country>
   <country uid="123" shortname="ESP" region="107" flag="Spain" tailformat="EC-\\s3">
@@ -209,6 +229,7 @@
       <nl-NL name="Spanje" />
       <zh-CN name="西班牙" />
       <da-DK name="Spanien" />
+      <es-ES name="España" />
     </translations>
   </country>
   <country uid="124" shortname="ETH" region="109" flag="Ethiopia" tailformat="ET-\\s3">
@@ -219,6 +240,7 @@
       <nl-NL name="Ethiopië" />
       <zh-CN name="埃塞俄比亚" />
       <da-DK name="Ethiopien" />
+      <es-ES name="Etiopía" />
     </translations>
   </country>
   <country uid="125" shortname="LIB" region="109" flag="Libya" tailformat="5A-\\s3">
@@ -229,6 +251,7 @@
       <nl-NL name="Libië" />
       <zh-CN name="利比亚" />
       <da-DK name="Libyen" />
+      <es-ES name="Libia" />
     </translations>
   </country>
   <country uid="126" shortname="KW" region="111" flag="Kuwait" tailformat="9K-\\s3">
@@ -239,6 +262,7 @@
       <nl-NL name="Koeweit" />
       <zh-CN name="科威特" />
       <da-DK name="Kuwait" />
+      <es-ES name="Kuwait" />
     </translations>
   </country>
   <country uid="127" shortname="IQ" region="111" flag="Iraq" tailformat="Y1-\\s3">
@@ -249,6 +273,7 @@
       <nl-NL name="Irak" />
       <zh-CN name="伊拉克" />
       <da-DK name="Irak" />
+      <es-ES name="Irak" />
     </translations>
   </country>
   <country uid="128" shortname="ISR" region="111" flag="Israel" tailformat="4X-\\s3">
@@ -259,6 +284,7 @@
       <nl-NL name="Israël" />
       <zh-CN name="以色列" />
       <da-DK name="Israel" />
+      <es-ES name="Israel" />
     </translations>
   </country>
   <country uid="129" shortname="LEB" region="111" flag="Lebanon" tailformat="OD-\\s3">
@@ -269,6 +295,7 @@
       <nl-NL name="Libanon" />
       <zh-CN name="黎巴嫩" />
       <da-DK name="Libanon" />
+      <es-ES name="Líbano" />
     </translations>
   </country>
   <country uid="130" shortname="UK" region="112" flag="United Kingdom" tailformat="G-\\s4">
@@ -279,6 +306,7 @@
       <nl-NL name="Verenigd Koninkrijk" />
       <zh-CN name="英国" />
       <da-DK name="Storbritannien" />
+      <es-ES name="Reino Unido" />
     </translations>
   </country>
   <country uid="131" shortname="PHI" region="110" flag="Philippines" tailformat="RPC-\\s4">
@@ -289,6 +317,7 @@
       <nl-NL name="Filipijnen" />
       <zh-CN name="菲律宾" />
       <da-DK name="Filippinerne" />
+      <es-ES name="Filipinas" />
     </translations>
   </country>
   <country uid="132" shortname="MLT" region="107" flag="Malta" tailformat="9H-\\s3">
@@ -299,6 +328,7 @@
       <nl-NL name="Malta" />
       <zh-CN name="马尔他" />
       <da-DK name="Malta" />
+      <es-ES name="Malta" />
     </translations>
   </country>
   <country uid="133" shortname="MOR" region="109" flag="Morocco" tailformat="CN-\\s3">
@@ -309,6 +339,7 @@
       <nl-NL name="Marokko" />
       <zh-CN name="摩洛哥" />
       <da-DK name="Marokko" />
+      <es-ES name="Marruecos" />
     </translations>
   </country>
   <country uid="134" shortname="UKR" region="106" flag="Ukraine" tailformat="UR-\\s3">
@@ -319,6 +350,7 @@
       <nl-NL name="Oekraïne" />
       <zh-CN name="乌克兰" />
       <da-DK name="Ukraine" />
+      <es-ES name="Ucrania" />
     </translations>
   </country>
   <country uid="135" shortname="POL" region="106" flag="Poland" tailformat="SP-\\s3">
@@ -329,6 +361,7 @@
       <nl-NL name="Polen" />
       <zh-CN name="波兰" />
       <da-DK name="Polen" />
+      <es-ES name="Polonia" />
     </translations>
   </country>
   <country uid="136" shortname="SA" region="111" flag="Saudi Arabia" tailformat="HZ-\\s3">
@@ -339,6 +372,7 @@
       <nl-NL name="Saudi-Arabië" />
       <zh-CN name="沙特阿拉伯" />
       <da-DK name="Saudi Arabien" />
+      <es-ES name="Arabia Saudí" />
     </translations>
   </country>
   <country uid="137" shortname="IRE" region="112" flag="Ireland" tailformat="EI-\\s3">
@@ -349,6 +383,7 @@
       <nl-NL name="Ierland" />
       <zh-CN name="爱尔兰" />
       <da-DK name="Irland" />
+      <es-ES name="Irlanda" />
     </translations>
   </country>
   <country uid="138" shortname="BRA" region="101" flag="Brazil" tailformat="PP-\\s3">
@@ -359,6 +394,7 @@
       <nl-NL name="Brazilië" />
       <zh-CN name="巴西" />
       <da-DK name="Brasilien" />
+      <es-ES name="Brasil" />
     </translations>
   </country>
   <country uid="139" shortname="NOR" region="113" flag="Norway" tailformat="LN-\\s3">
@@ -369,6 +405,7 @@
       <nl-NL name="Noorwegen" />
       <zh-CN name="挪威" />
       <da-DK name="Norge" />
+      <es-ES name="Noruega" />
     </translations>
   </country>
   <country uid="140" shortname="FRA" region="108" flag="France" tailformat="F-\\s4">
@@ -379,6 +416,7 @@
       <nl-NL name="Frankrijk" />
       <zh-CN name="法国" />
       <da-DK name="Frankrig" />
+      <es-ES name="Francia" />
     </translations>
   </country>
   <country uid="141" shortname="ITA" region="107" flag="Italy" tailformat="I-\\s4">
@@ -389,6 +427,7 @@
       <nl-NL name="Italië" />
       <zh-CN name="意大利" />
       <da-DK name="Italien" />
+      <es-ES name="Italia" />
     </translations>
   </country>
   <country uid="142" shortname="ALG" region="109" flag="Algeria" tailformat="7T-\\s3">
@@ -399,6 +438,7 @@
       <nl-NL name="Algerije" />
       <zh-CN name="阿尔及利亚" />
       <da-DK name="Algeriet" />
+      <es-ES name="Argelia" />
     </translations>
   </country>
   <country uid="144" shortname="TUN" region="109" flag="Tunisia" tailformat="TS-\\s3">
@@ -409,6 +449,7 @@
       <nl-NL name="Tunesië" />
       <zh-CN name="突尼斯" />
       <da-DK name="Tunisien" />
+      <es-ES name="Túnez" />
     </translations>
   </country>
   <country uid="145" shortname="NIG" region="109" flag="Nigeria" tailformat="5N-\\s3">
@@ -419,6 +460,7 @@
       <nl-NL name="Nigeria" />
       <zh-CN name="尼日利亚" />
       <da-DK name="Nigeria" />
+      <es-ES name="Nigeria" />
     </translations>
   </country>
   <country uid="146" shortname="KEN" region="109" flag="Kenya" tailformat="5Y-\\s3">
@@ -429,6 +471,7 @@
       <nl-NL name="Kenia" />
       <zh-CN name="肯尼亚" />
       <da-DK name="Kenya" />
+      <es-ES name="Kenia" />
     </translations>
   </country>
   <country uid="147" shortname="ROM" region="106" flag="Romania" tailformat="YR-\\s3">
@@ -439,6 +482,7 @@
       <nl-NL name="Roemenië" />
       <zh-CN name="罗马尼亚" />
       <da-DK name="Rumænien" />
+      <es-ES name="Rumania" />
     </translations>
   </country>
   <country uid="148" shortname="CHN" region="110" flag="China" tailformat="B-\\d4">
@@ -449,6 +493,7 @@
       <nl-NL name="China" />
       <zh-CN name="中国" />
       <da-DK name="Kina" />
+      <es-ES name="China" />
     </translations>
   </country>
   <country uid="149" shortname="RUS" region="106" flag="Russia" tailformat="RA-\\d5">
@@ -459,6 +504,7 @@
       <nl-NL name="Ruslan" />
       <zh-CN name="俄罗斯" />
       <da-DK name="Rusland" />
+      <es-ES name="Rusia" />
     </translations>
   </country>
   <country uid="150" shortname="POR" region="107" flag="Portugal" tailformat="CR-\\s3">
@@ -469,6 +515,7 @@
       <nl-NL name="Portugal" />
       <zh-CN name="葡萄牙" />
       <da-DK name="Portugal" />
+      <es-ES name="Portugal" />
     </translations>
   </country>
   <country uid="151" shortname="BAH" region="111" flag="Bahrain" tailformat="A9C-\\s3">
@@ -479,6 +526,7 @@
       <nl-NL name="Bahrein" />
       <zh-CN name="巴林岛" />
       <da-DK name="Bahrain" />
+      <es-ES name="Bahrein" />
     </translations>
   </country>
   <country uid="152" shortname="IND" region="110" flag="India" tailformat="VT-\\s3">
@@ -489,6 +537,7 @@
       <nl-NL name="India" />
       <zh-CN name="印度" />
       <da-DK name="Indien" />
+      <es-ES name="India" />
     </translations>
   </country>
   <country uid="153" shortname="SRL" region="110" flag="Sri Lanka" tailformat="4R-\\s3">
@@ -499,6 +548,7 @@
       <nl-NL name="Sri Lanka" />
       <zh-CN name="斯里兰卡" />
       <da-DK name="Sri Lanka" />
+      <es-ES name="Sri Lanka" />
     </translations>
   </country>
   <country uid="154" shortname="CYP" region="107" flag="Cyprus" tailformat="5B-\\s3">
@@ -509,6 +559,7 @@
       <nl-NL name="Cyprus" />
       <zh-CN name="塞浦路斯" />
       <da-DK name="Cypern" />
+      <es-ES name="Chipre" />
     </translations>
   </country>
   <country uid="155" shortname="EGY" region="109" flag="Egypt" tailformat="SU-\\s3">
@@ -519,6 +570,7 @@
       <nl-NL name="Egypte" />
       <zh-CN name="埃及" />
       <da-DK name="Egypten" />
+      <es-ES name="Egipto" />
     </translations>
   </country>
   <country uid="156" shortname="UAE" region="111" flag="United Arab Emirates" tailformat="A6-\\s3">
@@ -529,6 +581,7 @@
       <nl-NL name="Verenigde Arabische Emiraten" />
       <zh-CN name="阿拉伯联合酋长国" />
       <da-DK name="Forenede Arabiske Emirater" />
+      <es-ES name="Emiratos Árabes Unidos" />
     </translations>
   </country>
   <country uid="157" shortname="MEX" region="103" flag="Mexico" tailformat="XA-\\s3">
@@ -539,6 +592,7 @@
       <nl-NL name="Mexico" />
       <zh-CN name="墨西哥" />
       <da-DK name="Mexiko" />
+      <es-ES name="México" />
     </translations>
   </country>
   <country uid="158" shortname="RSA" region="109" flag="South Africa" tailformat="ZS-\\s3">
@@ -549,6 +603,7 @@
       <nl-NL name="Zuid-Afrika" />
       <zh-CN name="南非" />
       <da-DK name="Sydafrika" />
+      <es-ES name="Sudáfrica" />
     </translations>
   </country>
   <country uid="159" shortname="HUN" region="106" flag="Hungary" tailformat="HA-\\s3">
@@ -559,6 +614,7 @@
       <nl-NL name="Hongarije" />
       <zh-CN name="匈牙利" />
       <da-DK name="Ungarn" />
+      <es-ES name="Hungría" />
     </translations>
   </country>
   <country uid="160" shortname="CHI" region="101" flag="Chile" tailformat="CC-\\s3">
@@ -569,6 +625,7 @@
       <nl-NL name="Chili" />
       <zh-CN name="智利" />
       <da-DK name="Chile" />
+      <es-ES name="Chile" />
     </translations>
   </country>
   <country uid="161" shortname="TUR" region="107" flag="Turkey" tailformat="TC-\\s3">
@@ -579,6 +636,7 @@
       <nl-NL name="Turkije" />
       <zh-CN name="土耳其" />
       <da-DK name="Tyrkiet" />
+      <es-ES name="Turquía" />
     </translations>
   </country>
   <country uid="162" shortname="IDN" region="110" flag="Indonesia" tailformat="PK-\\s3">
@@ -589,6 +647,7 @@
       <nl-NL name="Indonesië" />
       <zh-CN name="印度尼西亚" />
       <da-DK name="Indonesien" />
+      <es-ES name="Indonesia" />
     </translations>
   </country>
   <country uid="163" shortname="GER" region="108" flag="Germany" tailformat="D-\\s4">
@@ -599,6 +658,7 @@
       <nl-NL name="Duitsland" />
       <zh-CN name="德国" />
       <da-DK name="Tyskland" />
+      <es-ES name="Alemania" />
     </translations>
   </country>
   <country uid="164" shortname="SWZ" region="107" flag="Switzerland" tailformat="HB-\\s3">
@@ -609,6 +669,7 @@
       <nl-NL name="Zwitserland" />
       <zh-CN name="瑞士" />
       <da-DK name="Schweiz" />
+      <es-ES name="Suiza" />
     </translations>
   </country>
   <country uid="165" shortname="SK" region="110" flag="South Korea" tailformat="HL-\\d4">
@@ -619,6 +680,7 @@
       <nl-NL name="Zuid-Korea" />
       <zh-CN name="韩国" />
       <da-DK name="Sydkorea" />
+      <es-ES name="Corea del Sur" />
     </translations>
   </country>
   <country uid="166" shortname="CZ" region="106" flag="Czech Republic" tailformat="OK-\\s3">
@@ -629,6 +691,7 @@
       <nl-NL name="Tsjechische Republiek" />
       <zh-CN name="捷克共和国" />
       <da-DK name="Tjekkiet" />
+      <es-ES name="República Checa" />
     </translations>
   </country>
   <country uid="167" shortname="FIN" region="113" flag="Finland" tailformat="OH-\\s3">
@@ -639,6 +702,7 @@
       <nl-NL name="Finland" />
       <zh-CN name="芬兰" />
       <da-DK name="Finland" />
+      <es-ES name="Finlandia" />
     </translations>
   </country>
   <country uid="168" shortname="SWE" region="113" flag="Sweden" tailformat="SE-\\s3">
@@ -649,6 +713,7 @@
       <nl-NL name="Zweden" />
       <zh-CN name="瑞典" />
       <da-DK name="Sverige" />
+      <es-ES name="Suecia" />
     </translations>
   </country>
   <country uid="169" shortname="AUT" region="107" flag="Austria" tailformat="OE-\\s3">
@@ -659,6 +724,7 @@
       <nl-NL name="Oostenrijk" />
       <zh-CN name="奥地利" />
       <da-DK name="Østrig" />
+      <es-ES name="Austria" />
     </translations>
   </country>
   <country uid="170" shortname="VN" region="110" flag="Vietnam" tailformat="VN-\\s4">
@@ -669,6 +735,7 @@
       <nl-NL name="Vietnam" />
       <zh-CN name="越南" />
       <da-DK name="Vietnam" />
+      <es-ES name="Vietnam" />
     </translations>
   </country>
   <country uid="171" shortname="JAP" region="110" flag="Japan" tailformat="JA-\\d4">
@@ -679,6 +746,7 @@
       <nl-NL name="Japan" />
       <zh-CN name="日本" />
       <da-DK name="Japan" />
+      <es-ES name="Japón" />
     </translations>
   </country>
   <country uid="172" shortname="TAI" region="110" flag="Taiwan" tailformat="B-\\d5">
@@ -689,6 +757,7 @@
       <nl-NL name="Taiwan" />
       <zh-CN name="台湾地区" />
       <da-DK name="Taiwan" />
+      <es-ES name="Taiwán" />
     </translations>
   </country>
   <country uid="173" shortname="MAL" region="110" flag="Malaysia" tailformat="9M-\\s3">
@@ -699,6 +768,7 @@
       <nl-NL name="Maleisië" />
       <zh-CN name="马来西亚" />
       <da-DK name="Maleisië" />
+      <es-ES name="Malasia" />
     </translations>
   </country>
   <country uid="174" shortname="SIN" region="110" flag="Singapore" tailformat="9V-\\s3">
@@ -709,6 +779,7 @@
       <nl-NL name="Singapore" />
       <zh-CN name="新加坡" />
       <da-DK name="Singapore" />
+      <es-ES name="Singapur" />
     </translations>
   </country>
   <country uid="175" shortname="THA" region="110" flag="Thailand" tailformat="HS-\\s3">
@@ -719,6 +790,7 @@
       <nl-NL name="Thailand" />
       <zh-CN name="泰国" />
       <da-DK name="Thailand" />
+      <es-ES name="Tailandia" />
     </translations>
   </country>
   <country uid="176" shortname="HK" region="110" flag="Hong Kong" tailformat="B-\\s3">
@@ -729,6 +801,7 @@
       <nl-NL name="Hongkong" />
       <zh-CN name="香港地区" />
       <da-DK name="Hongkong" />
+      <es-ES name="Hong Kong" />
     </translations>
   </country>
   <country uid="177" shortname="IRA" region="111" flag="Iran" tailformat="EP-\\d3">
@@ -739,6 +812,7 @@
       <nl-NL name="Iran" />
       <zh-CN name="伊朗" />
       <da-DK name="Iran" />
+      <es-ES name="Irán" />
     </translations>
   </country>
   <country uid="178" shortname="OM" region="111" flag="Oman" tailformat="A4O-\\s2">
@@ -749,6 +823,7 @@
       <nl-NL name="Oman" />
       <zh-CN name="阿曼" />
       <da-DK name="Oman" />
+      <es-ES name="Omán" />
     </translations>
   </country>
   <country uid="179" shortname="NED" region="108" flag="Netherlands" tailformat="PH-\\s3">
@@ -759,6 +834,7 @@
       <nl-NL name="Nederland" />
       <zh-CN name="荷兰" />
       <da-DK name="Hollan" />
+      <es-ES name="Países Bajos" />
     </translations>
   </country>
   <country uid="180" shortname="QAT" region="111" flag="Qatar" tailformat="A7-\\s3">
@@ -769,6 +845,7 @@
       <nl-NL name="Qatar" />
       <zh-CN name="卡塔尔" />
       <da-DK name="Qatar" />
+      <es-ES name="Qatar" />
     </translations>
   </country>
   <country uid="182" shortname="PER" region="101" flag="Peru" tailformat="OB-\\s4">
@@ -779,6 +856,7 @@
       <nl-NL name="Peru" />
       <zh-CN name="秘鲁" />
       <da-DK name="Peru" />
+      <es-ES name="Perú" />
     </translations>
   </country>
   <country uid="183" shortname="COL" region="101" flag="Colombia" tailformat="HK-\\d4">
@@ -789,6 +867,7 @@
       <nl-NL name="Colombia" />
       <zh-CN name="哥伦比亚" />
       <da-DK name="Colombia" />
+      <es-ES name="Colombia" />
     </translations>
   </country>
   <country uid="184" shortname="VEN" region="101" flag="Venezuela" tailformat="YV-\\s4">
@@ -799,6 +878,7 @@
       <nl-NL name="Venezuela" />
       <zh-CN name="委内瑞拉" />
       <da-DK name="Venezuela" />
+      <es-ES name="Venezuela" />
     </translations>
   </country>
   <country uid="185" shortname="BUL" region="106" flag="Bulgaria" tailformat="LZ-\\s3">
@@ -809,6 +889,7 @@
       <nl-NL name="Bulgarije" />
       <zh-CN name="保加利亚" />
       <da-DK name="Bulgarien" />
+      <es-ES name="Bulgaria" />
     </translations>
   </country>
   <country uid="186" shortname="NZ" region="105" flag="New Zealand" tailformat="ZK-\s3">
@@ -819,6 +900,7 @@
       <nl-NL name="Nieuw-Zeeland" />
       <zh-CN name="新西兰" />
       <da-DK name="New Zealand" />
+      <es-ES name="Nueva Zelanda" />
     </translations>
   </country>
   <country uid="187" shortname="BEN" region="109" flag="Benin" tailformat="TY-\s3">
@@ -829,6 +911,7 @@
       <nl-NL name="Benin" />
       <zh-CN name="贝宁" />
       <da-DK name="Benin" />
+      <es-ES name="Benin" />
     </translations>
   </country>
   <country uid="188" shortname="TOG" region="109" flag="Togo" tailformat="5V-\s3">
@@ -839,6 +922,7 @@
       <nl-NL name="Togo" />
       <zh-CN name="多哥" />
       <da-DK name="Togo" />
+      <es-ES name="Togo" />
     </translations>
   </country>
   <country uid="189" shortname="GHA" region="109" flag="Ghana" tailformat="9G-\s3">
@@ -849,6 +933,7 @@
       <nl-NL name="Ghana" />
       <zh-CN name="加纳" />
       <da-DK name="Ghana" />
+      <es-ES name="Ghana" />
     </translations>
   </country>
   <country uid="190" shortname="BF" region="109" flag="Burkina Faso" tailformat="XT-\s3">
@@ -859,6 +944,7 @@
       <nl-NL name="Burkina Faso" />
       <zh-CN name="布基纳法索" />
       <da-DK name="Burkina Faso" />
+      <es-ES name="Burkina Faso" />
     </translations>
   </country>
   <country uid="191" shortname="PA" region="103" flag="Panama" tailformat="HP-\d4">
@@ -869,6 +955,7 @@
       <nl-NL name="Panama" />
       <zh-CN name="巴拿马" />
       <da-DK name="Panama" />
+      <es-ES name="Panamá" />
     </translations>
   </country>
   <country uid="192" shortname="CR" region="103" flag="Costa Rica" tailformat="TI-\s3">
@@ -879,6 +966,7 @@
       <nl-NL name="Costa Rica" />
       <zh-CN name="哥斯达黎加" />
       <da-DK name="Costa Rica" />
+      <es-ES name="Costa Rica" />
     </translations>
   </country>
   <country uid="193" shortname="SV" region="103" flag="El Salvador" tailformat="YS-\s3">
@@ -889,6 +977,7 @@
       <nl-NL name="El Salvador" />
       <zh-CN name="萨尔瓦多" />
       <da-DK name="El Salvador" />
+      <es-ES name="El Salvador" />
     </translations>
   </country>
   <country uid="194" shortname="GT" region="103" flag="Guatemala" tailformat="TG-\s3">
@@ -899,6 +988,7 @@
       <nl-NL name="Guatemala" />
       <zh-CN name="危地马拉" />
       <da-DK name="Guatemala" />
+      <es-ES name="Guatemala" />
     </translations>
   </country>
   <country uid="195" shortname="NI" region="103" flag="Nicaragua" tailformat="YN-\s3">
@@ -909,6 +999,7 @@
       <nl-NL name="Nicaragua" />
       <zh-CN name="尼加拉瓜" />
       <da-DK name="Nicaragua" />
+      <es-ES name="Nicaragua" />
     </translations>
   </country>
   <country uid="196" shortname="HN" region="103" flag="Honduras" tailformat="HR-\s3">
@@ -919,6 +1010,7 @@
       <nl-NL name="Honduras" />
       <zh-CN name="洪都拉斯" />
       <da-DK name="Honduras" />
+      <es-ES name="Honduras" />
     </translations>
   </country>
   <country uid="197" shortname="BZ" region="103" flag="Belize" tailformat="V3-\s3">
@@ -929,6 +1021,7 @@
       <nl-NL name="Belize" />
       <zh-CN name="伯利兹城" />
       <da-DK name="Belize" />
+      <es-ES name="Belice" />
     </translations>
   </country>
   <country uid="198" shortname="CU" region="104" flag="Cuba" tailformat="CU-\s3">
@@ -939,6 +1032,7 @@
       <nl-NL name="Cuba" />
       <zh-CN name="古巴" />
       <da-DK name="Cuba" />
+      <es-ES name="Cuba" />
     </translations>
   </country>
   <country uid="199" shortname="JAM" region="104" flag="Jamaica" tailformat="6Y-\s3">
@@ -949,6 +1043,7 @@
       <nl-NL name="Jamaica" />
       <zh-CN name="牙买加" />
       <da-DK name="Jamaica" />
+      <es-ES name="Jamaica" />
     </translations>
   </country>
   <country uid="202" shortname="PAK" region="110" flag="Pakistan" tailformat="AP-\s3">
@@ -959,6 +1054,7 @@
       <nl-NL name="Pakistan" />
       <zh-CN name="巴基斯坦" />
       <da-DK name="Pakistan" />
+      <es-ES name="Pakistán" />
     </translations>
   </country>
   <country uid="203" shortname="BAS" region="104" flag="Bahamas" tailformat="C6-\s3">
@@ -969,6 +1065,7 @@
       <nl-NL name="Bahama's" />
       <zh-CN name="巴哈马群岛" />
       <da-DK name="Bahamas" />
+      <es-ES name="Bahamas" />
     </translations>
   </country>
   <country uid="205" shortname="TT" region="104" flag="Trinidad &amp; Tobago" tailformat="9Y-\\s3">
@@ -979,6 +1076,7 @@
       <nl-NL name="Trinidad &amp; Tobago" />
       <zh-CN name="特立尼达拉岛 &amp; 多巴哥岛" />
       <da-DK name="Trinidad &amp;amp; Tobago" />
+      <es-ES name="Trinidad y Tobago" />
     </translations>
   </country>
   <country uid="206" shortname="MU" region="109" flag="Mauritius" tailformat="3B-\\s3">
@@ -989,6 +1087,7 @@
       <nl-NL name="Mauritius" />
       <zh-CN name="毛里求斯" />
       <da-DK name="Mauritius" />
+      <es-ES name="Mauricio" />
     </translations>
   </country>
   <country uid="207" shortname="DOM" region="104" flag="Dominican Republic" tailformat="HI-\\d3\\s2">
@@ -999,6 +1098,7 @@
       <nl-NL name="Dominicaanse Republiek" />
       <zh-CN name="多米尼加共和国" />
       <da-DK name="Den Dominikanske Republik" />
+      <es-ES name="República Dominicana" />
     </translations>
   </country>
   <country uid="208" shortname="TO" region="105" flag="Tonga" tailformat="A3-\\s3">
@@ -1009,6 +1109,7 @@
       <nl-NL name="Tonga" />
       <zh-CN name="汤加" />
       <da-DK name="Tonga" />
+      <es-ES name="Tonga" />
     </translations>
   </country>
   <country uid="210" shortname="ECQ" region="101" flag="Ecuador" tailformat="HC-\\s3">
@@ -1019,6 +1120,7 @@
       <nl-NL name="Ecuador" />
       <zh-CN name="厄瓜多尔" />
       <da-DK name="Ecuador" />
+      <es-ES name="Ecuador" />
     </translations>
   </country>
   <country uid="211" shortname="BOL" region="101" flag="Bolivia" tailformat="CP-\\d4">
@@ -1029,6 +1131,7 @@
       <nl-NL name="Bolivia" />
       <zh-CN name="玻利维亚" />
       <da-DK name="Bolivia" />
+      <es-ES name="Bolivia" />
     </translations>
   </country>
   <country uid="212" shortname="URY" region="101" flag="Uruguay" tailformat="CX-\\s3">
@@ -1039,6 +1142,7 @@
       <nl-NL name="Uruguay" />
       <zh-CN name="乌拉圭" />
       <da-DK name="Uruguay" />
+      <es-ES name="Uruguay" />
     </translations>
   </country>
   <country uid="213" shortname="PAR" region="101" flag="Paraguay" tailformat="ZP-\\s3">
@@ -1049,6 +1153,7 @@
       <nl-NL name="Paraguay" />
       <zh-CN name="巴拉圭" />
       <da-DK name="Paraguay" />
+      <es-ES name="Paraguay" />
     </translations>
   </country>
   <country uid="214" shortname="SUR" region="101" flag="Suriname" tailformat="PZ-\\s3">
@@ -1059,6 +1164,7 @@
       <nl-NL name="Suriname" />
       <zh-CN name="苏里南共和国" />
       <da-DK name="Surinam" />
+      <es-ES name="Suriname" />
     </translations>
   </country>
   <country uid="215" shortname="GUY" region="101" flag="Guyana" tailformat="8R-\\s3">
@@ -1069,6 +1175,7 @@
       <nl-NL name="Guyana" />
       <zh-CN name="圭亚那" />
       <da-DK name="Guyana" />
+      <es-ES name="Guyana" />
     </translations>
   </country>
   <country uid="216" shortname="BGD" region="110" flag="Bangladesh" tailformat="S2-\\s3">
@@ -1079,6 +1186,7 @@
       <nl-NL name="Bangladesh" />
       <zh-CN name="孟加拉国" />
       <da-DK name="Bangladesh" />
+      <es-ES name="Bangladesh" />
     </translations>
   </country>
   <country uid="217" shortname="BLR" region="106" flag="Belarus" tailformat="EW-\\d3\\s2">
@@ -1089,6 +1197,7 @@
       <nl-NL name="Belarus" />
       <zh-CN name="白俄罗斯" />
       <da-DK name="Hviderusland" />
+      <es-ES name="Bielorrusia" />
     </translations>
   </country>
   <country uid="220" shortname="CFR" region="109" flag="Central African Republic" tailformat="TL-\\s3">
@@ -1099,6 +1208,7 @@
       <nl-NL name="Centraal-Afrikaanse Republiek" />
       <zh-CN name="中非共和國" />
       <da-DK name="Den Centralafrikanske Republik" />
+      <es-ES name="República Centroafricana" />
     </translations>
   </country>
   <country uid="221" shortname="CRD" region="109" flag="Congo-DRC" tailformat="9Q-\\s3">
@@ -1109,6 +1219,7 @@
       <nl-NL name="Democratische Republiek Congo" />
       <zh-CN name="剛果民主共和國" />
       <da-DK name="Democratische Republiek Congo" />
+      <es-ES name="República Democrática del Congo" />
     </translations>
   </country>
   <country uid="222" shortname="TNZ" region="109" flag="Tanzania" tailformat="5H-\\s3">
@@ -1119,6 +1230,7 @@
       <nl-NL name="Tanzania" />
       <zh-CN name="坦桑尼亚" />
       <da-DK name="Tanzania" />
+      <es-ES name="Tanzania" />
     </translations>
   </country>
   <country uid="223" shortname="SUD" region="109" flag="Sudan" tailformat="ST-\\s3">
@@ -1129,6 +1241,7 @@
       <nl-NL name="Soedan" />
       <zh-CN name="苏丹共和国" />
       <da-DK name="Sudan" />
+      <es-ES name="Sudán" />
     </translations>
   </country>
   <country uid="224" shortname="AOG" region="109" flag="Angola" tailformat="D2-\\s3">
@@ -1139,6 +1252,7 @@
       <nl-NL name="Angola" />
       <zh-CN name="安哥拉" />
       <da-DK name="Angola" />
+      <es-ES name="Angola" />
     </translations>
   </country>
   <country uid="225" shortname="ZAM" region="109" flag="Zambia" tailformat="9J-\\s3">
@@ -1149,6 +1263,7 @@
       <nl-NL name="Zambia" />
       <zh-CN name="赞比亚" />
       <da-DK name="Zambia" />
+      <es-ES name="Zambia" />
     </translations>
   </country>
   <country uid="227" shortname="BAR" region="104" flag="Barbados" tailformat="8P-\\s3">
@@ -1159,6 +1274,7 @@
       <nl-NL name="Barbados" />
       <zh-CN name="巴巴多斯" />
       <da-DK name="Barbados" />
+      <es-ES name="Barbados" />
     </translations>
   </country>
   <country uid="228" shortname="DMC" region="104" flag="Dominica" tailformat="J7-\\s3">
@@ -1169,6 +1285,7 @@
       <nl-NL name="Dominica" />
       <zh-CN name="多米尼加" />
       <da-DK name="Dominica" />
+      <es-ES name="Dominica" />
     </translations>
   </country>
   <country uid="229" shortname="GDA" region="104" flag="Grenada" tailformat="J3-\\s3">
@@ -1179,6 +1296,7 @@
       <nl-NL name="Grenada" />
       <zh-CN name="格林纳达" />
       <da-DK name="Grenada" />
+      <es-ES name="Granada" />
     </translations>
   </country>
   <country uid="230" shortname="SKN" region="104" flag="St Kitts &amp; Nevis" tailformat="V4-\\s3">
@@ -1189,6 +1307,7 @@
       <nl-NL name="Saint Kitts &amp; Nevis" />
       <zh-CN name="圣基茨尼维斯" />
       <da-DK name="Saint Kitts &amp;amp; Nevis" />
+      <es-ES name="Saint Kitts y Nevis" />
     </translations>
   </country>
   <country uid="231" shortname="SLK" region="106" flag="Slovakia" tailformat="OM-\\s3">
@@ -1199,6 +1318,7 @@
       <nl-NL name="Slovakia" />
       <zh-CN name="斯洛伐克" />
       <da-DK name="Slovakia" />
+      <es-ES name="Eslovaquia" />
     </translations>
   </country>
   <country uid="232" shortname="MLD" region="106" flag="Moldova" tailformat="ER-\\s3">
@@ -1209,6 +1329,7 @@
       <nl-NL name="Moldova" />
       <zh-CN name="摩尔多纳" />
       <da-DK name="Moldova" />
+      <es-ES name="Moldova" />
     </translations>
   </country>
   <country uid="233" shortname="GEO" region="107" flag="Georgia" tailformat="4L-\\s3">
@@ -1219,6 +1340,7 @@
       <nl-NL name="Georgia" />
       <zh-CN name="格鲁吉亚" />
       <da-DK name="Georgien" />
+      <es-ES name="Georgia" />
     </translations>
   </country>
   <country uid="234" shortname="ARM" region="107" flag="Armenia" tailformat="EK-\\d5">
@@ -1229,6 +1351,7 @@
       <nl-NL name="Armenia" />
       <zh-CN name="亚美尼亚" />
       <da-DK name="Armenien" />
+      <es-ES name="Armenia" />
     </translations>
   </country>
   <country uid="235" shortname="AZR" region="107" flag="Azerbaijan" tailformat="4K-\\d5">
@@ -1239,6 +1362,7 @@
       <nl-NL name="Azerbaijan" />
       <zh-CN name="阿塞拜疆" />
       <da-DK name="Azerbaijan" />
+      <es-ES name="Azerbaiyán" />
     </translations>
   </country>
   <country uid="236" shortname="KAZ" region="110" flag="Kazakhstan" tailformat="UP-\\s3\\d2">
@@ -1249,6 +1373,7 @@
       <nl-NL name="Kazakhstan" />
       <zh-CN name="哈萨克斯坦" />
       <da-DK name="Kazakhstan" />
+      <es-ES name="Kazajstán" />
     </translations>
   </country>
   <country uid="237" shortname="UBZ" region="110" flag="Uzbekistan" tailformat="UK-\\d5">
@@ -1259,6 +1384,7 @@
       <nl-NL name="Uzbekistan" />
       <zh-CN name="乌兹别克斯坦" />
       <da-DK name="Uzbekistan" />
+      <es-ES name="Uzbekistán" />
     </translations>
   </country>
   <country uid="238" shortname="TRK" region="110" flag="Turkmenistan" tailformat="EZ-\\s1\\d3">
@@ -1269,6 +1395,7 @@
       <nl-NL name="Turkmenistan" />
       <zh-CN name="土库曼斯坦" />
       <da-DK name="Turkmenistan" />
+      <es-ES name="Turkmenistán" />
     </translations>
   </country>
   <country uid="239" shortname="KRG" region="110" flag="Kyrgyzstan" tailformat="EX-\\d5">
@@ -1279,6 +1406,7 @@
       <nl-NL name="Kyrgyzstan" />
       <zh-CN name="吉尔吉斯斯坦" />
       <da-DK name="Kyrgyzstan" />
+      <es-ES name="Kirguizistán" />
     </translations>
   </country>
   <country uid="240" shortname="TJK" region="110" flag="Tajikistan" tailformat="EY-\\d5">
@@ -1289,6 +1417,7 @@
       <nl-NL name="Tajikistan" />
       <zh-CN name="塔吉克斯坦" />
       <da-DK name="Tajikistan" />
+      <es-ES name="Tayikistán" />
     </translations>
   </country>
   <country uid="241" shortname="MON" region="110" flag="Mongolia" tailformat="JU-\\d4">
@@ -1299,6 +1428,7 @@
       <nl-NL name="Mongolia" />
       <zh-CN name="蒙古" />
       <da-DK name="Mongoliet" />
+      <es-ES name="Mongolia" />
     </translations>
   </country>
   <country uid="242" shortname="ALB" region="107" flag="Albania" tailformat="ZA-\\s3">
@@ -1309,6 +1439,7 @@
       <nl-NL name="Albania" />
       <zh-CN name="阿尔巴尼亚" />
       <da-DK name="Albanien" />
+      <es-ES name="Albania" />
     </translations>
   </country>
   <country uid="244" shortname="ARB" region="104" flag="Aruba" tailformat="P4-\\s3">
@@ -1319,6 +1450,7 @@
       <nl-NL name="Aruba" />
       <zh-CN name="阿鲁巴岛" />
       <da-DK name="Aruba" />
+      <es-ES name="Aruba" />
     </translations>
   </country>
   <country uid="248" shortname="BSH" region="107" flag="Bosnia &amp; Herzegovina" tailformat="T9-\\s3">
@@ -1329,6 +1461,7 @@
       <nl-NL name="Bosnia &amp; Herzegovina" />
       <zh-CN name="波斯尼亚 &amp; 黑塞戈维亚" />
       <da-DK name="Bosnien &amp;amp; Herzegovina" />
+      <es-ES name="Bosnia y Herzegovina" />
     </translations>
   </country>
   <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
@@ -1339,6 +1472,7 @@
       <nl-NL name="Nepal" />
       <zh-CN name="Missing" />
       <da-DK name="Nepal" />
+      <es-ES name="Nepal" />
     </translations>
   </country>
   <country uid="249" shortname="SBM" region="107" flag="Montenegro" tailformat="4O-\\s3">
@@ -1349,6 +1483,7 @@
       <nl-NL name="Montenegro" />
       <zh-CN name="黑山共和国" />
       <da-DK name="Montenegro" />
+      <es-ES name="Montenegro" />
     </translations>
   </country>
   <!--Next uid = 251-->
@@ -1362,6 +1497,7 @@
       <nl-NL name="American Samoa" />
       <zh-CN name="美属萨摩亚" />
       <da-DK name="American Samoa" />
+      <es-ES name="Samoa Americana" />
     </translations>
   </country>
   <country uid="200" shortname="BER" region="102" flag="Bermuda" tailformat="VQ-B\\s2">
@@ -1373,6 +1509,7 @@
       <nl-NL name="Bermuda" />
       <zh-CN name="百慕大群岛" />
       <da-DK name="Bermuda" />
+      <es-ES name="Bermudas" />
     </translations>
   </country>
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
@@ -1384,6 +1521,7 @@
       <nl-NL name="Curaçao" />
       <zh-CN name="库拉索岛" />
       <da-DK name="Curaçao" />
+      <es-ES name="Curaçao" />
     </translations>
   </country>
   <country uid="219" shortname="CAY" region="104" flag="Cayman Islands" tailformat="VP-C\\s2">
@@ -1395,6 +1533,7 @@
       <nl-NL name="Cayman Islands" />
       <zh-CN name="开曼群岛" />
       <da-DK name="Cayman Islands" />
+      <es-ES name="Islas Caimán" />
     </translations>
   </country>
   <country uid="245" shortname="CND" region="104" flag="Netherlands" tailformat="PJ-\\s3">
@@ -1406,6 +1545,7 @@
       <nl-NL name="Caribbean Netherlands" />
       <zh-CN name="加勒比荷兰" />
       <da-DK name="Hollandsk Caribien" />
+      <es-ES name="Holanda Caribe" />
     </translations>
   </country>
   <country uid="112" shortname="FO" region="113" flag="Faroe Islands" tailformat="OY-\\d4">
@@ -1417,6 +1557,7 @@
       <nl-NL name="Faeröer" />
       <zh-CN name="法罗群岛" />
       <da-DK name="Færøerne" />
+      <es-ES name="Islas Faroe" />
     </translations>
   </country>
   <country uid="218" shortname="FRG" region="101" flag="France" tailformat="F-O\\s3">
@@ -1428,6 +1569,7 @@
       <nl-NL name="French Guiana" />
       <zh-CN name="法属圭亚那" />
       <da-DK name="French Guiana" />
+      <es-ES name="Guayana francesa" />
     </translations>
   </country>
   <country uid="201" shortname="GIB" region="107" flag="Gibraltar" tailformat="VP-G\\s2">
@@ -1439,6 +1581,7 @@
       <nl-NL name="Gibraltar" />
       <zh-CN name="直布罗陀" />
       <da-DK name="Gibraltar" />
+      <es-ES name="Gibraltar" />
     </translations>
   </country>
   <country uid="111" shortname="GRL" region="113" flag="Greenland" tailformat="OY-\\s3">
@@ -1450,6 +1593,7 @@
       <nl-NL name="Groenland" />
       <zh-CN name="格陵兰" />
       <da-DK name="Grønland" />
+      <es-ES name="Groenlandia" />
     </translations>
   </country>
   <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\\d5">
@@ -1461,6 +1605,7 @@
       <nl-NL name="Guam" />
       <zh-CN name="关岛" />
       <da-DK name="Guam" />
+      <es-ES name="Guam" />
     </translations>
   </country>
   <country uid="181" shortname="PUR" region="103" flag="Puerto Rico" tailformat="PUER-\\d3">
@@ -1472,6 +1617,7 @@
       <nl-NL name="Puerto Rico" />
       <zh-CN name="波多黎各" />
       <da-DK name="Puerto Rico" />
+      <es-ES name="Puerto Rico" />
     </translations>
   </country>
   <country uid="143" shortname="REU" region="109" flag="Reunion" tailformat="F-OD\\s2">
@@ -1483,6 +1629,7 @@
       <nl-NL name="Réunion" />
       <zh-CN name="留尼旺岛" />
       <da-DK name="Reunion" />
+      <es-ES name="Reunion" />
     </translations>
   </country>
   <country uid="109" shortname="STM" region="104" flag="Sint-Maarten" tailformat="PJ-\\s3">
@@ -1494,6 +1641,7 @@
       <nl-NL name="Sint-Maarten" />
       <zh-CN name="荷属圣马丁" />
       <da-DK name="Sint-Maarten" />
+      <es-ES name="Sint Maarten" />
     </translations>
   </country>
   <country uid="209" shortname="TC" region="104" flag="Turks and Caicos Islands" tailformat="VQ-T\\s2">
@@ -1505,6 +1653,7 @@
       <nl-NL name="Turks- en Caicoseilanden" />
       <zh-CN name="特克斯和凯科斯群岛" />
       <da-DK name="Turks- og Caicosøerne" />
+      <es-ES name="Islas Turcas y Caicos" />
     </translations>
   </country>
   <country uid="243" shortname="VIB" region="104" flag="Virgin Islands British" tailformat="VP-L\\s2">
@@ -1516,6 +1665,7 @@
       <nl-NL name="Maagdeneilanden (Brits)" />
       <zh-CN name="维尔京群岛 (英国)" />
       <da-DK name="Britiske Jomfruøer" />
+      <es-ES name="Islas Vírgenes (Reino Unido)" />
     </translations>
   </country>
   <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\\d5">
@@ -1527,6 +1677,7 @@
       <nl-NL name="Maagdeneilanden (VS)" />
       <zh-CN name="维尔京群岛 (美国)" />
       <da-DK name="Amerikanske Jomfruøer" />
+      <es-ES name="Islas Vírgenes (EE.)" />
     </translations>
   </country>
 </countries>

@@ -10,6 +10,7 @@
       <nl-NL name="Frequent flyer-programma" shortname="Flyer" />
       <zh-CN name="飞行常客奖励计划" shortname="常客" />
       <da-DK name="Loyalitetsprogram" shortname="Flyer" />
+      <es-ES name="Programa de Viajero Frecuente" shortname="Folleto" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="101" price="20000" fromyear="1950" monthlycost="8000">
@@ -22,6 +23,7 @@
       <nl-NL name="Vluchtmagazine" shortname="Magazine" />
       <zh-CN name="空中杂志" shortname="杂志" />
       <da-DK name="InFlight Magasin" shortname="Magasin" />
+      <es-ES name="Revista de Vuelo" shortname="Revista" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="102" price="30000" fromyear="1950" monthlycost="5000">
@@ -34,6 +36,7 @@
       <nl-NL name="Kranten service" shortname="Krant" />
       <zh-CN name="报纸服务" shortname="报纸" />
       <da-DK name="Avis service" shortname="News" />
+      <es-ES name="Servicio de Prensa" shortname="Prensa" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="103" price="500000" fromyear="1965" monthlycost="12000">
@@ -46,6 +49,7 @@
       <nl-NL name="Automated Booking System" shortname="Automated" />
       <zh-CN name="自动预订系统" shortname="自动化" />
       <da-DK name="Automatisk booking system" shortname="Automatisk" />
+      <es-ES name="Sistema de Reservas Automatizado" shortname="\nAutomatizado" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="104" price="750000" fromyear="1975" monthlycost="14000">
@@ -58,6 +62,7 @@
       <nl-NL name="Multi-Access Booking System" shortname="Computer" />
       <zh-CN name="多点预订系统" shortname="计算机" />
       <da-DK name="Multi-bruger booking system" shortname="Computer" />
+      <es-ES name="Sistema de Reserva de Acceso Múltiple" shortname="Ordenador" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="105" price="1000000" fromyear="1997" monthlycost="15000">
@@ -70,6 +75,7 @@
       <nl-NL name="Online Booking System" shortname="Booking" />
       <zh-CN name="在线预订系统" shortname="预订" />
       <da-DK name="Online booking system" shortname="Booking" />
+      <es-ES name="Sistema de Reserva en Línea" shortname="Reserva" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="106" price="300000" fromyear="2008" monthlycost="13000">
@@ -82,6 +88,7 @@
       <nl-NL name="Online inchecken" shortname="Online" />
       <zh-CN name="在线值机" shortname="在线" />
       <da-DK name="Online check-in" shortname="Online" />
+      <es-ES name="Facturación en Línea" shortname="En línea" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="107" price="400000" fromyear="2010" monthlycost="25000">
@@ -94,6 +101,7 @@
       <nl-NL name="In-flight Wi-Fi Access" shortname="Wi-FI" />
       <zh-CN name="空中无线网络" shortname="Wi-FI" />
       <da-DK name="Wi-Fi ombord" shortname="Wi-FI" />
+      <es-ES name="Acceso Wi-Fi en vuelo" shortname="Wi-FI" />
     </translations>
   </airlinefacility>
   <airlinefacility uid="108" price="2500000" fromyear="2006" monthlycost="100000">
@@ -106,6 +114,7 @@
       <nl-NL name="Uitvoerende Gastvrijheid" shortname="VIP" />
       <zh-CN name="行政贵宾服务" shortname="VIP" />
       <da-DK name="Eksklusiv VIP service" shortname="VIP" />
+      <es-ES name="Servicio VIP Ejecutivo" shortname="VIP" />
     </translations>
   </airlinefacility>
 </airlinefacilities>

@@ -13,6 +13,7 @@
       <nl-NL name="Geen" />
       <zh-CN name="无" />
       <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
   <airportfacility uid="101" shortname="Lounge None" type="Lounge" typelevel="0" price="0" buildingdays="0">
@@ -27,6 +28,7 @@
       <nl-NL name="Geen" />
       <zh-CN name="无" />
       <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
   <airportfacility uid="102" shortname="CheckIn None" type="CheckIn" typelevel="0" price="0" buildingdays="0">
@@ -41,6 +43,7 @@
       <nl-NL name="Geen" />
       <zh-CN name="无" />
       <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
   <airportfacility uid="103" shortname="SelfCheck None" type="SelfCheck" typelevel="0" price="0" buildingdays="0">
@@ -55,6 +58,7 @@
       <nl-NL name="Geen" />
       <zh-CN name="无" />
       <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
   <airportfacility uid="104" shortname="Ticket None" type="TicketOffice" typelevel="0" price="0" buildingdays="0">
@@ -69,6 +73,7 @@
       <nl-NL name="Geen" />
       <zh-CN name="无" />
       <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
   <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000" buildingdays="45">
@@ -83,6 +88,7 @@
       <nl-NL name="Eenvoudige informatiebalie" />
       <zh-CN name="简陋服务中心" />
       <da-DK name="Basis ServiceCenter" />
+      <es-ES name="Centro de Servicio Básico" />
     </translations>
   </airportfacility>
   <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000" buildingdays="60">
@@ -97,6 +103,7 @@
       <nl-NL name="Servicecentrum" />
       <zh-CN name="服务中心" />
       <da-DK name="ServiceCenter" />
+      <es-ES name="Centro de Servicio" />
     </translations>
   </airportfacility>
   <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000" buildingdays="120">
@@ -111,6 +118,7 @@
       <nl-NL name="Uitgebreid servicecentrum" />
       <zh-CN name="大型服务中心" />
       <da-DK name="Større ServiceCenter" />
+      <es-ES name="Centro de Servicio Grande" />
     </translations>
   </airportfacility>
   <airportfacility uid="108" shortname="Business Lounge" type="Lounge" typelevel="1" price="100000" buildingdays="40">
@@ -125,6 +133,7 @@
       <nl-NL name="Business Lounge" />
       <zh-CN name="商务休息室" />
       <da-DK name="Business Lunge" />
+      <es-ES name="Salón Ejecutivo" />
     </translations>
   </airportfacility>
   <airportfacility uid="109" shortname="FirstClass Lounge" type="Lounge" typelevel="2" price="175000" buildingdays="60">
@@ -139,6 +148,7 @@
       <nl-NL name="First Class Lounge" />
       <zh-CN name="贵宾休息室" />
       <da-DK name="First Class Lounge" />
+      <es-ES name="Salón de Primera Clase" />
     </translations>
   </airportfacility>
   <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500" buildingdays="0">
@@ -153,6 +163,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="登机手续办理台" />
       <da-DK name="Check-in desks" />
+      <es-ES name="Mostradores de Facturación" />
     </translations>
   </airportfacility>
   <airportfacility uid="111" shortname="Self CheckIn" type="SelfCheck" typelevel="1" price="330" buildingdays="5">
@@ -167,6 +178,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="自助值机" />
       <da-DK name="Selvbetjeningscheckin" />
+      <es-ES name="Autofacturación" />
     </translations>
   </airportfacility>
   <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="129500" buildingdays="10">
@@ -181,6 +193,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="机场售票处" />
       <da-DK name="Lufthavnsbilletkontor" />
+      <es-ES name="Oficina de Billetes" />
     </translations>
   </airportfacility>
   <!-- <airportfacility uid="113" shortname="International Departures" type="IntlService" typelevel="1" price="260000" buildingdays="10">

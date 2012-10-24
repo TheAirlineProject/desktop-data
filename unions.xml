@@ -8,6 +8,7 @@
       <nl-NL name="Europese Unie" />
       <zh-CN name="欧洲联盟" />
       <da-DK name="Europæiske Union" />
+      <es-ES name="Unión Europea" />
     </translations>
     <period creation="11.01.1993 00:00:00" obsolete="03.10.2090 00:00:00" />
     <members>
@@ -69,6 +70,7 @@
       <nl-NL name="Warsaw Pact" />
       <zh-CN name="华沙条约组织" />
       <da-DK name="Warszawapagten" />
+      <es-ES name="Pacto de Varsovia" />
     </translations>
     <period creation="05.14.1955 00:00:00" obsolete="07.01.1991 00:00:00" />
     <members>
@@ -98,6 +100,7 @@
       <nl-NL name="NATO" />
       <zh-CN name="北大西洋公约组织" />
       <da-DK name="NATO" />
+      <es-ES name="OTAN" />
     </translations>
     <period creation="04.04.1949 00:00:00" obsolete="07.01.2099 00:00:00" />
     <members>

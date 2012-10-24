@@ -12,6 +12,7 @@
       <nl-NL name="Geen hoofdtelefoon" />
       <zh-CN name="没有音乐服务" />
       <da-DK name="Ingen lydsystem" />
+      <es-ES name="Sin Audio" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="101" type="Audio" fromyear="1977">
@@ -26,6 +27,7 @@
       <nl-NL name="Persoonlijke Radio" />
       <zh-CN name="标准音乐服务" />
       <da-DK name="Personligt lydsystem" />
+      <es-ES name="Radio Personal" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="102" type="Audio" fromyear="1982">
@@ -40,6 +42,7 @@
       <nl-NL name="Standaard audiopakket" />
       <zh-CN name="标准音乐服务" />
       <da-DK name="Standard Audio on Demand" />
+      <es-ES name="Audio Estándar por encargo" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="103" type="Audio" fromyear="1995">
@@ -54,6 +57,7 @@
       <nl-NL name="Uitgebreid audiopakket" />
       <zh-CN name="高级音乐服务" />
       <da-DK name="Udvidet Audio on Demand" />
+      <es-ES name="Audio por encargo ampliado" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="104" type="Seat" fromyear="1950">
@@ -68,6 +72,7 @@
       <nl-NL name="Standaard stoelen" />
       <zh-CN name="标准座舱" />
       <da-DK name="Standard sæder" />
+      <es-ES name="Asientos Estándar" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="105" type="Seat" fromyear="1960">
@@ -82,6 +87,7 @@
       <nl-NL name="Comfort stoelen" />
       <zh-CN name="高级座舱" />
       <da-DK name="Premium sæder" />
+      <es-ES name="Asientos  Superiores" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="106" type="Seat" fromyear="1970">
@@ -96,6 +102,7 @@
       <nl-NL name="Luxury Seats" />
       <zh-CN name="豪华座舱" />
       <da-DK name="Luksussæder" />
+      <es-ES name="Asientos de Lujo" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="107" type="Seat" fromyear="1980">
@@ -110,6 +117,7 @@
       <nl-NL name="Extra brede stoel" />
       <zh-CN name="婴儿座" />
       <da-DK name="Missing" />
+      <es-ES name="Asientos Cuna" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="108" type="Seat" fromyear="1990">
@@ -124,6 +132,7 @@
       <nl-NL name="Standaard ligstoel" />
       <zh-CN name="固定角度的靠背椅" />
       <da-DK name="Missing" />
+      <es-ES name="Asientos Reclinables" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="109" type="Seat" fromyear="1997">
@@ -138,6 +147,7 @@
       <nl-NL name="Comfort ligstoel" />
       <zh-CN name="全角度靠背椅" />
       <da-DK name="Missing" />
+      <es-ES name="Asientos Cama" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="110" type="Seat" fromyear="1999">
@@ -152,6 +162,7 @@
       <nl-NL name="Comfort bed-stoel" />
       <zh-CN name="平整的床" />
       <da-DK name="Missing" />
+      <es-ES name="Asientos Cama" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="111" type="Video" fromyear="1950">
@@ -166,6 +177,7 @@
       <nl-NL name="Geen video" />
       <zh-CN name="无视频服务" />
       <da-DK name="Ingen video" />
+      <es-ES name="Sin Video" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="112" type="Video" fromyear="1965">
@@ -180,6 +192,7 @@
       <nl-NL name="Films tijdens de vlucht" />
       <zh-CN name="空中影院系统" />
       <da-DK name="In-flight video system" />
+      <es-ES name="Sistema de Película de abordo" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="114" type="Video" fromyear="1988">
@@ -194,6 +207,7 @@
       <nl-NL name="Persoonlijk beeldscherm" />
       <zh-CN name="标准 PTV" />
       <da-DK name="Standard PTV" />
+      <es-ES name="Televisión de Pago Estándar" />
     </translations>
   </airlinerfacility>
   <airlinerfacility uid="115" type="Video" fromyear="1997">
@@ -208,6 +222,7 @@
       <nl-NL name="Interactief persoonlijk beeldscherm" />
       <zh-CN name="高级 PTV" />
       <da-DK name="Udvidet PTV" />
+      <es-ES name="Televisión de Pago Ampliada" />
     </translations>
   </airlinerfacility>
 </airlinerfacilities>
