@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="Antonov" name="Antonov An-10" price="3200000">
+  <airliner manufacturer="Antonov" name="Antonov An-10" price="3200090">
     <type body="Narrow_Body" rangetype="Short_Range" engine="Turboprop"/>
 	<specs wingspan="38" length="34" range="4075" speed="610" fuelcapacity="17120" consumption="0.042" runwaylengthrequired="720"/>
 	<capacity passengers="100" cockpitcrew="2" cabincrew="4" maxclasses="2"/>

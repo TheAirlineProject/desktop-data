@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airliners>
+  <airliner manufacturer="Aerospatiale" name="Aerospatiale-BAC Concorde" price="36813010">
+    <type body="Single_Aisle" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="25.6" length="61.66" range="7250" speed="2158" fuelcapacity="119010" consumption="0.164" runwaylengthrequired="3000"/>
+    <capacity passengers="120" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
+    <produced from="1976" to="2003"/>
+  </airliner>
+  <airliner manufacturer="Aerospatiale" name="Aerospatiale N 262" price="1224500">
+    <type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
+    <specs wingspan="21.9" length="19.28" range="1110" speed="360" fuelcapacity="1992" consumption="0.069" runwaylengthrequired="1000"/>
+    <capacity passengers="26" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    <produced from="1964" to="1976"/>
+  </airliner>
+</airliners>
+  

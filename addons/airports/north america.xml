@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--must be placed in \data\addons\airports-->
+<!--new airports at end-->
 <airports>
 <!--Canada (C***)-->
   <airport name="Edmonton International Airport" icao="CYEG" iata="YEG" type="Long_Haul_International" season="All_Year">

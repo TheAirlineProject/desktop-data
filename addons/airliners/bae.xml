@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
-  <airliner manufacturer="BAe" name="BAe 146-200" image="BAe 146" price="3803860"> <!--12800000-->
+  <airliner manufacturer="BAe" name="BAe 146-200" image="BAe 146" price="3803850"> <!--12800000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="26.21" length="28.60" range="2909" speed="801" fuelcapacity="11728" consumption="0.036" runwaylengthrequired="1300"/>
     <capacity passengers="112" cockpitcrew="2" cabincrew="2" maxclasses="2"/>

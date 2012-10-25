@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <airliners>
-	<airliner manufacturer="Ark" name="Ark 365-100" price="29374240"> <!--160000000-->
+	<airliner manufacturer="Ark" name="Ark 365-100" price="29374230"> <!--160000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 		<specs wingspan="54.5" length="69.5" range="18800" speed="860" fuelcapacity="315000" consumption="0.023" runwaylengthrequired="3030"/>
 		<capacity passengers="306" cockpitcrew="3" cabincrew="7" maxclasses="3"/>
