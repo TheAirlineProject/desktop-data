@@ -952,8 +952,198 @@
       <runway name="04/22" length="3352" surface="Asphalt" />
     </runways>
   </airport>
-  <!--Singapore (WS**)-->
+  <!--Nepal (????)-->
+  <airport name="Tribhuvan International Airport" icao="VNKT" iata="KTM" type="Long_Haul_International" season="All_Year">
+    <town town="Kathmandu" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°41'47''N" />
+      <longitude value="085°21'32''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal A" gates="9" />
+      <terminal name="Terminal B" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="3050" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lukla Airport" icao="VNLK" iata="LUA" type="Domestic" season="All_Year">
+    <town town="Lukla" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°41'12''N" />
+      <longitude value="086°43'46''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Biratnagar Airport" icao="VNVT" iata="BIR" type="Regional" season="All_Year">
+    <town town="Biratnagar" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="026°28'53''N" />
+      <longitude value="087°15'50''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1505" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pokhara Airport" icao="VNPK" iata="PKR" type="Regional" season="All_Year">
+    <town town="Pokhara" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°12'03''N" />
+      <longitude value="083°58'55''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1439" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Bhairahawa Airport" icao="VNBW" iata="BWA" type="Regional" season="All_Year">
+    <town town="Bhairawa" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°30'20''N" />
+      <longitude value="083°24'58''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1510" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Nepalgunj Airport" icao="VNNG" iata="KEP" type="Regional" season="All_Year">
+    <town town="Nepalgunj" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°06'12''N" />
+      <longitude value="081°40'01''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1504" surface="Asphalt" />
+    </runways>
+  </airport>
+ <airport name="Jumla Airport" icao="VNJL" iata="JUM" type="Domestic" season="All_Year">
+    <town town="Jumla" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="029°16'27''N" />
+      <longitude value="082°11'35''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Bharatpur Airport" icao="VNBP" iata="BHR" type="Domestic" season="All_Year">
+    <town town="Bharatpur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°40'41''N" />
+      <longitude value="084°25'45''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Simara Airport" icao="VNSI" iata="SIF" type="Domestic" season="All_Year">
+    <town town="Simara" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°09'34''N" />
+      <longitude value="084°58'48''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1192" surface="Asphalt" />
+    </runways>
+  </airport> 
+  <airport name="Janakpur Airport" icao="VNJP" iata="JKR" type="Domestic" season="All_Year">
+    <town town="Janakpur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="026°42'31''N" />
+      <longitude value="085°55'20''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1006" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Bhadrapur Airport" icao="VNCG" iata="BDP" type="Domestic" season="All_Year">
+    <town town="Bhadrapur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="026°34'14''N" />
+      <longitude value="088°04'46''E" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1209" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dhangarhi Airport" icao="VNDH" iata="DHI" type="Domestic" season="All_Year">
+    <town town="Dhangarhi" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°45'11''N" />
+      <longitude value="080°34'54''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1524" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Surkhet Airport" icao="VNSK" iata="SKH" type="Domestic" season="All_Year">
+    <town town="Surkhet" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°35'09''N" />
+      <longitude value="081°38'09''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1036" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Simikot Airport" icao="VNST" iata="IMK" type="Domestic" season="All_Year">  <!--Singapore (WS**)-->
   <airport name="Singapore Changi Airport" icao="WSSS" iata="SIN" type="Long_Haul_International" season="All_Year">
+
+    <town town="Simikot" country="251" GMT="05:30:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="029°58'15''N" />
+      <longitude value="081°49'08''E" />
+    </coordinates>
+    <size value="Smallest" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
     <town town="Singapore" country="174" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="001°21'20''N" />
