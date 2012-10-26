@@ -1400,6 +1400,111 @@
       <runway name="06/24" length="3200" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Wuhan Tianhe International Airport" icao="ZHHH" iata="WUH" type="Long_Haul_International" season="All_Year">
+    <town town="Wuhan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="30°47'01″N" />
+      <longitude value="114°12'29″E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal A" gates="24" />
+      <terminal name="Terminal B" gates="24" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dalian Zhoushuizi International Airport" icao="ZYTL" iata="DLC" type="Long_Haul_International" season="All_Year">
+    <town town="Dalian" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="38°57'56″N" />
+      <longitude value="121°32'18″E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal A" gates="24" />
+      <terminal name="Terminal B" gates="24" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Qingdao Liuting International Airport" icao="ZSQD" iata="TAO" type="Long_Haul_International" season="All_Year">
+    <town town="Qingdao" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="36°15'58″N" />
+      <longitude value="120°22'28″E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal A" gates="32" />
+      <terminal name="Terminal B" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="3400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Wulumuqi Diwobao International Airport" icao="ZWWW" iata="URC" type="Long_Haul_International" season="All_Year">
+    <town town="Wulumuqi" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="43°54'26″N" />
+      <longitude value="87°28'27″E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+		<terminal name="Terminal A" gates="32" />
+		<terminal name="Terminal B" gates="12" />
+		<terminal name="Terminal C" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3600" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sanya Fenghuang International Airport" icao="ZJSY" iata="SYX" type="Long_Haul_International" season="All_Year">
+    <town town="Sanya" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="18°18'10″N" />
+      <longitude value="109°24'44″E" />
+    </coordinates>
+    <size value="Large" />
+    <terminals>
+      <terminal name="Terminal A" gates="32" />
+      <terminal name="Terminal B" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3410" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Jinan Yaoqiang International Airport" icao="ZSJN" iata="TNA" type="Long_Haul_International" season="All_Year">
+    <town town="Jinan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="36°51'26″N" />
+      <longitude value="117°12'58″E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal A" gates="32" />
+      <terminal name="Terminal B" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="3601" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Harbin Taiping Airport" icao="ZYHB" iata="HRB" type="Long_Haul_International" season="All_Year">
+    <town town="Harbin" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="45°37'4″N" />
+      <longitude value="126°15'6″ E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal A" gates="32" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
     <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00" />
