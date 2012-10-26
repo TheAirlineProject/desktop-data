@@ -7,7 +7,7 @@
     <produced from="1983" to="1999"/>
   </airliner>
   <airliner manufacturer="BAe" name="BAe Jetstream 37" price="1722540">
-  <type body="Single_Aisle" rnagetype="Short_Range" engine="Turboprop"/>
+  <type body="Single_Aisle" rangetype="Short_Range" engine="Turboprop"/>
   <specs wingspan="15.85" length="14.37" range="2221" speed="433" fuelcapacity="1745" consumption="0.049" runwaylengthrequired="850"/>
   <capacity passengers="16" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
   <produced from="1967" to="1975"/>

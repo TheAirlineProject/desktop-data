@@ -1,1524 +1,1524 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--Southwest Asia (O***)-->
   <!--Bahrain (OB**)-->
   <airport name="Bahrain International Airport" icao="OBII" iata="BAH" type="Long_Haul_International" season="All_Year">
-    <town town="Bahrain" country="151" GMT="03:00:00" DST="03:00:00" />
+    <town town="Bahrain" country="151" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="026°16'15''N" />
-      <longitude value="050°38'01''E" />
+      <latitude value="026°16'15''N"/>
+      <longitude value="050°38'01''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="35" />
+      <terminal name="Terminal" gates="35"/>
     </terminals>
     <runways>
-      <runway name="12L/30R" length="3340" surface="Asphalt" />
-      <runway name="12R/30L" length="2530" surface="Asphalt" />
+      <runway name="12L/30R" length="3340" surface="Asphalt"/>
+      <runway name="12R/30L" length="2530" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Saudi Arabia (OE**)-->
   <airport name="King Fahd International Airport" icao="OEDF" iata="DMM" type="Long_Haul_International" season="All_Year">
-    <town town="Dammam" country="136" GMT="03:00:00" DST="03:00:00" />
+    <town town="Dammam" country="136" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="026°28'16''N" />
-      <longitude value="049°47'52''E" />
+      <latitude value="026°28'16''N"/>
+      <longitude value="049°47'52''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="31" />
+      <terminal name="Terminal" gates="31"/>
     </terminals>
     <runways>
-      <runway name="16L/34R" length="4000" surface="Asphalt" />
-      <runway name="16R/34L" length="4000" surface="Asphalt" />
+      <runway name="16L/34R" length="4000" surface="Asphalt"/>
+      <runway name="16R/34L" length="4000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="King Abdulaziz International Airport" icao="OEJN" iata="JED" type="Long_Haul_International" season="All_Year">
-    <town town="Jeddah" country="136" GMT="03:00:00" DST="03:00:00" />
+    <town town="Jeddah" country="136" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="021°40'46''N" />
-      <longitude value="039°09'23''E" />
+      <latitude value="021°40'46''N"/>
+      <longitude value="039°09'23''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="32" />
+      <terminal name="Terminal" gates="32"/>
     </terminals>
     <runways>
-      <runway name="16L/34R" length="4000" surface="Asphalt" />
-      <runway name="16C/34C" length="3299" surface="Concrete" />
-      <runway name="16R/34L" length="3800" surface="Asphalt" />
+      <runway name="16L/34R" length="4000" surface="Asphalt"/>
+      <runway name="16C/34C" length="3299" surface="Concrete"/>
+      <runway name="16R/34L" length="3800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="King Khalid International Airport" icao="OERK" iata="RUH" type="Long_Haul_International" season="All_Year">
-    <town town="Riyadh" country="136" GMT="03:00:00" DST="03:00:00" />
+    <town town="Riyadh" country="136" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="024°57'28''N" />
-      <longitude value="046°41'56''E" />
+      <latitude value="024°57'28''N"/>
+      <longitude value="046°41'56''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="15L/33R" length="4205" surface="Asphalt" />
-      <runway name="15R/33L" length="4205" surface="Asphalt" />
+      <runway name="15L/33R" length="4205" surface="Asphalt"/>
+      <runway name="15R/33L" length="4205" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Iran (OI**)-->
   <airport name="Tehran Imam Khomeini International Airport" icao="OIIE" iata="IKA" type="Long_Haul_International" season="All_Year">
-    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00" />
+    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00"/>
     <coordinates>
-      <latitude value="035°24'58''N" />
-      <longitude value="051°09'08''E" />
+      <latitude value="035°24'58''N"/>
+      <longitude value="051°09'08''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="47" />
+      <terminal name="Terminal" gates="47"/>
     </terminals>
     <runways>
-      <runway name="11L/29R" length="4198" surface="Asphalt" />
-      <runway name="11R/29L" length="4249" surface="Asphalt" />
+      <runway name="11L/29R" length="4198" surface="Asphalt"/>
+      <runway name="11R/29L" length="4249" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Mehrabad International Airport" icao="OIII" iata="THR" type="Long_Haul_International" season="All_Year">
-    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00" />
+    <town town="Tehran" country="177" GMT="04:30:00" DST="03:30:00"/>
     <coordinates>
-      <latitude value="035°41'21''N" />
-      <longitude value="051°18'48''E" />
+      <latitude value="035°41'21''N"/>
+      <longitude value="051°18'48''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="39" />
+      <terminal name="Terminal" gates="39"/>
     </terminals>
     <runways>
-      <runway name="9/27" length="474" surface="Concrete" />
-      <runway name="11L/29R" length="3992" surface="Asphalt" />
-      <runway name="11R/29L" length="4038" surface="Asphalt" />
+      <runway name="9/27" length="474" surface="Concrete"/>
+      <runway name="11L/29R" length="3992" surface="Asphalt"/>
+      <runway name="11R/29L" length="4038" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Mashhad International Airport" icao="OIMM" iata="MHD" type="Short_Haul_International" season="All_Year">
-    <town town="Mashad" country="177" GMT="04:30:00" DST="03:30:00" />
+    <town town="Mashad" country="177" GMT="04:30:00" DST="03:30:00"/>
     <coordinates>
-      <latitude value="036°14'20''N" />
-      <longitude value="059°38'17''E" />
+      <latitude value="036°14'20''N"/>
+      <longitude value="059°38'17''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="12" />
+      <terminal name="Terminal" gates="12"/>
     </terminals>
     <runways>
-      <runway name="14L/32R" length="3811" surface="Asphalt" />
-      <runway name="14R/32L" length="3925" surface="Asphalt" />
+      <runway name="14L/32R" length="3811" surface="Asphalt"/>
+      <runway name="14R/32L" length="3925" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Kuwait (OK**)-->
   <airport name="Kuwait International Airport" icao="OKBK" iata="KWI" type="Long_Haul_International" season="All_Year">
-    <town town="Kuwait City" country="126" GMT="03:00:00" DST="03:00:00" />
+    <town town="Kuwait City" country="126" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="029°13'35''N" />
-      <longitude value="047°58'08''E" />
+      <latitude value="029°13'35''N"/>
+      <longitude value="047°58'08''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="32" />
+      <terminal name="Terminal" gates="32"/>
     </terminals>
     <runways>
-      <runway name="15L/33R" length="3500" surface="Asphalt" />
-      <runway name="15R/33L" length="3400" surface="Concrete" />
+      <runway name="15L/33R" length="3500" surface="Asphalt"/>
+      <runway name="15R/33L" length="3400" surface="Concrete"/>
     </runways>
   </airport>
   <!--Lebanon/Beirut (OL**)-->
   <airport name="Beirut Rafic Hariri International Airport" icao="OLBA" iata="BEY" type="Long_Haul_International" season="All_Year">
-    <town town="Beirut" country="129" GMT="03:00:00" DST="02:00:00" />
+    <town town="Beirut" country="129" GMT="03:00:00" DST="02:00:00"/>
     <coordinates>
-      <latitude value="033°49'16''N" />
-      <longitude value="035°29'18''E" />
+      <latitude value="033°49'16''N"/>
+      <longitude value="035°29'18''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="23" />
+      <terminal name="Terminal" gates="23"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="3800" surface="Concrete" />
-      <runway name="16/34" length="3395" surface="Concrete" />
-      <runway name="17/35" length="3250" surface="Asphalt" />
+      <runway name="03/21" length="3800" surface="Concrete"/>
+      <runway name="16/34" length="3395" surface="Concrete"/>
+      <runway name="17/35" length="3250" surface="Asphalt"/>
     </runways>
   </airport>
   <!--United Arab Emirates (OM**)-->
   <airport name="Abu Dhabi International Airport" icao="OMAA" iata="AUH" type="Long_Haul_International" season="All_Year">
-    <town town="Abu Dhabi" country="156" GMT="04:00:00" DST="04:00:00" />
+    <town town="Abu Dhabi" country="156" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="024°25'58''N" />
-      <longitude value="054°39'04''E" />
+      <latitude value="024°25'58''N"/>
+      <longitude value="054°39'04''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal 1" gates="10" />
-      <terminal name="Terminal 2" gates="3" />
-      <terminal name="Terminal 3" gates="13" />
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="3"/>
+      <terminal name="Terminal 3" gates="13"/>
     </terminals>
     <runways>
-      <runway name="13L/31R" length="4100" surface="Asphalt" />
-      <runway name="13R/31L" length="4100" surface="Asphalt" />
+      <runway name="13L/31R" length="4100" surface="Asphalt"/>
+      <runway name="13R/31L" length="4100" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Dubai International Airport" icao="OMDB" iata="DXB" type="Long_Haul_International" season="All_Year">
-    <town town="Dubai" country="156" GMT="04:00:00" DST="04:00:00" />
+    <town town="Dubai" country="156" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="025°15'17''N" />
-      <longitude value="055°21'51''E" />
+      <latitude value="025°15'17''N"/>
+      <longitude value="055°21'51''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal 1" gates="80" />
-      <terminal name="Terminal 2" gates="21" />
+      <terminal name="Terminal 1" gates="80"/>
+      <terminal name="Terminal 2" gates="21"/>
     </terminals>
     <runways>
-      <runway name="12L/30R" length="4001" surface="Asphalt" />
-      <runway name="12R/30L" length="4445" surface="Asphalt" />
+      <runway name="12L/30R" length="4001" surface="Asphalt"/>
+      <runway name="12R/30L" length="4445" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Oman (OO**)-->
   <airport name="Muscat International Airport" icao="OOMS" iata="MCT" type="Long_Haul_International" season="All_Year">
-    <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00" />
+    <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="023°37'59''N" />
-      <longitude value="058°31'59''E" />
+      <latitude value="023°37'59''N"/>
+      <longitude value="058°31'59''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="14" />
+      <terminal name="Terminal" gates="14"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="750" surface="Dirt" />
-      <runway name="08/26" length="3584" surface="Asphalt" />
+      <runway name="02/20" length="750" surface="Dirt"/>
+      <runway name="08/26" length="3584" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Pakistan (OP**)-->
   <airport name="Jinnah International Airport" icao="OPKC" iata="KHI" type="Long_Haul_International" season="All_Year">
-    <town town="Karachi" country="202" GMT="05:00:00" DST="05:00:00" />
+    <town town="Karachi" country="202" GMT="05:00:00" DST="05:00:00"/>
     <coordinates>
-      <latitude value="024°54'24''N" />
-      <longitude value="067°09'38''E" />
+      <latitude value="024°54'24''N"/>
+      <longitude value="067°09'38''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="42" />
+      <terminal name="Terminal" gates="42"/>
     </terminals>
     <runways>
-      <runway name="07L/25R" length="3200" surface="Concrete" />
-      <runway name="07R/25L" length="3400" surface="Concrete" />
+      <runway name="07L/25R" length="3200" surface="Concrete"/>
+      <runway name="07R/25L" length="3400" surface="Concrete"/>
     </runways>
   </airport>
   <!--Iraq (OR**)-->
   <airport name="Baghdad International Airport" icao="ORBI" iata="BGW" type="Long_Haul_International" season="All_Year">
-    <town town="Baghdad" country="127" GMT="03:00:00" DST="03:00:00" />
+    <town town="Baghdad" country="127" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="033°15'45''N" />
-      <longitude value="044°14'04''E" />
+      <latitude value="033°15'45''N"/>
+      <longitude value="044°14'04''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="10" />
+      <terminal name="Terminal" gates="10"/>
     </terminals>
     <runways>
-      <runway name="15L/33R" length="3301" surface="Concrete" />
-      <runway name="15R/33L" length="4000" surface="Concrete" />
+      <runway name="15L/33R" length="3301" surface="Concrete"/>
+      <runway name="15R/33L" length="4000" surface="Concrete"/>
     </runways>
   </airport>
   <!--Qatar (OT**)-->
   <airport name="Doha International Airport" icao="OTBD" iata="DOH" type="Long_Haul_International" season="All_Year">
-    <town town="Doha" country="180" GMT="03:00:00" DST="03:00:00" />
+    <town town="Doha" country="180" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
-      <latitude value="025°15'40''N" />
-      <longitude value="051°33'54''E" />
+      <latitude value="025°15'40''N"/>
+      <longitude value="051°33'54''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="60" />
+      <terminal name="Terminal" gates="60"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="4572" surface="Asphalt" />
+      <runway name="16/34" length="4572" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Western North Pacific (R***)-->
   <!--Taiwan (RC**)-->
   <airport name="Kaohsiung International Airport" icao="RCKH" iata="KHH" type="Long_Haul_International" season="All_Year">
-    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="022°34'37''N" />
-      <longitude value="120°21'00''E" />
+      <latitude value="022°34'37''N"/>
+      <longitude value="120°21'00''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal 1" gates="35" />
-      <terminal name="Terminal 2" gates="80" />
+      <terminal name="Terminal 1" gates="35"/>
+      <terminal name="Terminal 2" gates="80"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3150" surface="Asphalt" />
+      <runway name="09/27" length="3150" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Taipei Songshan International Airport" icao="RCSS" iata="TSA" type="Long_Haul_International" season="All_Year">
-    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="025°04'10''N" />
-      <longitude value="121°33'06''E" />
+      <latitude value="025°04'10''N"/>
+      <longitude value="121°33'06''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal 1" gates="50" />
-      <terminal name="Terminal 2" gates="80" />
+      <terminal name="Terminal 1" gates="50"/>
+      <terminal name="Terminal 2" gates="80"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="2605" surface="Asphalt" />
+      <runway name="10/28" length="2605" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Taiwan Taoyuan International Airport" icao="RCTP" iata="TPE" type="Long_Haul_International" season="All_Year">
-    <town town="Taipei" country="172" GMT="08:00:00" DST="08:00:00" />
+    <town town="Taipei" country="172" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="025°04'48''N" />
-      <longitude value="121°13'56''E" />
+      <latitude value="025°04'48''N"/>
+      <longitude value="121°13'56''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal 1" gates="18" />
-      <terminal name="Terminal 2" gates="20" />
+      <terminal name="Terminal 1" gates="18"/>
+      <terminal name="Terminal 2" gates="20"/>
     </terminals>
     <runways>
-      <runway name="05L/23R" length="3660" surface="Concrete" />
-      <runway name="05R/23L" length="3350" surface="Concrete" />
+      <runway name="05L/23R" length="3660" surface="Concrete"/>
+      <runway name="05R/23L" length="3350" surface="Concrete"/>
     </runways>
   </airport>
   <!--Japan (RJ**)-->
   <airport name="Narita International Airport" icao="RJAA" iata="NRT" type="Long_Haul_International" season="All_Year">
-    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="035°45'53''N" />
-      <longitude value="140°23'11''E" />
+      <latitude value="035°45'53''N"/>
+      <longitude value="140°23'11''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="71" />
+      <terminal name="Terminal" gates="71"/>
     </terminals>
     <runways>
-      <runway name="16L/34R" length="4000" surface="Asphalt" />
-      <runway name="16R/34L" length="2500" surface="Asphalt" />
+      <runway name="16L/34R" length="4000" surface="Asphalt"/>
+      <runway name="16R/34L" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kansai International Airport" icao="RJBB" iata="KIX" type="Long_Haul_International" season="All_Year">
   <period from="09.04.1994 00:00:00" to="01.01.2199 00:00:00"/>
-    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="034°25'38''N" />
-      <longitude value="135°14'38''E" />
+      <latitude value="034°25'38''N"/>
+      <longitude value="135°14'38''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="47" />
+      <terminal name="Terminal" gates="47"/>
     </terminals>
     <runways>
-      <runway name="06L/24R" length="4000" surface="Asphalt" />
-      <runway name="06R/24L" length="3500" surface="Asphalt" />
+      <runway name="06L/24R" length="4000" surface="Asphalt"/>
+      <runway name="06R/24L" length="3500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="New Chitose Airport" icao="RJCC" iata="CTS" type="Short_Haul_International" season="All_Year">
-    <town town="Sapporo" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Sapporo" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="042°46'30''N" />
-      <longitude value="141°41'32''E" />
+      <latitude value="042°46'30''N"/>
+      <longitude value="141°41'32''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="37" />
+      <terminal name="Terminal" gates="37"/>
     </terminals>
     <runways>
-      <runway name="1L/19R" length="3000" surface="Asphalt" />
-      <runway name="1R/19L" length="3000" surface="Asphalt" />
-      <runway name="18L/36R" length="3000" surface="Asphalt" />
-      <runway name="18R/36L" length="2700" surface="Concrete" />
+      <runway name="1L/19R" length="3000" surface="Asphalt"/>
+      <runway name="1R/19L" length="3000" surface="Asphalt"/>
+      <runway name="18L/36R" length="3000" surface="Asphalt"/>
+      <runway name="18R/36L" length="2700" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Asahikawa Airport" icao="RJEC" iata="AKJ" type="Short_Haul_International" season="All_Year">
-    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="43°40'15''N" />
-      <longitude value="142°26'51''E" />
+      <latitude value="43°40'15''N"/>
+      <longitude value="142°26'51''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="10" />
+      <terminal name="Terminal" gates="10"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2500" surface="Asphalt" />
+      <runway name="16/34" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Fukuoka Airport" icao="RJFF" iata="FUK" type="Long_Haul_International" season="All_Year">
-    <town town="Fukuoka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Fukuoka" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="033°35'04''N" />
-      <longitude value="130°27'06''E" />
+      <latitude value="033°35'04''N"/>
+      <longitude value="130°27'06''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2800" surface="Asphalt" />
+      <runway name="16/34" length="2800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Chūbu Centrair International Airport" icao="RJGG" iata="NGO" type="Long_Haul_International" season="All_Year">
-    <town town="Tokoname City" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokoname City" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="034°51'30''N" />
-      <longitude value="136°48'19''E" />
+      <latitude value="034°51'30''N"/>
+      <longitude value="136°48'19''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="19" />
+      <terminal name="Terminal" gates="19"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="3500" surface="Concrete" />
+      <runway name="18/36" length="3500" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Osaka International Airport" icao="RJOO" iata="ITM" type="Long_Haul_International" season="All_Year">
-    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Osaka" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="034°47'04''N" />
-      <longitude value="135°26'21''E" />
+      <latitude value="034°47'04''N"/>
+      <longitude value="135°26'21''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="15" />
+      <terminal name="Terminal" gates="15"/>
     </terminals>
     <runways>
-      <runway name="14R/32L" length="3000" surface="Asphalt" />
-      <runway name="14L/32R" length="1820" surface="Asphalt" />
+      <runway name="14R/32L" length="3000" surface="Asphalt"/>
+      <runway name="14L/32R" length="1820" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Akita Airport" icao="RJSK" iata="AXT" type="Short_Haul_International" season="All_Year">
-    <town town="Akita" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Akita" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="39°36'56''N" />
-      <longitude value="140°13'07''E" />
+      <latitude value="39°36'56''N"/>
+      <longitude value="140°13'07''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="8" />
+      <terminal name="Terminal" gates="8"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="2500" surface="Asphalt" />
+      <runway name="10/28" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tokyo International Airport" icao="RJTT" iata="HND" type="Long_Haul_International" season="All_Year">
-    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokyo" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="035°33'08''N" />
-      <longitude value="139°46'46''E" />
+      <latitude value="035°33'08''N"/>
+      <longitude value="139°46'46''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal" gates="133" />
+      <terminal name="Terminal" gates="133"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="2500" surface="Asphalt" />
-      <runway name="05/23" length="2500" surface="Asphalt" />
-      <runway name="16L/34R" length="3000" surface="Asphalt" />
-      <runway name="16R/34RL" length="3000" surface="Asphalt" />
+      <runway name="04/22" length="2500" surface="Asphalt"/>
+      <runway name="05/23" length="2500" surface="Asphalt"/>
+      <runway name="16L/34R" length="3000" surface="Asphalt"/>
+      <runway name="16R/34RL" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <!--South Korea (RK**)-->
   <airport name="Jeju International Airport" icao="RKPC" iata="CJU" type="Short_Haul_International" season="All_Year">
-    <town town="Cheju" country="165" GMT="09:00:00" DST="09:00:00" />
+    <town town="Cheju" country="165" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="033°30'40''N" />
-      <longitude value="126°29'34''E" />
+      <latitude value="033°30'40''N"/>
+      <longitude value="126°29'34''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="06/24" length="3000" surface="Asphalt" />
-      <runway name="13/31" length="1910" surface="Asphalt" />
+      <runway name="06/24" length="3000" surface="Asphalt"/>
+      <runway name="13/31" length="1910" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Incheon International Airport" icao="RKSI" iata="ICN" type="Long_Haul_International" season="All_Year">
-    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
+    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="037°27'48''N" />
-      <longitude value="128°26'04''E" />
+      <latitude value="037°27'48''N"/>
+      <longitude value="128°26'04''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="74" />
+      <terminal name="Terminal" gates="74"/>
     </terminals>
     <runways>
-      <runway name="15L/33R" length="3750" surface="Asphalt" />
-      <runway name="15R/33L" length="3750" surface="Asphalt" />
-      <runway name="16/34" length="4000" surface="Asphalt" />
+      <runway name="15L/33R" length="3750" surface="Asphalt"/>
+      <runway name="15R/33L" length="3750" surface="Asphalt"/>
+      <runway name="16/34" length="4000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Gimpo Airport" icao="RKSS" iata="GMP" type="Short_Haul_International" season="All_Year">
-    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00" />
+    <town town="Seoul" country="165" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="037°33'29''N" />
-      <longitude value="126°47'26''E" />
+      <latitude value="037°33'29''N"/>
+      <longitude value="126°47'26''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="27" />
+      <terminal name="Terminal" gates="27"/>
     </terminals>
     <runways>
-      <runway name="14L/32R" length="3600" surface="Concrete" />
-      <runway name="14R/32L" length="3200" surface="Asphalt" />
+      <runway name="14L/32R" length="3600" surface="Concrete"/>
+      <runway name="14R/32L" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Philippines (RP**)-->
   <airport name="Ninoy Aquino International Airport" icao="RPLL" iata="MNL" type="Long_Haul_International" season="All_Year">
-    <town town="Manila" country="131" GMT="08:00:00" DST="08:00:00" />
+    <town town="Manila" country="131" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="014°30'31''N" />
-      <longitude value="121°01'10''E" />
+      <latitude value="014°30'31''N"/>
+      <longitude value="121°01'10''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="42" />
+      <terminal name="Terminal" gates="42"/>
     </terminals>
     <runways>
-      <runway name="06/24" length="3737" surface="Asphalt" />
-      <runway name="13/31" length="2258" surface="Asphalt" />
+      <runway name="06/24" length="3737" surface="Asphalt"/>
+      <runway name="13/31" length="2258" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Mactan-Cebu International Airport" icao="RPVM" iata="CEB" type="Long_Haul_International" season="All_Year">
-    <town town="Lapu-Lapu City" country="131" GMT="08:00:00" DST="08:00:00" />
+    <town town="Lapu-Lapu City" country="131" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="010°18'48''N" />
-      <longitude value="123°58'58''E" />
+      <latitude value="010°18'48''N"/>
+      <longitude value="123°58'58''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="6" />
+      <terminal name="Terminal" gates="6"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3300" surface="Asphalt" />
+      <runway name="04/22" length="3300" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Former Soviet States (U***)-->
   <!--Kazakhstan and Kyrgyzstan (UA**)-->
   <airport name="Astana International Airport" icao="UACC" iata="TSE" type="Long_Haul_International" season="All_Year">
-    <town town="Astana" country="236" GMT="05:00:00" DST="05:00:00" />
+    <town town="Astana" country="236" GMT="05:00:00" DST="05:00:00"/>
     <coordinates>
-      <latitude value="051°01'20''N" />
-      <longitude value="071°28'01''E" />
+      <latitude value="051°01'20''N"/>
+      <longitude value="071°28'01''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal 1" gates="6" />
-	  <terminal name="Terminal 2" gates="6" />
+      <terminal name="Terminal 1" gates="6"/>
+	  <terminal name="Terminal 2" gates="6"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3500" surface="Asphalt" />
+      <runway name="04/22" length="3500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Manas International Airport" icao="UAFM" iata="FRU" type="Long_Haul_International" season="All_Year">
-    <town town="Bishkek" country="239" GMT="06:00:00" DST="06:00:00" />
+    <town town="Bishkek" country="239" GMT="06:00:00" DST="06:00:00"/>
     <coordinates>
-      <latitude value="043°03'41''N" />
-      <longitude value="074°28'39''E" />
+      <latitude value="043°03'41''N"/>
+      <longitude value="074°28'39''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="12" />
+      <terminal name="Terminal" gates="12"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="4200" surface="Concrete" />
+      <runway name="08/26" length="4200" surface="Concrete"/>
     </runways>
   </airport>
   <!--Azerbaijan (UB**)-->
   <airport name="Heydar Aliyev International Airport" icao="UBBB" iata="GYD" type="Long_Haul_International" season="All_Year">
-    <town town="Baku" country="235" GMT="04:00:00" DST="04:00:00" />
+    <town town="Baku" country="235" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="040°28'03''N" />
-      <longitude value="050°02'48''E" />
+      <latitude value="040°28'03''N"/>
+      <longitude value="050°02'48''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="16" />
+      <terminal name="Terminal" gates="16"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2700" surface="Asphalt" />
-	  <runway name="18/36" length="3200" surface="Asphalt" />
+      <runway name="16/34" length="2700" surface="Asphalt"/>
+	  <runway name="18/36" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Armenia (UD**)-->
   <airport name="Zvartnots International Airport" icao="UDYZ" iata="EVN" type="Long_Haul_International" season="All_Year">
-    <town town="Yerevan" country="234" GMT="04:00:00" DST="04:00:00" />
+    <town town="Yerevan" country="234" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="040°08'50''N" />
-      <longitude value="044°23'45''E" />
+      <latitude value="040°08'50''N"/>
+      <longitude value="044°23'45''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="17" />
+      <terminal name="Terminal" gates="17"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3850" surface="Asphalt" />
+      <runway name="09/27" length="3850" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Georgia (UG**)-->
   <airport name="Tbilisi International Airport" icao="UGTB" iata="TBS" type="Long_Haul_International" season="All_Year">
-    <town town="Tbilisi" country="233" GMT="04:00:00" DST="04:00:00" />
+    <town town="Tbilisi" country="233" GMT="04:00:00" DST="04:00:00"/>
     <coordinates>
-      <latitude value="041°40'09''N" />
-      <longitude value="044°57'17''E" />
+      <latitude value="041°40'09''N"/>
+      <longitude value="044°57'17''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="10" />
+      <terminal name="Terminal" gates="10"/>
     </terminals>
     <runways>
-      <runway name="13L/31R" length="2500" surface="Concrete" />
-      <runway name="13R/31L" length="3000" surface="Concrete" />
+      <runway name="13L/31R" length="2500" surface="Concrete"/>
+      <runway name="13R/31L" length="3000" surface="Concrete"/>
     </runways>
   </airport>
   <!--Tajikistan, Turkmenistan and Uzbekistan (UT**)-->
   <airport name="Ashgabat International Airport" icao="UTAA" iata="ASB" type="Long_Haul_International" season="All_Year">
-    <town town="Ashgabat" country="238" GMT="06:00:00" DST="06:00:00" />
+    <town town="Ashgabat" country="238" GMT="06:00:00" DST="06:00:00"/>
     <coordinates>
-      <latitude value="037°59'13''N" />
-      <longitude value="058°21'39''E" />
+      <latitude value="037°59'13''N"/>
+      <longitude value="058°21'39''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-	  <runway name="11/29" length="1800" surface="Asphalt" />
-      <runway name="12L/30R" length="3800" surface="Concrete" />
-	  <runway name="12R/30L" length="2989" surface="Concrete" />
+	  <runway name="11/29" length="1800" surface="Asphalt"/>
+      <runway name="12L/30R" length="3800" surface="Concrete"/>
+	  <runway name="12R/30L" length="2989" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Dushanbe International Airport" icao="UTDD" iata="DYU" type="Long_Haul_International" season="All_Year">
-    <town town="Dushanbe" country="240" GMT="05:00:00" DST="05:00:00" />
+    <town town="Dushanbe" country="240" GMT="05:00:00" DST="05:00:00"/>
     <coordinates>
-      <latitude value="038°32'36''N" />
-      <longitude value="068°49'30''E" />
+      <latitude value="038°32'36''N"/>
+      <longitude value="068°49'30''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="9" />
+      <terminal name="Terminal" gates="9"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3100" surface="Asphalt" />
+      <runway name="09/27" length="3100" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tashkent International Airport" icao="UTTT" iata="TAS" type="Long_Haul_International" season="All_Year">
-    <town town="Tashkent" country="237" GMT="06:00:00" DST="06:00:00" />
+    <town town="Tashkent" country="237" GMT="06:00:00" DST="06:00:00"/>
     <coordinates>
-      <latitude value="041°15'28''N" />
-      <longitude value="069°16'52''E" />
+      <latitude value="041°15'28''N"/>
+      <longitude value="069°16'52''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="21" />
+      <terminal name="Terminal" gates="21"/>
     </terminals>
     <runways>
-      <runway name="08L/26R" length="4000" surface="Concrete" />
-	  <runway name="08R/26L" length="3905" surface="Asphalt" />
+      <runway name="08L/26R" length="4000" surface="Concrete"/>
+	  <runway name="08R/26L" length="3905" surface="Asphalt"/>
     </runways>
   </airport>
   <!--South Asia (V***)-->
   <!--India (VA**, VE**, VI** and VO**)-->
   <airport name="Chhatrapati Shivaji International Airport" icao="VABB" iata="BOM" type="Long_Haul_International" season="All_Year">
-    <town town="Mumbai" country="152" GMT="05:30:00" DST="05:30:00" />
+    <town town="Mumbai" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="019°05'19''N" />
-      <longitude value="072°52'04''E" />
+      <latitude value="019°05'19''N"/>
+      <longitude value="072°52'04''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="109" />
+      <terminal name="Terminal" gates="109"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3445" surface="Asphalt" />
-      <runway name="14/32" length="2925" surface="Asphalt" />
+      <runway name="09/27" length="3445" surface="Asphalt"/>
+      <runway name="14/32" length="2925" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Netaji Subhash Chandra Bose International Airport" icao="VECC" iata="CCU" type="Long_Haul_International" season="All_Year">
-    <town town="Calcutta" country="152" GMT="05:30:00" DST="05:30:00" />
+    <town town="Calcutta" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="022°39'17''N" />
-      <longitude value="088°26'48''E" />
+      <latitude value="022°39'17''N"/>
+      <longitude value="088°26'48''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal 1" gates="12" />
-      <terminal name="Terminal 2" gates="10" />
+      <terminal name="Terminal 1" gates="12"/>
+      <terminal name="Terminal 2" gates="10"/>
     </terminals>
     <runways>
-      <runway name="01L/19R" length="3220" surface="Asphalt" />
-      <runway name="01R/19L" length="3627" surface="Asphalt" />
+      <runway name="01L/19R" length="3220" surface="Asphalt"/>
+      <runway name="01R/19L" length="3627" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Indira Gandhi International Airport" icao="VIDP" iata="DEL" type="Long_Haul_International" season="All_Year">
-    <town town="Delhi" country="152" GMT="05:30:00" DST="05:30:00" />
+    <town town="Delhi" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="028°33'59''N" />
-      <longitude value="077°06'11''E" />
+      <latitude value="028°33'59''N"/>
+      <longitude value="077°06'11''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="60" />
+      <terminal name="Terminal" gates="60"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="2813" surface="Asphalt" />
-      <runway name="10/28" length="3810" surface="Asphalt" />
-      <runway name="11/29" length="4430" surface="Asphalt" />
+      <runway name="09/27" length="2813" surface="Asphalt"/>
+      <runway name="10/28" length="3810" surface="Asphalt"/>
+      <runway name="11/29" length="4430" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Bangalore International Airport" icao="VOBL" iata="BLR" type="Long_Haul_International" season="All_Year">
-    <town town="Bangalore" country="152" GMT="05:30:00" DST="05:30:00" />
+    <town town="Bangalore" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="012°56'59''N" />
-      <longitude value="077°40'05''E" />
+      <latitude value="012°56'59''N"/>
+      <longitude value="077°40'05''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="20" />
+      <terminal name="Terminal" gates="20"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="4000" surface="Asphalt" />
+      <runway name="09/27" length="4000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Chennai International Airport" icao="VOMM" iata="MAA" type="Long_Haul_International" season="All_Year">
-    <town town="Madras" country="152" GMT="05:30:00" DST="05:30:00" />
+    <town town="Madras" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="012°59'39''N" />
-      <longitude value="080°10'49''E" />
+      <latitude value="012°59'39''N"/>
+      <longitude value="080°10'49''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="31" />
+      <terminal name="Terminal" gates="31"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3658" surface="Asphalt" />
-      <runway name="12/30" length="2045" surface="Concrete" />
+      <runway name="07/25" length="3658" surface="Asphalt"/>
+      <runway name="12/30" length="2045" surface="Concrete"/>
     </runways>
   </airport>
   <!--Sri Lanka (VC**)-->
   <airport name="Bandaranaike International Airport" icao="VCBI" iata="CMB" type="Short_Haul_International" season="All_Year">
-    <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00" />
+    <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
-      <latitude value="007°10'45''N" />
-      <longitude value="079°52'59''E" />
+      <latitude value="007°10'45''N"/>
+      <longitude value="079°52'59''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="14" />
+      <terminal name="Terminal" gates="14"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3350" surface="Asphalt" />
+      <runway name="04/22" length="3350" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Bangladesh (VG**)-->
   <airport name="Shahjalal International Airport" icao="VGHS" iata="DAC" type="Long_Haul_International" season="All_Year">
-    <town town="Dhaka" country="216" GMT="06:00:00" DST="07:00:00" />
+    <town town="Dhaka" country="216" GMT="06:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="023°50'34''N" />
-      <longitude value="090°24'02''E" />
+      <latitude value="023°50'34''N"/>
+      <longitude value="090°24'02''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="13" />
+      <terminal name="Terminal" gates="13"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="3200" surface="Concrete" />
+      <runway name="14/32" length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <!--Hong Kong (VH**)-->
   <airport name="Hong Kong International Airport" icao="VHHH" iata="HKG" type="Long_Haul_International" season="All_Year">
   <period from="07.06.1998 00:00:00" to="01.01.2199 00:00:00"/>
-    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
+    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="022°18'32''N" />
-      <longitude value="113°54'52''E" />
+      <latitude value="022°18'32''N"/>
+      <longitude value="113°54'52''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal" gates="70" />
+      <terminal name="Terminal" gates="70"/>
     </terminals>
     <runways>
-      <runway name="07L/25R" length="3800" surface="Asphalt" />
-      <runway name="07R/25L" length="3800" surface="Asphalt" />
+      <runway name="07L/25R" length="3800" surface="Asphalt"/>
+      <runway name="07R/25L" length="3800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kai Tak Airport" icao="VHHH" iata="HKG" type="Long_Haul_International" season="All_Year">
   <period from="01.01.1954 00:00:00" to="07.06.1998 00:00:00"/>
-    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00" />
+    <town town="Hong Kong" country="176" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="022°19'43''N" />
-      <longitude value="114°11'39''E" />
+      <latitude value="022°19'43''N"/>
+      <longitude value="114°11'39''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="35" />
+      <terminal name="Terminal" gates="35"/>
     </terminals>
     <runways>
-      <runway name="13/31" length="3390" surface="Asphalt" />
+      <runway name="13/31" length="3390" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Thailand (VT**)-->
   <airport name="Bangkok International Airport" icao="VTBS" iata="BKK" type="Long_Haul_International" season="All_Year">
-    <town town="Bangkok" country="175" GMT="07:00:00" DST="07:00:00" />
+    <town town="Bangkok" country="175" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="013°54'45''N" />
-      <longitude value="100°36'24''E" />
+      <latitude value="013°54'45''N"/>
+      <longitude value="100°36'24''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal" gates="70" />
+      <terminal name="Terminal" gates="70"/>
     </terminals>
     <runways>
-      <runway name="01L/19R" length="3700" surface="Asphalt" />
-      <runway name="01R/19L" length="4000" surface="Asphalt" />
+      <runway name="01L/19R" length="3700" surface="Asphalt"/>
+      <runway name="01R/19L" length="4000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Chiang Mai International Airport" icao="VTCC" iata="CNX" type="Short_Haul_International" season="All_Year">
-    <town town="Chiang Mai" country="175" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chiang Mai" country="175" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="018°46'05''N" />
-      <longitude value="098°57'46''E" />
+      <latitude value="018°46'05''N"/>
+      <longitude value="098°57'46''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="8" />
+      <terminal name="Terminal" gates="8"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="3100" surface="Asphalt" />
+      <runway name="18/36" length="3100" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Phuket International Airport" icao="VTSP" iata="HKT" type="Long_Haul_International" season="All_Year">
-    <town town="Phuket" country="175" GMT="07:00:00" DST="07:00:00" />
+    <town town="Phuket" country="175" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="008°06'47''N" />
-      <longitude value="098°19'00''E" />
+      <latitude value="008°06'47''N"/>
+      <longitude value="098°19'00''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="12" />
+      <terminal name="Terminal" gates="12"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3000" surface="Asphalt" />
+      <runway name="09/27" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Vietnam (VV**)-->
   <airport name="Noi Bai International Airport" icao="VVNB" iata="HAN" type="Long_Haul_International" season="All_Year">
-    <town town="Hanoi" country="1007" GMT="07:00:00" DST="07:00:00" />
+    <town town="Hanoi" country="1007" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="021°13'15''N" />
-      <longitude value="105°48'25''E" />
+      <latitude value="021°13'15''N"/>
+      <longitude value="105°48'25''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="14" />
+      <terminal name="Terminal" gates="14"/>
     </terminals>
     <runways>
-      <runway name="11L/29R" length="3200" surface="Concrete" />
-      <runway name="11R/29L" length="3800" surface="Concrete" />
+      <runway name="11L/29R" length="3200" surface="Concrete"/>
+      <runway name="11R/29L" length="3800" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Tan Son Nhat International Airport" icao="VVTS" iata="SGN" type="Short_Haul_International" season="All_Year">
-    <town town="Ho Chi Minh City" country="1008" GMT="07:00:00" DST="07:00:00" />
+    <town town="Ho Chi Minh City" country="1008" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="010°49'08''N" />
-      <longitude value="106°39'07''E" />
+      <latitude value="010°49'08''N"/>
+      <longitude value="106°39'07''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="20" />
+      <terminal name="Terminal" gates="20"/>
     </terminals>
     <runways>
-      <runway name="07L/25R" length="3048" surface="Concrete" />
-      <runway name="07R/25L" length="3800" surface="Concrete" />
+      <runway name="07L/25R" length="3048" surface="Concrete"/>
+      <runway name="07R/25L" length="3800" surface="Concrete"/>
     </runways>
   </airport>
   <!--Southeast Asia (W***)-->
   <!--Indonesia (WA**, WI**, WR** and WQ**)-->
   <airport name="Juanda International Airport" icao="WARR" iata="SUB" type="Short_Haul_International" season="All_Year">
-    <town town="Surabaya" country="162" GMT="07:00:00" DST="07:00:00" />
+    <town town="Surabaya" country="162" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="007°22'47''S" />
-      <longitude value="112°47'12''E" />
+      <latitude value="007°22'47''S"/>
+      <longitude value="112°47'12''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal A" gates="11" />
-      <terminal name="Terminal B" gates="9" />
+      <terminal name="Terminal A" gates="11"/>
+      <terminal name="Terminal B" gates="9"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="3000" surface="Asphalt" />
+      <runway name="10/28" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Soekarno–Hatta International Airport" icao="WIII" iata="CGK" type="Long_Haul_International" season="All_Year">
-    <town town="Jakarta" country="162" GMT="07:00:00" DST="07:00:00" />
+    <town town="Jakarta" country="162" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="006°07'32''S" />
-      <longitude value="106°39'21''E" />
+      <latitude value="006°07'32''S"/>
+      <longitude value="106°39'21''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal 1" gates="21" />
-      <terminal name="Terminal 2" gates="21" />
-      <terminal name="Terminal 3" gates="3" />
+      <terminal name="Terminal 1" gates="21"/>
+      <terminal name="Terminal 2" gates="21"/>
+      <terminal name="Terminal 3" gates="3"/>
     </terminals>
     <runways>
-      <runway name="07L/25R" length="3998" surface="Asphalt" />
-      <runway name="07R/25L" length="3865" surface="Asphalt" />
+      <runway name="07L/25R" length="3998" surface="Asphalt"/>
+      <runway name="07R/25L" length="3865" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Polonia International Airport" icao="WIMM" iata="MES" type="Short_Haul_International" season="All_Year">
-    <town town="Medan" country="162" GMT="07:00:00" DST="07:00:00" />
+    <town town="Medan" country="162" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
-      <latitude value="003°34'00''N" />
-      <longitude value="098°40'59''E" />
+      <latitude value="003°34'00''N"/>
+      <longitude value="098°40'59''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal 1" gates="10" />
-      <terminal name="Terminal 2" gates="10" />
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="10"/>
     </terminals>
     <runways>
-      <runway name="05/23" length="3000" surface="Asphalt" />
+      <runway name="05/23" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Nepal (VN**)-->
   <airport name="Tribhuvan International Airport" icao="VNKT" iata="KTM" type="Long_Haul_International" season="All_Year">
-    <town town="Kathmandu" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Kathmandu" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="027°41'47''N" />
-      <longitude value="085°21'32''E" />
+      <latitude value="027°41'47''N"/>
+      <longitude value="085°21'32''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal A" gates="9" />
-      <terminal name="Terminal B" gates="4" />
+      <terminal name="Terminal A" gates="9"/>
+      <terminal name="Terminal B" gates="4"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="3050" surface="Asphalt" />
+      <runway name="02/20" length="3050" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Lukla Airport" icao="VNLK" iata="LUA" type="Domestic" season="All_Year">
-    <town town="Lukla" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Lukla" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="027°41'12''N" />
-      <longitude value="086°43'46''E" />
+      <latitude value="027°41'12''N"/>
+      <longitude value="086°43'46''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="4" />
+      <terminal name="Terminal A" gates="4"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Biratnagar Airport" icao="VNVT" iata="BIR" type="Regional" season="All_Year">
-    <town town="Biratnagar" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Biratnagar" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="026°28'53''N" />
-      <longitude value="087°15'50''E" />
+      <latitude value="026°28'53''N"/>
+      <longitude value="087°15'50''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal A" gates="6" />
+      <terminal name="Terminal A" gates="6"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="1505" surface="Asphalt" />
+      <runway name="09/27" length="1505" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Pokhara Airport" icao="VNPK" iata="PKR" type="Regional" season="All_Year">
-    <town town="Pokhara" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Pokhara" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="028°12'03''N" />
-      <longitude value="083°58'55''E" />
+      <latitude value="028°12'03''N"/>
+      <longitude value="083°58'55''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal A" gates="6" />
+      <terminal name="Terminal A" gates="6"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1439" surface="Asphalt" />
+      <runway name="04/22" length="1439" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Bhairahawa Airport" icao="VNBW" iata="BWA" type="Regional" season="All_Year">
-    <town town="Bhairawa" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Bhairawa" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="027°30'20''N" />
-      <longitude value="083°24'58''E" />
+      <latitude value="027°30'20''N"/>
+      <longitude value="083°24'58''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal A" gates="4" />
+      <terminal name="Terminal A" gates="4"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="1510" surface="Asphalt" />
+      <runway name="10/28" length="1510" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Nepalgunj Airport" icao="VNNG" iata="KEP" type="Regional" season="All_Year">
-    <town town="Nepalgunj" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Nepalgunj" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="028°06'12''N" />
-      <longitude value="081°40'01''E" />
+      <latitude value="028°06'12''N"/>
+      <longitude value="081°40'01''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal A" gates="4" />
+      <terminal name="Terminal A" gates="4"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="1504" surface="Asphalt" />
+      <runway name="08/26" length="1504" surface="Asphalt"/>
     </runways>
   </airport>
  <airport name="Jumla Airport" icao="VNJL" iata="JUM" type="Domestic" season="All_Year">
-    <town town="Jumla" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Jumla" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="029°16'27''N" />
-      <longitude value="082°11'35''E" />
+      <latitude value="029°16'27''N"/>
+      <longitude value="082°11'35''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Bharatpur Airport" icao="VNBP" iata="BHR" type="Domestic" season="All_Year">
-    <town town="Bharatpur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Bharatpur" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="027°40'41''N" />
-      <longitude value="084°25'45''E" />
+      <latitude value="027°40'41''N"/>
+      <longitude value="084°25'45''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Simara Airport" icao="VNSI" iata="SIF" type="Domestic" season="All_Year">
-    <town town="Simara" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Simara" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="027°09'34''N" />
-      <longitude value="084°58'48''E" />
+      <latitude value="027°09'34''N"/>
+      <longitude value="084°58'48''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="3" />
+      <terminal name="Terminal A" gates="3"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="1192" surface="Asphalt" />
+      <runway name="01/19" length="1192" surface="Asphalt"/>
     </runways>
   </airport> 
   <airport name="Janakpur Airport" icao="VNJP" iata="JKR" type="Domestic" season="All_Year">
-    <town town="Janakpur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Janakpur" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="026°42'31''N" />
-      <longitude value="085°55'20''E" />
+      <latitude value="026°42'31''N"/>
+      <longitude value="085°55'20''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="3" />
+      <terminal name="Terminal A" gates="3"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="1006" surface="Asphalt" />
+      <runway name="09/27" length="1006" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Bhadrapur Airport" icao="VNCG" iata="BDP" type="Domestic" season="All_Year">
-    <town town="Bhadrapur" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Bhadrapur" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="026°34'14''N" />
-      <longitude value="088°04'46''E" />
+      <latitude value="026°34'14''N"/>
+      <longitude value="088°04'46''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal A" gates="5" />
+      <terminal name="Terminal A" gates="5"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="1209" surface="Asphalt" />
+      <runway name="10/28" length="1209" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Dhangarhi Airport" icao="VNDH" iata="DHI" type="Domestic" season="All_Year">
-    <town town="Dhangarhi" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Dhangarhi" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="028°45'11''N" />
-      <longitude value="080°34'54''E" />
+      <latitude value="028°45'11''N"/>
+      <longitude value="080°34'54''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="1524" surface="Asphalt" />
+      <runway name="09/27" length="1524" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Surkhet Airport" icao="VNSK" iata="SKH" type="Domestic" season="All_Year">
-    <town town="Surkhet" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Surkhet" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="028°35'09''N" />
-      <longitude value="081°38'09''E" />
+      <latitude value="028°35'09''N"/>
+      <longitude value="081°38'09''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="1036" surface="Asphalt" />
+      <runway name="02/20" length="1036" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Simikot Airport" icao="VNST" iata="IMK" type="Domestic" season="All_Year">  <!--Singapore (WS**)-->
-    <town town="Simikot" country="251" GMT="05:30:00" DST="00:00:00" />
+    <town town="Simikot" country="251" GMT="05:30:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="029°58'15''N" />
-      <longitude value="081°49'08''E" />
+      <latitude value="029°58'15''N"/>
+      <longitude value="081°49'08''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <!--Malaysia (WB**, WM**)-->
   <airport name="Kuching International Airport" icao="WBGG" iata="KCH" type="Short_Haul_International" season="All_Year">
-    <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="001°29'04''N" />
-      <longitude value="110°20'48''E" />
+      <latitude value="001°29'04''N"/>
+      <longitude value="110°20'48''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="9" />
+      <terminal name="Terminal" gates="9"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3780" surface="Asphalt" />
+      <runway name="07/25" length="3780" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kota Kinabalu International Airport" icao="WBKK" iata="BKI" type="Short_Haul_International" season="All_Year">
-    <town town="Kota Kinabalu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kota Kinabalu" country="173" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="005°56'13''N" />
-      <longitude value="116°02'59''E" />
+      <latitude value="005°56'13''N"/>
+      <longitude value="116°02'59''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal 1" gates="26" />
-      <terminal name="Terminal 2" gates="6" />
+      <terminal name="Terminal 1" gates="26"/>
+      <terminal name="Terminal 2" gates="6"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3780" surface="Asphalt" />
+      <runway name="07/25" length="3780" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kuala Lumpur International Airport" icao="WMKK" iata="KUL" type="Long_Haul_International" season="All_Year">
-    <town town="Kuala Lumpur" country="173" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kuala Lumpur" country="173" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="002°44'44''N" />
-      <longitude value="101°42'35''E" />
+      <latitude value="002°44'44''N"/>
+      <longitude value="101°42'35''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Main Terminal" gates="43" />
-      <terminal name="Satellite Terminal A" gates="41" />
+      <terminal name="Main Terminal" gates="43"/>
+      <terminal name="Satellite Terminal A" gates="41"/>
     </terminals>
     <runways>
-      <runway name="14L/32R" length="4124" surface="Concrete" />
-      <runway name="14R/32L" length="4056" surface="Concrete" />
+      <runway name="14L/32R" length="4124" surface="Concrete"/>
+      <runway name="14R/32L" length="4056" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Penang International Airport" icao="WMKP" iata="PEN" type="Short_Haul_International" season="All_Year">
-    <town town="Penang" country="173" GMT="08:00:00" DST="08:00:00" />
+    <town town="Penang" country="173" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="005°17'59''N" />
-      <longitude value="100°16'00''E" />
+      <latitude value="005°17'59''N"/>
+      <longitude value="100°16'00''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="12" />
+      <terminal name="Terminal" gates="12"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3352" surface="Asphalt" />
+      <runway name="04/22" length="3352" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Singapore (WS**)-->
   <airport name="Singapore Changi Airport" icao="WSSS" iata="SIN" type="Long_Haul_International" season="All_Year">
-    <town town="Singapore" country="174" GMT="08:00:00" DST="08:00:00" />
+    <town town="Singapore" country="174" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="001°21'20''N" />
-      <longitude value="103°59'14''E" />
+      <latitude value="001°21'20''N"/>
+      <longitude value="103°59'14''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal 1" gates="45" />
-      <terminal name="Terminal 2" gates="46" />
-      <terminal name="Terminal 3" gates="28" />
+      <terminal name="Terminal 1" gates="45"/>
+      <terminal name="Terminal 2" gates="46"/>
+      <terminal name="Terminal 3" gates="28"/>
     </terminals>
     <runways>
-      <runway name="02L/20R" length="4000" surface="Concrete" />
-      <runway name="02C/20C" length="4000" surface="Concrete" />
-      <runway name="02R/20L" length="2750" surface="Asphalt" />
+      <runway name="02L/20R" length="4000" surface="Concrete"/>
+      <runway name="02C/20C" length="4000" surface="Concrete"/>
+      <runway name="02R/20L" length="2750" surface="Asphalt"/>
     </runways>
   </airport>
   <!--China (Z***) except ZK** and ZM**-->
   <airport name="Beijing Capital International Airport" icao="ZBAA" iata="PEK" type="Long_Haul_International" season="All_Year">
-    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="040°04'48''N" />
-      <longitude value="116°35'04''E" />
+      <latitude value="040°04'48''N"/>
+      <longitude value="116°35'04''E"/>
     </coordinates>
-    <size value="Largest" />
+    <size value="Largest"/>
     <terminals>
-      <terminal name="Terminal 1" gates="16" />
-      <terminal name="Terminal 2" gates="20" />
-      <terminal name="Terminal 3" gates="120" />
+      <terminal name="Terminal 1" gates="16"/>
+      <terminal name="Terminal 2" gates="20"/>
+      <terminal name="Terminal 3" gates="120"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="3800" surface="Concrete" />
-      <runway name="18L/36R" length="3800" surface="Asphalt" />
-      <runway name="18R/36L" length="3200" surface="Asphalt" />
+      <runway name="01/19" length="3800" surface="Concrete"/>
+      <runway name="18L/36R" length="3800" surface="Asphalt"/>
+      <runway name="18R/36L" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Zhengzhou Xinzheng International Airport" icao="ZHCC" iata="CGO" type="Short_Haul_International" season="All_Year">
-    <town town="Zhengzhou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Zhengzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="034°31'10''N" />
-      <longitude value="113°50'27''E" />
+      <latitude value="034°31'10''N"/>
+      <longitude value="113°50'27''E"/>
     </coordinates>
-    <size value="Very_small" />
+    <size value="Very_small"/>
     <terminals>
-      <terminal name="Terminal" gates="16" />
+      <terminal name="Terminal" gates="16"/>
     </terminals>
     <runways>
-      <runway name="12/30" length="3400" surface="Concrete" />
+      <runway name="12/30" length="3400" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Guangzhou Baiyun International Airport" icao="ZGGG" iata="CAN" type="Long_Haul_International" season="All_Year">
-    <town town="Guangzhou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Guangzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="023°11'03''N" />
-      <longitude value="113°15'57''E" />
+      <latitude value="023°11'03''N"/>
+      <longitude value="113°15'57''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="61" />
+      <terminal name="Terminal" gates="61"/>
     </terminals>
     <runways>
-      <runway name="02L/20R" length="3600" surface="Concrete" />
-      <runway name="02R/20L" length="3800" surface="Concrete" />
+      <runway name="02L/20R" length="3600" surface="Concrete"/>
+      <runway name="02R/20L" length="3800" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Changsha Huanghua International Airport" icao="ZGHA" iata="CSX" type="Long_Haul_International" season="All_Year">
-    <town town="Changsha" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Changsha" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="028°11'48''N" />
-      <longitude value="113°13'15''E" />
+      <latitude value="028°11'48''N"/>
+      <longitude value="113°13'15''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal 1" gates="40" />
-      <terminal name="Terminal 2" gates="80" />
+      <terminal name="Terminal 1" gates="40"/>
+      <terminal name="Terminal 2" gates="80"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="3200" surface="Concrete" />
+      <runway name="18/36" length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Shenzhen Bao'an International Airport" icao="ZGSZ" iata="SZX" type="Long_Haul_International" season="All_Year">
-    <town town="Shenzhen" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shenzhen" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="022°38'22''N" />
-      <longitude value="113°48'44''E" />
+      <latitude value="022°38'22''N"/>
+      <longitude value="113°48'44''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="53" />
+      <terminal name="Terminal" gates="53"/>
     </terminals>
     <runways>
-      <runway name="15/33" length="3400" surface="Concrete" />
-      <runway name="16/34" length="3800" surface="Concrete" />
+      <runway name="15/33" length="3400" surface="Concrete"/>
+      <runway name="16/34" length="3800" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Haikou Meilan International Airport" icao="ZJHK" iata="HAK" type="Long_Haul_International" season="All_Year">
-    <town town="Haikou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Haikou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="019°56'05''N" />
-      <longitude value="110°27'32''E" />
+      <latitude value="019°56'05''N"/>
+      <longitude value="110°27'32''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3600" surface="Concrete" />
+      <runway name="09/27" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Xi'an Xianyang International Airport" icao="ZLXY" iata="XIY" type="Short_Haul_International" season="All_Year">
-    <town town="Xi'an" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xi'an" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="034°26'45''N" />
-      <longitude value="108°45'09''E" />
+      <latitude value="034°26'45''N"/>
+      <longitude value="108°45'09''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="22" />
+      <terminal name="Terminal" gates="22"/>
     </terminals>
     <runways>
-      <runway name="05/23" length="3000" surface="Concrete" />
+      <runway name="05/23" length="3000" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Kunming Wujiaba International Airport" icao="ZPPP" iata="KMG" type="Short_Haul_International" season="All_Year">
-    <town town="Kunming" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Kunming" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="024°59'32''N" />
-      <longitude value="102°44'36''E" />
+      <latitude value="024°59'32''N"/>
+      <longitude value="102°44'36''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="31" />
+      <terminal name="Terminal" gates="31"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="3400" surface="Concrete" />
+      <runway name="03/21" length="3400" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Xiamen Gaoqi International Airport" icao="ZSAM" iata="XMN" type="Long_Haul_International" season="All_Year">
-    <town town="Xiamen" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xiamen" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="024°32'38''N" />
-      <longitude value="118°07'39''E" />
+      <latitude value="024°32'38''N"/>
+      <longitude value="118°07'39''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="23" />
+      <terminal name="Terminal" gates="23"/>
     </terminals>
     <runways>
-      <runway name="05/23" length="3400" surface="Asphalt" />
+      <runway name="05/23" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Hangzhou  Xiaoshan International Airport" icao="ZSHC" iata="HGH" type="Long_Haul_International" season="All_Year">
-    <town town="Hangzhou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Hangzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="030°13'42''N" />
-      <longitude value="120°25'54''E" />
+      <latitude value="030°13'42''N"/>
+      <longitude value="120°25'54''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="18" />
+      <terminal name="Terminal" gates="18"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3600" surface="Concrete" />
+      <runway name="07/25" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Nanjing Lukou International Airport" icao="ZSNJ" iata="NKG" type="Long_Haul_International" season="All_Year">
-    <town town="Nanjing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Nanjing" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="031°44'32''N" />
-      <longitude value="118°51'43''E" />
+      <latitude value="031°44'32''N"/>
+      <longitude value="118°51'43''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal 1" gates="35" />
-      <terminal name="Terminal 2" gates="68" />
+      <terminal name="Terminal 1" gates="35"/>
+      <terminal name="Terminal 2" gates="68"/>
     </terminals>
     <runways>
-      <runway name="06/24" length="3600" surface="Concrete" />
+      <runway name="06/24" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Shanghai Pudong International Airport" icao="ZSPD" iata="PVG" type="Long_Haul_International" season="All_Year">
-    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="031°08'36''N" />
-      <longitude value="121°48'19''E" />
+      <latitude value="031°08'36''N"/>
+      <longitude value="121°48'19''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal 1" gates="28" />
-      <terminal name="Terminal 2" gates="30" />
+      <terminal name="Terminal 1" gates="28"/>
+      <terminal name="Terminal 2" gates="30"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="3800" surface="Concrete" />
-      <runway name="17L/35R" length="4000" surface="Concrete" />
-      <runway name="17R/35L" length="3400" surface="Concrete" />
+      <runway name="16/34" length="3800" surface="Concrete"/>
+      <runway name="17L/35R" length="4000" surface="Concrete"/>
+      <runway name="17R/35L" length="3400" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Shanghai Hongqiao International Airport" icao="ZSSS" iata="SHA" type="Long_Haul_International" season="All_Year">
-    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shanghai" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="031°11'52''N" />
-      <longitude value="121°20'10''E" />
+      <latitude value="031°11'52''N"/>
+      <longitude value="121°20'10''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="45" />
+      <terminal name="Terminal" gates="45"/>
     </terminals>
     <runways>
-      <runway name="18L/36R" length="3400" surface="Asphalt" />
-      <runway name="18R/36L" length="3400" surface="Asphalt" />
+      <runway name="18L/36R" length="3400" surface="Asphalt"/>
+      <runway name="18R/36L" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Chongqing Jiangbei International Airport" icao="ZUCK" iata="CKG" type="Short_Haul_International" season="All_Year">
-    <town town="Chongqing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chongqing" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="029°43'08''N" />
-      <longitude value="106°38'29''E" />
+      <latitude value="029°43'08''N"/>
+      <longitude value="106°38'29''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal" gates="41" />
+      <terminal name="Terminal" gates="41"/>
     </terminals>
     <runways>
-      <runway name="02L/20R" length="3200" surface="Concrete" />
-      <runway name="02R/20L" length="3600" surface="Concrete" />
+      <runway name="02L/20R" length="3200" surface="Concrete"/>
+      <runway name="02R/20L" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Chengdu Shuangliu International Airport" icao="ZUUU" iata="CTU" type="Long_Haul_International" season="All_Year">
-    <town town="Chengdu" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Chengdu" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="030°34'42''N" />
-      <longitude value="103°56'49''E" />
+      <latitude value="030°34'42''N"/>
+      <longitude value="103°56'49''E"/>
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large"/>
     <terminals>
-      <terminal name="Terminal" gates="37" />
+      <terminal name="Terminal" gates="37"/>
     </terminals>
     <runways>
-      <runway name="02L/20R" length="3600" surface="Concrete" />
-      <runway name="02R/20L" length="3600" surface="Concrete" />
+      <runway name="02L/20R" length="3600" surface="Concrete"/>
+      <runway name="02R/20L" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Shenyang Taoxian International Airport" icao="ZYTX" iata="SHE" type="Long_Haul_International" season="All_Year">
-    <town town="Shenyang" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Shenyang" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="041°38'24''N" />
-      <longitude value="123°29'01''E" />
+      <latitude value="041°38'24''N"/>
+      <longitude value="123°29'01''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="60" />
+      <terminal name="Terminal" gates="60"/>
     </terminals>
     <runways>
-      <runway name="06/24" length="3200" surface="Concrete" />
+      <runway name="06/24" length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Wuhan Tianhe International Airport" icao="ZHHH" iata="WUH" type="Long_Haul_International" season="All_Year">
-    <town town="Wuhan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Wuhan" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="30°47'01″N" />
-      <longitude value="114°12'29″E" />
+      <latitude value="30°47'01''N"/>
+      <longitude value="114°12'29''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal A" gates="24" />
-      <terminal name="Terminal B" gates="24" />
+      <terminal name="Terminal A" gates="24"/>
+      <terminal name="Terminal B" gates="24"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3400" surface="Asphalt" />
+      <runway name="04/22" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Dalian Zhoushuizi International Airport" icao="ZYTL" iata="DLC" type="Long_Haul_International" season="All_Year">
-    <town town="Dalian" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Dalian" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="38°57'56″N" />
-      <longitude value="121°32'18″E" />
+      <latitude value="38°57'56''N"/>
+      <longitude value="121°32'18''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal A" gates="24" />
-      <terminal name="Terminal B" gates="24" />
+      <terminal name="Terminal A" gates="24"/>
+      <terminal name="Terminal B" gates="24"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="3400" surface="Asphalt" />
+      <runway name="04/22" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Qingdao Liuting International Airport" icao="ZSQD" iata="TAO" type="Long_Haul_International" season="All_Year">
-    <town town="Qingdao" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Qingdao" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="36°15'58″N" />
-      <longitude value="120°22'28″E" />
+      <latitude value="36°15'58''N"/>
+      <longitude value="120°22'28''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal A" gates="32" />
-      <terminal name="Terminal B" gates="12" />
+      <terminal name="Terminal A" gates="32"/>
+      <terminal name="Terminal B" gates="12"/>
     </terminals>
     <runways>
-      <runway name="17/35" length="3400" surface="Asphalt" />
+      <runway name="17/35" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Wulumuqi Diwobao International Airport" icao="ZWWW" iata="URC" type="Long_Haul_International" season="All_Year">
-    <town town="Wulumuqi" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Wulumuqi" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="43°54'26″N" />
-      <longitude value="87°28'27″E" />
+      <latitude value="43°54'26''N"/>
+      <longitude value="87°28'27''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-		<terminal name="Terminal A" gates="32" />
-		<terminal name="Terminal B" gates="12" />
-		<terminal name="Terminal C" gates="12" />
+		<terminal name="Terminal A" gates="32"/>
+		<terminal name="Terminal B" gates="12"/>
+		<terminal name="Terminal C" gates="12"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3600" surface="Asphalt" />
+      <runway name="07/25" length="3600" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Sanya Fenghuang International Airport" icao="ZJSY" iata="SYX" type="Long_Haul_International" season="All_Year">
-    <town town="Sanya" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Sanya" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="18°18'10″N" />
-      <longitude value="109°24'44″E" />
+      <latitude value="18°18'10''N"/>
+      <longitude value="109°24'44''E"/>
     </coordinates>
-    <size value="Large" />
+    <size value="Large"/>
     <terminals>
-      <terminal name="Terminal A" gates="32" />
-      <terminal name="Terminal B" gates="12" />
+      <terminal name="Terminal A" gates="32"/>
+      <terminal name="Terminal B" gates="12"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="3410" surface="Asphalt" />
+      <runway name="08/26" length="3410" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Jinan Yaoqiang International Airport" icao="ZSJN" iata="TNA" type="Long_Haul_International" season="All_Year">
-    <town town="Jinan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Jinan" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="36°51'26″N" />
-      <longitude value="117°12'58″E" />
+      <latitude value="36°51'26''N"/>
+      <longitude value="117°12'58''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal A" gates="32" />
-      <terminal name="Terminal B" gates="12" />
+      <terminal name="Terminal A" gates="32"/>
+      <terminal name="Terminal B" gates="12"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="3601" surface="Asphalt" />
+      <runway name="01/19" length="3601" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Harbin Taiping Airport" icao="ZYHB" iata="HRB" type="Long_Haul_International" season="All_Year">
-    <town town="Harbin" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Harbin" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="45°37'4″N" />
-      <longitude value="126°15'6″ E" />
+      <latitude value="45°37'4''N"/>
+      <longitude value="126°15'6''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal A" gates="32" />
+      <terminal name="Terminal A" gates="32"/>
     </terminals>
     <runways>
-      <runway name="05/23" length="3200" surface="Asphalt" />
+      <runway name="05/23" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
-    <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00" />
+    <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="047°50'35''N" />
-      <longitude value="106°45'59''E" />
+      <latitude value="047°50'35''N"/>
+      <longitude value="106°45'59''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="16" />
+      <terminal name="Terminal" gates="16"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="3100" surface="Asphalt" />
-	  <runway name="15/33" length="2000" surface="Grass" />
+      <runway name="14/32" length="3100" surface="Asphalt"/>
+	  <runway name="15/33" length="2000" surface="Grass"/>
     </runways>
   </airport>
 </airports>

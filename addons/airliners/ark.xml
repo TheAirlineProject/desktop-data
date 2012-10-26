@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <airliners>
 	<airliner manufacturer="Ark" name="Ark 365-100" price="29374230"> <!--160000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
@@ -147,13 +146,13 @@
 	</airliner>
 	<airliner manufacturer="Ark" name="Ark 355-300" price="17322630"> <!--81000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-		<specs wingspan="49.5" length="61.2" range="7200" speed="850" consumption="0.027" runwaylengthrequired="2750"/>
+		<specs wingspan="49.5" length="61.2" range="7200" speed="850" fuelcapacity="81000" consumption="0.027" runwaylengthrequired="2750"/>
 		<capacity passengers="412" cockpitcrew="2" cabincrew="7" maxclasses="3"/>
 		<produced from="2018" to="2030"/>
 	</airliner>
 	<airliner manufacturer="Ark" name="Ark 355-400" price="19577640">
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-		<specs wingspan="49.5" length="70.2" range="7900" speed="850" consumption="0.028" runwaylengthrequired="2750"/>
+		<specs wingspan="49.5" length="70.2" range="7900" speed="850" fuelcapacity="81000" consumption="0.028" runwaylengthrequired="2750"/>
 		<capacity passengers="468" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
 		<produced from="2019" to="2025"/>
 		</airliner>

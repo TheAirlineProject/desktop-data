@@ -10,5 +10,6 @@
     <type body="Single_Aisle" rangetype="Regional" engine="Turboprop"/>
     <specs wingspan="20.0" length="14.4" range="1040" speed="310" fuelcapacity="1090" consumption="0.055" runwaylengthrequired="830"/>
     <capacity passengers="19" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+    	<produced from="1988" to="1999"/>
   </airliner>
 </airliners>
