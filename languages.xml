@@ -272,7 +272,7 @@
       <en-US name="Transfer schedule" />
       <nl-NL name="Missing" />
       <zh-CN name="更改计划" />
-      <da-DK name="Missing" />
+      <da-DK name="Overflyt ruteplan" />
       <es-ES name="Transferir Itinerario" />
     </Text>
     <Text uid="1001">
@@ -393,7 +393,7 @@
       <en-US name="Cabin crew on board" />
       <nl-NL name="Cabinepersoneel aan boord" />
       <zh-CN name="搭载乘务员" />
-      <da-DK name="Missing" />
+      <da-DK name="Kabinpersonale om bord" />
       <es-ES name="Tripulación de abordo" />
     </Text>
     <Text uid="1004">
@@ -661,7 +661,7 @@
       <en-US name="Airliner Type" />
       <nl-NL name="Missing" />
       <zh-CN name="飞机类型" />
-      <da-DK name="Missing" />
+      <da-DK name="Flytype" />
       <es-ES name="Tipo de avión" />
     </Text>
     <Text uid="1002">
@@ -769,7 +769,7 @@
       <en-US name="Crew requirements" />
       <nl-NL name="Missing" />
       <zh-CN name="机组需求" />
-      <da-DK name="Missing" />
+      <da-DK name="Personalebehov" />
       <es-ES name="Tripulación requerida" />
     </Text>
     <Text uid="1014">
@@ -778,7 +778,7 @@
       <en-US name="Cruising speed" />
       <nl-NL name="Missing" />
       <zh-CN name="巡航速度" />
-      <da-DK name="Missing" />
+      <da-DK name="Flyvehastighed" />
       <es-ES name="Velocidad de crucero" />
     </Text>
     <Text uid="1015">
@@ -915,7 +915,7 @@
       <en-US name="Start flight" />
       <nl-NL name="Missing" />
       <zh-CN name="开始执飞" />
-      <da-DK name="Missing" />
+      <da-DK name="Start flyvning" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="201">
@@ -924,7 +924,7 @@
       <en-US name="Stop flight" />
       <nl-NL name="Missing" />
       <zh-CN name="停止执飞" />
-      <da-DK name="Missing" />
+      <da-DK name="Stop flyvning" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1000">
@@ -933,7 +933,7 @@
       <en-US name="The airliner is not assigned to any routes" />
       <nl-NL name="Missing" />
       <zh-CN name="该飞机没有指派任何航路" />
-      <da-DK name="Flyet har ingen ruter tilknyttet" />
+      <da-DK name="Missing" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1001">
@@ -960,7 +960,7 @@
       <en-US name="Flights per day" />
       <nl-NL name="Missing" />
       <zh-CN name="每天的航班数" />
-      <da-DK name="Daglige afgange" />
+      <da-DK name="Daglige flyvninger" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1004">
@@ -1325,7 +1325,7 @@
       <en-US name="Destination flights" />
       <nl-NL name="Bestemming vluchten" />
       <zh-CN name="飞抵目的地的航班" />
-      <da-DK name="Missing" />
+      <da-DK name="Rejsemålsflyvninger" />
       <es-ES name="Destino vuelos" />
     </Text>
   </Region>
@@ -1502,7 +1502,7 @@
       <en-US name="Search options" />
       <nl-NL name="Missing" />
       <zh-CN name="搜索选项" />
-      <da-DK name="Søgning" />
+      <da-DK name="Søgemuligheder" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1005">
@@ -1896,7 +1896,7 @@
       <en-US name="Mark all as read" />
       <nl-NL name="Missing" />
       <zh-CN name="将所有邮件标为已读" />
-      <da-DK name="Markere alle som læst" />
+      <da-DK name="Markere alle som læste" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1000">
@@ -2136,7 +2136,7 @@
       <en-US name="Fleet overview" />
       <nl-NL name="Overzicht vloot" />
       <zh-CN name="机队总览" />
-      <da-DK name="Missing" />
+      <da-DK name="Flådeoverblik" />
       <es-ES name="Vista de la flota" />
     </Text>
     <Text uid="1002">
@@ -2154,7 +2154,7 @@
       <en-US name="Airline Fleet" />
       <nl-NL name="Vloot luchtvaartmaatschappij" />
       <zh-CN name="航空公司机队" />
-      <da-DK name="Missing" />
+      <da-DK name="Flyselskabsflåde" />
       <es-ES name="Flota de la aerolínea" />
     </Text>
     <Text uid="1004">
@@ -2217,7 +2217,7 @@
       <en-US name="Airline Fleet" />
       <nl-NL name="Vloot luchtvaartmaatschappij" />
       <zh-CN name="航空公司的机队" />
-      <da-DK name="Missing" />
+      <da-DK name="Flyselskabsflåde" />
       <es-ES name="Flota de la aerolínea" />
     </Text>
   </Region>
@@ -2228,7 +2228,7 @@
       <en-US name="Airline Finances" />
       <nl-NL name="Financi?n luchtvaartmaatschappij" />
       <zh-CN name="航空公司的财政情况" />
-      <da-DK name="Missing" />
+      <da-DK name="Finanser" />
       <es-ES name="Finanzas de la aerolínea" />
     </Text>
     <Text uid="1002">
@@ -2237,7 +2237,7 @@
       <en-US name="Financial Summary" />
       <nl-NL name="Financieel overzicht" />
       <zh-CN name="财政情况总览" />
-      <da-DK name="Missing" />
+      <da-DK name="Finansielle Overblik" />
       <es-ES name="Resumen financiero" />
     </Text>
     <Text uid="1003">
@@ -2497,7 +2497,7 @@
       <en-US name="Inflight Services" />
       <nl-NL name="Missing" />
       <zh-CN name="空中服务" />
-      <da-DK name="Missing" />
+      <da-DK name="Services ombord" />
       <es-ES name="Servicios de abordo" />
     </Text>
     <Text uid="1007">
@@ -2786,7 +2786,7 @@
       <en-US name="Subsidiaries" />
       <nl-NL name="Missing" />
       <zh-CN name="下属公司" />
-      <da-DK name="Missing" />
+      <da-DK name="Underselskaber" />
       <es-ES name="Subsidiarias" />
     </Text>
   </Region>
@@ -2943,7 +2943,7 @@
       <en-US name="Model" />
       <nl-NL name="Model" />
       <zh-CN name="型号" />
-      <da-DK name="Missing" />
+      <da-DK name="Model" />
       <es-ES name="Modelo " />
     </Text>
     <Text uid="1003">
@@ -2961,7 +2961,7 @@
       <en-US name="Body Type" />
       <nl-NL name="Body type" />
       <zh-CN name="体型" />
-      <da-DK name="Missing" />
+      <da-DK name="Bodytype" />
       <es-ES name="Fuselaje" />
     </Text>
     <Text uid="1005">
@@ -2970,7 +2970,7 @@
       <en-US name="Range" />
       <nl-NL name="Vliegbereik" />
       <zh-CN name="航程" />
-      <da-DK name="Missing" />
+      <da-DK name="Rækkevidde" />
       <es-ES name="Alcance" />
     </Text>
     <Text uid="1006">
@@ -2979,7 +2979,7 @@
       <en-US name="Engine Type" />
       <nl-NL name="Voortstuwing" />
       <zh-CN name="引擎类型" />
-      <da-DK name="Missing" />
+      <da-DK name="Motortype" />
       <es-ES name="Tipo de motor" />
     </Text>
     <Text uid="1007">
@@ -3006,7 +3006,7 @@
       <en-US name="Passenger Capacity" />
       <nl-NL name="Passagiers capaciteit" />
       <zh-CN name="乘客容量" />
-      <da-DK name="Missing" />
+      <da-DK name="Passagerkapacitet" />
       <es-ES name="Capacidad de pasajeros" />
     </Text>
     <Text uid="1010">
@@ -3024,7 +3024,7 @@
       <en-US name="Crew requirements" />
       <nl-NL name="Personeel" />
       <zh-CN name="机组成员需求" />
-      <da-DK name="Missing" />
+      <da-DK name="Personalebehov" />
       <es-ES name="Requerimiento de personal" />
     </Text>
     <Text uid="1012">
@@ -3033,7 +3033,7 @@
       <en-US name="Cruising speed" />
       <nl-NL name="Kruissnelheid" />
       <zh-CN name="巡航速度" />
-      <da-DK name="Missing" />
+      <da-DK name="Flyvehastighed" />
       <es-ES name="Velocidad crucero" />
     </Text>
     <Text uid="1013">
@@ -3042,7 +3042,7 @@
       <en-US name="Fuel Consumption" />
       <nl-NL name="Brandstofverbuik" />
       <zh-CN name="耗油率" />
-      <da-DK name="Missing" />
+      <da-DK name="Brændstofforbrug" />
       <es-ES name="Consumo de combustible" />
     </Text>
     <Text uid="1014">
@@ -3051,7 +3051,7 @@
       <en-US name="Range of Production" />
       <nl-NL name="Productietijdsvak" />
       <zh-CN name="移交时间表" />
-      <da-DK name="Missing" />
+      <da-DK name="Produktionsperiode" />
       <es-ES name="Gama de producción" />
     </Text>
     <Text uid="1015">
@@ -3910,7 +3910,7 @@
       <en-US name="Buy subsidiay airline" message="Are you sure you want to purchase all of the subsidiary airlines as well?" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="购买航空公司子公司" message="您确定要把所有的子公司买下来？" />
-      <da-DK name="Missing" message="Er du sikker på, at du også vil købe alle underselskaberne?" />
+      <da-DK name="Køb underselskab" message="Er du sikker på, at du også vil købe alle underselskaberne?" />
       <es-ES name="Comprar aerolínea subsidiaria" message="¿Está seguro de querer adquirir la totalidad de la aerolínea subsidiaria?" />
     </Text>
     <!-- END - Airline Model -->
@@ -4065,7 +4065,7 @@
       <en-US name="Check in facilities" message="Do you want to purchase check in facilities before renting a gate at the airport?" />
       <nl-NL name="Fout" message="-" />
       <zh-CN name="送抵机库" message="您确定要把全部业务从 {0} 迁至 {1} 吗？" />
-      <da-DK name="Missing" message="Missing" />
+      <da-DK name="Missing" message="Vil du købe check it faciliteter så du kan leje en gate i lufthavnen?" />
       <es-ES name="Instalaciones de Check in" message="¿Desea adquirir instalaciones de facturación antes de arrendar  una puerta en el aeropuerto?" />
     </Text>
     <!-- END - Airport Model -->
@@ -4116,7 +4116,7 @@
       <en-US name="Invalid route" message="The route is not valid which might be because of no free gates at the destinations or that the price is not correct." />
       <nl-NL name="Ongeldige route" message="De route is niet geldig omdat er geen vrije gates op de bestemmingen beschikbaar zijn, of omdat de prijs niet correct is." />
       <zh-CN name="无效航线" message="该航线可能由于没有空闲的登机口或者票价设置不正确而导致无效" />
-      <da-DK name="Fejl i rute" message="Missing" />
+      <da-DK name="Fejl i rute" message="Denne rute kan ikke laves fordi der enten ikke er fri gates på rejsemålene eller at prisen ikke er korrekt" />
       <es-ES name="Ruta no válida" message="La ruta no es válida lo cual se debe a no disponer de puertas libres en los destinos o que el precio no sea correcto." />
     </Text>
     <Text uid="2502">
@@ -4199,7 +4199,7 @@
       <en-US name="Declines alliance" message="{0} has declined to join {1}" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="拒绝联盟" message="{0} 拒绝加入 {1}" />
-      <da-DK name="Missing" message="{0} har afvist at tilslutte sig {1}" />
+      <da-DK name="Afviser alliancer" message="{0} har afvist at tilslutte sig {1}" />
       <es-ES name="Rechazar alianza" message="{0} ha rechazado unirse a {1}" />
     </Text>
     <Text uid="2607">
@@ -4217,7 +4217,7 @@
       <en-US name="Declined" message="{0} have been declined to join {1}" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="拒绝" message="{0} 拒绝加入 {1} 的邀请" />
-      <da-DK name="Missing" message="{0} er blevet afvist at tilslutte sig {1}" />
+      <da-DK name="Afvist" message="{0} er blevet afvist at tilslutte sig {1}" />
       <es-ES name="Rechazado" message="{0} ha sido rechazado para unirse a {1}" />
     </Text>
     <!--END - Alliance Model-->
@@ -4237,7 +4237,7 @@
       <en-US name="Already in route" message="The plane is already in route at that time" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="已经有这条航路" message="飞机在指定时间已经安排了班次" />
-      <da-DK name="Allerede på rute" message="Missing" />
+      <da-DK name="Allerede på rute" message="Flyet er allerede i rute på det valgte tidspunkt" />
       <es-ES name="En ruta" message="El avión ya está en ruta en ese horario." />
     </Text>
     <Text uid="2703">
@@ -4246,7 +4246,7 @@
       <en-US name="Already in route" message="The route already has an airliner at that time" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="已经有这条航路" message="此航路已经有飞机在执飞了" />
-      <da-DK name="Allerede i rute" message="Missing" />
+      <da-DK name="Allerede i rute" message="Ruten har allerede et fly på det valgte tidspunkt" />
       <es-ES name="En ruta" message="La ruta ya tiene un avión en ese horario." />
     </Text>
     <Text uid="2704">
