@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="Air China" iata="CA" color="Linen" country="148" CEO="Wang Changshun" mentality="Aggressive" market="Global" preferedairport="PEK"></profile>
+<info real="True" from="1988" to="2199"></info>
 </airline>
 

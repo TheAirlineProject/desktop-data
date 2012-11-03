@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <airline>
-  <profile name="Air Wales" iata="6G" color="Red" country="130" CEO="Roy Thomas" mentality="Aggressive" market="Local" preferedairport="CWL"></profile>
+  <profile name="Air Wales" iata="6G" color="Red" country="130" CEO="Roy Thomas" mentality="Aggressive" market="Local" preferedairport="CWL"/>
+  <info real="True" from="1997" to="2000"/>
 </airline>

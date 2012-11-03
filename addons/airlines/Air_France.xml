@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="Air France" iata="AF" color="LimeGreen" country="140" CEO="Alexandre de Juniac" mentality="Aggressive" market="Global" preferedairport="CDG"></profile>
+<info real="True" from="1933" to="2199"></info>
 </airline>
 

@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <airline>
-  <profile name="Air UK" iata="UK" color="Blue" country="130" CEO="Peter Villa" mentality="Aggressive" market="Regional" preferedairport="STN"></profile>
+  <profile name="Air UK" iata="UK" color="Blue" country="130" CEO="Peter Villa" mentality="Aggressive" market="Regional" preferedairport="STN"/>
+  <info real="True" from="1980" to="1998"/>
 </airline>

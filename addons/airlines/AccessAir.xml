@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="AccessAir" iata="ZA" color="Firebrick" country="122" CEO="Benjamin Watson" mentality="Aggressive" market="Local" preferedairport="DSM"></profile>
+<info real="True" from="1998" to="2011"></info>
 </airline>

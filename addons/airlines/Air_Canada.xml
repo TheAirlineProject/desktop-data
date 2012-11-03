@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="Air Canada" iata="AC" color="DarkSlateBlue" country="113" CEO="David Richardson" mentality="Aggressive" market="Global" preferedairport="YYC"></profile>
+<info real="True" from="1936" to="2199"></info>
 </airline>
