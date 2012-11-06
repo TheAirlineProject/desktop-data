@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Garuda Indonesia" iata="GA" color="LightSlateGray" country="162" CEO="Emirsyah Satar" mentality="Aggressive" market="Global " preferedairport="CGK"></profile>
+  <info real="True" from="1949" to="2199" />
+</airline>

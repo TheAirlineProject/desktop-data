@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="China Eastern Airlines" iata="MU" color="Blue" country="148" CEO="Liu Shaoyang" mentality="Aggressive" market="Global " preferedairport="PVG"></profile>
+  <info real="True" from="1988" to="2199" />
+</airline>

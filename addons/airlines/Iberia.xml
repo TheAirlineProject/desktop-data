@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Iberia" iata="IB" color="Orangered" country="123" CEO="Antonio Vazquez" mentality="Aggressive" market="Global" preferedairport="MAD"></profile>
+</airline>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Air Malta" iata="KM" color="Red" country="132" CEO="Peter Davies" mentality="Safe" market="Regional" preferedairport="MLA"/>
+  <info real="True" from="1973" to="2199"/>
+</airline>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Cyprus Airways" iata="CY" color="Gold" country="154" CEO="Stavros Stavrou" mentality="Safe" market="Regional" preferedairport="LCA"></profile>
+</airline>

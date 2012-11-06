@@ -1552,15 +1552,15 @@
   <airport name="Nanning Wuxu International Airport" icao="ZGNN" iata="NNG" type="Long_Haul_International" season="All_Year">
     <town town="Guiyang" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="22°36'27.05''N"/>
-      <longitude value="108°10'19.62''E"/>
+      <latitude value="22°36'27''N"/>
+      <longitude value="108°10'19''E"/>
     </coordinates>
     <size value="Medium"/>
     <terminals>
       <terminal name="Terminal A" gates="30"/>
     </terminals>
     <runways>
-      <runway name="05/23	" length="3200" surface="Concrete"/>
+      <runway name="05/23 " length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Taiyuan Wusu International Airport" icao="ZBYN" iata="TYN" type="Long_Haul_International" season="All_Year">
@@ -1574,14 +1574,14 @@
       <terminal name="Terminal A" gates="35"/>
     </terminals>
     <runways>
-      <runway name="13/31	" length="3600" surface="Concrete"/>
+      <runway name="13/31 " length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Wenzhou Yongqiang International Airport" icao="ZSWZ" iata="WNZ" type="Long_Haul_International" season="All_Year">
     <town town="Wenzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="27°54'56.88''N"/>
-      <longitude value="120°50'53.16''E"/>
+      <latitude value="27°54'56''N"/>
+      <longitude value="120°50'53''E"/>
     </coordinates>
     <size value="Medium"/>
     <terminals>

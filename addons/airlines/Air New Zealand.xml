@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Air New Zealand" iata="NZ" color="Black" country="186" CEO="Rob Fyfe" mentality="Aggressive" market="Global " preferedairport="AKL"></profile>
+  <info real="True" from="1965" to="2199" />
+</airline>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Cathay Pacific " iata="CX" color="MediumSeaGreen" country="176" CEO="John Slosar" mentality="Aggressive" market="Global " preferedairport="HKG"></profile>
+  <info real="True" from="1946" to="2199" />
+</airline>

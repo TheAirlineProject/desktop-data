@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="TAP Portugal" iata="TP" color="Chartreuse" country="150" CEO="Fernando Pinto" mentality="Aggressive" market="Global" preferedairport="LIS"></profile>
+</airline>

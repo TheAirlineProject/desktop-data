@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Alitalia" iata="AZ" color="Green" country="141" CEO="Andrea Ragnetti" mentality="Aggressive" market="Global" preferedairport="FCO"></profile>
+</airline>
