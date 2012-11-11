@@ -3020,7 +3020,7 @@
     </runways>
   </airport>
   <airport name="North Caicos Airport" icao="MBNC" iata="NCA" type="Regional" season="All_Year">
-    <town town="" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="North Caicos" country="209" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°55'02''N"/>
       <longitude value="071°56'22''W"/>
@@ -3046,7 +3046,7 @@
     <runways/>
   </airport>
   <airport name="South Caicos Airport" icao="MBSC" iata="XSC" type="Regional" season="All_Year">
-    <town town="" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="South Caicos" country="209" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°30'56''N"/>
       <longitude value="071°31'42''W"/>
@@ -6293,20 +6293,6 @@
       <runway name="04/22" length="2195" surface="Asphalt"/>
       <runway name="13/31" length="1585" surface="Asphalt"/>
       <runway name="17/35" length="1478" surface="Asphalt"/>
-    </runways>
-  </airport>
-  <airport name="Mutare Airport" icao="FVMU" iata="UTA" type="Regional" season="All_Year">
-    <town town="" country="122" GMT="-05:00:00" DST="-06:00:00"/>
-    <coordinates>
-      <latitude value="018°59'50''S"/>
-      <longitude value="032°37'37''E"/>
-    </coordinates>
-    <size value="Smallest"/>
-    <terminals>
-      <terminal name="Terminal A" gates="3"/>
-    </terminals>
-    <runways>
-      <runway name="12/30" length="950" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Valdez Pioneer Field" icao="PAVD" iata="VDZ" type="Regional" season="All_Year">
