@@ -932,7 +932,7 @@
       <en-US name="The airliner is not assigned to any routes" />
       <nl-NL name="Missing" />
       <zh-CN name="该飞机没有指派任何航路" />
-      <da-DK name="Missing" />
+      <da-DK name="Flyet er ikke tilknyttet nogle ruter" />
       <es-ES name="El avión no está asignado  a ninguna ruta" />
     </Text>
     <Text uid="1001">
@@ -1295,7 +1295,7 @@
       <en-US name="Current Weather" />
       <nl-NL name="Missing" />
       <zh-CN name="目前天气" />
-      <da-DK name="Aktuelt Vejr" />
+      <da-DK name="Aktuelle vejr" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1003">
@@ -2682,7 +2682,7 @@
       <en-US name="Airline Fleet Size" />
       <nl-NL name="Vlootgrootte" />
       <zh-CN name="航空公司机队规模" />
-      <da-DK name="Missing" />
+      <da-DK name="Flådestørrelse" />
       <es-ES name="Tamaño de la flota" />
     </Text>
     <Text uid="1004">
@@ -2691,7 +2691,7 @@
       <en-US name="Average Airline Fleet Age" />
       <nl-NL name="Gemiddelde leeftijd van vloot" />
       <zh-CN name="航空公司平均机龄" />
-      <da-DK name="Missing" />
+      <da-DK name="Gns. alder på flåde" />
       <es-ES name="Promedio de edad de la flota" />
     </Text>
     <Text uid="1005">
@@ -2720,7 +2720,7 @@
       <en-US name="Flights Statistics" />
       <nl-NL name="Vluchten Statistieken" />
       <zh-CN name="航班统计" />
-      <da-DK name="Missing" />
+      <da-DK name="Flystatistik" />
       <es-ES name="Estadísticas de vuelo" />
     </Text>
     <Text uid="1002">
@@ -2787,7 +2787,7 @@
       <en-US name="Facilities and Advertisement" />
       <nl-NL name="Faciliteiten en advertenties" />
       <zh-CN name="设施和广告" />
-      <da-DK name="Missing" />
+      <da-DK name="Faciliteter og reklamer" />
       <es-ES name="Instalaciones y publicidad" />
     </Text>
     <Text uid="1004">
@@ -2814,7 +2814,7 @@
       <en-US name="Airline Policies" />
       <nl-NL name="Missing" />
       <zh-CN name="航空公司政策" />
-      <da-DK name="Missing" />
+      <da-DK name="Selskabspolitikker" />
       <es-ES name="Políticas de la aerolínea" />
     </Text>
     <Text uid="1007">
@@ -3106,7 +3106,7 @@
       <en-US name="Fuel Capacity" />
       <nl-NL name="Brandstofcapaciteit" />
       <zh-CN name="燃料容量" />
-      <da-DK name="Missing" />
+      <da-DK name="Brændstofskapacitet" />
       <es-ES name="Capacidad de combustible" />
     </Text>
   </Region>
@@ -3117,7 +3117,7 @@
       <en-US name="Search used airliners" />
       <nl-NL name="Missing" />
       <zh-CN name="搜索二手飞机" />
-      <da-DK name="Missing" />
+      <da-DK name="Søg brugte fly" />
       <es-ES name="Buscar aviones usados" />
     </Text>
     <Text uid="1002">
@@ -3126,7 +3126,7 @@
       <en-US name="Airliner range" />
       <nl-NL name="Missing" />
       <zh-CN name="飞机航程" />
-      <da-DK name="Missing" />
+      <da-DK name="Rækkevidde" />
       <es-ES name="Gama de avión" />
     </Text>
     <Text uid="1003">
@@ -3135,7 +3135,7 @@
       <en-US name="Airliner capacity" />
       <nl-NL name="Missing" />
       <zh-CN name="飞机载客量" />
-      <da-DK name="Missing" />
+      <da-DK name="Kapacitet" />
       <es-ES name="Capacidad del avión " />
     </Text>
     <Text uid="1004">
@@ -3144,7 +3144,7 @@
       <en-US name="Airliner price" />
       <nl-NL name="Missing" />
       <zh-CN name="飞机售价" />
-      <da-DK name="Missing" />
+      <da-DK name="Flypris" />
       <es-ES name="Precio del avión" />
     </Text>
     <Text uid="1005">
@@ -3164,7 +3164,7 @@
       <en-US name="Order New Airliners" />
       <nl-NL name="Nieuw vliegtuige bestellen" />
       <zh-CN name="预订新客机" />
-      <da-DK name="Missing" />
+      <da-DK name="Bestil nye fly" />
       <es-ES name="Encargar Nuevos Aviones" />
     </Text>
     <Text uid="1001">
@@ -3173,7 +3173,7 @@
       <en-US name="Order Airliners" />
       <nl-NL name="Missing" />
       <zh-CN name="预订客机" />
-      <da-DK name="Missing" />
+      <da-DK name="Bestil fly" />
       <es-ES name="Encargar Aviones" />
     </Text>
     <Text uid="1002">
@@ -3182,7 +3182,7 @@
       <en-US name="Orders" />
       <nl-NL name="Missing" />
       <zh-CN name="订单" />
-      <da-DK name="Missing" />
+      <da-DK name="Bestillinger" />
       <es-ES name="Encargos" />
     </Text>
     <Text uid="1003">
@@ -3200,7 +3200,7 @@
       <en-US name="Add order" />
       <nl-NL name="Missing" />
       <zh-CN name="增加订单" />
-      <da-DK name="Missing" />
+      <da-DK name="Tilføj bestil" />
       <es-ES name="Añadir encargo" />
     </Text>
     <Text uid="1005">
@@ -3218,7 +3218,7 @@
       <en-US name="Total Price" />
       <nl-NL name="Missing" />
       <zh-CN name="总价" />
-      <da-DK name="Missing" />
+      <da-DK name="Samlet pris" />
       <es-ES name="Precio total" />
     </Text>
     <Text uid="1007">
@@ -3236,7 +3236,7 @@
       <en-US name="Pay on delivery" />
       <nl-NL name="Missing" />
       <zh-CN name="货到付款" />
-      <da-DK name="Missing" />
+      <da-DK name="Bestil ved levering" />
       <es-ES name="Pago a la entrega" />
     </Text>
     <Text uid="1009">
@@ -3245,7 +3245,7 @@
       <en-US name="Contract" />
       <nl-NL name="Missing" />
       <zh-CN name="合同" />
-      <da-DK name="Missing" />
+      <da-DK name="Kontrakt" />
       <es-ES name="Contrato" />
     </Text>
     <Text uid="1010">
@@ -3254,7 +3254,7 @@
       <en-US name="Extend contract length" />
       <nl-NL name="Missing" />
       <zh-CN name="延长合同期限" />
-      <da-DK name="Missing" />
+      <da-DK name="Udvid kontraktlængde" />
       <es-ES name="Extender duración del contrato" />
     </Text>
     <Text uid="1011">
@@ -3263,7 +3263,7 @@
       <en-US name="Select contract length" />
       <nl-NL name="Missing" />
       <zh-CN name="选择合同期限" />
-      <da-DK name="Missing" />
+      <da-DK name="Vælg kontraktlængde" />
       <es-ES name="Seleccionar duración del contratoi" />
     </Text>
   </Region>
@@ -3274,7 +3274,7 @@
       <en-US name="Buy" />
       <nl-NL name="Kopen" />
       <zh-CN name="购买" />
-      <da-DK name="Missing" />
+      <da-DK name="Køb" />
       <es-ES name="Comprar" />
     </Text>
     <Text uid="201">
@@ -3283,7 +3283,7 @@
       <en-US name="Lease" />
       <nl-NL name="Leasen" />
       <zh-CN name="租借" />
-      <da-DK name="Missing" />
+      <da-DK name="Lej" />
       <es-ES name="Arrendar" />
     </Text>
     <Text uid="1001">
@@ -3319,7 +3319,7 @@
       <en-US name="Flown Overall" />
       <nl-NL name="Totaal gevlogen" />
       <zh-CN name="飞行总览" />
-      <da-DK name="Missing" />
+      <da-DK name="Fløjet ialt" />
       <es-ES name="Horas de vuelo en total" />
     </Text>
     <Text uid="1005">
@@ -3328,7 +3328,7 @@
       <en-US name="Flown since last Service" />
       <nl-NL name="Laatste onderhoud" />
       <zh-CN name="自从上次维护至今飞行里程" />
-      <da-DK name="Missing" />
+      <da-DK name="Fløjet siden service" />
       <es-ES name="Horas de vuelo desde último servicio" />
     </Text>
     <Text uid="1006">
@@ -3337,7 +3337,7 @@
       <en-US name="Equipped with Class" />
       <nl-NL name="Uitgerust met klasse" />
       <zh-CN name="舱位设施" />
-      <da-DK name="Missing" />
+      <da-DK name="Udstyret med klasser" />
       <es-ES name="Equipado con clase" />
     </Text>
     <Text uid="1101">
@@ -3393,7 +3393,7 @@
       <en-US name="Gates &amp; Terminals" />
       <nl-NL name="Gates &amp; Terminals" />
       <zh-CN name="登机口 &amp; 航站楼" />
-      <da-DK name="Gates&amp;amp; Terminaler" />
+      <da-DK name="Gates&amp;amp;amp; Terminaler" />
       <es-ES name="Puerta; Terminales" />
     </Text>
     <Text uid="202">
@@ -3866,7 +3866,7 @@
       <en-US name="Invalid amount" message="Please enter a valid amount to pay back on the loan." />
       <nl-NL name="Ongeldig bedrag" message="Voer altublieft een geldig bedrag in om de lening terug te betalen." />
       <zh-CN name="无效金额" message="请输入有效的贷款数额。" />
-      <da-DK name="Missing" message="Indtast korrekt beløb til at betale tilbage på lånet." />
+      <da-DK name="Ugyldigt beløb" message="Indtast korrekt beløb til at betale tilbage på lånet." />
       <es-ES name="Monto no valido" message="Por favor ingrese un monto válido para devolver el préstamo." />
     </Text>
     <Text uid="2105">
@@ -3875,7 +3875,7 @@
       <en-US name="Pay on loan" message="Are you sure you want to pay {0:c} on the loan?" />
       <nl-NL name="Lening aflossen" message="Weet u zeker dat u {0:c} van de lening wilt aflossen?" />
       <zh-CN name="还款" message="您确认要还款 {0:c} 吗？" />
-      <da-DK name="Missing" message="Er du sikker på, at du vil betale {0:C} på lånet?" />
+      <da-DK name="Betalt på lån" message="Er du sikker på, at du vil betale {0:C} på lånet?" />
       <es-ES name="Pagar por préstamo" message="¿Está seguro de querer pagar {0:c} para el préstamo?" />
     </Text>
     <Text uid="2106">
@@ -3929,7 +3929,7 @@
       <en-US name="Close subsidiary" message="Are you sure you want to close {0}?" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="关闭子公司" message="您确定要关闭 {0}？" />
-      <da-DK name="Missing" message="Er du sikker på, at du vil lukke {0}?" />
+      <da-DK name="Luk underselskab" message="Er du sikker på, at du vil lukke {0}?" />
       <es-ES name="Cerrar subsidiaria" message="¿Está seguro de querer cerrar {0}?" />
     </Text>
     <Text uid="2112">
@@ -4039,7 +4039,7 @@
       <en-US name="Removal not possible" message="It is not possible to remove the terminal, since it is currently in use." />
       <nl-NL name="Terminal verwijderen niet mogelijk" message="Het is niet mogelijk deze terminal te verwijderen, omdat deze momenteel nog in gebruik is." />
       <zh-CN name="无法移除" message="航站楼启用后无法移除" />
-      <da-DK name="Missing" message="Terminalen kan ikke fjernes, idet den er i brug." />
+      <da-DK name="Ikke muligt at fjerne" message="Terminalen kan ikke fjernes, idet den er i brug." />
       <es-ES name="No es posible quitar" message="No es posible quitar esta terminal, ya que está actualmente en uso." />
     </Text>
     <Text uid="2210">
