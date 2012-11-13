@@ -4352,5 +4352,14 @@
       <da-DK name="Aflyste fly" message="Dit fly [LI airliner={0}] er blevet aflyst på grund af dårlig vejr i [LI airport={1}]"/>
       <es-ES name="Vuelo cancelado" message="Su vuelo  [LI avión={0}] ha sido cancelado debido al mal tiempo en [LI aeropuerto ={1}]"/>
     </Text>
+      <Text uid="1004">
+      <en-GB name="Cancelled flight" message="Your flight [LI airliner={0}] has been cancelled for the current flight]"/>
+      <de-DE name="Missing" message="Missing"/>
+      <en-US name="Cancelled flight" message="Your flight [LI airliner={0}] has been cancelled for the current flight"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+      <da-DK name="Aflyste fly" message="Dit fly [LI airliner={0}] er blevet aflyst."/>
+      <es-ES name="Missing" message="Missing"/>
+    </Text>
   </Region>
 </Translator>
