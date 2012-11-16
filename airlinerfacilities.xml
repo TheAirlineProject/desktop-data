@@ -116,7 +116,7 @@
       <en-GB name="Cradle Seats" />
       <nl-NL name="Extra brede stoel" />
       <zh-CN name="婴儿座" />
-      <da-DK name="Missing" />
+      <da-DK name="Vuggesæder" />
       <es-ES name="Asientos Cuna" />
     </translations>
   </airlinerfacility>
@@ -131,7 +131,7 @@
       <en-GB name="Angled Lie-Flat Seats" />
       <nl-NL name="Standaard ligstoel" />
       <zh-CN name="固定角度的靠背椅" />
-      <da-DK name="Missing" />
+      <da-DK name="Vinklet og liggende sæder" />
       <es-ES name="Asientos Reclinables" />
     </translations>
   </airlinerfacility>
@@ -146,7 +146,7 @@
       <en-GB name="Full-Flat Seats" />
       <nl-NL name="Comfort ligstoel" />
       <zh-CN name="全角度靠背椅" />
-      <da-DK name="Missing" />
+      <da-DK name="Liggende sæder" />
       <es-ES name="Asientos Cama" />
     </translations>
   </airlinerfacility>
@@ -161,7 +161,7 @@
       <en-GB name="Full-Flat Beds" />
       <nl-NL name="Comfort bed-stoel" />
       <zh-CN name="平整的床" />
-      <da-DK name="Missing" />
+      <da-DK name="Liggende senge" />
       <es-ES name="Asientos Cama" />
     </translations>
   </airlinerfacility>
