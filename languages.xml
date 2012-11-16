@@ -1287,7 +1287,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="天气" />
       <da-DK name="Vejret" />
-      <es-ES name="Missing" />
+      <es-ES name="Tiempo" />
     </Text>
     <Text uid="1002">
       <en-GB name="Current Weather" />
@@ -1296,7 +1296,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="目前天气" />
       <da-DK name="Aktuelle vejr" />
-      <es-ES name="Missing" />
+      <es-ES name="Tiempo actual" />
     </Text>
     <Text uid="1003">
       <en-GB name="Weather Forecast" />
@@ -1305,7 +1305,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="天气预测" />
       <da-DK name="Vejrudsigt" />
-      <es-ES name="Missing" />
+      <es-ES name="Pronostico del tiempo" />
     </Text>
   </Region>
   <Region name="PageAirportTraffic">
@@ -1843,7 +1843,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="成立" />
       <da-DK name="Oprettet" />
-      <es-ES name="Missing" />
+      <es-ES name="Fundado" />
     </Text>
   </Region>
   <Region name="PageAirlines">
@@ -2625,7 +2625,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="常规政策" />
       <da-DK name="Politikker" />
-      <es-ES name="Missing" />
+      <es-ES name="Condiciones generales" />
     </Text>
     <Text uid="1017">
       <en-GB name="Cancellation minues" />
@@ -2634,7 +2634,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="取消时间" />
       <da-DK name="Minutter til aflysning" />
-      <es-ES name="Missing" />
+      <es-ES name="Minutos de cancelacion" />
     </Text>
   </Region>
   <Region name="PageAirlineStatistics">
@@ -3475,7 +3475,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="天气" />
       <da-DK name="Vejret" />
-      <es-ES name="Missing" />
+      <es-ES name="Tiempo" />
     </Text>
   </Region>
   <Region name="PanelAirports">
@@ -4359,7 +4359,7 @@
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="航班取消" message="您的航班 [LI airliner={0}] 由于机械故障而取消了。" />
       <da-DK name="Aflyste fly" message="Dit fly [LI airliner={0}] er blevet aflyst grundet tekniske problemer." />
-      <es-ES name="Missing" message="Missing" />
+      <es-ES name="Vuelo cancelado" message="Su vuelo [LI airliner={0}] ha sido cancelado por el vuelo de corriente debido a problemas tecnicos." />
     </Text>
     <Text uid="1005">
       <en-GB name="Cancelled flight" message="Your flight [LI airliner={0}] has been cancelled for the current flight due to bad weather" />
@@ -4368,7 +4368,7 @@
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="航班取消" message="您的航班 [LI airliner={0}] 由于恶劣天气而取消了。" />
       <da-DK name="Aflyste fly" message="Dit fly [LI airliner={0}] er blevet aflyst grundet dårligt vejr." />
-      <es-ES name="Missing" message="Missing" />
+      <es-ES name="Vuelo cancelado" message="Su vuelo [LI airliner={0}] ha sido cancelado por el vuelo corriente debido a mal tiempo." />
     </Text>
   </Region>
   <Region name="Enums">
@@ -4380,7 +4380,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="南方" />
       <da-DK name="S" />
-      <es-ES name="Missing" />
+      <es-ES name="S" />
     </Text>
     <Text uid="SE">
       <en-GB name="SE" />
@@ -4389,7 +4389,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="东南方" />
       <da-DK name="SØ" />
-      <es-ES name="Missing" />
+      <es-ES name="SE" />
     </Text>
     <Text uid="SW">
       <en-GB name="SW" />
@@ -4398,7 +4398,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="西南方" />
       <da-DK name="SV" />
-      <es-ES name="Missing" />
+      <es-ES name="SO" />
     </Text>
     <Text uid="W">
       <en-GB name="W" />
@@ -4407,7 +4407,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="西方" />
       <da-DK name="V" />
-      <es-ES name="Missing" />
+      <es-ES name="O" />
     </Text>
     <Text uid="NW">
       <en-GB name="NW" />
@@ -4416,7 +4416,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="西北" />
       <da-DK name="NV" />
-      <es-ES name="Missing" />
+      <es-ES name="NO" />
     </Text>
     <Text uid="N">
       <en-GB name="N" />
@@ -4425,7 +4425,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="北方" />
       <da-DK name="N" />
-      <es-ES name="Missing" />
+      <es-ES name="N" />
     </Text>
     <Text uid="NE">
       <en-GB name="NE" />
@@ -4434,7 +4434,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="东北" />
       <da-DK name="NØ" />
-      <es-ES name="Missing" />
+      <es-ES name="NE" />
     </Text>
     <Text uid="E">
       <en-GB name="E" />
@@ -4443,7 +4443,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="东方" />
       <da-DK name="Ø" />
-      <es-ES name="Missing" />
+      <es-ES name="E" />
     </Text>
   </Region>
 </Translator>
