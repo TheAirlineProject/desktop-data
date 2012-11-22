@@ -514,6 +514,62 @@
       <es-ES name="Nombre del avión"/>
     </Text>
   </Region>
+  <Region name="PopUpDifficulty">
+    <Text uid="1000">
+      <en-GB name="Custom Difficulty Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="Custom Difficulty Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Brugerdefineret sværhedsgrad"/>
+      <es-ES name="Missing"/>
+    </Text>
+    <Text uid="200">
+      <en-GB name="Money Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="Money Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Pengeniveau"/>
+      <es-ES name="Missing"/>
+    </Text>
+      <Text uid="201">
+      <en-GB name="Price Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="Price Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Prisiveau"/>
+      <es-ES name="Missing"/>
+    </Text>
+    <Text uid="202">
+      <en-GB name="Loan Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="Loan Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Låneniveau"/>
+      <es-ES name="Missing"/>
+    </Text>
+    <Text uid="203">
+      <en-GB name="Passengers Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="Passengers Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Passagerniveau"/>
+      <es-ES name="Missing"/>
+    </Text>
+    <Text uid="204">
+      <en-GB name="AI Level"/>
+      <de-DE name="Missing"/>
+      <en-US name="AI Level"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="AI-niveau"/>
+      <es-ES name="Missing"/>
+    </Text>
+  </Region>
   <Region name="PopUpNewSubsidiary">
     <Text uid="1000">
       <en-GB name="Create new airline subsidiary"/>
