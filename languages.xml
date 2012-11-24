@@ -509,7 +509,7 @@
       <de-DE name="Flugzeugname" />
       <en-US name="Airliner name" />
       <nl-NL name="Naam van vliegtuig" />
-      <zh-CN name="班机编号" />
+      <zh-CN name="飞机编号" />
       <da-DK name="Flyets navn" />
       <es-ES name="Nombre del avión" />
     </Text>
@@ -522,7 +522,7 @@
       <nl-NL name="Missing" />
       <zh-CN name="自定义难度" />
       <da-DK name="Brugerdefineret sværhedsgrad" />
-      <es-ES name="Missing" />
+      <es-ES name="Nivel de dificultad personalizada" />
     </Text>
     <Text uid="200">
       <en-GB name="Money Level" />
