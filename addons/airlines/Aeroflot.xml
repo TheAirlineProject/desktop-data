@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Aeroflot" iata="SU" color="DarkSlateBlue" country="149" CEO="Vitaly Gennadyevich Savelyev" mentality="Aggressive" market="Global " preferedairport="SVO"></profile>
+  <info real="True" from="1923" to="2199" />
+</airline>

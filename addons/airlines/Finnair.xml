@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="Finnair" iata="AY" color="Navy" country="167" CEO="Mika Vehvilainen" mentality="Safe" market="Global " preferedairport="HEL"></profile>
+  <info real="True" from="1923" to="2199" />
+</airline>

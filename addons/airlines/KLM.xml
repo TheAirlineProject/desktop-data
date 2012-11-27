@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="KLM" iata="KL" color="Cyan" country="179" CEO="P F Hartman" mentality="Aggressive" market="Global " preferedairport="AMS"></profile>
+  <info real="True" from="1919" to="2199" />
+</airline>
