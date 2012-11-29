@@ -4175,7 +4175,7 @@
       <de-DE name="Fehler" message="-" />
       <en-US name="Error" message="You can not release a gate, because you need to have at least 20 % of the gates when having a hub." />
       <nl-NL name="Fout" message="-" />
-      <zh-CN name="错误" message="您无法释放该登机口,因为您至少需要该机场 20% 的登机口才能设为枢纽" />
+      <zh-CN name="错误" message="您无法释放该登机口,因为您至少需要该机场 20% 的登机口才能设为枢纽。" />
       <da-DK name="Fejl" message="Du kan ikke opsige dit lejemål, idet du har en hub, som kræver mindst 20 % af gates i lufthavnen" />
       <es-ES name="Error" message="No se puede desprender de una puerta, ya que necesita al menos un 20 % de las puertas cuando se tiene un centro de operaciones." />
     </Text>
@@ -4184,7 +4184,7 @@
       <de-DE name="Fehler" message="-" />
       <en-US name="Reallocate operations" message="Are you sure you want to move all operations from {0} to {1}?" />
       <nl-NL name="Fout" message="-" />
-      <zh-CN name="错误" message="飞机需要停飞进行改造" />
+      <zh-CN name="运营再分配" message="您确定要把全部业务从 {0} 迁至 {1} 吗？" />
       <da-DK name="Flyt flyvninger" message="Er du sikker på, at du vil flytte alle aktiviteter fra {0} til {1}?" />
       <es-ES name="Reasignar operaciones" message="¿Está seguro de querer reasignar todas las operaciones  de {0} a {1}?" />
     </Text>
@@ -4193,7 +4193,7 @@
       <de-DE name="Fehler" message="-" />
       <en-US name="Check in facilities" message="Do you want to purchase check in facilities before renting a gate at the airport?" />
       <nl-NL name="Fout" message="-" />
-      <zh-CN name="送抵机库" message="您确定要把全部业务从 {0} 迁至 {1} 吗？" />
+      <zh-CN name="值机柜台" message="您想在机场租借登机口之前先预定值机柜台吗？" />
       <da-DK name="Check-in faciliteter" message="Vil du købe check it faciliteter så du kan leje en gate i lufthavnen?" />
       <es-ES name="Instalaciones de Check in" message="¿Desea adquirir instalaciones de facturación antes de arrendar  una puerta en el aeropuerto?" />
     </Text>
@@ -4204,7 +4204,7 @@
       <de-DE name="Flugbetrieb des Flugzeugs nicht gestoppt" message="Der Flugbetrieb des Flugzeuges mu? für ?nderungen an der Ausstattung unterbrochen werden" />
       <en-US name="Airliner not stopped" message="The airliner needs to be stopped to change the facilities." />
       <nl-NL name="Vliegtuig in de lucht" message="Het vliegtuig moet worden gestopt om de faciliteiten te wijzigen." />
-      <zh-CN name="飞机仍在飞行" message="飞机需要停飞进行维护" />
+      <zh-CN name="飞机仍在飞行" message="飞机需要停飞进行维护。" />
       <da-DK name="Fly ikke stoppet" message="Flyet skal være stoppet, for at kunne få ændret sine faciliteter" />
       <es-ES name="Avión no detenido" message="El avión debe estar en tierra para cambiar las instalaciones." />
     </Text>
