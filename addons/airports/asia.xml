@@ -1606,7 +1606,7 @@
     </runways>
   </airport>
   <airport name="Ningbo Lishe International Airport" icao="ZSNB" iata="NGB" type="Long_Haul_International" season="All_Year">
-    <town town="Nanchang" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <town town="Ningbo" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="29°49'36''N "/>
       <longitude value="121°27'43''E"/>
@@ -1617,6 +1617,77 @@
     </terminals>
     <runways>
       <runway name="13/31" length="3200" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Changchun Longjia International Airport" icao="ZYCC" iata="CGQ" type="Long_Haul_International" season="All_Year">
+    <town town="Changchun" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="43°59'46''N"/>
+      <longitude value="125°41'07''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal A" gates="38"/>
+    </terminals>
+    <runways>
+      <runway name="06/24" length="3200" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Hefei Luogang International Airport" icao="ZSOF" iata="HFE" type="Long_Haul_International" season="All_Year">
+    <town town="Hefei" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="31°46'48''N"/>
+      <longitude value="117°17'54''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal A" gates="45"/>
+    </terminals>
+    <runways>
+      <runway name="14/32" length="3000" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Huhehaote Baita International Airport" icao="ZBHH" iata="HET" type="Long_Haul_International" season="All_Year">
+    <town town="Huhehaote" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="40°51'20''N"/>
+      <longitude value="111°49'30''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal A" gates="40"/>
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3600" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Shijiazhuang Zhengding International Airport" icao="ZBSJ" iata="SJW" type="Long_Haul_International" season="All_Year">
+    <town town="Shijiazhuang" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="38°16'41.52''N"/>
+      <longitude value="114°41'58.2''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal A" gates="35"/>
+	   <terminal name="Terminal B" gates="65"/>
+    </terminals>
+    <runways>
+      <runway name="15/33" length="3400" surface="Concrete"/>
+    </runways>
+  </airport>
+  <airport name="Lanzhou Zhongchuan Airport" icao="ZLLL" iata="LHW" type="Short_Haul_International" season="All_Year">
+    <town town="Lanzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="36°30'27''N"/>
+      <longitude value="103°37'10''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal A" gates="50"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3600" surface="Concrete"/>
     </runways>
   </airport>
   <!--Mongolia (ZM**)-->
