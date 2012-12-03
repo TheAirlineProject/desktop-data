@@ -2504,7 +2504,7 @@
       <de-DE name="Missing"/>
       <en-US name="Largest gate percent"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="最远通航机场"/>
+      <zh-CN name="拥有最多登机口的机场"/>
       <da-DK name="Største gate procent"/>
       <es-ES name="Mayor porcentaje de puerta"/>
     </Text>
@@ -2513,7 +2513,7 @@
       <de-DE name="Missing"/>
       <en-US name="Smallest gate percent"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="最短通航机场"/>
+      <zh-CN name="拥有最少登机口的机场"/>
       <da-DK name="Mindste gate procent"/>
       <es-ES name="Menor porcentaje de puerta"/>
     </Text>
