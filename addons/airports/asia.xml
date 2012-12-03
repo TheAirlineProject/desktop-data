@@ -1676,7 +1676,7 @@
       <runway name="15/33" length="3400" surface="Concrete"/>
     </runways>
   </airport>
-  <airport name="Lanzhou Zhongchuan Airport" icao="ZLLL" iata="LHW" type="Short_Haul_International" season="All_Year">
+  <airport name="Lanzhou Zhongchuan Airport" icao="ZLLL" iata="LHW" type="Long_Haul_International" season="All_Year">
     <town town="Lanzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="36°30'27''N"/>
