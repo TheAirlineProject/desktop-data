@@ -1888,7 +1888,7 @@
       <de-DE name="Missing"/>
       <en-US name="Buy airline"/>
       <nl-NL name="Missing"/>
-      <zh-CN name="购买飞机"/>
+      <zh-CN name="并购航空公司"/>
       <da-DK name="Køb flyselskab"/>
       <es-ES name="Comprar aerolínea"/>
     </Text>
@@ -4029,7 +4029,7 @@
       <de-DE name="Missing" message="Missing"/>
       <en-US name="Buy airline" message="Are you sure you want to buy {0} for {1:C}?"/>
       <nl-NL name="Missing" message="Missing"/>
-      <zh-CN name="购买飞机" message="您确定要以 {1:C} 的价格购买 {0}？"/>
+      <zh-CN name="并购航空公司" message="您确定要以 {1:C} 的价格并购 {0} 吗？"/>
       <da-DK name="Køb flyselskab" message="Er du sikker på, at du vil købe {0} for {1:C}?"/>
       <es-ES name="Comprar aerolínea" message="¿Está seguro de querer comprar {0} por {1:C}?"/>
     </Text>
