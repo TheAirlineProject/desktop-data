@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translator>
   <Languages>
-    <Language culture="en-US" name="English (US)" flag="United States.png" UnitSystem="Imperial" isEnabled="true">
+    <Language culture="en-US" name="English (US)" flag="United States-large.png" UnitSystem="Imperial" isEnabled="true">
       <Word original="km." translated="miles"/>
       <Word original="km/t" translated="mph"/>
       <Word original="l/seat/km" translated="g/seat/m"/>
