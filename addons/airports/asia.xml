@@ -1664,8 +1664,8 @@
   <airport name="Shijiazhuang Zhengding International Airport" icao="ZBSJ" iata="SJW" type="Long_Haul_International" season="All_Year">
     <town town="Shijiazhuang" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="38°16'41.52''N"/>
-      <longitude value="114°41'58.2''E"/>
+      <latitude value="38°16'41''N"/>
+      <longitude value="114°41'58''E"/>
     </coordinates>
     <size value="Medium"/>
     <terminals>
