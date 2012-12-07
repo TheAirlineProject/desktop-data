@@ -962,6 +962,24 @@
       <da-DK name="Vælg flyejer"/>
       <es-ES name="Seleccionar propietario"/>
     </Text>
+    <Text uid="1029">
+      <en-GB name="Lease information"/>
+      <de-DE name="Missing"/>
+      <en-US name="Lease information"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Lejeinformation"/>
+      <es-ES name="Missing"/>
+    </Text>
+      <Text uid="1030">
+      <en-GB name="Airliner information"/>
+      <de-DE name="Missing"/>
+      <en-US name="Airliner information"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Misisng"/>
+      <da-DK name="Flyoplysninger"/>
+      <es-ES name="Missing"/>
+    </Text>
   </Region>
   <Region name="PageFleetRoute">
     <Text uid="200">
