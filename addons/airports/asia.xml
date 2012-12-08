@@ -1690,6 +1690,116 @@
       <runway name="18/36" length="3600" surface="Concrete"/>
     </runways>
   </airport>
+  <airport name="Yinchuan Hedong Airport" icao="ZLIC" iata="INC" type="Long_Haul_International" season="All_Year">
+    <town town="Yinchuan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="38°19'18''N" />
+      <longitude value="106°23'33''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3200" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Sunan Shuofang International Airport" icao="ZSWX" iata="WUX" type="Long_Haul_International" season="All_Year">
+    <town town="Sunan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="31°29'40''N" />
+      <longitude value="120°25'46''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Beijing Nanyuan Airport" icao="ZBNY" iata="NAY" type="Long_Haul_International" season="All_Year">
+    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="39°46'57''N" />
+      <longitude value="116°23'16''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3200" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Yantai Laishan International Airport" icao="ZSYT" iata="YNT" type="Long_Haul_International" season="All_Year">
+    <town town="Yantai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="37°24'06''N" />
+      <longitude value="121°22'18''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2600" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Lijiang Sanyi Airport" icao="ZPLJ" iata="LJG" type="Long_Haul_International" season="All_Year">
+    <town town="Lijiang" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="26°40'45''N" />
+      <longitude value="100°14'45''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="3000" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Xining Caojiabao Airport" icao="ZLXN" iata="XNN" type="Long_Haul_International" season="All_Year">
+    <town town="Xining" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="36°31'39''N" />
+      <longitude value="102°02'34''E" />
+    </coordinates>
+    <size value="Medium" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Quanzhou Jinjiang Airport" icao="ZSQZ" iata="JJN" type="Long_Haul_International" season="All_Year">
+    <town town="Quanzhou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="24°47'56''N" />
+      <longitude value="118°35'25''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Xishuangbanna Gasa International Airport" icao="ZPJH" iata="JHG" type="Long_Haul_International" season="All_Year">
+    <town town="Xishuangbanna" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="21°58'26''N" />
+      <longitude value="100°45'35''E" />
+    </coordinates>
+    <size value="Small" />
+    <terminals>
+      <terminal name="Terminal" gates="50" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2200" surface="Concrete" />
+    </runways>
+  </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
     <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00"/>
