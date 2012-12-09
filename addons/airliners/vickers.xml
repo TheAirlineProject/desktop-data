@@ -6,4 +6,10 @@
     <capacity passengers="151" cockpitcrew="4" cabincrew="3" maxclasses="1"/>
     <produced from="1962" to="1970"/>
   </airliner>
+  <airliner manufacturer="Vickers" name="Vickers Viscount 800" price="2770550">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+	<specs wingspan="28.56" length="26.11" range="2220" speed="530" fuelcapacity="5900" consumption="0.036" runwaylengthrequired="2400"/>
+	<capacity passengers="75" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+	<produced from="1950" to="1963"/>
+  </airliner>
 </airliners>
