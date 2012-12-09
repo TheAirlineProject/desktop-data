@@ -49,20 +49,20 @@
 	<state country="122" name="Montana" shortname="MT"  flag="USA - Montana"></state>
 	<state country="122" name="Nebraska" shortname="NE"  flag="USA - Nebraska"></state>
 	<state country="122" name="Nevada" shortname="NV"  flag="USA - Nevada"></state>
-	<state country="122" name="New Hampshire" shortname="NH"  flag="USA - New-Hampshire"></state>
-	<state country="122" name="New Jersey" shortname="NJ"  flag="USA - New-Jersey"></state>
-	<state country="122" name="New Mexico" shortname="NM"  flag="USA - New-Mexico"></state>
-	<state country="122" name="New York" shortname="NY"  flag="USA - New-York"></state>
-	<state country="122" name="North Carolina" shortname="NC"  flag="USA - North-Carolina"></state>
-	<state country="122" name="North Dakota" shortname="ND"  flag="USA - North-Dakota"></state>
+	<state country="122" name="New Hampshire" shortname="NH"  flag="USA - New Hampshire"></state>
+	<state country="122" name="New Jersey" shortname="NJ"  flag="USA - New Jersey"></state>
+	<state country="122" name="New Mexico" shortname="NM"  flag="USA - New Mexico"></state>
+	<state country="122" name="New York" shortname="NY"  flag="USA - New York"></state>
+	<state country="122" name="North Carolina" shortname="NC"  flag="USA - North Carolina"></state>
+	<state country="122" name="North Dakota" shortname="ND"  flag="USA - North Dakota"></state>
 	<state country="122" name="Ohio" shortname="OH"  flag="USA - Ohio"></state>
 	<state country="122" name="Oklahoma" shortname="OK"  flag="USA - Oklahoma"></state>
 	<state country="122" name="Oregon" shortname="OR"  flag="USA - Oregon"></state>
 	<state country="122" name="Pennsylvania" shortname="PA"  flag="USA - Pennsylvania"></state>
 	<state country="122" name="Puerto Rico" shortname="PR"  flag="USA - Puerto Rico"></state>
-	<state country="122" name="Rhode Island" shortname="RI"  flag="USA - Rhode-Island"></state>
-	<state country="122" name="South Carolina" shortname="SC"  flag="USA - South-Carolina"></state>
-	<state country="122" name="South Dakota" shortname="SD"  flag="USA - South-Dakota"></state>
+	<state country="122" name="Rhode Island" shortname="RI"  flag="USA - Rhode Island"></state>
+	<state country="122" name="South Carolina" shortname="SC"  flag="USA - South Carolina"></state>
+	<state country="122" name="South Dakota" shortname="SD"  flag="USA - South Dakota"></state>
 	<state country="122" name="Tennessee" shortname="TN"  flag="USA - Tennessee"></state>
 	<state country="122" name="Texas" shortname="TX"  flag="USA - Texas"></state>
 	<state country="122" name="Utah" shortname="UT"  flag="USA - Utah"></state>
@@ -70,7 +70,7 @@
 	<state country="122" name="Virgin Islands (US)" shortname="VI"  flag="USA - Virgin Islands"></state>
 	<state country="122" name="Virginia" shortname="VA"  flag="USA - Virginia"></state>
 	<state country="122" name="Washington" shortname="WA"  flag="USA - Washington"></state>
-	<state country="122" name="West Virginia" shortname="WV"  flag="USA - West-Virginia"></state>
+	<state country="122" name="West Virginia" shortname="WV"  flag="USA - West Virginia"></state>
 	<state country="122" name="Wisconsin" shortname="WI"  flag="USA - Wisconsin"></state>
 	<state country="122" name="Wyoming" shortname="WY"  flag="USA - Wyoming"></state>
 </states>
