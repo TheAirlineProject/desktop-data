@@ -1486,32 +1486,8 @@
       <es-ES name="Montenegro" />
     </translations>
   </country>
-  <!--Next uid = 251-->
+  <!--Next uid = 250-->
   <!--Territories-->
-  <country uid="250" shortname="ASM" region="105" flag="American Samoa" tailformat="N-\\n5">
-    <territoryof uid="122" />
-    <translations>
-      <en-US name="American Samoa" />
-      <de-DE name="American Samoa" />
-      <en-GB name="American Samoa" />
-      <nl-NL name="American Samoa" />
-      <zh-CN name="美属萨摩亚" />
-      <da-DK name="American Samoa" />
-      <es-ES name="Samoa Americana" />
-    </translations>
-  </country>
-  <country uid="200" shortname="BER" region="102" flag="Bermuda" tailformat="VQ-B\\s2">
-    <territoryof uid="130" />
-    <translations>
-      <en-US name="Bermuda" />
-      <de-DE name="Bermuda" />
-      <en-GB name="Bermuda" />
-      <nl-NL name="Bermuda" />
-      <zh-CN name="百慕大群岛" />
-      <da-DK name="Bermuda" />
-      <es-ES name="Bermudas" />
-    </translations>
-  </country>
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />
     <translations>
@@ -1522,18 +1498,6 @@
       <zh-CN name="库拉索岛" />
       <da-DK name="Curaçao" />
       <es-ES name="Curaçao" />
-    </translations>
-  </country>
-  <country uid="219" shortname="CAY" region="104" flag="Cayman Islands" tailformat="VP-C\\s2">
-    <territoryof uid="130" />
-    <translations>
-      <en-US name="Cayman Islands" />
-      <de-DE name="Cayman Islands" />
-      <en-GB name="Cayman Islands" />
-      <nl-NL name="Cayman Islands" />
-      <zh-CN name="开曼群岛" />
-      <da-DK name="Cayman Islands" />
-      <es-ES name="Islas Caimán" />
     </translations>
   </country>
   <country uid="245" shortname="CND" region="104" flag="Netherlands" tailformat="PJ-\\s3">
@@ -1548,90 +1512,6 @@
       <es-ES name="Holanda Caribe" />
     </translations>
   </country>
-  <country uid="112" shortname="FO" region="113" flag="Faroe Islands" tailformat="OY-\\d4">
-    <territoryof uid="110" />
-    <translations>
-      <en-US name="Faroe Islands" />
-      <de-DE name="Färöer-Inseln" />
-      <en-GB name="Faroe Islands" />
-      <nl-NL name="Faeröer" />
-      <zh-CN name="法罗群岛" />
-      <da-DK name="Færøerne" />
-      <es-ES name="Islas Faroe" />
-    </translations>
-  </country>
-  <country uid="218" shortname="FRG" region="101" flag="France" tailformat="F-O\\s3">
-    <territoryof uid="140" />
-    <translations>
-      <en-US name="French Guiana" />
-      <de-DE name="French Guiana" />
-      <en-GB name="French Guiana" />
-      <nl-NL name="French Guiana" />
-      <zh-CN name="法属圭亚那" />
-      <da-DK name="French Guiana" />
-      <es-ES name="Guayana francesa" />
-    </translations>
-  </country>
-  <country uid="201" shortname="GIB" region="107" flag="Gibraltar" tailformat="VP-G\\s2">
-    <territoryof uid="130" />
-    <translations>
-      <en-US name="Gibraltar" />
-      <de-DE name="Gibraltar" />
-      <en-GB name="Gibraltar" />
-      <nl-NL name="Gibraltar" />
-      <zh-CN name="直布罗陀" />
-      <da-DK name="Gibraltar" />
-      <es-ES name="Gibraltar" />
-    </translations>
-  </country>
-  <country uid="111" shortname="GRL" region="113" flag="Greenland" tailformat="OY-\\s3">
-    <territoryof uid="110" />
-    <translations>
-      <en-US name="Greenland" />
-      <de-DE name="Grönland" />
-      <en-GB name="Greenland" />
-      <nl-NL name="Groenland" />
-      <zh-CN name="格陵兰" />
-      <da-DK name="Grønland" />
-      <es-ES name="Groenlandia" />
-    </translations>
-  </country>
-  <country uid="226" shortname="GUM" region="105" flag="Guam" tailformat="N-\\d5">
-    <territoryof uid="122" />
-    <translations>
-      <en-US name="Guam" />
-      <de-DE name="Guam" />
-      <en-GB name="Guam" />
-      <nl-NL name="Guam" />
-      <zh-CN name="关岛" />
-      <da-DK name="Guam" />
-      <es-ES name="Guam" />
-    </translations>
-  </country>
-  <country uid="181" shortname="PUR" region="103" flag="Puerto Rico" tailformat="PUER-\\d3">
-    <territoryof uid="122" />
-    <translations>
-      <en-US name="Puerto Rico" />
-      <de-DE name="Puerto Rico" />
-      <en-GB name="Puerto Rico" />
-      <nl-NL name="Puerto Rico" />
-      <zh-CN name="波多黎各" />
-      <da-DK name="Puerto Rico" />
-      <es-ES name="Puerto Rico" />
-    </translations>
-  </country>
-  <country uid="143" shortname="REU" region="109" flag="Reunion" tailformat="F-OD\\s2">
-    <territoryof uid="140" />
-    <translations>
-      <en-US name="Reunion" />
-      <de-DE name="Réunion" />
-      <en-GB name="Reunion" />
-      <nl-NL name="Réunion" />
-      <zh-CN name="留尼旺岛" />
-      <da-DK name="Reunion" />
-      <es-ES name="Reunion" />
-    </translations>
-  </country>
   <country uid="109" shortname="STM" region="104" flag="Sint-Maarten" tailformat="PJ-\\s3">
     <territoryof uid="179" />
     <translations>
@@ -1642,42 +1522,6 @@
       <zh-CN name="荷属圣马丁" />
       <da-DK name="Sint-Maarten" />
       <es-ES name="Sint Maarten" />
-    </translations>
-  </country>
-  <country uid="209" shortname="TC" region="104" flag="Turks and Caicos Islands" tailformat="VQ-T\\s2">
-    <territoryof uid="130" />
-    <translations>
-      <en-US name="Turks and Caicos Islands" />
-      <de-DE name="Turks-und Caicosinseln" />
-      <en-GB name="Turks and Caicos Islands" />
-      <nl-NL name="Turks- en Caicoseilanden" />
-      <zh-CN name="特克斯和凯科斯群岛" />
-      <da-DK name="Turks- og Caicosøerne" />
-      <es-ES name="Islas Turcas y Caicos" />
-    </translations>
-  </country>
-  <country uid="243" shortname="VIB" region="104" flag="Virgin Islands British" tailformat="VP-L\\s2">
-    <territoryof uid="130" />
-    <translations>
-      <en-US name="Virgin Islands (British)" />
-      <de-DE name="Briten-Jungferninseln" />
-      <en-GB name="Virgin Islands (British)" />
-      <nl-NL name="Maagdeneilanden (Brits)" />
-      <zh-CN name="维尔京群岛 (英国)" />
-      <da-DK name="Britiske Jomfruøer" />
-      <es-ES name="Islas Vírgenes (Reino Unido)" />
-    </translations>
-  </country>
-  <country uid="204" shortname="VIU" region="104" flag="Virgin Islands US" tailformat="N-\\d5">
-    <territoryof uid="122" />
-    <translations>
-      <en-US name="Virgin Islands (US)" />
-      <de-DE name="US-Jungferninseln" />
-      <en-GB name="Virgin Islands (US)" />
-      <nl-NL name="Maagdeneilanden (VS)" />
-      <zh-CN name="维尔京群岛 (美国)" />
-      <da-DK name="Amerikanske Jomfruøer" />
-      <es-ES name="Islas Vírgenes (EE.)" />
     </translations>
   </country>
 </countries>

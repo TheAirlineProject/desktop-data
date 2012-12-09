@@ -2978,7 +2978,7 @@
   <!--Central America (M***)-->
   <!--Turks and Caicos Islands (MB**)-->
   <airport name="Providenciales International Airport" icao="MBPV" iata="PLS" type="Long_Haul_International" season="Winter">
-    <town town="Providenciales" country="209" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="Providenciales, TC" country="130" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="021°46'25''N"/>
       <longitude value="072°15'57''W"/>
@@ -2992,7 +2992,7 @@
     </runways>
   </airport>
     <airport name="JAGS McCartney International Airport" icao="MBGT" iata="GDT" type="Short_Haul_International" season="All_Year">
-    <town town="Cockburn Town" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="Cockburn Town, TC" country="130" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°26'40''N"/>
       <longitude value="071°08'32''W"/>
@@ -3006,7 +3006,7 @@
     </runways>
   </airport>
   <airport name="Middle Caicos Airport" icao="MBMC" iata="MDS" type="Regional" season="All_Year">
-    <town town="Middle Caicos" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="Middle Caicos, TC" country="130" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°49'33''N"/>
       <longitude value="071°48'08''W"/>
@@ -3020,7 +3020,7 @@
     </runways>
   </airport>
   <airport name="North Caicos Airport" icao="MBNC" iata="NCA" type="Regional" season="All_Year">
-    <town town="North Caicos" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="North Caicos, TC" country="130" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°55'02''N"/>
       <longitude value="071°56'22''W"/>
@@ -3034,7 +3034,7 @@
     </runways>
   </airport>
   <airport name="Salt Cay Airport" icao="MBSY" iata="SLX" type="Regional" season="All_Year">
-    <town town="Salt Cay" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="Salt Cay, TC" country="130" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°19'58''N"/>
       <longitude value="071°11'59''W"/>
@@ -3046,7 +3046,7 @@
     <runways/>
   </airport>
   <airport name="South Caicos Airport" icao="MBSC" iata="XSC" type="Regional" season="All_Year">
-    <town town="South Caicos" country="209" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="South Caicos, TC" country="130" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="021°30'56''N"/>
       <longitude value="071°31'42''W"/>
@@ -4358,7 +4358,7 @@
   </airport>
   <!--Cayman Islands (MW**)-->
   <airport name="Owen Roberts International Airport" icao="MWCR" iata="GCM" type="Long_Haul_International" season="Winter">
-    <town town="George Town" country="219" GMT="-05:00:00" DST="-05:00:00"/>
+    <town town="George Town, KY" country="230" GMT="-05:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="019°17'33''N"/>
       <longitude value="081°21'33''W"/>
@@ -4450,7 +4450,7 @@
   </airport>
   <!--United States (Virgin Islands) (TI**)-->
   <airport name="Cyril E. King Airport" icao="TIST" iata="STT" type="Long_Haul_International" season="Summer">
-    <town town="Saint Thomas" country="204" GMT="-04:00:00" DST="-04:00:00"/>
+    <town town="Saint Thomas, VI" country="122" GMT="-04:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="018°20'13''N"/>
       <longitude value="064°58'23''W"/>
@@ -4465,7 +4465,7 @@
   </airport>
   <!--United States (Puerto Rico) (TJ**)-->
   <airport name="Luis Muñoz Marín International Airport" icao="TJSJ" iata="SJU" type="Long_Haul_International" season="Summer">
-    <town town="San Juan" country="181" GMT="-04:00:00" DST="-04:00:00"/>
+    <town town="San Juan, PR" country="122" GMT="-04:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="018°26'13''N"/>
       <longitude value="066°00'04''W"/>
@@ -4597,7 +4597,7 @@
   </airport>
   <!--United Kingdom (Virgin Islands) (TU**)-->
   <airport name="Terrance B. Lettsome International Airport" icao="TUPJ" iata="EIS" type="Short_Haul_International" season="Summer">
-    <town town="Roadtown" country="243" GMT="-04:00:00" DST="-04:00:00"/>
+    <town town="Roadtown, VG" country="130" GMT="-04:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="018°26'44''N"/>
       <longitude value="064°32'35''W"/>
@@ -4612,7 +4612,7 @@
   </airport>
   <!--Bermuda (TX**)-->
   <airport name="L.F. Wade International Airport" icao="TXKF" iata="BDA" type="Long_Haul_International" season="All_Year">
-    <town town="St. George's" country="200" GMT="-03:00:00" DST="-04:00:00"/>
+    <town town="St. George's, BM" country="130" GMT="-03:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="032°21'51''N"/>
       <longitude value="064°40'42''W"/>

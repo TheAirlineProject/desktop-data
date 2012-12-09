@@ -308,7 +308,7 @@
   </airport>
   <!--Comoros, Madagascar, Mayotte and Reunion (FM**)-->
   <airport name="Roland Garros Airport" icao="FMEE" iata="RUN" type="Long_Haul_International" season="All_Year">
-    <town town="Sainte-Marie" country="143" GMT="00:00:00" DST="00:00:00"/>
+    <town town="Sainte-Marie, RE" country="140" GMT="00:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="020°53'24''S"/>
       <longitude value="055°30'59''E"/>

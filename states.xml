@@ -1,53 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <states>
-<state country="122" name="Alabama" shortname="AL"  flag="Alabama-Flag-48"></state>
-<state country="122" name="Alaska" shortname="AK"  flag="Alaska-Flag-48"></state>
-<state country="122" name="Arizona" shortname="AZ"  flag="Arizona-Flag-48"></state>
-<state country="122" name="Arkansas" shortname="AR"  flag="Arkansas-Flag-48"></state>
-<state country="122" name="California" shortname="CA"  flag="California-Flag-48"></state>
-<state country="122" name="Connecticut" shortname="CT"  flag="Connecticut-Flag-48"></state>
-<state country="122" name="Colorado" shortname="CO"  flag="Colorado-Flag-48"></state>
-<state country="122" name="Delaware" shortname="DE"  flag="Delaware-Flag-48"></state>
-<state country="122" name="Florida" shortname="FL"  flag="Florida-Flag-48"></state>
-<state country="122" name="Georgia" shortname="GA"  flag="Georgia-Flag-48"></state>
-<state country="122" name="Hawaii" shortname="HI"  flag="Hawaii-Flag-48"></state>
-<state country="122" name="Idaho" shortname="ID"  flag="Idaho-Flag-48"></state>
-<state country="122" name="Illinios" shortname="IL"  flag="Illinois-Flag-48"></state>
-<state country="122" name="Inidiana" shortname="IN"  flag="Indiana-Flag-48"></state>
-<state country="122" name="Iowa" shortname="IA"  flag="Iowa-Flag-48"></state>
-<state country="122" name="Kansas" shortname="KS"  flag="Kansas-Flag-48"></state>
-<state country="122" name="Kentucky" shortname="KY"  flag="Kentucky-Flag-48"></state>
-<state country="122" name="Luisiana" shortname="LA"  flag="Louisiana-Flag-48"></state>
-<state country="122" name="Maine" shortname="ME"  flag="Maine-Flag-48"></state>
-<state country="122" name="Maryland" shortname="MD"  flag="Maryland-Flag-48"></state>
-<state country="122" name="Massachusetts" shortname="MA"  flag="Massachusetts-Flag-48"></state>
-<state country="122" name="Michigan" shortname="MI"  flag="Michigan-Flag-48"></state>
-<state country="122" name="Minnesota" shortname="MN"  flag="Minnesota-Flag-48"></state>
-<state country="122" name="Mississippi" shortname="MS"  flag="Mississippi-Flag-48"></state>
-<state country="122" name="Missouri" shortname="MO"  flag="Missouri-Flag-48"></state>
-<state country="122" name="Montana" shortname="MT"  flag="Montana-Flag-48"></state>
-<state country="122" name="Nebraska" shortname="NE"  flag="Nebraska-Flag-48"></state>
-<state country="122" name="Nevada" shortname="NV"  flag="Nevada-Flag-48"></state>
-<state country="122" name="New Hampshire" shortname="NH"  flag="New-Hampshire-Flag-48"></state>
-<state country="122" name="New Jersey" shortname="NJ"  flag="New-Jersey-Flag-48"></state>
-<state country="122" name="New Mexico" shortname="NM"  flag="New-Mexico-Flag-48"></state>
-<state country="122" name="New York" shortname="NY"  flag="New-York-Flag-48"></state>
-<state country="122" name="North Carolina" shortname="NC"  flag="North-Carolina-Flag-48"></state>
-<state country="122" name="North Dakota" shortname="ND"  flag="North-Dakota-Flag-48"></state>
-<state country="122" name="Ohio" shortname="OH"  flag="Ohio-Flag-48"></state>
-<state country="122" name="Oklahoma" shortname="OK"  flag="Oklahoma-Flag-48"></state>
-<state country="122" name="Oregoni" shortname="OR"  flag="Oregon-Flag-48"></state>
-<state country="122" name="Pennsylvania" shortname="PA"  flag="Pennsylvania-Flag-48"></state>
-<state country="122" name="Rhode Island" shortname="RI"  flag="Rhode-Island-Flag-48"></state>
-<state country="122" name="South Carolina" shortname="SC"  flag="South-Carolina-Flag-48"></state>
-<state country="122" name="South Dakota" shortname="SD"  flag="South-Dakota-Flag-48"></state>
-<state country="122" name="Tennessee" shortname="TN"  flag="Tennessee-Flag-48"></state>
-<state country="122" name="Texas" shortname="TX"  flag="Texas-Flag-48"></state>
-<state country="122" name="Utah" shortname="UT"  flag="Utah-Flag-48"></state>
-<state country="122" name="Vermont" shortname="VT"  flag="Vermont-Flag-48"></state>
-<state country="122" name="Virginia" shortname="VA"  flag="Virginia-Flag-48"></state>
-<state country="122" name="Washington" shortname="WA"  flag="Washington-Flag-48"></state>
-<state country="122" name="West Virginia" shortname="WV"  flag="West-Virginia-Flag-48"></state>
-<state country="122" name="Wisconsin" shortname="WI"  flag="Wisconsin-Flag-48"></state>
-<state country="122" name="Wyoming" shortname="WY"  flag="Wyoming-Flag-48"></state>
+	<!--Denmark-->
+	<state country="110" name="Faroe Islands" shortname="FO"  flag="Denmark - Faroe Islands"></state>
+	<state country="110" name="Greenland" shortname="GL"  flag="Denmark - Greenland"></state>
+	<!--France-->
+	<state country="140" name="French Guiana" shortname="GF"  flag="France - French Guiana"></state>
+	<state country="140" name="Réunion" shortname="RE"  flag="France - Réunion"></state>
+	<!--United Kingdom-->
+	<state country="130" name="Bermuda" shortname="BM"  flag="UK - Bermuda"></state>
+	<state country="130" name="Caymand Islands" shortname="KY"  flag="UK - Cayman Islands"></state>
+	<state country="130" name="England" shortname="ENG"  flag="UK - England"></state>
+	<state country="130" name="Guernsey" shortname="GG"  flag="UK - Guernsey"></state>
+	<state country="130" name="Gibraltar" shortname="GI"  flag="UK - Gibraltar"></state>
+	<state country="130" name="Northern Ireland" shortname="NIR"  flag="UK - Northern Ireland"></state>
+	<state country="130" name="Jersey" shortname="JE"  flag="UK - Jersey"></state>
+	<state country="130" name="Scotland" shortname="SCT"  flag="UK - Scotland"></state>
+	<state country="130" name="Turks and Caicos Islands" shortname="TC"  flag="UK - Turks and Caicos Islands"></state>
+	<state country="130" name="Virgin Islands (British)" shortname="VG"  flag="UK - Virgin Islands"></state>
+	<state country="130" name="Wales" shortname="WAL"  flag="UK - Wales"></state>
+	<!--United States-->
+	<state country="122" name="Alabama" shortname="AL"  flag="USA - Alabama"></state>
+	<state country="122" name="Alaska" shortname="AK"  flag="USA - Alaska"></state>
+	<state country="122" name="American Samoa" shortname="AS"  flag="USA - American Samoa"></state>
+	<state country="122" name="Arizona" shortname="AZ"  flag="USA - Arizona"></state>
+	<state country="122" name="Arkansas" shortname="AR"  flag="USA - Arkansas"></state>
+	<state country="122" name="California" shortname="CA"  flag="USA - California"></state>
+	<state country="122" name="Connecticut" shortname="CT"  flag="USA - Connecticut"></state>
+	<state country="122" name="Colorado" shortname="CO"  flag="USA - Colorado"></state>
+	<state country="122" name="Delaware" shortname="DE"  flag="USA - Delaware"></state>
+	<state country="122" name="Florida" shortname="FL"  flag="USA - Florida"></state>
+	<state country="122" name="Georgia" shortname="GA"  flag="USA - Georgia"></state>
+	<state country="122" name="Guam" shortname="GU"  flag="USA - Guam"></state>
+	<state country="122" name="Hawaii" shortname="HI"  flag="USA - Hawaii"></state>
+	<state country="122" name="Idaho" shortname="ID"  flag="USA - Idaho"></state>
+	<state country="122" name="Illinios" shortname="IL"  flag="USA - Illinois"></state>
+	<state country="122" name="Indiana" shortname="IN"  flag="USA - Indiana"></state>
+	<state country="122" name="Iowa" shortname="IA"  flag="USA - Iowa"></state>
+	<state country="122" name="Kansas" shortname="KS"  flag="USA - Kansas"></state>
+	<state country="122" name="Kentucky" shortname="KY"  flag="USA - Kentucky"></state>
+	<state country="122" name="Louisiana" shortname="LA"  flag="USA - Louisiana"></state>
+	<state country="122" name="Maine" shortname="ME"  flag="USA - Maine"></state>
+	<state country="122" name="Maryland" shortname="MD"  flag="USA - Maryland"></state>
+	<state country="122" name="Massachusetts" shortname="MA"  flag="USA - Massachusetts"></state>
+	<state country="122" name="Michigan" shortname="MI"  flag="USA - Michigan"></state>
+	<state country="122" name="Minnesota" shortname="MN"  flag="USA - Minnesota"></state>
+	<state country="122" name="Mississippi" shortname="MS"  flag="USA - Mississippi"></state>
+	<state country="122" name="Missouri" shortname="MO"  flag="USA - Missouri"></state>
+	<state country="122" name="Montana" shortname="MT"  flag="USA - Montana"></state>
+	<state country="122" name="Nebraska" shortname="NE"  flag="USA - Nebraska"></state>
+	<state country="122" name="Nevada" shortname="NV"  flag="USA - Nevada"></state>
+	<state country="122" name="New Hampshire" shortname="NH"  flag="USA - New-Hampshire"></state>
+	<state country="122" name="New Jersey" shortname="NJ"  flag="USA - New-Jersey"></state>
+	<state country="122" name="New Mexico" shortname="NM"  flag="USA - New-Mexico"></state>
+	<state country="122" name="New York" shortname="NY"  flag="USA - New-York"></state>
+	<state country="122" name="North Carolina" shortname="NC"  flag="USA - North-Carolina"></state>
+	<state country="122" name="North Dakota" shortname="ND"  flag="USA - North-Dakota"></state>
+	<state country="122" name="Ohio" shortname="OH"  flag="USA - Ohio"></state>
+	<state country="122" name="Oklahoma" shortname="OK"  flag="USA - Oklahoma"></state>
+	<state country="122" name="Oregon" shortname="OR"  flag="USA - Oregon"></state>
+	<state country="122" name="Pennsylvania" shortname="PA"  flag="USA - Pennsylvania"></state>
+	<state country="122" name="Puerto Rico" shortname="PR"  flag="USA - Puerto Rico"></state>
+	<state country="122" name="Rhode Island" shortname="RI"  flag="USA - Rhode-Island"></state>
+	<state country="122" name="South Carolina" shortname="SC"  flag="USA - South-Carolina"></state>
+	<state country="122" name="South Dakota" shortname="SD"  flag="USA - South-Dakota"></state>
+	<state country="122" name="Tennessee" shortname="TN"  flag="USA - Tennessee"></state>
+	<state country="122" name="Texas" shortname="TX"  flag="USA - Texas"></state>
+	<state country="122" name="Utah" shortname="UT"  flag="USA - Utah"></state>
+	<state country="122" name="Vermont" shortname="VT"  flag="USA - Vermont"></state>
+	<state country="122" name="Virgin Islands (US)" shortname="VI"  flag="USA - Virgin Islands"></state>
+	<state country="122" name="Virginia" shortname="VA"  flag="USA - Virginia"></state>
+	<state country="122" name="Washington" shortname="WA"  flag="USA - Washington"></state>
+	<state country="122" name="West Virginia" shortname="WV"  flag="USA - West-Virginia"></state>
+	<state country="122" name="Wisconsin" shortname="WI"  flag="USA - Wisconsin"></state>
+	<state country="122" name="Wyoming" shortname="WY"  flag="USA - Wyoming"></state>
 </states>
