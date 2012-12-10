@@ -112,19 +112,184 @@
   </airport>
   <!--Eastern Pacific (P***)-->
   <!--United States (Alaska) (PA**)-->
-  <airport name="Fairbanks International Airport" icao="PAFA" iata="FAI" type="Short_Haul_International" season="Summer">
-    <town town="Fairbanks, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+  <airport name="Bethel Airport" icao="PABE" iata="BET" type="Regional" season="All_Year">
+    <town town="Bethel, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
     <coordinates>
-      <latitude value="064°48'54''N" />
-      <longitude value="147°51'23''W" />
+      <latitude value="060°46'47''N"/>
+      <longitude value="161°50'16''W"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="6" />
+      <terminal name="Terminal 1" gates="3"/>
     </terminals>
     <runways>
-      <runway name="1L/19R" length="3597" surface="Asphalt" />
-      <runway name="1R/19L" length="1981" surface="Asphalt" />
+      <runway name="01L/19R" length="1951" surface="Asphalt"/>
+      <runway name="01R/19L" length="1219" surface="Asphalt"/>
+      <runway name="12/30" length="567" surface="Asphalt"/>
+    </runways>
+  </airport>
+  </airport>  <airport name="Wiley Post Will Rogers Memorial Airport" icao="PABR" iata="BRW" type="Regional" season="All_Year">
+    <town town="Barrow, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="071°17'07''N"/>
+      <longitude value="156°45'57''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="6/24" length="1981" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Kodiak Airport" icao="PADQ" iata="ADQ" type="Regional" season="All_Year">
+    <town town="Kodiak, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="057°45'00''N"/>
+      <longitude value="152°29'38''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="7/25" length="2299" surface="Asphalt"/>
+      <runway name="11/29" length="1646" surface="Asphalt"/>
+      <runway name="18/36" length="1528" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Merle K (Mudhole) Smith Airport" icao="PACV" iata="CDV" type="Regional" season="All_Year">
+    <town town="Cordova, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="060°29'30''N"/>
+      <longitude value="145°28'40''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="9/27" length="2286" surface="Asphalt"/>
+      <runway name="16/34" length="579" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Dillingham Airport" icao="PADL" iata="DLG" type="Regional" season="All_Year">
+    <town town="Dillingham, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="059°02'40''N"/>
+      <longitude value="158°30'18''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="1/19" length="1951" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Unalaska Airport" icao="PADU" iata="DUT" type="Regional" season="All_Year">
+    <town town="Unalaska, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="053°54'00''N"/>
+      <longitude value="166°32'38''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="1189" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Fairbanks International Airport" icao="PAFA" iata="FAI" type="Short_Haul_International" season="All_Year">
+    <town town="Fairbanks, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="064°48'54''N"/>
+      <longitude value="147°51'21''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="SKI 2/20" length="884" surface="Gravel"/>
+      <runway name="2L/20R" length="3597" surface="Asphalt"/>
+      <runway name="2R/20L" length="1982" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Edward G. Pitka Sr Airport" icao="PAGA" iata="GAL" type="Regional" season="All_Year">
+    <town town="Galena, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="064°44'10''N"/>
+      <longitude value="156°56'13''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="6/24" length="849" surface="Asphalt"/>
+      <runway name="7/25" length="2211" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Juneau International Airport" icao="PAJN" iata="JNU" type="Domestic" season="All_Year">
+    <town town="Juneau, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="058°21'17''N"/>
+      <longitude value="134°34'33''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="8/26" length="2578" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="King Salmon Airport" icao="PAKN" iata="AKN" type="Regional" season="All_Year">
+    <town town="King Salmon, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="058°40'36''N"/>
+      <longitude value="156°38'56''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2713" surface="Asphalt"/>
+      <runway name="18/36" length="1225" surface="Asphalt"/>
+      <runway name="NW/SE" length="1219" surface="Asphalt"/>
+    </runways>
+</airport>
+  <airport name="Homer Airport" icao="PAHO" iata="HOM" type="Regional" season="All_Year">
+    <town town="Homer, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="059°38'44''N"/>
+      <longitude value="151°28'37''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="3/21" length="2042" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Merrill Field" icao="PAMR" iata="MRI" type="Regional" season="All_Year">
+    <town town="Anchorage, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="061°12'48''N"/>
+      <longitude value="149°50'38''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="4/22" length="610" surface="Asphalt"/>
+      <runway name="7/25" length="1219" surface="Asphalt"/>
+      <runway name="16/34" length="805" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Ted Stevens Anchorage International Airport" icao="PANC" iata="ANC" type="Long_Haul_International" season="Summer">
@@ -143,7 +308,105 @@
       <runway name="14/32" length="3531" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Hoonah Airport" icao="PAOH" iata="HNH" type="Regional" season="All_Year">
+    <town town="Hoonah, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="058°05'45''N"/>
+      <longitude value="135°24'36''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="6/24" length="913" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Petersburg James A Johnson Airport" icao="PAPG" iata="PSG" type="Regional" season="All_Year">
+    <town town="Petersburg, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="056°48'06''N"/>
+      <longitude value="132°56'42''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="4/22" length="1829" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Deadhorse Airport" icao="PASC" iata="SCC" type="Regional" season="All_Year">
+    <town town="Deadhorse, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="070°11'40''N"/>
+      <longitude value="148°27'53''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="5/23" length="1981" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sitka Rocky Gutierrez Airport" icao="PASI" iata="SIT" type="Regional" season="All_Year">
+    <town town="Sitka, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="057°02'49''N"/>
+      <longitude value="135°21'43''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1981" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Valdez Pioneer Field" icao="PAVD" iata="VDZ" type="Regional" season="All_Year">
+    <town town="Valdez, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="061°08'02''N"/>
+      <longitude value="146°14'52''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="6/24" length="1984" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Wrangell Airport" icao="PAWG" iata="WRG" type="Regional" season="All_Year">
+    <town town="Wrangell, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
+    <coordinates>
+      <latitude value="056°29'03''N"/>
+      <longitude value="132°22'11''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1828" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--United States (Guam) (PG**)-->
+  <airport name="Francisco C. Ada Saipan International Airport" icao="PGSN" iata="SPN" type="Short_Haul_International" season="All_Year">
+    <town town="Saipan Island, GU" country="122" GMT="10:00:00" DST="10:00:00"/>
+    <coordinates>
+      <latitude value="015°07'08''N"/>
+      <longitude value="145°43'44''E"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="4"/>
+    </terminals>
+    <runways>
+      <runway name="7/25" length="2652" surface="Asphalt"/>
+    </runways>
+  </airport>
   <airport name="Antonio B. Won Pat International Airport" icao="PGUM" iata="GUM" type="Long_Haul_International" season="All_Year">
     <town town="Hagåtña, GU" country="122" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
@@ -155,8 +418,8 @@
       <terminal name="Terminal" gates="17" />
     </terminals>
     <runways>
-      <runway name="06L/24R" length="3053" surface="Asphalt" />
-      <runway name="06R/24L" length="3052" surface="Asphalt" />
+      <runway name="6L/24R" length="3053" surface="Asphalt" />
+      <runway name="6R/24L" length="3052" surface="Asphalt" />
     </runways>
   </airport>
   <!--United States (Hawaii) (PH**)-->
@@ -166,7 +429,7 @@
       <latitude value="019°44'20''N" />
       <longitude value="156°02'44''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Very_small" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -180,13 +443,28 @@
       <latitude value="021°58'59''N" />
       <longitude value="159°20'59''W" />
     </coordinates>
-    <size value="Smallest" />
+    <size value="Small" />
     <terminals>
       <terminal name="Terminal" gates="14" />
     </terminals>
     <runways>
-      <runway name="03/21" length="1981" surface="Asphalt" />
+      <runway name="3/21" length="1981" surface="Asphalt" />
       <runway name="17/35" length="1981" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Molokai Airport" icao="PHMK" iata="MKK" type="Regional" season="All_Year">
+    <town town="Kaunakakai, HI" country="122" GMT="-10:00:00" DST="-11:00:00"/>
+    <coordinates>
+      <latitude value="021°09'10''N"/>
+      <longitude value="157°05'45''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="5/23" length="1370" surface="Asphalt"/>
+      <runway name="17/35" length="950" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Honolulu International Airport" icao="PHNL" iata="HNL" type="Long_Haul_International" season="All_Year">
@@ -206,6 +484,20 @@
       <runway name="4R/22L" length="2743" surface="Asphalt" />
       <runway name="8L/26R" length="3749" surface="Asphalt" />
       <runway name="8R/26L" length="3658" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lanai Airport" icao="PHNY" iata="LNY" type="Regional" season="All_Year">
+    <town town="Lanai City, HI" country="122" GMT="-10:00:00" DST="-11:00:00"/>
+    <coordinates>
+      <latitude value="020°47'08''N"/>
+      <longitude value="156°57'03''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="3/21" length="1524" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kahului Airport" icao="PHOG" iata="OGG" type="Short_Haul_International" season="All_Year">
