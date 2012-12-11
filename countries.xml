@@ -11,7 +11,6 @@
       <es-ES name="Todos los países" />
     </translations>
   </country>
-  <!--Countries-->
   <country uid="101" shortname="SEN" region="109" flag="Senegal" tailformat="6V-\\s3">
     <translations>
       <en-US name="Senegal" />
@@ -89,15 +88,15 @@
       <es-ES name="Bélgica" />
     </translations>
   </country>
-  <country uid="108" shortname="SLC" region="104" flag="St. Lucia Island" tailformat="J6-\\s3">
+  <country uid="108" shortname="SLC" region="104" flag="St. Lucia" tailformat="J6-\\s3">
     <translations>
-      <en-US name="St. Lucia Island" />
-      <de-DE name="St. Lucia Inseln" />
-      <en-GB name="St. Lucia Island" />
+      <en-US name="St. Lucia" />
+      <de-DE name="St. Lucia" />
+      <en-GB name="St. Lucia" />
       <nl-NL name="Saint Lucia" />
       <zh-CN name="圣卢西亚岛" />
       <da-DK name="St. Lucia" />
-      <es-ES name="St Lucia isla" />
+      <es-ES name="St Lucia" />
     </translations>
   </country>
   <country uid="110" shortname="DEN" region="113" flag="Denmark" tailformat="OY-\\s4">

@@ -660,6 +660,21 @@
       <runway name="14/32" length="2250" surface="Concrete"/>
     </runways>
   </airport>
+  <airport name="Isle of Man Airport" icao="EGNS" iata="IOM" type="Short_Haul_International" season="All_Year">
+    <town town="Ronaldsway, IM" country="130" GMT="01:00:00" DST="00:00:00"/>
+    <coordinates>
+      <latitude value="054°05'00''N"/>
+      <longitude value="004°37'24''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="12"/>
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1255" surface="Asphalt"/>
+	  <runway name="08/26" length="1837" surface="Asphalt"/>
+    </runways>
+  </airport>
   <airport name="Newcastle International Airport" icao="EGNT" iata="NCL" type="Long_Haul_International" season="All_Year">
     <town town="Newcastle, ENG" country="130" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
@@ -1675,6 +1690,20 @@
     <runways>
       <runway name="08L/26R" length="700" surface="Asphalt"/>
       <runway name="08R/26L" length="3100" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Saint-Pierre Airport" icao="LFVP" iata="FSP" type="Regional" season="All_Year">
+    <town town="Saint-Pierre, PM" country="140" GMT="-02:00:00" DST="-03:00:00"/>
+    <coordinates>
+      <latitude value="046°45'47''N"/>
+      <longitude value="056°10'27''W"/>
+    </coordinates>
+    <size value="Smallest"/>
+    <terminals>
+      <terminal name="Terminal" gates="4"/>
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1800" surface="Asphalt"/>
     </runways>
   </airport>
   <!--Greece (LG**)-->

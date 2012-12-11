@@ -64,6 +64,21 @@
       <runway name="8/26" length="1158" surface="Asphalt" />
     </runways>
   </airport>
+  <!--French Polynesia (NT**)-->
+  <airport name="Fa'a'ā International Airport" icao="NTAA" iata="PPT" type="Long_Haul_International" season="All_Year">
+    <town town="Fa'a'ā, PF" country="140" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="017°33'24''S" />
+      <longitude value="149°36'41''W" />
+    </coordinates>
+    <size value="Very_small" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3420" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--New Zealand (NZ**)-->
   <airport name="Auckland Airport" icao="NZAA" iata="AKL" type="Long_Haul_International" season="All_Year">
     <town town="Auckland" country="186" GMT="12:00:00" DST="13:00:00" />
@@ -128,7 +143,7 @@
       <runway name="12/30" length="567" surface="Asphalt"/>
     </runways>
   </airport>
-  </airport>  <airport name="Wiley Post Will Rogers Memorial Airport" icao="PABR" iata="BRW" type="Regional" season="All_Year">
+  <airport name="Wiley Post Will Rogers Memorial Airport" icao="PABR" iata="BRW" type="Regional" season="All_Year">
     <town town="Barrow, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
     <coordinates>
       <latitude value="071°17'07''N"/>
