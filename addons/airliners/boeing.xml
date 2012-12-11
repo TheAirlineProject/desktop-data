@@ -78,7 +78,7 @@
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1967" to="1985"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." image="Boeing 737-200" price="5701750"> <!--7800000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." image="Boeing 737-200" price="6944440"> <!--9500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="4300" speed="780" fuelcapacity="19500" consumption="0.033" runwaylengthrequired="1280"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
@@ -132,7 +132,7 @@
     <capacity passengers="215" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
     <produced from="2005" to="2020"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-100" image="Boeing 747-100" price="21683670"> <!--25500000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-100" image="Boeing 747-100" price="20408160"> <!--24000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="59.60" length="70.60" range="9800" speed="893" fuelcapacity="183380" consumption="0.041" runwaylengthrequired="3100"/>
     <capacity passengers="452" cockpitcrew="3" cabincrew="9" maxclasses="3"/>
