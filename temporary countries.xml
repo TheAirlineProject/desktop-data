@@ -5,7 +5,7 @@
       <en-US name="East Germany" />
       <de-DE name="East Germany" />
       <en-GB name="East Germany" />
-      <nl-NL name="East Germany" />
+      <nl-NL name="Oost-Duitsland" />
       <zh-CN name="东德" />
       <da-DK name="Østtyskland" />
       <es-ES name="Alemania Oriental" />
@@ -20,7 +20,7 @@
       <en-US name="West Germany" />
       <de-DE name="West Germany" />
       <en-GB name="West Germany" />
-      <nl-NL name="West Germany" />
+      <nl-NL name="West-Duitsland" />
       <zh-CN name="西德" />
       <da-DK name="Vesttyskland" />
       <es-ES name="Alemania Occidental" />
@@ -35,7 +35,7 @@
       <en-US name="Czechoslovakia" />
       <de-DE name="Czechoslovakia" />
       <en-GB name="Czechoslovakia" />
-      <nl-NL name="Czechoslovakia" />
+      <nl-NL name="Tsjechoslowakije" />
       <zh-CN name="捷克斯洛伐克" />
       <da-DK name="Tjekkoslovakiet" />
       <es-ES name="Checoeslovaquia" />
@@ -56,7 +56,7 @@
       <en-US name="Soviet Union" />
       <de-DE name="Sowjetunion" />
       <en-GB name="Soviet Union" />
-      <nl-NL name="Sovjet-Unie" />
+      <nl-NL name="Sovjetunie" />
       <zh-CN name="苏联" />
       <da-DK name="Sovjetunionen" />
       <es-ES name="Unión Soviética" />
@@ -103,7 +103,7 @@
       <en-US name="Yugoslavia" />
       <de-DE name="Yugoslavia" />
       <en-GB name="Yugoslavia" />
-      <nl-NL name="Yugoslavia" />
+      <nl-NL name="Joegoslavië" />
       <zh-CN name="南斯拉夫" />
       <da-DK name="Jugoslavien" />
       <es-ES name="Yugoslavia" />
@@ -130,7 +130,7 @@
       <en-US name="Serbia &amp; Montenegro" />
       <de-DE name="Serbia &amp; Montenegro" />
       <en-GB name="Serbia &amp; Montenegro" />
-      <nl-NL name="Serbia &amp; Montenegro" />
+      <nl-NL name="Servië &amp;amp; Montenegro" />
       <zh-CN name="塞尔维亚黑山" />
       <da-DK name="Serbien og Montenegro" />
       <es-ES name="Serbia y Montenegro" />
@@ -151,7 +151,7 @@
       <en-US name="North Vietnam" />
       <de-DE name="North Vietnam" />
       <en-GB name="North Vietnam" />
-      <nl-NL name="North Vietnam" />
+      <nl-NL name="Noord-Viëtnam" />
       <zh-CN name="越南民主共和国" />
       <da-DK name="Nordvietnam" />
       <es-ES name="Vietnam del Norte" />
@@ -166,7 +166,7 @@
       <en-US name="South Vietnam" />
       <de-DE name="South Vietnam" />
       <en-GB name="South Vietnam" />
-      <nl-NL name="South Vietnam" />
+      <nl-NL name="Zuid-Viëtnam" />
       <zh-CN name="越南共和国" />
       <da-DK name="Sydvietnam" />
       <es-ES name="Vietnam del Sur" />
@@ -182,7 +182,7 @@
       <en-US name="Netherlands Antilles" />
       <de-DE name="Netherlands Antilles" />
       <en-GB name="Netherlands Antilles" />
-      <nl-NL name="Netherlands Antilles" />
+      <nl-NL name="Nederlandse Antillen" />
       <zh-CN name="荷属安的列斯" />
       <da-DK name="Nederlandske Antiller" />
       <es-ES name="Antillas Holandesas" />

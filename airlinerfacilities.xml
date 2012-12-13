@@ -24,7 +24,7 @@
       <en-US name="Personal Radio" />
       <de-DE name="Personlichen kopfhorer" />
       <en-GB name="Personal Radio" />
-      <nl-NL name="Persoonlijke Radio" />
+      <nl-NL name="Persoonlijke radio" />
       <zh-CN name="标准音乐服务" />
       <da-DK name="Personligt lydsystem" />
       <es-ES name="Radio Personal" />
@@ -39,7 +39,7 @@
       <en-US name="Standard Audio on Demand" />
       <de-DE name="Standard Kopfhörer auf Nachfrage" />
       <en-GB name="Standard Audio on Demand" />
-      <nl-NL name="Standaard audiopakket" />
+      <nl-NL name="Standaardaudiopakket" />
       <zh-CN name="标准音乐服务" />
       <da-DK name="Standard Audio on Demand" />
       <es-ES name="Audio Estándar por encargo" />
@@ -69,7 +69,7 @@
       <en-US name="Standard Seats" />
       <de-DE name="Standard-Sitze" />
       <en-GB name="Standard Seats" />
-      <nl-NL name="Standaard stoelen" />
+      <nl-NL name="Standaardstoelen" />
       <zh-CN name="标准座舱" />
       <da-DK name="Standard sæder" />
       <es-ES name="Asientos Estándar" />
@@ -84,7 +84,7 @@
       <en-US name="Premium Seats" />
       <de-DE name="Luxus-Sitze" />
       <en-GB name="Premium Seats" />
-      <nl-NL name="Comfort stoelen" />
+      <nl-NL name="Comfortstoelen" />
       <zh-CN name="高级座舱" />
       <da-DK name="Premium sæder" />
       <es-ES name="Asientos  Superiores" />
@@ -99,7 +99,7 @@
       <en-US name="Luxury Seats" />
       <de-DE name="Luxury Seats" />
       <en-GB name="Luxury Seats" />
-      <nl-NL name="Luxury Seats" />
+      <nl-NL name="Luxestoelen" />
       <zh-CN name="豪华座舱" />
       <da-DK name="Luksussæder" />
       <es-ES name="Asientos de Lujo" />
@@ -114,7 +114,7 @@
       <en-US name="Cradle Seats" />
       <de-DE name="Wiege-Sitze" />
       <en-GB name="Cradle Seats" />
-      <nl-NL name="Extra brede stoel" />
+      <nl-NL name="Extra brede stoelen" />
       <zh-CN name="婴儿座" />
       <da-DK name="Vuggesæder" />
       <es-ES name="Asientos Cuna" />
@@ -129,7 +129,7 @@
       <en-US name="Angled Lie-Flat Seats" />
       <de-DE name="Standard-Liege-Sitze" />
       <en-GB name="Angled Lie-Flat Seats" />
-      <nl-NL name="Standaard ligstoel" />
+      <nl-NL name="Standaardligstoel" />
       <zh-CN name="固定角度的靠背椅" />
       <da-DK name="Vinklet og liggende sæder" />
       <es-ES name="Asientos Reclinables" />
@@ -144,7 +144,7 @@
       <en-US name="Full-Flat Seats" />
       <de-DE name="Luxus-Liege-Sitze" />
       <en-GB name="Full-Flat Seats" />
-      <nl-NL name="Comfort ligstoel" />
+      <nl-NL name="Comfortligstoel" />
       <zh-CN name="全角度靠背椅" />
       <da-DK name="Liggende sæder" />
       <es-ES name="Asientos Cama" />
@@ -159,7 +159,7 @@
       <en-US name="Full-Flat Beds" />
       <de-DE name="Luxus-Liege-Bett" />
       <en-GB name="Full-Flat Beds" />
-      <nl-NL name="Comfort bed-stoel" />
+      <nl-NL name="Comfortbedstoel" />
       <zh-CN name="平整的床" />
       <da-DK name="Liggende senge" />
       <es-ES name="Asientos Cama" />
@@ -204,7 +204,7 @@
       <en-US name="Standard PTV" />
       <de-DE name="Sitzmonitor Standard" />
       <en-GB name="Standard PTV" />
-      <nl-NL name="Persoonlijk beeldscherm" />
+      <nl-NL name="Persoonlijk tv-scherm" />
       <zh-CN name="标准 PTV" />
       <da-DK name="Standard PTV" />
       <es-ES name="Televisión de Pago Estándar" />
@@ -219,7 +219,7 @@
       <en-US name="Extended PTV" />
       <de-DE name="Sitzmonitor Luxus" />
       <en-GB name="Extended PTV" />
-      <nl-NL name="Interactief persoonlijk beeldscherm" />
+      <nl-NL name="Interactief tv-scherm" />
       <zh-CN name="高级 PTV" />
       <da-DK name="Udvidet PTV" />
       <es-ES name="Televisión de Pago Ampliada" />

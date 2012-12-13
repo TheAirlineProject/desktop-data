@@ -214,7 +214,7 @@
       <en-US name="United States" />
       <de-DE name="Vereinigte Staaten" />
       <en-GB name="United States" />
-      <nl-NL name="Verenigde Staen" />
+      <nl-NL name="Verenigde Staten" />
       <zh-CN name="美国" />
       <da-DK name="USA" />
       <es-ES name="Estados Unidos" />
@@ -500,7 +500,7 @@
       <en-US name="Russia" />
       <de-DE name="Russland" />
       <en-GB name="Russia" />
-      <nl-NL name="Ruslan" />
+      <nl-NL name="Rusland" />
       <zh-CN name="俄罗斯" />
       <da-DK name="Rusland" />
       <es-ES name="Rusia" />
@@ -687,7 +687,7 @@
       <en-US name="Czech Republic" />
       <de-DE name="Tschechische Republik" />
       <en-GB name="Czech Republic" />
-      <nl-NL name="Tsjechische Republiek" />
+      <nl-NL name="Tsjechië" />
       <zh-CN name="捷克共和国" />
       <da-DK name="Tjekkiet" />
       <es-ES name="República Checa" />
@@ -731,7 +731,7 @@
       <en-US name="Vietnam" />
       <de-DE name="Vietnam" />
       <en-GB name="Vietnam" />
-      <nl-NL name="Vietnam" />
+      <nl-NL name="Viëtnam" />
       <zh-CN name="越南" />
       <da-DK name="Vietnam" />
       <es-ES name="Vietnam" />
@@ -1061,7 +1061,7 @@
       <en-US name="Bahamas" />
       <de-DE name="Bahamas" />
       <en-GB name="Bahamas" />
-      <nl-NL name="Bahama's" />
+      <nl-NL name="Bahama\'s" />
       <zh-CN name="巴哈马群岛" />
       <da-DK name="Bahamas" />
       <es-ES name="Bahamas" />
@@ -1072,7 +1072,7 @@
       <en-US name="Trinidad &amp; Tobago" />
       <de-DE name="Trinidad &amp; Tobago" />
       <en-GB name="Trinidad &amp; Tobago" />
-      <nl-NL name="Trinidad &amp; Tobago" />
+      <nl-NL name="Trinidad &amp;amp; Tobago" />
       <zh-CN name="特立尼达拉岛 &amp; 多巴哥岛" />
       <da-DK name="Trinidad &amp;amp; Tobago" />
       <es-ES name="Trinidad y Tobago" />
@@ -1193,7 +1193,7 @@
       <en-US name="Belarus" />
       <de-DE name="Belarus" />
       <en-GB name="Belarus" />
-      <nl-NL name="Belarus" />
+      <nl-NL name="Wit-Rusland" />
       <zh-CN name="白俄罗斯" />
       <da-DK name="Hviderusland" />
       <es-ES name="Bielorrusia" />
@@ -1303,7 +1303,7 @@
       <en-US name="Saint Kitts &amp; Nevis" />
       <de-DE name="Saint Kitts &amp; Nevis" />
       <en-GB name="Saint Kitts &amp; Nevis" />
-      <nl-NL name="Saint Kitts &amp; Nevis" />
+      <nl-NL name="Saint Kitts &amp;amp; Nevis" />
       <zh-CN name="圣基茨尼维斯" />
       <da-DK name="Saint Kitts &amp;amp; Nevis" />
       <es-ES name="Saint Kitts y Nevis" />
@@ -1314,7 +1314,7 @@
       <en-US name="Slovakia" />
       <de-DE name="Slovakia" />
       <en-GB name="Slovakia" />
-      <nl-NL name="Slovakia" />
+      <nl-NL name="Slowakije" />
       <zh-CN name="斯洛伐克" />
       <da-DK name="Slovakia" />
       <es-ES name="Eslovaquia" />
@@ -1325,7 +1325,7 @@
       <en-US name="Moldova" />
       <de-DE name="Moldova" />
       <en-GB name="Moldova" />
-      <nl-NL name="Moldova" />
+      <nl-NL name="Moldavië" />
       <zh-CN name="摩尔多纳" />
       <da-DK name="Moldova" />
       <es-ES name="Moldova" />
@@ -1336,7 +1336,7 @@
       <en-US name="Georgia" />
       <de-DE name="Georgia" />
       <en-GB name="Georgia" />
-      <nl-NL name="Georgia" />
+      <nl-NL name="Georgië" />
       <zh-CN name="格鲁吉亚" />
       <da-DK name="Georgien" />
       <es-ES name="Georgia" />
@@ -1347,7 +1347,7 @@
       <en-US name="Armenia" />
       <de-DE name="Armenia" />
       <en-GB name="Armenia" />
-      <nl-NL name="Armenia" />
+      <nl-NL name="Armenië" />
       <zh-CN name="亚美尼亚" />
       <da-DK name="Armenien" />
       <es-ES name="Armenia" />
@@ -1358,7 +1358,7 @@
       <en-US name="Azerbaijan" />
       <de-DE name="Azerbaijan" />
       <en-GB name="Azerbaijan" />
-      <nl-NL name="Azerbaijan" />
+      <nl-NL name="Azerbeidzjan" />
       <zh-CN name="阿塞拜疆" />
       <da-DK name="Azerbaijan" />
       <es-ES name="Azerbaiyán" />
@@ -1369,7 +1369,7 @@
       <en-US name="Kazakhstan" />
       <de-DE name="Kazakhstan" />
       <en-GB name="Kazakhstan" />
-      <nl-NL name="Kazakhstan" />
+      <nl-NL name="Kazachstan" />
       <zh-CN name="哈萨克斯坦" />
       <da-DK name="Kazakhstan" />
       <es-ES name="Kazajstán" />
@@ -1380,7 +1380,7 @@
       <en-US name="Uzbekistan" />
       <de-DE name="Uzbekistan" />
       <en-GB name="Uzbekistan" />
-      <nl-NL name="Uzbekistan" />
+      <nl-NL name="Oezbekistan" />
       <zh-CN name="乌兹别克斯坦" />
       <da-DK name="Uzbekistan" />
       <es-ES name="Uzbekistán" />
@@ -1402,7 +1402,7 @@
       <en-US name="Kyrgyzstan" />
       <de-DE name="Kyrgyzstan" />
       <en-GB name="Kyrgyzstan" />
-      <nl-NL name="Kyrgyzstan" />
+      <nl-NL name="Kirgizië" />
       <zh-CN name="吉尔吉斯斯坦" />
       <da-DK name="Kyrgyzstan" />
       <es-ES name="Kirguizistán" />
@@ -1413,7 +1413,7 @@
       <en-US name="Tajikistan" />
       <de-DE name="Tajikistan" />
       <en-GB name="Tajikistan" />
-      <nl-NL name="Tajikistan" />
+      <nl-NL name="Tadzjikistan" />
       <zh-CN name="塔吉克斯坦" />
       <da-DK name="Tajikistan" />
       <es-ES name="Tayikistán" />
@@ -1424,7 +1424,7 @@
       <en-US name="Mongolia" />
       <de-DE name="Mongolia" />
       <en-GB name="Mongolia" />
-      <nl-NL name="Mongolia" />
+      <nl-NL name="Mongolië" />
       <zh-CN name="蒙古" />
       <da-DK name="Mongoliet" />
       <es-ES name="Mongolia" />
@@ -1435,7 +1435,7 @@
       <en-US name="Albania" />
       <de-DE name="Albania" />
       <en-GB name="Albania" />
-      <nl-NL name="Albania" />
+      <nl-NL name="Albanië" />
       <zh-CN name="阿尔巴尼亚" />
       <da-DK name="Albanien" />
       <es-ES name="Albania" />
@@ -1457,14 +1457,15 @@
       <en-US name="Bosnia &amp; Herzegovina" />
       <de-DE name="Bosnia &amp; Herzegovina" />
       <en-GB name="Bosnia &amp; Herzegovina" />
-      <nl-NL name="Bosnia &amp; Herzegovina" />
+      <nl-NL name="Bosnië-Herzegovina" />
       <zh-CN name="波斯尼亚 &amp; 黑塞戈维亚" />
       <da-DK name="Bosnien &amp;amp; Herzegovina" />
       <es-ES name="Bosnia y Herzegovina" />
     </translations>
   </country>
   <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
-  <currency format="NPR" rate="1"></currency>
+    <currency format="NPR" rate="1">
+    </currency>
     <translations>
       <en-US name="Nepal" />
       <de-DE name="Nepal" />
@@ -1506,7 +1507,7 @@
       <en-US name="Caribbean Netherlands" />
       <de-DE name="Caribbean Netherlands" />
       <en-GB name="Caribbean Netherlands" />
-      <nl-NL name="Caribbean Netherlands" />
+      <nl-NL name="Caribisch Nederland" />
       <zh-CN name="加勒比荷兰" />
       <da-DK name="Hollandsk Caribien" />
       <es-ES name="Holanda Caribe" />

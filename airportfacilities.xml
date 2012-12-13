@@ -160,7 +160,7 @@
       <en-US name="Check In Desks" />
       <de-DE name="Missing" />
       <en-GB name="Check In Desks" />
-      <nl-NL name="Missing" />
+      <nl-NL name="Incheckbalies" />
       <zh-CN name="登机手续办理台" />
       <da-DK name="Check-in desks" />
       <es-ES name="Mostradores de Facturación" />
@@ -175,7 +175,7 @@
       <en-US name="Self Check In" />
       <de-DE name="Missing" />
       <en-GB name="Self Check In" />
-      <nl-NL name="Missing" />
+      <nl-NL name="Self check-in" />
       <zh-CN name="自助值机" />
       <da-DK name="Selvbetjeningscheckin" />
       <es-ES name="Autofacturación" />
@@ -190,7 +190,7 @@
       <en-US name="Airport Ticket Office" />
       <de-DE name="Missing" />
       <en-GB name="Airport Ticket Office" />
-      <nl-NL name="Missing" />
+      <nl-NL name="Ticketkantoor in de luchthaven" />
       <zh-CN name="机场售票处" />
       <da-DK name="Lufthavnsbilletkontor" />
       <es-ES name="Oficina de Billetes" />
