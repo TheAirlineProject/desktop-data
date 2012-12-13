@@ -1464,6 +1464,7 @@
     </translations>
   </country>
   <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
+  <currency format="NPR" rate="1"></currency>
     <translations>
       <en-US name="Nepal" />
       <de-DE name="Nepal" />
