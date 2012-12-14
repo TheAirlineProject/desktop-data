@@ -2247,6 +2247,15 @@
       <da-DK name="Benyt lokal møntenhed" />
       <es-ES name="Missing" />
     </Text>
+    <Text uid="1015">
+      <en-GB name="Airline Description" />
+      <de-DE name="Missing" />
+      <en-US name="Airline Description" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Descripcion del aerolineas" />
+    </Text>
   </Region>
   <Region name="PageAirlineFleet">
     <Text uid="1001">
