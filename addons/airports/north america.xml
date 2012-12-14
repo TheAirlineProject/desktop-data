@@ -4504,6 +4504,21 @@
       <runway name="07/25" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
+  <!--Haiti (MT**)-->
+  <airport name="Toussaint Louverture International Airport" icao="MTPP" iata="PAP" type="Long_Haul_International" season="All_Year">
+    <town town="Port-au-Prince" country="111" GMT="-05:00:00" DST="-05:00:00"/>
+    <coordinates>
+      <latitude value="018°34'48''N"/>
+      <longitude value="072°17'33''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="12"/>
+    </terminals>
+    <runways>
+      <runway name="10/28" length="3040" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--Cuba (MU**)-->
   <airport name="José Martí International Airport" icao="MUHA" iata="HAV" type="Long_Haul_International" season="All_Year">
     <town town="Havana" country="198" GMT="-04:00:00" DST="-05:00:00"/>
@@ -4580,6 +4595,21 @@
     </runways>
   </airport>
   <!--Caribbean (T***)-->
+  <!--Antigua & Barbuda (TA**)-->
+  <airport name="V. C. Bird International Airport" icao="TAPA" iata="ANU" type="Long_Haul_International" season="Summer">
+    <town town="St. John's" country="243" GMT="-04:00:00" DST="-04:00:00"/>
+    <coordinates>
+      <latitude value="017°08'12''N"/>
+      <longitude value="061°47'35''W"/>
+    </coordinates>
+    <size value="Very_small"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3050" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--Barbados (TB**)-->
   <airport name="Grantley Adams International Airport" icao="TBPB" iata="BGI" type="Long_Haul_International" season="Summer">
     <town town="Bridgetown" country="227" GMT="-04:00:00" DST="-04:00:00"/>

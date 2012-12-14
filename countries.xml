@@ -110,6 +110,17 @@
       <es-ES name="Dinamarca" />
     </translations>
   </country>
+  <country uid="111" shortname="HTI" region="104" flag="Haiti" tailformat="HH-\\s3">
+    <translations>
+      <en-US name="Haiti" />
+      <de-DE name="Haiti" />
+      <en-GB name="Haiti" />
+      <nl-NL name="Haiti" />
+      <zh-CN name="Haiti" />
+      <da-DK name="Haiti" />
+      <es-ES name="Haiti" />
+    </translations>
+  </country>
   <country uid="113" shortname="CAN" region="102" flag="Canada" tailformat="CF-\\s3">
     <translations>
       <en-US name="Canada" />
@@ -1441,6 +1452,17 @@
       <es-ES name="Albania" />
     </translations>
   </country>
+  <country uid="243" shortname="ANT" region="104" flag="Antigua &amp; Barbuda" tailformat="V2-\\s3">
+    <translations>
+      <en-US name="Antigua &amp; Barbuda" />
+      <de-DE name="Antigua &amp; Barbuda" />
+      <en-GB name="Antigua &amp; Barbuda" />
+      <nl-NL name="Antigua &amp; Barbuda" />
+      <zh-CN name="Antigua &amp; Barbuda" />
+      <da-DK name="Antigua &amp; Barbuda" />
+      <es-ES name="Antigua &amp; Barbuda" />
+    </translations>
+  </country>
   <country uid="244" shortname="ARB" region="104" flag="Aruba" tailformat="P4-\\s3">
     <translations>
       <en-US name="Aruba" />
@@ -1463,6 +1485,17 @@
       <es-ES name="Bosnia y Herzegovina" />
     </translations>
   </country>
+  <country uid="249" shortname="SBM" region="107" flag="Montenegro" tailformat="4O-\\s3">
+    <translations>
+      <en-US name="Montenegro" />
+      <de-DE name="Montenegro" />
+      <en-GB name="Montenegro" />
+      <nl-NL name="Montenegro" />
+      <zh-CN name="黑山共和国" />
+      <da-DK name="Montenegro" />
+      <es-ES name="Montenegro" />
+    </translations>
+  </country>
   <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
     <currency format="NPR" rate="1">
     </currency>
@@ -1474,17 +1507,6 @@
       <zh-CN name="尼泊尔" />
       <da-DK name="Nepal" />
       <es-ES name="Nepal" />
-    </translations>
-  </country>
-  <country uid="249" shortname="SBM" region="107" flag="Montenegro" tailformat="4O-\\s3">
-    <translations>
-      <en-US name="Montenegro" />
-      <de-DE name="Montenegro" />
-      <en-GB name="Montenegro" />
-      <nl-NL name="Montenegro" />
-      <zh-CN name="黑山共和国" />
-      <da-DK name="Montenegro" />
-      <es-ES name="Montenegro" />
     </translations>
   </country>
   <!--Next uid = 250-->
