@@ -2783,6 +2783,31 @@
       <runway name="16/34" length="2200" surface="Concrete" />
     </runways>
   </airport>
+  <!--not alhpabetized (China)-->
+  <airport name="Meixian Airport" icao="ZGMX" iata="MXZ" type="Domestic" season="All_Year">
+    <town town="Meixian" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="024°21'00''N" />
+      <longitude value="116°07'58''E" />
+    </coordinates>
+    <size value="Very_small" pax="215" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Zhuhai Airport" icao="ZGSD" iata="ZUH" type="Short_Haul_International" season="All_Year">
+    <town town="Zhuhai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="022°00'23''N" />
+      <longitude value="113°22'33''E" />
+    </coordinates>
+    <size value="Small" pax="1797" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways />
+  </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
     <town town="Ulaanbaatar" country="241" GMT="08:00:00" DST="08:00:00"/>
