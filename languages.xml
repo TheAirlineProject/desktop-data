@@ -2243,7 +2243,7 @@
       <de-DE name="Missing" />
       <en-US name="Use local currency" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="使用本地货币" />
       <da-DK name="Benyt lokal møntenhed" />
       <es-ES name="Missing" />
     </Text>
@@ -2252,7 +2252,7 @@
       <de-DE name="Missing" />
       <en-US name="Airline Description" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="航空公司简介" />
       <da-DK name="Missing" />
       <es-ES name="Descripcion del aerolineas" />
     </Text>
