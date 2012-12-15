@@ -257,7 +257,7 @@
   </airport>
   <!--Columbia (SK**)-->
   <airport name="El Dorado International Airport" icao="SKBO" iata="BOG" type="Long_Haul_International" season="All_Year">
-    <town town="Bogota" country="183" GMT="-05:00:00" DST="-05:00:00" />
+    <town town="Bogotá" country="183" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="004°42'11''N" />
       <longitude value="074°08'17''W" />
@@ -271,7 +271,7 @@
       <runway name="13R/31L" length="3800" surface="Asphalt" />
     </runways>
   </airport>
-  <!--Columbia (SL**)-->
+  <!--Bolivia (SL**)-->
   <airport name="El Alto International Airport" icao="SLLP" iata="LPB" type="Long_Haul_International" season="All_Year">
     <town town="La Paz" country="211" GMT="-04:00:00" DST="-04:00:00" />
     <coordinates>
