@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <airline>
-  <profile name="Aeroflot" iata="SU" color="DarkSlateBlue" country="149" CEO="Vitaly Gennadyevich Savelyev" mentality="Aggressive" market="Global " preferedairport="SVO"></profile>
+  <profile name="Aeroflot" iata="SU" color="DarkSlateBlue" country="149" CEO="Vitaly Gennadyevich Savelyev" mentality="Aggressive" market="Global " preferedairport="SVO">
+    <narrative narrative="Aeroflot is the flag carrier and largest airline in Russia, in business since 1923. They operate a fleet of over 120 from their hub at Sheremetyevo. Their fleet consists of Airbus A320 and A330s." />
+  </profile>
   <info real="True" from="1923" to="2199" />
 </airline>
