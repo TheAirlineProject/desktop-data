@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="American Airlines" iata="AA" color="Red" country="122" CEO="Tom Horton" mentality="Aggressive" market="Global" preferedairport="DFW"></profile>
+<profile name="American Airlines" iata="AA" color="Red" country="122" CEO="Tom Horton" mentality="Aggressive" market="Global" preferedairport="DFW">
+  <narrative narrative="American Airlines is a major US airline operating it's headquarters at Dallas-Fort Worth, in operation since 1933. They operate over 1800 flights per day to 279 destionations around the world. The fleet consists of over 600 aircraft, notably the MD-82, 737, and 757. They currently do not operate any Airbus aircraft, however have 260 in order. " />
+</profile>
 </airline>
 

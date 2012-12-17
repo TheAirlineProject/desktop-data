@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <airline>
-  <profile name="Alitalia" iata="AZ" color="Green" country="141" CEO="Andrea Ragnetti" mentality="Aggressive" market="Global" preferedairport="FCO"></profile>
+  <profile name="Alitalia" iata="AZ" color="Green" country="141" CEO="Andrea Ragnetti" mentality="Aggressive" market="Global" preferedairport="FCO">
+    <narrative narrative="Alitalia is a major Italian airline based in Rome, in operation since 1946. They fly to 86 destinations throughout hte world on a fleet of 112 aircraft. The fleet primarily consists of Airbus aircraft." />
+  </profile>
 </airline>

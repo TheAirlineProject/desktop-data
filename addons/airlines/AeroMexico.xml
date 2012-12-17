@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="AeroMexico" iata="AM" color="NavyBlue" country="157" CEO="Andres Labastida" mentality="Aggressive" market="Global" preferedairport="MEX"></profile>
+<profile name="AeroMexico" iata="AM" color="NavyBlue" country="157" CEO="Andres Labastida" mentality="Aggressive" market="Global" preferedairport="MEX">
+  <narrative narrative="AeroMexico is the flag carrier of Mexico, based in Mexico City. It has been in operation since 1934 and is rapidly expanding, with destinations primarily in Mexico and North/Central America. Their fleet currently consists exclusively of Boeing aircraft, primarily the 737.  " />
+</profile>
 </airline>
