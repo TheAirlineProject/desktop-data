@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="German Wings" iata="GER" color="DarkRed" country="163" CEO="Franz Ötzel" mentality="Aggressive" market="Local" preferedairport="THF"></profile>
+<profile name="German Wings" iata="GER" color="DarkRed" country="163" CEO="Franz Ötzel" mentality="Aggressive" market="Local" preferedairport="THF">
+  <narrative narrative="German Wings is a budget airline operated out of Cologne since 1997. They are a subsidiary of Lufthansa with flights to 86 destinations on a fleet of 32 Airbus A320s." />
+</profile>
 </airline>

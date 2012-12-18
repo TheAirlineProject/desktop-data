@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <airline>
-  <profile name="Finnair" iata="AY" color="Navy" country="167" CEO="Mika Vehvilainen" mentality="Safe" market="Global " preferedairport="HEL"></profile>
+  <profile name="Finnair" iata="AY" color="Navy" country="167" CEO="Mika Vehvilainen" mentality="Safe" market="Global " preferedairport="HEL">
+    <narrative narrative="Finnair is the flag airline of Finland, operating out of Helsinki since 1923. They currently operate a fleet of 44 aircraft to 63 domestic and international destinations. Their fleet consists of a variety of Airbus aircraft." />
+  </profile>
   <info real="True" from="1923" to="2199" />
 </airline>

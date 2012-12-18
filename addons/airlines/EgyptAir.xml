@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <airline>
-<profile name="EgyptAir" iata="MS" color="GoldenRod" country="155" CEO="Hossam Kama" mentality="Aggressive" market="Regional" preferedairport="CAI"></profile>
+<profile name="EgyptAir" iata="MS" color="GoldenRod" country="155" CEO="Hossam Kama" mentality="Aggressive" market="Regional" preferedairport="CAI">
+  <narrative narrative="EgyptAir is the flag airline of Egypt, operating out of Cairo since 1932. They operate flights to 76 destinations primarily in Europe and Africa. Their fleet of 80 aircraft consists of a wide mix of Boeing and Airbus aircraft. " />
+</profile>
 </airline>
