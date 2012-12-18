@@ -612,7 +612,7 @@
       <latitude value="037°40'24''S" />
       <longitude value="144°50'36''E" />
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large" pax="28060" />
     <terminals>
       <terminal name="Terminal 1" gates="16" />
       <terminal name="Terminal 2" gates="20" />
@@ -691,7 +691,7 @@
       <latitude value="033°56'46''S" />
       <longitude value="151°10'38''E" />
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large" pax="36022" />
     <terminals>
       <terminal name="Terminal 1" gates="30" />
       <terminal name="Terminal 2" gates="15" />

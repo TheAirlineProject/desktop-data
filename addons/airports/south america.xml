@@ -113,7 +113,7 @@
       <latitude value="023°25'56''S" />
       <longitude value="046°28'09''W" />
     </coordinates>
-    <size value="Very_large" />
+    <size value="Very_large" pax="30371" />
     <terminals>
       <terminal name="Terminal" gates="37" />
     </terminals>
