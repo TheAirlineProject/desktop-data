@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airlinefacilities>
   <airlinefacility uid="100" price="100000" fromyear="1970" monthlycost="10000">
-    <level service="0" luxury="6">
+    <level service="0" luxury="10">
     </level>
     <translations>
       <en-US name="Frequent Flyer Program" shortname="Flyer" />
@@ -14,7 +14,7 @@
     </translations>
   </airlinefacility>
   <airlinefacility uid="101" price="20000" fromyear="1950" monthlycost="8000">
-    <level service="0" luxury="5">
+    <level service="0" luxury="6">
     </level>
     <translations>
       <en-US name="Airline InFlight Magazine" shortname="Magazine" />
@@ -27,7 +27,7 @@
     </translations>
   </airlinefacility>
   <airlinefacility uid="102" price="20000" fromyear="1950" monthlycost="5000">
-    <level service="0" luxury="4">
+    <level service="0" luxury="5">
     </level>
     <translations>
       <en-US name="Newspaper Service" shortname="News" />
@@ -92,7 +92,7 @@
     </translations>
   </airlinefacility>
   <airlinefacility uid="107" price="140000" fromyear="2010" monthlycost="25000">
-    <level service="0" luxury="15">
+    <level service="0" luxury="10">
     </level>
     <translations>
       <en-US name="In-flight Wi-Fi Access" shortname="Wi-FI" />
