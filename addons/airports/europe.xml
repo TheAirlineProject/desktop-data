@@ -1858,7 +1858,7 @@
     </runways>
   </airport>
   <airport name="Malpensa Airport" icao="LIMC" iata="MXP" type="Long_Haul_International" season="All_Year">
-    <town town="Milano" country="141" GMT="02:00:00" DST="01:00:00"/>
+    <town town="Milan" country="141" GMT="02:00:00" DST="01:00:00"/>
     <coordinates>
       <latitude value="045°37'53''N"/>
       <longitude value="008°43'40''E"/>

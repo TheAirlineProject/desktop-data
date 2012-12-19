@@ -120,7 +120,7 @@
       <es-ES name="Asientos Cuna" />
     </translations>
   </airlinerfacility>
-  <airlinerfacility uid="108" type="Seat" fromyear="1990">
+  <airlinerfacility uid="108" type="Seat" fromyear="1989">
     <level service="50">
     </level>
     <seats percent="100" price="390" uses="2">

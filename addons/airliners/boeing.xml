@@ -3,43 +3,43 @@
   <airliner manufacturer="Boeing" name="Boeing 720 (707-020)" price="3800000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="41.25" range="4385" speed="905" fuelcapacity="60900" consumption="0.099" runwaylengthrequired="2520"/>
-    <capacity passengers="140" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <capacity passengers="149" cockpitcrew="4" cabincrew="4" maxclasses="1"/>
     <produced from="1958" to="1962"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 720B (707-020B)" price="5049500"> <!--5100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="41.25" range="7200" speed="905" fuelcapacity="83540" consumption="0.083" runwaylengthrequired="2005"/>
-    <capacity passengers="140" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <capacity passengers="149" cockpitcrew="4" cabincrew="4" maxclasses="1"/>
     <produced from="1961" to="1967"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 707-120" price="4200000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="44.07" range="5491" speed="930" fuelcapacity="65590" consumption="0.067" runwaylengthrequired="3110"/>
-    <capacity passengers="179" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+    <capacity passengers="179" cockpitcrew="4" cabincrew="4" maxclasses="2"/>
     <produced from="1958" to="1962"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 707-120B" price="6039600"> <!--6100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="44.07" range="7505" speed="975" fuelcapacity="68480" consumption="0.051" runwaylengthrequired="2490"/>
-    <capacity passengers="179" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <capacity passengers="179" cockpitcrew="4" cabincrew="5" maxclasses="2"/>
     <produced from="1961" to="1969"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 707-220" price="5400000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="39.90" length="44.07" range="6982" speed="975" fuelcapacity="77608" consumption="0.062" runwaylengthrequired="2620"/>
-    <capacity passengers="179" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <capacity passengers="179" cockpitcrew="4" cabincrew="5" maxclasses="2"/>
     <produced from="1959" to="1962"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 707-320" price="6000000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="44.42" length="46.61" range="6920" speed="972" fuelcapacity="115404" consumption="0.083" runwaylengthrequired="3190"/>
-    <capacity passengers="202" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <capacity passengers="202" cockpitcrew="4" cabincrew="5" maxclasses="2"/>
     <produced from="1959" to="1962"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 707-320B" price="7029700"> <!--7100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="44.42" length="46.61" range="6920" speed="972" fuelcapacity="90160" consumption="0.064" runwaylengthrequired="2885"/>
-    <capacity passengers="202" cockpitcrew="3" cabincrew="5" maxclasses="2"/>
+    <capacity passengers="202" cockpitcrew="4" cabincrew="5" maxclasses="2"/>
     <produced from="1961" to="1979"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 717-200" image="Boeing 717-200" price="5847100"> <!--32200000-->
@@ -177,7 +177,7 @@
   <airliner manufacturer="Boeing" name="Boeing 747-8I" image="Boeing 747-8I" price="42414980"> <!--333000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="68.45" length="76.25" range="14100" speed="917" fuelcapacity="243120" consumption="0.030" runwaylengthrequired="2785"/>
-    <capacity passengers="581" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
+    <capacity passengers="605" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
     <produced from="2012" to="2025"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 757-200" price="10698370"> <!--36000000-->
