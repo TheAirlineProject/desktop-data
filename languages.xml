@@ -252,7 +252,7 @@
       <es-ES name="Recibido"/>
     </Text>
   </Region>
-  <Region name="PopUpTimeTable">
+    <Region name="PopUpTimeTable">
     <Text uid="1000">
       <en-GB name="Route Timetable"/>
       <de-DE name="Zeitplanung Route"/>
@@ -263,6 +263,44 @@
       <es-ES name="Hoja de Ruta"/>
     </Text>
   </Region>
+  <Region name="PopUpBuildRunway">
+    <Text uid="1000">
+      <en-GB name="Build runway"/>
+      <de-DE name="Missing"/>
+      <en-US name="Build runway"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Anlæg landingsbane"/>
+      <es-ES name="Missing"/>
+    </Text>
+        <Text uid="1001">
+      <en-GB name="Runway name"/>
+      <de-DE name="Missing"/>
+      <en-US name="Runway name"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Navn"/>
+      <es-ES name="Missing"/>
+    </Text>
+        <Text uid="1002">
+      <en-GB name="Surface type"/>
+      <de-DE name="Missing"/>
+      <en-US name="Surface type"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Underlag"/>
+      <es-ES name="Missing"/>
+    </Text>
+    <Text uid="1003">
+      <en-GB name="Runway lenght"/>
+      <de-DE name="Missing"/>
+      <en-US name="Runway lenght"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Længde"/>
+      <es-ES name="Missing"/>
+    </Text>
+</Region>
   <Region name="PopUpAirlinerRoutes">
     <Text uid="1000">
       <en-GB name="Transfer schedule"/>
@@ -1302,6 +1340,15 @@
     </Text>
   </Region>
   <Region name="PageAirportRunways">
+        <Text uid="201">
+      <en-GB name="Build runway"/>
+      <de-DE name="Missing"/>
+      <en-US name="Build runway"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Anlæg landingsbane"/>
+      <es-ES name="Missing"/>
+    </Text>
     <Text uid="1001">
       <en-GB name="Runway Information (Name / Length / Surface)"/>
       <de-DE name="Runwayinformationen (Name / L?nge / Oberfl?che)"/>
@@ -1310,6 +1357,15 @@
       <zh-CN name="跑道信息（编号 / 长度 / 表面材质）"/>
       <da-DK name="Landingsbaner (Navn / Længde / Underlag)"/>
       <es-ES name="Información de pista (Nombre / Longitud / Superficie)"/>
+    </Text>
+      <Text uid="1002">
+      <en-GB name="Runway Information (Name / Length / Surface/ Exp. Finished)"/>
+      <de-DE name="Missing"/>
+      <en-US name="Runway Information (Name / Length / Surface/ Exp. Finished)"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Landingsbaner (Navn / Længde / Underlag / Bygget)"/>
+      <es-ES name="Missing"/>
     </Text>
   </Region>
   <Region name="PageAirportFacilities">
@@ -1977,6 +2033,17 @@
       <zh-CN name="航班"/>
       <da-DK name="Fly"/>
       <es-ES name="Vuelos"/>
+    </Text>
+  </Region>
+  <Region name="PagePilots">
+    <Text uid="1000">
+      <en-GB name="Pilots"/>
+      <de-DE name="Missing"/>
+      <en-US name="Pilots"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Piloter"/>
+      <es-ES name="Missing"/>
     </Text>
   </Region>
   <Region name="PageAlliances">
@@ -2782,6 +2849,89 @@
       <zh-CN name="每趟航班的乘客数"/>
       <da-DK name="Passagere per flyvning"/>
       <es-ES name="Pasajeros por vuelo"/>
+    </Text>
+  </Region>
+  <Region name="PanelPilot">
+  <Text uid="200">
+      <en-GB name="Hire"/>
+      <de-DE name="Missing"/>
+      <en-US name="Hire"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Ansæt"/>
+      <es-ES name="Missing"/>
+    </Text>
+      <Text uid="1001">
+      <en-GB name="Pilot information"/>
+      <de-DE name="Missing"/>
+      <en-US name="Pilot information"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Pilotinformation"/>
+      <es-ES name="Missing"/>
+    </Text>
+          <Text uid="1002">
+      <en-GB name="Name"/>
+      <de-DE name="Missing"/>
+      <en-US name="Name"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Navn"/>
+      <es-ES name="Missing"/>
+    </Text>
+          <Text uid="1003">
+      <en-GB name="Date of birth"/>
+      <de-DE name="Missing"/>
+      <en-US name="Date of birth"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Fødselsdato"/>
+      <es-ES name="Missing"/>
+    </Text> 
+    <Text uid="1004">
+      <en-GB name="Town"/>
+      <de-DE name="Missing"/>
+      <en-US name="Town"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="By"/>
+      <es-ES name="Missing"/>
+    </Text>
+     <Text uid="1005">
+      <en-GB name="Country"/>
+      <de-DE name="Missing"/>
+      <en-US name="Country"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Land"/>
+      <es-ES name="Missing"/>
+    </Text>
+       <Text uid="1006">
+      <en-GB name="Year of education"/>
+      <de-DE name="Missing"/>
+      <en-US name="Year of education"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Uddannet"/>
+      <es-ES name="Missing"/>
+    </Text>
+     <Text uid="1007">
+      <en-GB name="Rating"/>
+      <de-DE name="Missing"/>
+      <en-US name="Rating"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Erfaringsgrad"/>
+      <es-ES name="Missing"/>
+    </Text>
+  <Text uid="1008">
+      <en-GB name="Monthly salary"/>
+      <de-DE name="Missing"/>
+      <en-US name="Monthly salary"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Månedsløn"/>
+      <es-ES name="Missing"/>
     </Text>
   </Region>
   <Region name="PanelAirlinesExtendedStatistics">
@@ -4241,6 +4391,24 @@
       <da-DK name="Check-in faciliteter" message="Vil du købe check it faciliteter så du kan leje en gate i lufthavnen?"/>
       <es-ES name="Instalaciones de Check in" message="¿Desea adquirir instalaciones de facturación antes de arrendar  una puerta en el aeropuerto?"/>
     </Text>
+        <Text uid="2218">
+      <en-GB name="Build runway" message="Are you sure you want to build a runway at {0} for {1:C}?"/>
+      <de-DE name="Fehler" message="Missing"/>
+      <en-US name="Build runway" message="Are you sure you want to build a runway at {0} for {1:C}?"/>
+      <nl-NL name="Missing" message="Missing"/>
+      <zh-CN name="Missing" message="Missing"/>
+      <da-DK name="Anlæg landingsbane" message="Er du sikker på, at du vil anlægge en landingsbane i {0} for {1:C}?"/>
+      <es-ES name="Missing" message="Missing"/>
+    </Text>
+        <Text uid="2219">
+      <en-GB name="Not enough money" message="You don't have enough money to build a runway."/>
+      <de-DE name="Missing" message="Missing."/>
+      <en-US name="Not enough money" message="You don't have enough money to build a runway."/>
+      <nl-NL name="Missing" message="Missing."/>
+      <zh-CN name="不够钱" message="Missing"/>
+      <da-DK name="Ikke penge nok" message="Du har ikke penge nok til at anlægge landingsbanen."/>
+      <es-ES name="No hay dinero suficiente" message="Missing"/>
+    </Text>
     <!-- END - Airport Model -->
     <!-- BEGIN - Fleet Model -->
     <Text uid="2301">
@@ -4432,6 +4600,17 @@
       <es-ES name="No coincide" message="El avión no puede alcanzar su destino desde esta entrada."/>
     </Text>
     <!--END - PopUpAirlinerRoutesl-->
+      <!--BEGIN -PagePllots-->
+        <Text uid="2801">
+      <en-GB name="Hire pilot" message="Are you sure you want to hire this pilot?"/>
+      <de-DE name="Missing" message="Missing."/>
+      <en-US name="Hire pilot" message="Are you sure you want to hire this pilot?"/>
+      <nl-NL name="Missing" message="Missing."/>
+      <zh-CN name="Missing" message="Missing"/>
+      <da-DK name="Ansæt pilot" message="Er du sikker på, at du vil hyre denne pilot?"/>
+      <es-ES name="Missing" message="Missing"/>
+    </Text>
+  <!--END -PagePilots!-->
   </Region>
   <Region name="News">
     <Text uid="1001">
