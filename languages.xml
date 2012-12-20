@@ -2045,6 +2045,34 @@
       <da-DK name="Piloter"/>
       <es-ES name="Missing"/>
     </Text>
+      <Text uid="1001">
+      <en-GB name="Pilots"/>
+      <de-DE name="Missing"/>
+      <en-US name="Pilots"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Piloter"/>
+      <es-ES name="Missing"/>
+    </Text>
+        <Text uid="1002">
+      <en-GB name="Instructors"/>
+      <de-DE name="Missing"/>
+      <en-US name="Instructors"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Instruktører"/>
+      <es-ES name="Missing"/>
+    </Text>
+        <Text uid="1003">
+      <en-GB name="Flight schools"/>
+      <de-DE name="Missing"/>
+      <en-US name="Flight schools"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Flyveskoler"/>
+      <es-ES name="Missing"/>
+    </Text>
+
   </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
@@ -2849,6 +2877,26 @@
       <zh-CN name="每趟航班的乘客数"/>
       <da-DK name="Passagere per flyvning"/>
       <es-ES name="Pasajeros por vuelo"/>
+    </Text>
+  </Region>
+    <Region name="PanelInstructor">
+  <Text uid="200">
+      <en-GB name="Hire"/>
+      <de-DE name="Missing"/>
+      <en-US name="Hire"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Ansæt"/>
+      <es-ES name="Missing"/>
+    </Text>
+      <Text uid="1001">
+      <en-GB name="Instructor information"/>
+      <de-DE name="Missing"/>
+      <en-US name="Instructor information"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Instruktørinformation"/>
+      <es-ES name="Missing"/>
     </Text>
   </Region>
   <Region name="PanelPilot">
@@ -4608,6 +4656,15 @@
       <nl-NL name="Missing" message="Missing."/>
       <zh-CN name="Missing" message="Missing"/>
       <da-DK name="Ansæt pilot" message="Er du sikker på, at du vil hyre denne pilot?"/>
+      <es-ES name="Missing" message="Missing"/>
+    </Text>
+    <Text uid="2802">
+      <en-GB name="Hire instructor" message="Are you sure you want to hire this instructor?"/>
+      <de-DE name="Missing" message="Missing."/>
+      <en-US name="Hire instructor" message="Are you sure you want to hire this instructor?"/>
+      <nl-NL name="Missing" message="Missing."/>
+      <zh-CN name="Missing" message="Missing"/>
+      <da-DK name="Ansæt instruktør" message="Er du sikker på, at du vil hyre denne instruktør?"/>
       <es-ES name="Missing" message="Missing"/>
     </Text>
   <!--END -PagePilots!-->
