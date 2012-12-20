@@ -245,7 +245,7 @@
   <!--Western North Pacific (R***)-->
   <!--Taiwan (RC**)-->
   <airport name="Kaohsiung International Airport" icao="RCKH" iata="KHH" type="Long_Haul_International" season="All_Year">
-    <town town="Kaohsiung" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <town town="Kaohsiung" country="172" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="022°34'37''N"/>
       <longitude value="120°21'00''E"/>
@@ -260,7 +260,7 @@
     </runways>
   </airport>
   <airport name="Taipei Songshan International Airport" icao="RCSS" iata="TSA" type="Long_Haul_International" season="All_Year">
-    <town town="Taipei" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <town town="Taipei" country="172" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="025°04'10''N"/>
       <longitude value="121°33'06''E"/>
@@ -1675,7 +1675,7 @@
     </runways>
   </airport>
   <airport name="Chennai International Airport" icao="VOMM" iata="MAA" type="Long_Haul_International" season="All_Year">
-    <town town="Madras" country="152" GMT="05:30:00" DST="05:30:00"/>
+    <town town="Chennai" country="152" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
       <latitude value="012°59'39''N"/>
       <longitude value="080°10'49''E"/>
@@ -2429,7 +2429,7 @@
     </runways>
   </airport>
   <airport name="Wulumuqi Diwobao International Airport" icao="ZWWW" iata="URC" type="Long_Haul_International" season="All_Year">
-    <town town="Wulumuqi" country="148" GMT="08:00:00" DST="08:00:00"/>
+    <town town="Ürümqi" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="43°54'26''N"/>
       <longitude value="87°28'27''E"/>
