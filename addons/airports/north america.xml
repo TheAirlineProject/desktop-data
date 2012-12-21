@@ -18,7 +18,7 @@
     </runways>
   </airport>
   <airport name="Halifax Stanfield International Airport" icao="CYHZ" iata="YHZ" type="Long_Haul_International" season="All_Year">
-    <town town="Halifax" country="113" GMT="-03:00:00" DST="-04:00:00"/>
+    <town town="Halifax, NS" country="113" GMT="-03:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="044°52'50''N"/>
       <longitude value="063°30'30''W"/>
@@ -63,7 +63,7 @@
     </runways>
   </airport>
   <airport name="Québec City Jean Lesage International Airport" icao="CYQB" iata="YQB" type="Short_Haul_International" season="All_Year">
-    <town town="Quebec" country="113" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="Quebec, QC" country="113" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="046°47'32''N"/>
       <longitude value="071°23'03''W"/>
@@ -1133,7 +1133,7 @@
     </runways>
   </airport>
   <airport name="Cincinnati/Northern Kentucky International Airport" icao="KCVG" iata="CVG" type="Short_Haul_International" season="All_Year">
-    <town town="Hebron, KY" country="122" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="Cincinnati, OH" country="122" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="039°02'51''N"/>
       <longitude value="084°40'03''W"/>
@@ -1254,7 +1254,7 @@
   </airport>
   <airport name="Dallas/Fort Worth International Airport" icao="KDFW" iata="DFW" type="Long_Haul_International" season="All_Year">
   <period from="01.13.1974 00:00:00" to="01.01.2199 00:00:00"/>
-    <town town="Dallas/Fort Worth, TX" country="122" GMT="-05:00:00" DST="-06:00:00"/>
+    <town town="Dallas, TX" country="122" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
       <latitude value="032°53'47''N"/>
       <longitude value="097°02'15''W"/>
