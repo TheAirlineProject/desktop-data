@@ -1412,7 +1412,7 @@
   </airport>
   <!--South Korea (RK**)-->
   <airport name="Jeju International Airport" icao="RKPC" iata="CJU" type="Short_Haul_International" season="All_Year">
-    <town town="Cheju" country="165" GMT="09:00:00" DST="09:00:00"/>
+    <town town="Jeju" country="165" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
       <latitude value="033°30'40''N"/>
       <longitude value="126°29'34''E"/>
@@ -2278,7 +2278,7 @@
       <runway name="05/23" length="3400" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Hangzhou  Xiaoshan International Airport" icao="ZSHC" iata="HGH" type="Long_Haul_International" season="All_Year">
+  <airport name="Hangzhou Xiaoshan International Airport" icao="ZSHC" iata="HGH" type="Long_Haul_International" season="All_Year">
     <town town="Hangzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="030°13'42''N"/>
