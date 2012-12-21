@@ -2036,6 +2036,15 @@
     </Text>
   </Region>
   <Region name="PagePilots">
+      <Text uid="200">
+      <en-GB name="Build flight school"/>
+      <de-DE name="Missing"/>
+      <en-US name="Build flight school"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Anlæg flyveskole"/>
+      <es-ES name="Missing"/>
+    </Text>
     <Text uid="1000">
       <en-GB name="Pilots"/>
       <de-DE name="Missing"/>
@@ -2896,6 +2905,53 @@
       <nl-NL name="Missing"/>
       <zh-CN name="Missing"/>
       <da-DK name="Instruktørinformation"/>
+      <es-ES name="Missing"/>
+    </Text>
+  </Region>
+  <Region name="PanelFlightSchool">
+   <Text uid="200">
+      <en-GB name="Hire students"/>
+      <de-DE name="Missing"/>
+      <en-US name="Hire students"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Optag aspiranter"/>
+      <es-ES name="Missing"/>
+    </Text>
+        <Text uid="1001">
+      <en-GB name="Flight school information"/>
+      <de-DE name="Missing"/>
+      <en-US name="Flight school information"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Flyveskoleinformation"/>
+      <es-ES name="Missing"/>
+    </Text>
+ <Text uid="1002">
+      <en-GB name="Name"/>
+      <de-DE name="Missing"/>
+      <en-US name="Name"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Navn"/>
+      <es-ES name="Missing"/>
+    </Text>
+ <Text uid="1003">
+      <en-GB name="Instructors"/>
+      <de-DE name="Missing"/>
+      <en-US name="Instructors"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Instruktører"/>
+      <es-ES name="Missing"/>
+    </Text>
+ <Text uid="1004">
+      <en-GB name="Students"/>
+      <de-DE name="Missing"/>
+      <en-US name="Students"/>
+      <nl-NL name="Missing"/>
+      <zh-CN name="Missing"/>
+      <da-DK name="Aspiranter"/>
       <es-ES name="Missing"/>
     </Text>
   </Region>
