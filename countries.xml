@@ -100,6 +100,7 @@
     </translations>
   </country>
   <country uid="110" shortname="DEN" region="113" flag="Denmark" tailformat="OY-\\s4">
+  <currency format="kr." rate="5.66" />
     <translations>
       <en-US name="Denmark" />
       <de-DE name="Dänemark" />
@@ -122,6 +123,7 @@
     </translations>
   </country>
   <country uid="113" shortname="CAN" region="102" flag="Canada" tailformat="CF-\\s3">
+  <currency format="C$" rate="1" />
     <translations>
       <en-US name="Canada" />
       <de-DE name="Kanada" />
@@ -155,6 +157,7 @@
     </translations>
   </country>
   <country uid="116" shortname="AUS" region="105" flag="Australia" tailformat="VH-\\s3">
+  <currency format="A$" rate="0.96" />
     <translations>
       <en-US name="Australia" />
       <de-DE name="Australien" />
@@ -221,6 +224,7 @@
     </translations>
   </country>
   <country uid="122" shortname="USA" region="102" flag="United States" tailformat="N-\\d4">
+  <currency format="$" rate="1" />
     <translations>
       <en-US name="United States" />
       <de-DE name="Vereinigte Staaten" />
@@ -232,6 +236,8 @@
     </translations>
   </country>
   <country uid="123" shortname="ESP" region="107" flag="Spain" tailformat="EC-\\s3">
+  <currency format="₧" rate="126.46" from="01.01.1869 00:00:00" to="01.01.2002 00:00:00"/>
+  <currency format="€" rate="0.76" from="01.01.2002 00:00:00" to="01.01.2199 00:00:00"/>
     <translations>
       <en-US name="Spain" />
       <de-DE name="Spanien" />
@@ -309,6 +315,7 @@
     </translations>
   </country>
   <country uid="130" shortname="UK" region="112" flag="United Kingdom" tailformat="G-\\s4">
+  <currency format="£" rate="0.62" />
     <translations>
       <en-US name="United Kingdom" />
       <de-DE name="Vereinigtes Königreich" />
@@ -397,6 +404,7 @@
     </translations>
   </country>
   <country uid="138" shortname="BRA" region="101" flag="Brazil" tailformat="PP-\\s3">
+  <currency format="R$" rate="2.07" />
     <translations>
       <en-US name="Brazil" />
       <de-DE name="Brasilien" />
@@ -408,6 +416,7 @@
     </translations>
   </country>
   <country uid="139" shortname="NOR" region="113" flag="Norway" tailformat="LN-\\s3">
+  <currency format="kr." rate="5.56" />
     <translations>
       <en-US name="Norway" />
       <de-DE name="Norwegen" />
@@ -419,6 +428,8 @@
     </translations>
   </country>
   <country uid="140" shortname="FRA" region="108" flag="France" tailformat="F-\\s4">
+  <currency format="₣" rate="4.97" from="01.01.1795 00:00:00" to="01.01.2002 00:00:00"/>
+  <currency format="€" rate="0.76" from="01.01.2002 00:00:00" to="01.01.2199 00:00:00"/>
     <translations>
       <en-US name="France" />
       <de-DE name="Frankreich" />
@@ -430,6 +441,8 @@
     </translations>
   </country>
   <country uid="141" shortname="ITA" region="107" flag="Italy" tailformat="I-\\s4">
+  <currency format="₤" rate="1465.87" from="01.01.1861 00:00:00" to="01.01.2002 00:00:00"/>
+  <currency format="€" rate="0.76" from="01.01.2002 00:00:00" to="01.01.2199 00:00:00"/>
     <translations>
       <en-US name="Italy" />
       <de-DE name="Italien" />
@@ -496,6 +509,7 @@
     </translations>
   </country>
   <country uid="148" shortname="CHN" region="110" flag="China" tailformat="B-\\d4">
+  <currency format="CN¥" rate="6.23" />
     <translations>
       <en-US name="China" />
       <de-DE name="China" />
@@ -507,6 +521,7 @@
     </translations>
   </country>
   <country uid="149" shortname="RUS" region="106" flag="Russia" tailformat="RA-\\d5">
+  <currency format="руб." rate="30.83" />
     <translations>
       <en-US name="Russia" />
       <de-DE name="Russland" />
@@ -540,6 +555,7 @@
     </translations>
   </country>
   <country uid="152" shortname="IND" region="110" flag="India" tailformat="VT-\\s3">
+  <currency format="INR" rate="55.06" />
     <translations>
       <en-US name="India" />
       <de-DE name="Indien" />
@@ -595,6 +611,7 @@
     </translations>
   </country>
   <country uid="157" shortname="MEX" region="103" flag="Mexico" tailformat="XA-\\s3">
+  <currency format="Mex$" rate="12.88" />
     <translations>
       <en-US name="Mexico" />
       <de-DE name="Mexiko" />
@@ -606,6 +623,7 @@
     </translations>
   </country>
   <country uid="158" shortname="RSA" region="109" flag="South Africa" tailformat="ZS-\\s3">
+  <currency format="R" rate="8.57" />
     <translations>
       <en-US name="South Africa" />
       <de-DE name="Südafrika" />
@@ -661,6 +679,8 @@
     </translations>
   </country>
   <country uid="163" shortname="GER" region="108" flag="Germany" tailformat="D-\\s4">
+  <currency format="DM" rate="1.48" from="01.01.1948 00:00:00" to="01.01.2002 00:00:00"/>
+  <currency format="€" rate="0.76" from="01.01.2002 00:00:00" to="01.01.2199 00:00:00"/>
     <translations>
       <en-US name="Germany" />
       <de-DE name="Deutschland" />
@@ -672,6 +692,7 @@
     </translations>
   </country>
   <country uid="164" shortname="SWZ" region="107" flag="Switzerland" tailformat="HB-\\s3">
+  <currency format="CHF" rate="0.92" />
     <translations>
       <en-US name="Switzerland" />
       <de-DE name="Schweiz" />
@@ -683,6 +704,7 @@
     </translations>
   </country>
   <country uid="165" shortname="SK" region="110" flag="South Korea" tailformat="HL-\\d4">
+  <currency format="₩" rate="1076.24" />
     <translations>
       <en-US name="South Korea" />
       <de-DE name="Südkorea" />
@@ -749,6 +771,7 @@
     </translations>
   </country>
   <country uid="171" shortname="JAP" region="110" flag="Japan" tailformat="JA-\\d4">
+  <currency format="¥" rate="84.09" />
     <translations>
       <en-US name="Japan" />
       <de-DE name="Japan" />
@@ -903,6 +926,7 @@
     </translations>
   </country>
   <country uid="186" shortname="NZ" region="105" flag="New Zealand" tailformat="ZK-\s3">
+  <currency format="NZ$" rate="1.21" />
     <translations>
       <en-US name="New Zealand" />
       <de-DE name="Neuseeland" />
@@ -1497,8 +1521,7 @@
     </translations>
   </country>
   <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
-    <currency format="NPR" rate="1">
-    </currency>
+    <currency format="रू" rate="1" />
     <translations>
       <en-US name="Nepal" />
       <de-DE name="Nepal" />
