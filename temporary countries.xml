@@ -52,6 +52,7 @@
     </history>
   </country>
   <country uid="1004" shortname="USSR" region="108" flag="Soviet Union" tailformat="EW-\\d5" type="OneToMany">
+	<currency format="руб." rate="30.83" />
     <translations>
       <en-US name="Soviet Union" />
       <de-DE name="Sowjetunion" />
