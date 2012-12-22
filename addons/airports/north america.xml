@@ -8,7 +8,7 @@
       <latitude value="053°18'35''N"/>
       <longitude value="113°34'47''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="6277"/>
     <terminals>
       <terminal name="Terminal" gates="30"/>
     </terminals>
@@ -23,7 +23,7 @@
       <latitude value="044°52'50''N"/>
       <longitude value="063°30'30''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="3508"/>
     <terminals>
       <terminal name="Terminal" gates="31"/>
     </terminals>
@@ -38,7 +38,7 @@
       <latitude value="049°57'21''N"/>
       <longitude value="119°22'40''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1390"/>
     <terminals>
       <terminal name="Terminal" gates="8"/>
     </terminals>
@@ -52,7 +52,7 @@
       <latitude value="045°19'21''N"/>
       <longitude value="075°40'09''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="4624"/>
     <terminals>
       <terminal name="Terminal" gates="12"/>
     </terminals>
@@ -68,7 +68,7 @@
       <latitude value="046°47'32''N"/>
       <longitude value="071°23'03''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1313"/>
     <terminals>
       <terminal name="Terminal" gates="13"/>
     </terminals>
@@ -83,7 +83,7 @@
       <latitude value="050°25'54''N"/>
       <longitude value="104°39'56''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1141"/>
     <terminals>
       <terminal name="Terminal" gates="6"/>
     </terminals>
@@ -98,7 +98,7 @@
       <latitude value="048°22'19''N"/>
       <longitude value="089°19'18''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="606"/>
     <terminals>
       <terminal name="Terminal" gates="6"/>
     </terminals>
@@ -113,7 +113,7 @@
       <latitude value="046°09'41''N"/>
       <longitude value="060°02'52''W"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Smallest" pax="80"/>
     <terminals>
       <terminal name="Terminal" gates="5"/>
     </terminals>
@@ -128,7 +128,7 @@
       <latitude value="043°37'39''N"/>
       <longitude value="079°23'46''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1550"/>
     <terminals>
       <terminal name="Terminal" gates="3"/>
     </terminals>
@@ -144,7 +144,7 @@
       <latitude value="045°28'05''N"/>
       <longitude value="073°44'29''W"/>
     </coordinates>
-    <size value="Large" pax="0"/>
+    <size value="Large" pax="13668"/>
     <terminals>
       <terminal name="Terminal" gates="39"/>
     </terminals>
@@ -160,7 +160,7 @@
       <latitude value="049°11'42''N"/>
       <longitude value="123°10'55''W"/>
     </coordinates>
-    <size value="Large" pax="0"/>
+    <size value="Large" pax="17032"/>
     <terminals>
       <terminal name="Terminal" gates="90"/>
     </terminals>
@@ -177,7 +177,7 @@
       <latitude value="049°54'36''N"/>
       <longitude value="097°14'23''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="3369"/>
     <terminals>
       <terminal name="Terminal" gates="9"/>
     </terminals>
@@ -192,7 +192,7 @@
       <latitude value="052°10'14''N"/>
       <longitude value="106°41'58''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1248"/>
     <terminals>
       <terminal name="Terminal" gates="5"/>
     </terminals>
@@ -207,7 +207,7 @@
       <latitude value="047°37'06''N"/>
       <longitude value="052°45'06''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1318"/>
     <terminals>
       <terminal name="Terminal" gates="4"/>
     </terminals>
@@ -223,7 +223,7 @@
       <latitude value="051°06'50''N"/>
       <longitude value="114°01'13''W"/>
     </coordinates>
-    <size value="Large" pax="0"/>
+    <size value="Large" pax="12770"/>
     <terminals>
       <terminal name="Terminal" gates="50"/>
     </terminals>
@@ -239,7 +239,7 @@
       <latitude value="048°38'49''N"/>
       <longitude value="123°25'33''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1499"/>
     <terminals>
       <terminal name="Terminal" gates="9"/>
     </terminals>
@@ -274,7 +274,7 @@
       <latitude value="062°27'47''N"/>
       <longitude value="114°26'25''W"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Smallest" pax="45"/>
     <terminals>
       <terminal name="Terminal" gates="4"/>
     </terminals>
@@ -3405,7 +3405,7 @@
       <latitude value="014°34'59''N"/>
       <longitude value="090°31'38''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1970"/>
     <terminals>
       <terminal name="Terminal" gates="15"/>
     </terminals>
@@ -3419,7 +3419,7 @@
       <latitude value="016°54'49''N"/>
       <longitude value="089°51'58''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="100"/>
     <terminals>
       <terminal name="Terminal" gates="2"/>
     </terminals>
@@ -3616,7 +3616,7 @@
       <latitude value="016°19'00''N"/>
       <longitude value="086°31'22''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Very_small" pax="214"/>
     <terminals>
       <terminal name="Terminal" gates="2"/>
     </terminals>
@@ -3704,7 +3704,7 @@
       <latitude value="015°44'33''N"/>
       <longitude value="086°51'10''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Very_small" pax="181"/>
     <terminals>
       <terminal name="Terminal A" gates="4"/>
     </terminals>
@@ -3754,7 +3754,7 @@
       <latitude value="015°27'09''N"/>
       <longitude value="087°55'24''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="742"/>
     <terminals>
       <terminal name="Terminal A" gates="3"/>
     </terminals>
@@ -3762,30 +3762,7 @@
       <runway name="04/22" length="2805" surface="Concrete"/>
     </runways>
   </airport>
-  <!-- <airport name="Sulaco Airport" icao="MHUL" iata="SCD" type="Domestic" season="All_Year">
-    <town town="Sulaco" country="196" GMT="-06:00:00" DST="-07:00:00"/>
-    <coordinates>
-      <latitude value="014°54'25''N"/>
-      <longitude value="087°15'48''W"/>
-    </coordinates>
-    <size value="Smallest" pax="0"/>
-    <terminals>
-      <terminal name="Terminal A" gates="2"/>
-    </terminals>
-    <runways/>
-  </airport>
-  <airport name="Santa Rosa Copán Airport" icao="MHRS" iata="SDH" type="Domestic" season="All_Year">
-    <town town="Santa Rosa de Copán" country="196" GMT="-06:00:00" DST="-07:00:00"/>
-    <coordinates>
-      <latitude value="014°48'53''N"/>
-      <longitude value="088°45'05''W"/>
-    </coordinates>
-    <size value="Smallest" pax="0"/>
-    <terminals>
-      <terminal name="Terminal A" gates="2"/>
-    </terminals>
-    <runways/>
-  </airport> -->
+
   <airport name="Tela Airport" icao="MHTE" iata="TEA" type="Domestic" season="All_Year">
     <town town="Tela" country="196" GMT="-06:00:00" DST="-07:00:00"/>
     <coordinates>
@@ -3806,7 +3783,7 @@
       <latitude value="014°03'39''N"/>
       <longitude value="087°13'01''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="493"/>
     <terminals>
       <terminal name="Terminal A" gates="4"/>
     </terminals>
@@ -3828,18 +3805,20 @@
       <runway name="06/24" length="1071" surface="Asphalt"/>
     </runways>
   </airport>
-  <!-- <airport name="Utila Airport" icao="MHUT" iata="UII" type="Domestic" season="All_Year">
+  <airport name="Utila Airport" icao="MHUT" iata="UII" type="Domestic" season="All_Year">
     <town town="Utila Island" country="196" GMT="-06:00:00" DST="-07:00:00"/>
     <coordinates>
       <latitude value="016°06'47''N"/>
       <longitude value="086°52'49''W"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Smallest" pax="15"/>
     <terminals>
       <terminal name="Terminal A" gates="2"/>
     </terminals>
+	<runways>
+		<runway name="07/25" length="610" surface="Grass"/>
     <runways/>
-  </airport> -->
+  </airport>
   <airport name="Coronel Enrique Soto Cano Air Base" icao="MHSC" iata="XPL" type="Domestic" season="All_Year">
     <town town="Comayagua" country="196" GMT="-06:00:00" DST="-07:00:00"/>
     <coordinates>
@@ -4436,7 +4415,7 @@
       <latitude value="012°08'29''N"/>
       <longitude value="086°10'05''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1102"/>
     <terminals>
       <terminal name="Terminal" gates="5"/>
     </terminals>
@@ -4451,7 +4430,7 @@
       <latitude value="009°04'17''N"/>
       <longitude value="079°23'01''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="5042"/>
     <terminals>
       <terminal name="Terminal" gates="28"/>
     </terminals>
@@ -4467,7 +4446,7 @@
       <latitude value="010°35'35''N"/>
       <longitude value="085°32'39''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Very_small" pax="443"/>
     <terminals>
       <terminal name="Terminal" gates="5"/>
     </terminals>
@@ -4481,7 +4460,7 @@
       <latitude value="009°59'37''N"/>
       <longitude value="084°12'31''W"/>
     </coordinates>
-    <size value="Medium" pax="0"/>
+    <size value="Medium" pax="3858"/>
     <terminals>
       <terminal name="Terminal" gates="17"/>
     </terminals>
@@ -4496,7 +4475,7 @@
       <latitude value="013°26'27''N"/>
       <longitude value="089°03'30''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Small" pax="1976"/>
     <terminals>
       <terminal name="Terminal" gates="17"/>
     </terminals>
@@ -4586,7 +4565,7 @@
       <latitude value="017°32'21''N"/>
       <longitude value="088°18'30''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Very_small" pax="172"/>
     <terminals>
       <terminal name="Terminal" gates="7"/>
     </terminals>
