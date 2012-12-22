@@ -2,13 +2,13 @@
 <!--must be placed in \data\addons\airports-->
 <airports>
 <!--Argentina (SA**)-->
-  <airport name="Jorge Newbery Airfield" icao="SABE" iata="AEP" type="Short_Haul_International" season="All_Year">
+  <airport name="Jorge Newbery Airport" icao="SABE" iata="AEP" type="Short_Haul_International" season="All_Year">
     <town town="Buenos Aires" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="034°33'33''S" />
       <longitude value="058°24'56''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Medium" pax="7558" />
     <terminals>
       <terminal name="Terminal" gates="12" />
     </terminals>
@@ -22,7 +22,7 @@
       <latitude value="034°49'20''S" />
       <longitude value="058°32'09''W" />
     </coordinates>
-    <size value="Medium" pax="0" />
+    <size value="Medium" pax="8786" />
     <terminals>
       <terminal name="Terminal A" gates="9" />
       <terminal name="Terminal B" gates="3" />
@@ -54,7 +54,7 @@
       <latitude value="015°51'45''S" />
       <longitude value="047°54'45''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="14149" />
     <terminals>
       <terminal name="Terminal" gates="22" />
     </terminals>
@@ -69,7 +69,7 @@
       <latitude value="019°38'01''S" />
       <longitude value="043°58'07''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="7261" />
     <terminals>
       <terminal name="Terminal" gates="14" />
     </terminals>
@@ -97,7 +97,7 @@
       <latitude value="022°48'32''S" />
       <longitude value="043°14'37''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="12229" />
     <terminals>
       <terminal name="Terminal 1" gates="15" />
 	  <terminal name="Terminal 2" gates="16" />
@@ -142,7 +142,7 @@
       <latitude value="029°59'39''S" />
       <longitude value="051°10'17''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="6676" />
     <terminals>
       <terminal name="Terminal" gates="16" />
     </terminals>
@@ -170,7 +170,7 @@
       <latitude value="022°54'37''S" />
       <longitude value="043°09'47''W" />
     </coordinates>
-    <size value="Medium" pax="0" />
+    <size value="Medium" pax="7805" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -185,7 +185,7 @@
       <latitude value="023°37'36''S" />
       <longitude value="046°39'19''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="15481" />
     <terminals>
       <terminal name="Terminal" gates="34" />
     </terminals>
@@ -200,7 +200,7 @@
       <latitude value="012°54'39''S" />
       <longitude value="038°19'51''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="7540" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -216,7 +216,7 @@
       <latitude value="033°23'34''S" />
       <longitude value="070°47'08''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="11064" />
     <terminals>
       <terminal name="Terminal" gates="23" />
     </terminals>
@@ -232,7 +232,7 @@
       <latitude value="000°08'28''S" />
       <longitude value="078°29'17''W" />
     </coordinates>
-    <size value="Medium" pax="0" />
+    <size value="Medium" pax="8956" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -262,7 +262,7 @@
       <latitude value="004°42'11''N" />
       <longitude value="074°08'17''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="18934" />
     <terminals>
       <terminal name="Terminal" gates="34" />
     </terminals>
@@ -324,7 +324,7 @@
       <latitude value="012°01'18''S" />
       <longitude value="077°06'51''W" />
     </coordinates>
-    <size value="Large" pax="0" />
+    <size value="Large" pax="10278" />
     <terminals>
       <terminal name="Terminal" gates="28" />
     </terminals>
@@ -356,7 +356,7 @@
       <latitude value="010°36'11''N" />
       <longitude value="066°59'26''W" />
     </coordinates>
-    <size value="Medium" pax="0" />
+    <size value="Medium" pax="8830" />
     <terminals>
       <terminal name="Terminal" gates="28" />
     </terminals>
