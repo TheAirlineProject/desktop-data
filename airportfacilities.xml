@@ -76,7 +76,7 @@
       <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
-  <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="125000" buildingdays="45">
+  <airportfacility uid="105" shortname="Basic ServiceCenter" type="Service" typelevel="1" price="140000" buildingdays="45">
     <level service="3" luxury="0">
     </level>
     <employees type="Maintenance" numberofemployees="10">
@@ -91,7 +91,7 @@
       <es-ES name="Centro de Servicio Básico" />
     </translations>
   </airportfacility>
-  <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="315000" buildingdays="60">
+  <airportfacility uid="106" shortname="ServiceCenter" type="Service" typelevel="2" price="325000" buildingdays="60">
     <level service="7" luxury="0">
     </level>
     <employees type="Maintenance" numberofemployees="20">
@@ -106,7 +106,7 @@
       <es-ES name="Centro de Servicio" />
     </translations>
   </airportfacility>
-  <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="575000" buildingdays="120">
+  <airportfacility uid="107" shortname="Large ServiceCenter" type="Service" typelevel="3" price="600000" buildingdays="120">
     <level service="10" luxury="0">
     </level>
     <employees type="Maintenance" numberofemployees="40">
@@ -151,7 +151,7 @@
       <es-ES name="Salón de Primera Clase" />
     </translations>
   </airportfacility>
-  <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="21500" buildingdays="0">
+  <airportfacility uid="110" shortname="CheckIn" type="CheckIn" typelevel="1" price="7500" buildingdays="0">
     <level service="0" luxury="5">
     </level>
     <employees type="Support" numberofemployees="15">
@@ -181,7 +181,7 @@
       <es-ES name="Autofacturación" />
     </translations>
   </airportfacility>
-  <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="129500" buildingdays="10">
+  <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="12500" buildingdays="10">
     <level service="0" luxury="15">
     </level>
     <employees type="Support" numberofemployees="8">

@@ -72,49 +72,49 @@
     <capacity passengers="124" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1967" to="1971"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-200" image="Boeing 737-200" price="6471630"> <!--7300000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-200" image="Boeing 737-200" price="6205670"> <!--7000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="3500" speed="780" fuelcapacity="18100" consumption="0.038" runwaylengthrequired="1280"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
-    <produced from="1967" to="1985"/>
+    <produced from="1967" to="1975"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." image="Boeing 737-200" price="6944440"> <!--9500000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-200 Adv." image="Boeing 737-200" price="6578950"> <!--9000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="4300" speed="780" fuelcapacity="19500" consumption="0.033" runwaylengthrequired="1280"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1971" to="1986"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-300" image="Boeing 737-300" price="7834760"> <!--27500000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-300" image="Boeing 737-300" price="6980060"> <!--24500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.88" length="33.40" range="4204" speed="780" fuelcapacity="23170" consumption="0.037" runwaylengthrequired="1365"/>
     <capacity passengers="149" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1984" to="1999"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-400" image="Boeing 737-400" price="8033010"> <!--29200000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-400" image="Boeing 737-400" price="7565340"> <!--27500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.90" length="36.50" range="4204" speed="780" fuelcapacity="23800" consumption="0.034" runwaylengthrequired="1590"/>
     <capacity passengers="168" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1985" to="1999"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-500" image="Boeing 737-500" price="8077120"> <!--31000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-500" image="Boeing 737-500" price="7165190"> <!--27500000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.90" length="31.10" range="4444" speed="780" fuelcapacity="23800" consumption="0.041" runwaylengthrequired="1245"/>
     <capacity passengers="132" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1987" to="2000"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-600" image="Boeing 737-600" price="9128000"> <!--47000000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-600" image="Boeing 737-600" price="7574290"> <!--39000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="31.20" range="5648" speed="828" fuelcapacity="26020" consumption="0.035" runwaylengthrequired="1220"/>
     <capacity passengers="130" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1995" to="2015"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-700" image="Boeing 737-700" price="9451050"> <!--50100000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-700" image="Boeing 737-700" price="9036030"> <!--47900000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="33.60" range="6230" speed="828" fuelcapacity="26020" consumption="0.028" runwaylengthrequired="1545"/>
     <capacity passengers="148" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
     <produced from="1996" to="2016"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 737-800" image="Boeing 737-800" price="11356350"> <!--60200000-->
+  <airliner manufacturer="Boeing" name="Boeing 737-800" image="Boeing 737-800" price="10752690"> <!--57000000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.70" length="39.50" range="5665" speed="828" fuelcapacity="26020" consumption="0.024" runwaylengthrequired="1725"/>
     <capacity passengers="189" cockpitcrew="2" cabincrew="4" maxclasses="2"/>
