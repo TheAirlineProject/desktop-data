@@ -606,7 +606,7 @@
 	</runways>
   </airport>
   <airport name="Bradley International Airport" icao="KBDL" iata="BDL" type="Short_Haul_International" season="All_Year">
-    <town town="Windsor Locks, CT" country="122" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="Hartford, CT" country="122" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="041°56'19''N"/>
       <longitude value="072°40'57''W"/>
