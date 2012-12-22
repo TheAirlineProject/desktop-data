@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-  <profile name="Airphil Express" iata="2P" color="Orange" country="131" CEO="Iñigo Zobel" mentality="Aggressive" market="Global" preferedairport="MNL">
+  <profile name="AirPhil Express" iata="2P" color="Orange" country="131" CEO="Iñigo Zobel" mentality="Aggressive" market="Global" preferedairport="MNL">
     <narrative narrative="Airphil Express is a low-cost off-shoot of parent airline Philippine Airlines, as the answer to the now dominant Cebu Pacific operation. Airphil serves 32 destinations in the Philippines, Singapore, Malaysia and Hong Kong using a fleet of 21, composed of 13 Airbus A320's and 8 Bombardier Dash 8 aircraft. " />
   </profile>
   <startdata>
