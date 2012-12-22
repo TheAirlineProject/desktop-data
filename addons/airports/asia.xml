@@ -1458,6 +1458,21 @@
     </runways>
   </airport>
   <!--Philippines (RP**)-->
+  <airport name="Clark International Airport" icao="RPLC" iata="CRK" type="Short_Haul_International" season="All_Year">
+    <town town="Angeles City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="015°11'09''N"/>
+      <longitude value="120°33'37''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="17"/>
+    </terminals>
+    <runways>
+      <runway name="02R/20L" length="3200" surface="Asphalt"/>
+	  <runway name="20R/02L" length="3200" surface="Asphalt"/>
+    </runways>
+  </airport>
   <airport name="Ninoy Aquino International Airport" icao="RPLL" iata="MNL" type="Long_Haul_International" season="All_Year">
     <town town="Manila" country="131" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
@@ -1473,18 +1488,116 @@
       <runway name="13/31" length="2258" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Francisco Bangoy International Airport" icao="RPMD" iata="DVO" type="Regional" season="All_Year">
+    <town town="Davao City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="07°07'31''N"/>
+      <longitude value="125°38'44''E"/>
+    </coordinates>
+    <size value="Medium"/>
+    <terminals>
+      <terminal name="Terminal" gates="14"/>
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3000" surface="Asphalt"/>	  
+    </runways>
+  </airport>
+  <airport name="General Santos International Airport" icao="RPMR" iata="GES" type="Domestic" season="All_Year">
+    <town town="General Santos City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="06°03'28''N"/>
+      <longitude value="125°05'45''E"/>
+    </coordinates>
+    <size value="Very_Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="17/35" length="3221" surface="Asphalt"/>	  
+    </runways>
+  </airport>
+  <airport name="Zamboanga International Airport" icao="RPMZ" iata="ZAM" type="Domestic" season="All_Year">
+    <town town="Zamboanga City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="06°55'20''N"/>
+      <longitude value="122°03'34''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="4"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2611" surface="Asphalt"/>	  
+    </runways>
+  </airport>
+  <airport name="Bacolod-Silay International Airport" icao="RPVB" iata="BCD" type="Domestic" season="All_Year">
+    <town town="Silay City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="010°46'35''N"/>
+      <longitude value="123°00'55''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="8"/>
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Iloilo International Airport" icao="RPVI" iata="ILO" type="Regional" season="All_Year">
+    <town town="Iloilo City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="10°49'56''N"/>
+      <longitude value="122°29'35''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="11"/>
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2500" surface="Asphalt"/>	  
+    </runways>
+  </airport>
+  <airport name="Kalibo International Airport" icao="RPVK" iata="KLO" type="Regional" season="All_Year">
+    <town town="Kalibo" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="11°40'45''N"/>
+      <longitude value="122°22'34''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="05/23" length="2300" surface="Asphalt"/>	  
+    </runways>
+  </airport>
   <airport name="Mactan-Cebu International Airport" icao="RPVM" iata="CEB" type="Long_Haul_International" season="All_Year">
     <town town="Lapu-Lapu City" country="131" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
       <latitude value="010°18'48''N"/>
       <longitude value="123°58'58''E"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Medium" pax="0"/>
     <terminals>
       <terminal name="Terminal" gates="6"/>
     </terminals>
     <runways>
       <runway name="04/22" length="3300" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Puerto Princesa International Airport" icao="RPVP" iata="PPS" type="Domestic" season="All_Year">
+    <town town="Puerto Princesa City" country="131" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="09°44'31''N"/>
+      <longitude value="118°45'31''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2600" surface="Asphalt"/>	  
     </runways>
   </airport>
   <!--Former Soviet States (U***)-->
@@ -1877,7 +1990,7 @@
   </airport>
   <!--Nepal (VN**)-->
   <airport name="Tribhuvan International Airport" icao="VNKT" iata="KTM" type="Long_Haul_International" season="All_Year">
-    <town town="Kathmandu" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Kathmandu" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°41'47''N"/>
       <longitude value="085°21'32''E"/>
@@ -1892,7 +2005,7 @@
     </runways>
   </airport>
   <airport name="Lukla Airport" icao="VNLK" iata="LUA" type="Domestic" season="All_Year">
-    <town town="Lukla" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Lukla" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°41'12''N"/>
       <longitude value="086°43'46''E"/>
@@ -1904,7 +2017,7 @@
     <runways/>
   </airport>
   <airport name="Biratnagar Airport" icao="VNVT" iata="BIR" type="Regional" season="All_Year">
-    <town town="Biratnagar" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Biratnagar" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="026°28'53''N"/>
       <longitude value="087°15'50''E"/>
@@ -1918,7 +2031,7 @@
     </runways>
   </airport>
   <airport name="Pokhara Airport" icao="VNPK" iata="PKR" type="Regional" season="All_Year">
-    <town town="Pokhara" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Pokhara" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="028°12'03''N"/>
       <longitude value="083°58'55''E"/>
@@ -1932,7 +2045,7 @@
     </runways>
   </airport>
   <airport name="Bhairahawa Airport" icao="VNBW" iata="BWA" type="Regional" season="All_Year">
-    <town town="Bhairawa" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Bhairawa" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°30'20''N"/>
       <longitude value="083°24'58''E"/>
@@ -1946,7 +2059,7 @@
     </runways>
   </airport>
   <airport name="Nepalgunj Airport" icao="VNNG" iata="KEP" type="Regional" season="All_Year">
-    <town town="Nepalgunj" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Nepalgunj" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="028°06'12''N"/>
       <longitude value="081°40'01''E"/>
@@ -1960,7 +2073,7 @@
     </runways>
   </airport>
  <airport name="Jumla Airport" icao="VNJL" iata="JUM" type="Domestic" season="All_Year">
-    <town town="Jumla" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Jumla" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="029°16'27''N"/>
       <longitude value="082°11'35''E"/>
@@ -1972,7 +2085,7 @@
     <runways/>
   </airport>
   <airport name="Bharatpur Airport" icao="VNBP" iata="BHR" type="Domestic" season="All_Year">
-    <town town="Bharatpur" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Bharatpur" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°40'41''N"/>
       <longitude value="084°25'45''E"/>
@@ -1984,7 +2097,7 @@
     <runways/>
   </airport>
   <airport name="Simara Airport" icao="VNSI" iata="SIF" type="Domestic" season="All_Year">
-    <town town="Simara" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Simara" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°09'34''N"/>
       <longitude value="084°58'48''E"/>
@@ -1998,7 +2111,7 @@
     </runways>
   </airport> 
   <airport name="Janakpur Airport" icao="VNJP" iata="JKR" type="Domestic" season="All_Year">
-    <town town="Janakpur" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Janakpur" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="026°42'31''N"/>
       <longitude value="085°55'20''E"/>
@@ -2012,7 +2125,7 @@
     </runways>
   </airport>
   <airport name="Bhadrapur Airport" icao="VNCG" iata="BDP" type="Domestic" season="All_Year">
-    <town town="Bhadrapur" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Bhadrapur" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="026°34'14''N"/>
       <longitude value="088°04'46''E"/>
@@ -2026,7 +2139,7 @@
     </runways>
   </airport>
   <airport name="Dhangarhi Airport" icao="VNDH" iata="DHI" type="Domestic" season="All_Year">
-    <town town="Dhangarhi" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Dhangarhi" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="028°45'11''N"/>
       <longitude value="080°34'54''E"/>
@@ -2040,7 +2153,7 @@
     </runways>
   </airport>
   <airport name="Surkhet Airport" icao="VNSK" iata="SKH" type="Domestic" season="All_Year">
-    <town town="Surkhet" country="251" GMT="05:30:00" DST="00:00:00"/>
+    <town town="Surkhet" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="028°35'09''N"/>
       <longitude value="081°38'09''E"/>
@@ -2053,8 +2166,8 @@
       <runway name="02/20" length="1036" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Simikot Airport" icao="VNST" iata="IMK" type="Domestic" season="All_Year">  <!--Singapore (WS**)-->
-    <town town="Simikot" country="251" GMT="05:30:00" DST="00:00:00"/>
+  <airport name="Simikot Airport" icao="VNST" iata="IMK" type="Domestic" season="All_Year">
+    <town town="Simikot" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="029°58'15''N"/>
       <longitude value="081°49'08''E"/>
