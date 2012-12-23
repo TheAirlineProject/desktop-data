@@ -389,7 +389,7 @@
       <latitude value="027°55'54''N"/>
       <longitude value="015°23'11''W"/>
     </coordinates>
-    <size value="Small" pax="0"/>
+    <size value="Large" pax="10538"/>
     <terminals>
       <terminal name="Terminal" gates="21"/>
     </terminals>
@@ -404,7 +404,7 @@
       <latitude value="028°56'43''N"/>
       <longitude value="013°36'18''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Medium" pax="5543"/>
     <terminals>
       <terminal name="Terminal 1" gates="10"/>
       <terminal name="Terminal 2" gates="6"/>
@@ -419,7 +419,7 @@
       <latitude value="028°02'40''N"/>
       <longitude value="016°34'20''W"/>
     </coordinates>
-    <size value="Very_small" pax="0"/>
+    <size value="Medium" pax="8656"/>
     <terminals>
       <terminal name="Terminal" gates="17"/>
     </terminals>
@@ -433,7 +433,7 @@
       <latitude value="028°28'57''N"/>
       <longitude value="016°20'29''W"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Medium" pax="4095"/>
     <terminals>
       <terminal name="Terminal" gates="12"/>
     </terminals>
@@ -660,6 +660,21 @@
     </terminals>
     <runways>
       <runway name="18/36" length="2462" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <!-- Added airports -->
+  <airport name="Fuerteventura Airport" icao="GCFV" iata="FUE" type="Long_Haul_International" season="All_Year">
+    <town town="Fuerteventura Island" country="123" GMT="-01:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="028°27'09''N" />
+      <longitude value="013°51'49''W" />
+    </coordinates>
+    <size value="Medium" pax="4948" />
+    <terminals>
+      <terminal name="Terminal A" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2400" surface="Asphalt" />
     </runways>
   </airport>
 </airports>

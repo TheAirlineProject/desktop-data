@@ -1540,7 +1540,7 @@
       <latitude value="037°25'04''N"/>
       <longitude value="005°53'35''W"/>
     </coordinates>
-    <size value="Smallest" pax="0"/>
+    <size value="Medium" pax="4051"/>
     <terminals>
       <terminal name="Terminal" gates="8"/>
     </terminals>
@@ -2756,6 +2756,37 @@
     </terminals>
     <runways>
       <runway name="13/31" length="3641" surface="Concrete"/>
+    </runways>
+  </airport>
+  <!--added airports-->
+      <airport name="Paris Beauvais Tillé Airport" icao="LFOB" iata="BVA" type="Long_Haul_International" season="All_Year">
+    <town town="Beauvais/Tillé" country="140" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="049°27'15''N" />
+      <longitude value="002°06'46''E" />
+    </coordinates>
+    <size value="Medium" pax="3677" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1105" surface="Asphalt" />
+      <runway name="13/31" length="2430" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="EuroAirport Basel-Mulhouse-Freiburg Airport" icao="LFSB" iata="BSL" type="Long_Haul_International" season="All_Year">
+    <town town="Bâle/Mulhouse" country="140" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="047°35'22''N" />
+      <longitude value="007°31'47''E" />
+    </coordinates>
+    <size value="Medium" pax="5063" />
+    <terminals>
+      <terminal name="Terminal A" gates="22" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1819" surface="Concrete" />
+      <runway name="15/33" length="3900" surface="Concrete" />
     </runways>
   </airport>
 </airports>
