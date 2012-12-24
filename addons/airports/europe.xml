@@ -2760,7 +2760,7 @@
   </airport>
   <!--added airports-->
       <airport name="Paris Beauvais Tillé Airport" icao="LFOB" iata="BVA" type="Long_Haul_International" season="All_Year">
-    <town town="Beauvais/Tillé" country="140" GMT="00:00:00" DST="00:00:00" />
+    <town town="Beauvais/Tillé" country="140" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="049°27'15''N" />
       <longitude value="002°06'46''E" />
@@ -2775,7 +2775,7 @@
     </runways>
   </airport>
   <airport name="EuroAirport Basel-Mulhouse-Freiburg Airport" icao="LFSB" iata="BSL" type="Long_Haul_International" season="All_Year">
-    <town town="Bâle/Mulhouse" country="140" GMT="00:00:00" DST="00:00:00" />
+    <town town="Bâle/Mulhouse" country="140" GMT="01:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="047°35'22''N" />
       <longitude value="007°31'47''E" />

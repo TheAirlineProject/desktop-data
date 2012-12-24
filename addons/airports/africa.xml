@@ -664,7 +664,7 @@
   </airport>
   <!-- Added airports -->
   <airport name="Fuerteventura Airport" icao="GCFV" iata="FUE" type="Long_Haul_International" season="All_Year">
-    <town town="Fuerteventura Island" country="123" GMT="-01:00:00" DST="-01:00:00" />
+    <town town="Fuerteventura Island" country="123" GMT="-01:00:00" DST="-02:00:00" />
     <coordinates>
       <latitude value="028°27'09''N" />
       <longitude value="013°51'49''W" />
