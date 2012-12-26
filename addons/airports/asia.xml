@@ -428,986 +428,986 @@
     </runways>
   </airport>
   <airport name="Kochi Airport" icao="RJOK" iata="KCZ" type="Domestic" season="All_Year">
-    <town town="Kochi" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kochi" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°32'46''N" />
-      <longitude value="133°40'10''E" />
+      <latitude value="33°32'46''N"/>
+      <longitude value="133°40'10''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="2500" surface="Asphalt" />
+      <runway name="14/32" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Sendai Airport" icao="RJSS" iata="SDJ" type="Domestic" season="All_Year">
-    <town town="Sendai" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Sendai" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="38°08'23''N" />
-      <longitude value="140°55'01''E" />
+      <latitude value="38°08'23''N"/>
+      <longitude value="140°55'01''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="3000" surface="Asphalt" />
-      <runway name="12/30" length="1200" surface="Asphalt" />
+      <runway name="09/27" length="3000" surface="Asphalt"/>
+      <runway name="12/30" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Niigata Airport" icao="RJSN" iata="KIJ" type="Domestic" season="All_Year">
-    <town town="Niigata" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Niigata" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="37°57'21''N" />
-      <longitude value="139°06'42''E" />
+      <latitude value="37°57'21''N"/>
+      <longitude value="139°06'42''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1314" surface="Asphalt" />
-      <runway name="10/28" length="2500" surface="Asphalt" />
+      <runway name="04/22" length="1314" surface="Asphalt"/>
+      <runway name="10/28" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tokachi-Obihiro Airport" icao="RJCB" iata="OBO" type="Domestic" season="All_Year">
-    <town town="Tokachi" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokachi" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="42°44'00''N" />
-      <longitude value="143°13'02''E" />
+      <latitude value="42°44'00''N"/>
+      <longitude value="143°13'02''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="17/35" length="2500" surface="Asphalt" />
+      <runway name="17/35" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Nagasaki Airport" icao="RJFU" iata="NGS" type="Domestic" season="All_Year">
-    <town town="Nagasaki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Nagasaki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="32°55'01''N" />
-      <longitude value="129°54'49''E" />
+      <latitude value="32°55'01''N"/>
+      <longitude value="129°54'49''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="3000" surface="Asphalt" />
-      <runway name="18/36" length="1200" surface="Asphalt" />
+      <runway name="14/32" length="3000" surface="Asphalt"/>
+      <runway name="18/36" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Takamatsu Airport" icao="RJOT" iata="TAK" type="Domestic" season="All_Year">
-    <town town="Takamatsu" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Takamatsu" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°12'51''N" />
-      <longitude value="134°00'56''E" />
+      <latitude value="34°12'51''N"/>
+      <longitude value="134°00'56''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="2500" surface="Asphalt" />
+      <runway name="08/26" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Yamaguchi Ube Airport" icao="RJDC" iata="UBJ" type="Domestic" season="All_Year">
-    <town town="Yamaguchi" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Yamaguchi" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°55'48''N" />
-      <longitude value="131°16'43''E" />
+      <latitude value="33°55'48''N"/>
+      <longitude value="131°16'43''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="2500" surface="Asphalt" />
+      <runway name="07/25" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Wakkanai Airport" icao="RJCW" iata="WKJ" type="Domestic" season="All_Year">
-    <town town="Wakkanai" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Wakkanai" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="45°24'16''N" />
-      <longitude value="141°48'08''E" />
+      <latitude value="45°24'16''N"/>
+      <longitude value="141°48'08''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="2200" surface="Asphalt" />
+      <runway name="08/26" length="2200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Naha Airport" icao="ROAH" iata="OKA" type="Domestic" season="All_Year">
-    <town town="Naha" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Naha" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="26°11'45''N" />
-      <longitude value="127°38'45''E" />
+      <latitude value="26°11'45''N"/>
+      <longitude value="127°38'45''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="27" />
+      <terminal name="Terminal" gates="27"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="3000" surface="Asphalt" />
+      <runway name="18/36" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Miyazaki Airport" icao="RJFM" iata="KMI" type="Domestic" season="All_Year">
-    <town town="Miyazaki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Miyazaki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="31°52'38''N" />
-      <longitude value="131°26'55''E" />
+      <latitude value="31°52'38''N"/>
+      <longitude value="131°26'55''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="2500" surface="Asphalt" />
+      <runway name="09/27" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kumamoto Airport" icao="RJFT" iata="KMJ" type="Domestic" season="All_Year">
-    <town town="Kumamoto" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kumamoto" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="32°50'14''N" />
-      <longitude value="130°51'19''E" />
+      <latitude value="32°50'14''N"/>
+      <longitude value="130°51'19''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="44" />
+      <terminal name="Terminal" gates="44"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="3000" surface="Asphalt" />
+      <runway name="07/25" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kushiro Airport" icao="RJCK" iata="KUH" type="Domestic" season="All_Year">
-    <town town="Kushiro" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kushiro" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="43°02'27''N" />
-      <longitude value="144°11'35''E" />
+      <latitude value="43°02'27''N"/>
+      <longitude value="144°11'35''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="46" />
+      <terminal name="Terminal" gates="46"/>
     </terminals>
     <runways>
-      <runway name="17/35" length="2500" surface="Asphalt" />
+      <runway name="17/35" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Oita Airport" icao="RJFO" iata="OIT" type="Domestic" season="All_Year">
-    <town town="Oita" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Oita" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°28'46''N" />
-      <longitude value="131°44'14''E" />
+      <latitude value="33°28'46''N"/>
+      <longitude value="131°44'14''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="30" />
+      <terminal name="Terminal" gates="30"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Kitakyushu Airport" icao="RJFR" iata="KKJ" type="Domestic" season="All_Year">
-    <town town="Kitakyushu" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kitakyushu" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°50'44''N" />
-      <longitude value="131°02'06''E" />
+      <latitude value="33°50'44''N"/>
+      <longitude value="131°02'06''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="25" />
+      <terminal name="Terminal" gates="25"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Kagoshima Airport" icao="RJFK" iata="KOJ" type="Domestic" season="All_Year">
-    <town town="Kagoshima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kagoshima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="31°48'12''N" />
-      <longitude value="130°43'01''E" />
+      <latitude value="31°48'12''N"/>
+      <longitude value="130°43'01''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="3000" surface="Asphalt" />
+      <runway name="16/34" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Yamagata Airport" icao="RJSC" iata="GAJ" type="Domestic" season="All_Year">
-    <town town="Yamagata" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Yamagata" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="38°24'43''N" />
-      <longitude value="140°22'16''E" />
+      <latitude value="38°24'43''N"/>
+      <longitude value="140°22'16''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="58" />
+      <terminal name="Terminal" gates="58"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Hakodate Airport" icao="RJCH" iata="HKD" type="Domestic" season="All_Year">
-    <town town="Hakodate" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Hakodate" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="41°46'12''N" />
-      <longitude value="140°49'19''E" />
+      <latitude value="41°46'12''N"/>
+      <longitude value="140°49'19''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="25" />
+      <terminal name="Terminal" gates="25"/>
     </terminals>
     <runways>
-      <runway name="12/30" length="3000" surface="Asphalt" />
+      <runway name="12/30" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Asahikawa Airport" icao="RJEC" iata="AKJ" type="Domestic" season="All_Year">
-    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Asahikawa" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="43°40'15''N" />
-      <longitude value="142°26'51''E" />
+      <latitude value="43°40'15''N"/>
+      <longitude value="142°26'51''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="41" />
+      <terminal name="Terminal" gates="41"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2500" surface="Asphalt" />
+      <runway name="16/34" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
  <airport name="Aguni Airport" icao="RORA" iata="AGJ" type="Regional" season="All_Year">
-    <town town="Aguni" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Aguni" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="26°35'34''N" />
-      <longitude value="127°14'25''E" />
+      <latitude value="26°35'34''N"/>
+      <longitude value="127°14'25''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="43" />
+      <terminal name="Terminal" gates="43"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="800" surface="Asphalt" />
+      <runway name="01/19" length="800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Amami Airport" icao="RJKA" iata="ASJ" type="Regional" season="All_Year">
-    <town town="Amami" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Amami" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="28°25'51''N" />
-      <longitude value="129°42'45''E" />
+      <latitude value="28°25'51''N"/>
+      <longitude value="129°42'45''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="52" />
+      <terminal name="Terminal" gates="52"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="2000" surface="Asphalt" />
+      <runway name="03/21" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Aomori Airport" icao="RJSA" iata="AOJ" type="Regional" season="All_Year">
-    <town town="Aomori" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Aomori" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="40°44'00''N" />
-      <longitude value="140°41'19''E" />
+      <latitude value="40°44'00''N"/>
+      <longitude value="140°41'19''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="42" />
+      <terminal name="Terminal" gates="42"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Fukue Airport" icao="RJFE" iata="FUJ" type="Regional" season="All_Year">
-    <town town="Fukue" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Fukue" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="32°39'59''N" />
-      <longitude value="128°49'58''E" />
+      <latitude value="32°39'59''N"/>
+      <longitude value="128°49'58''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="51" />
+      <terminal name="Terminal" gates="51"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="2000" surface="Asphalt" />
+      <runway name="03/21" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Hachijojima Airport" icao="RJTH" iata="HAC" type="Regional" season="All_Year">
-    <town town="Hachijojima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Hachijojima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°06'54''N" />
-      <longitude value="139°47'09''E" />
+      <latitude value="33°06'54''N"/>
+      <longitude value="139°47'09''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="22" />
+      <terminal name="Terminal" gates="22"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="2000" surface="Asphalt" />
+      <runway name="08/26" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Hanamaki Airport" icao="RJSI" iata="HNA" type="Regional" season="All_Year">
-    <town town="Hanamaki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Hanamaki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="39°25'43''N" />
-      <longitude value="141°08'07''E" />
+      <latitude value="39°25'43''N"/>
+      <longitude value="141°08'07''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="22" />
+      <terminal name="Terminal" gates="22"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="2500" surface="Asphalt" />
+      <runway name="02/20" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Izumo Airport" icao="RJOC" iata="IZO" type="Regional" season="All_Year">
-    <town town="Izumo" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Izumo" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="35°24'49''N" />
-      <longitude value="132°53'24''E" />
+      <latitude value="35°24'49''N"/>
+      <longitude value="132°53'24''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="32" />
+      <terminal name="Terminal" gates="32"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="2000" surface="Asphalt" />
+      <runway name="07/25" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Iejima Airport" icao="RORE" iata="IEJ" type="Regional" season="All_Year">
-    <town town="Iejima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Iejima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="26°43'21''N" />
-      <longitude value="127°47'13''E" />
+      <latitude value="26°43'21''N"/>
+      <longitude value="127°47'13''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="30" />
+      <terminal name="Terminal" gates="30"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1500" surface="Asphalt" />
+      <runway name="04/22" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Iki Airport" icao="RJDB" iata="IKI" type="Regional" season="All_Year">
-    <town town="Iki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Iki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°44'57''N" />
-      <longitude value="129°47'09''E" />
+      <latitude value="33°44'57''N"/>
+      <longitude value="129°47'09''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="41" />
+      <terminal name="Terminal" gates="41"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="1200" surface="Asphalt" />
+      <runway name="02/20" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Ishigaki Airport" icao="ROIG" iata="ISG" type="Regional" season="All_Year">
-    <town town="Ishigaki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Ishigaki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°20'41''N" />
-      <longitude value="124°11'13''E" />
+      <latitude value="24°20'41''N"/>
+      <longitude value="124°11'13''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="58" />
+      <terminal name="Terminal" gates="58"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1500" surface="Asphalt" />
+      <runway name="04/22" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Oshima Airport" icao="RJTO" iata="OIM" type="Regional" season="All_Year">
-    <town town="Oshima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Oshima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°46'55''N" />
-      <longitude value="139°21'37''E" />
+      <latitude value="34°46'55''N"/>
+      <longitude value="139°21'37''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="27" />
+      <terminal name="Terminal" gates="27"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="1800" surface="Asphalt" />
+      <runway name="03/21" length="1800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Saga Airport" icao="RJFS" iata="HSG" type="Regional" season="All_Year">
-    <town town="Saga" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Saga" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°08'59''N" />
-      <longitude value="130°18'08''E" />
+      <latitude value="33°08'59''N"/>
+      <longitude value="130°18'08''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="60" />
+      <terminal name="Terminal" gates="60"/>
     </terminals>
     <runways>
-      <runway name="11/29" length="2000" surface="Asphalt" />
+      <runway name="11/29" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kikai Airport" icao="RJKI" iata="KKX" type="Regional" season="All_Year">
-    <town town="Kikai" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kikai" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="28°19'17''N" />
-      <longitude value="129°55'41''E" />
+      <latitude value="28°19'17''N"/>
+      <longitude value="129°55'41''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="47" />
+      <terminal name="Terminal" gates="47"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="1200" surface="Asphalt" />
+      <runway name="07/25" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Odate Noshiro Airport" icao="RJSR" iata="ONJ" type="Regional" season="All_Year">
-    <town town="Odate" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Odate" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="40°11'31''N" />
-      <longitude value="140°22'18''E" />
+      <latitude value="40°11'31''N"/>
+      <longitude value="140°22'18''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="66" />
+      <terminal name="Terminal" gates="66"/>
     </terminals>
     <runways>
-      <runway name="11/29" length="2000" surface="Asphalt" />
+      <runway name="11/29" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kitadaito Airport" icao="RORK" iata="KTD" type="Regional" season="All_Year">
-    <town town="Kitadaito" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kitadaito" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="25°56'41''N" />
-      <longitude value="131°19'37''E" />
+      <latitude value="25°56'41''N"/>
+      <longitude value="131°19'37''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="43" />
+      <terminal name="Terminal" gates="43"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Kobe Airport" icao="RJBE" iata="UKB" type="Regional" season="All_Year">
-    <town town="Kobe" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kobe" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°37'58''N" />
-      <longitude value="135°13'26''E" />
+      <latitude value="34°37'58''N"/>
+      <longitude value="135°13'26''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="53" />
+      <terminal name="Terminal" gates="53"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="2500" surface="Asphalt" />
+      <runway name="09/27" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kumejima Airport" icao="ROKJ" iata="UEO" type="Regional" season="All_Year">
-    <town town="Kumejima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kumejima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="26°21'49''N" />
-      <longitude value="126°42'50''E" />
+      <latitude value="26°21'49''N"/>
+      <longitude value="126°42'50''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="63" />
+      <terminal name="Terminal" gates="63"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="2000" surface="Asphalt" />
+      <runway name="03/21" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Shizuoka Airport" icao="RJNS" iata="FSZ" type="Regional" season="All_Year">
-    <town town="Shizuoka" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Shizuoka" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°47'46''N" />
-      <longitude value="138°11'22''E" />
+      <latitude value="34°47'46''N"/>
+      <longitude value="138°11'22''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="22" />
+      <terminal name="Terminal" gates="22"/>
     </terminals>
     <runways>
-      <runway name="12/30" length="2500" surface="Asphalt" />
+      <runway name="12/30" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Miyako Airport" icao="ROMY" iata="MMY" type="Regional" season="All_Year">
-    <town town="Miyako" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Miyako" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°46'58''N" />
-      <longitude value="125°17'42''E" />
+      <latitude value="24°46'58''N"/>
+      <longitude value="125°17'42''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="2000" surface="Asphalt" />
+      <runway name="04/22" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Miyakejima Airport" icao="RJTQ" iata="MYE" type="Regional" season="All_Year">
-    <town town="Miyakejima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Miyakejima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°04'25''N" />
-      <longitude value="139°33'37''E" />
+      <latitude value="34°04'25''N"/>
+      <longitude value="139°33'37''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="48" />
+      <terminal name="Terminal" gates="48"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="1200" surface="Asphalt" />
+      <runway name="02/20" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Okhotsk Monbetsu Airport" icao="RJEB" iata="MBE" type="Regional" season="All_Year">
-    <town town="Okhotsk" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Okhotsk" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="44°18'15''N" />
-      <longitude value="143°24'15''E" />
+      <latitude value="44°18'15''N"/>
+      <longitude value="143°24'15''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="34" />
+      <terminal name="Terminal" gates="34"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="2000" surface="Asphalt" />
+      <runway name="14/32" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Nakashibetsu Airport" icao="RJCN" iata="SHB" type="Regional" season="All_Year">
-    <town town="Nakashibetsu" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Nakashibetsu" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="43°34'39''N" />
-      <longitude value="144°57'36''E" />
+      <latitude value="43°34'39''N"/>
+      <longitude value="144°57'36''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="33" />
+      <terminal name="Terminal" gates="33"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Okayama Airport" icao="RJOB" iata="OKJ" type="Regional" season="All_Year">
-    <town town="Okayama" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Okayama" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°45'25''N" />
-      <longitude value="133°51'19''E" />
+      <latitude value="34°45'25''N"/>
+      <longitude value="133°51'19''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="55" />
+      <terminal name="Terminal" gates="55"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Oki Airport" icao="RJNO" iata="OKI" type="Regional" season="All_Year">
-    <town town="Oki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Oki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="36°10'42''N" />
-      <longitude value="133°19'24''E" />
+      <latitude value="36°10'42''N"/>
+      <longitude value="133°19'24''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="36" />
+      <terminal name="Terminal" gates="36"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="2000" surface="Asphalt" />
+      <runway name="08/26" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Okushiri Airport" icao="RJEO" iata="OIR" type="Regional" season="All_Year">
-    <town town="Okushiri" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Okushiri" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="42°04'18''N" />
-      <longitude value="139°25'58''E" />
+      <latitude value="42°04'18''N"/>
+      <longitude value="139°25'58''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="57" />
+      <terminal name="Terminal" gates="57"/>
     </terminals>
     <runways>
-      <runway name="13/31" length="1500" surface="Asphalt" />
+      <runway name="13/31" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Rishiri Airport" icao="RJER" iata="RIS" type="Regional" season="All_Year">
-    <town town="Rishiri" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Rishiri" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="45°14'31''N" />
-      <longitude value="141°11'15''E" />
+      <latitude value="45°14'31''N"/>
+      <longitude value="141°11'15''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="24" />
+      <terminal name="Terminal" gates="24"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="1800" surface="Asphalt" />
+      <runway name="07/25" length="1800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Sado Airport" icao="RJSD" iata="SDS" type="Regional" season="All_Year">
-    <town town="Sado" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Sado" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="38°03'40''N" />
-      <longitude value="138°24'51''E" />
+      <latitude value="38°03'40''N"/>
+      <longitude value="138°24'51''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="23" />
+      <terminal name="Terminal" gates="23"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="890" surface="Asphalt" />
+      <runway name="10/28" length="890" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Shonai Airport" icao="RJSY" iata="SYO" type="Regional" season="All_Year">
-    <town town="Shonai" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Shonai" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="38°48'44''N" />
-      <longitude value="139°47'14''E" />
+      <latitude value="38°48'44''N"/>
+      <longitude value="139°47'14''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="52" />
+      <terminal name="Terminal" gates="52"/>
     </terminals>
     <runways>
-      <runway name="09/27" length="2000" surface="Asphalt" />
+      <runway name="09/27" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Nanki Shirahama Airport" icao="RJBD" iata="SHM" type="Regional" season="All_Year">
-    <town town="Nanki" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Nanki" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="33°39'44''N" />
-      <longitude value="135°21'52''E" />
+      <latitude value="33°39'44''N"/>
+      <longitude value="135°21'52''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="33" />
+      <terminal name="Terminal" gates="33"/>
     </terminals>
     <runways>
-      <runway name="15/33" length="2000" surface="Asphalt" />
+      <runway name="15/33" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Hateruma Airport" icao="RORH" iata="HTR" type="Regional" season="All_Year">
-    <town town="Hateruma" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Hateruma" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°03'30''N" />
-      <longitude value="123°48'14''E" />
+      <latitude value="24°03'30''N"/>
+      <longitude value="123°48'14''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="35" />
+      <terminal name="Terminal" gates="35"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="800" surface="Asphalt" />
+      <runway name="02/20" length="800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Fukushima Airport" icao="RJSF" iata="FKS" type="Regional" season="All_Year">
-    <town town="Fukushima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Fukushima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="37°13'39''N" />
-      <longitude value="140°25'41''E" />
+      <latitude value="37°13'39''N"/>
+      <longitude value="140°25'41''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="53" />
+      <terminal name="Terminal" gates="53"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="2500" surface="Asphalt" />
+      <runway name="01/19" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="New Tanegashima Airport" icao="RJFG" iata="TNE" type="Regional" season="All_Year">
-    <town town="Tanegashima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tanegashima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="30°36'18''N" />
-      <longitude value="130°59'30''E" />
+      <latitude value="30°36'18''N"/>
+      <longitude value="130°59'30''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="44" />
+      <terminal name="Terminal" gates="44"/>
     </terminals>
     <runways>
-      <runway name="13/31" length="2000" surface="Asphalt" />
+      <runway name="13/31" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tarama Airport" icao="RORT" iata="TRA" type="Regional" season="All_Year">
-    <town town="Tarama" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tarama" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°39'14''N" />
-      <longitude value="124°40'31''E" />
+      <latitude value="24°39'14''N"/>
+      <longitude value="124°40'31''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="44" />
+      <terminal name="Terminal" gates="44"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="1500" surface="Asphalt" />
+      <runway name="18/36" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tokunoshima Airport" icao="RJKN" iata="TKN" type="Regional" season="All_Year">
-    <town town="Tokunoshima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokunoshima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="27°50'11''N" />
-      <longitude value="128°52'53''E" />
+      <latitude value="27°50'11''N"/>
+      <longitude value="128°52'53''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="21" />
+      <terminal name="Terminal" gates="21"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="2000" surface="Asphalt" />
+      <runway name="01/19" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tottori Airport" icao="RJOR" iata="TTJ" type="Regional" season="All_Year">
-    <town town="Tottori" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tottori" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="35°31'48''N" />
-      <longitude value="134°09'45''E" />
+      <latitude value="35°31'48''N"/>
+      <longitude value="134°09'45''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="39" />
+      <terminal name="Terminal" gates="39"/>
     </terminals>
     <runways>
-      <runway name="10/28" length="2000" surface="Asphalt" />
+      <runway name="10/28" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Toyama Airport" icao="RJNT" iata="TOY" type="Regional" season="All_Year">
-    <town town="Toyama" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Toyama" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="36°38'54''N" />
-      <longitude value="137°11'15''E" />
+      <latitude value="36°38'54''N"/>
+      <longitude value="137°11'15''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="39" />
+      <terminal name="Terminal" gates="39"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="2000" surface="Asphalt" />
+      <runway name="02/20" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tsushima Airport" icao="RJDT" iata="TSJ" type="Regional" season="All_Year">
-    <town town="Tsushima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tsushima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°17'06''N" />
-      <longitude value="129°19'50''E" />
+      <latitude value="34°17'06''N"/>
+      <longitude value="129°19'50''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="48" />
+      <terminal name="Terminal" gates="48"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="1900" surface="Asphalt" />
+      <runway name="14/32" length="1900" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Okinoerabu Airport" icao="RJKB" iata="OKE" type="Regional" season="All_Year">
-    <town town="Okinoerabu" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Okinoerabu" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="27°25'54''N" />
-      <longitude value="128°42'20''E" />
+      <latitude value="27°25'54''N"/>
+      <longitude value="128°42'20''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="66" />
+      <terminal name="Terminal" gates="66"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1350" surface="Asphalt" />
+      <runway name="04/22" length="1350" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Noto Airport" icao="RJNW" iata="NTQ" type="Regional" season="All_Year">
-    <town town="Noto" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Noto" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="37°17'36''N" />
-      <longitude value="136°57'44''E" />
+      <latitude value="37°17'36''N"/>
+      <longitude value="136°57'44''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="44" />
+      <terminal name="Terminal" gates="44"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="2000" surface="Asphalt" />
+      <runway name="07/25" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Yakushima Airport" icao="RJFC" iata="KUM" type="Regional" season="All_Year">
-    <town town="Yakushima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Yakushima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="30°23'08''N" />
-      <longitude value="130°39'33''E" />
+      <latitude value="30°23'08''N"/>
+      <longitude value="130°39'33''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="58" />
+      <terminal name="Terminal" gates="58"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="1500" surface="Asphalt" />
+      <runway name="14/32" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Yonaguni Airport" icao="ROYN" iata="OGN" type="Regional" season="All_Year">
-    <town town="Yonaguni" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Yonaguni" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°28'03''N" />
-      <longitude value="122°58'47''E" />
+      <latitude value="24°28'03''N"/>
+      <longitude value="122°58'47''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="57" />
+      <terminal name="Terminal" gates="57"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="2000" surface="Asphalt" />
+      <runway name="08/26" length="2000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Yoron Airport" icao="RORY" iata="RNJ" type="Regional" season="All_Year">
-    <town town="Yoron" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Yoron" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="27°02'38''N" />
-      <longitude value="128°24'06''E" />
+      <latitude value="27°02'38''N"/>
+      <longitude value="128°24'06''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="28" />
+      <terminal name="Terminal" gates="28"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="1200" surface="Asphalt" />
+      <runway name="14/32" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Kerama Airport" icao="ROKR" iata="KJP" type="Regional" season="All_Year">
-    <town town="Kerama" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Kerama" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="26°10'06''N" />
-      <longitude value="127°17'36''E" />
+      <latitude value="26°10'06''N"/>
+      <longitude value="127°17'36''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="36" />
+      <terminal name="Terminal" gates="36"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="800" surface="Asphalt" />
+      <runway name="02/20" length="800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Amakusa Airfield" icao="RJDA" iata="AXJ" type="Regional" season="All_Year">
-    <town town="Amakusa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Amakusa" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="32°28'56''N" />
-      <longitude value="130°09'32''E" />
+      <latitude value="32°28'56''N"/>
+      <longitude value="130°09'32''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="9" />
+      <terminal name="Terminal" gates="9"/>
     </terminals>
     <runways>
-      <runway name="13/31" length="1000" surface="Asphalt" />
+      <runway name="13/31" length="1000" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Hiroshima-Nishi Airport" icao="RJBH" iata="HIW" type="Regional" season="All_Year">
-    <town town="Hiroshima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Hiroshima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°22'01''N" />
-      <longitude value="132°24'50''E" />
+      <latitude value="34°22'01''N"/>
+      <longitude value="132°24'50''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="15" />
+      <terminal name="Terminal" gates="15"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1800" surface="Asphalt" />
+      <runway name="04/22" length="1800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Komatsu Airport" icao="RJNK" iata="KMQ" type="Regional" season="All_Year">
-    <town town="Komatsu" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Komatsu" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="36°23'38''N" />
-      <longitude value="136°24'27''E" />
+      <latitude value="36°23'38''N"/>
+      <longitude value="136°24'27''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="18" />
+      <terminal name="Terminal" gates="18"/>
     </terminals>
     <runways>
-      <runway name="06/24" length="2700" surface="Concrete" />
+      <runway name="06/24" length="2700" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Tokushima Airport" icao="RJOS" iata="TKS" type="Regional" season="All_Year">
-    <town town="Tokushima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tokushima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="34°07'56''N" />
-      <longitude value="134°36'33''E" />
+      <latitude value="34°07'56''N"/>
+      <longitude value="134°36'33''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="11" />
+      <terminal name="Terminal" gates="11"/>
     </terminals>
     <runways>
-      <runway name="11/29" length="2500" surface="Asphalt" />
+      <runway name="11/29" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Minamitorishima Air Field" icao="RJAM" iata="MUS" type="Regional" season="All_Year">
-    <town town="Minamitorishima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Minamitorishima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="24°17'23''N" />
-      <longitude value="153°58'45''E" />
+      <latitude value="24°17'23''N"/>
+      <longitude value="153°58'45''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="18" />
+      <terminal name="Terminal" gates="18"/>
     </terminals>
     <runways>
-      <runway name="05/23" length="1371" surface="Concrete" />
+      <runway name="05/23" length="1371" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Misawa Airport" icao="RJSM" iata="MSJ" type="Regional" season="All_Year">
-    <town town="Misawa" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Misawa" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="40°42'19''N" />
-      <longitude value="141°22'19''E" />
+      <latitude value="40°42'19''N"/>
+      <longitude value="141°22'19''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="9" />
+      <terminal name="Terminal" gates="9"/>
     </terminals>
     <runways>
-      <runway name="10/28A" length="3050" surface="Asphalt" />
+      <runway name="10/28A" length="3050" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Nagoya Airfield" icao="RJNA" iata="NKM" type="Regional" season="All_Year">
-    <town town="Nagoya" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Nagoya" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="35°15'18''N" />
-      <longitude value="136°55'28''E" />
+      <latitude value="35°15'18''N"/>
+      <longitude value="136°55'28''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="9" />
+      <terminal name="Terminal" gates="9"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2740" surface="Asphalt" />
+      <runway name="16/34" length="2740" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Sapporo Okadama Airport" icao="RJCO" iata="OKD" type="Regional" season="All_Year">
-    <town town="Sapporo" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Sapporo" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="43°07'03''N" />
-      <longitude value="141°22'53''E" />
+      <latitude value="43°07'03''N"/>
+      <longitude value="141°22'53''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="15" />
+      <terminal name="Terminal" gates="15"/>
     </terminals>
     <runways>
-      <runway name="14/32" length="1500" surface="Asphalt" />
+      <runway name="14/32" length="1500" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Tajima Airport" icao="RJBT" iata="TJH" type="Regional" season="All_Year">
-    <town town="Tajima" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Tajima" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="35°30'46''N" />
-      <longitude value="134°47'13''E" />
+      <latitude value="35°30'46''N"/>
+      <longitude value="134°47'13''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="5" />
+      <terminal name="Terminal" gates="5"/>
     </terminals>
     <runways>
-      <runway name="01/19" length="1200" surface="Asphalt" />
+      <runway name="01/19" length="1200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Miho Yonago Airport" icao="RJOH" iata="YGJ" type="Regional" season="All_Year">
-    <town town="Miho" country="171" GMT="09:00:00" DST="09:00:00" />
+    <town town="Miho" country="171" GMT="09:00:00" DST="09:00:00"/>
     <coordinates>
-      <latitude value="35°29'36''N" />
-      <longitude value="133°14'21''E" />
+      <latitude value="35°29'36''N"/>
+      <longitude value="133°14'21''E"/>
     </coordinates>
-    <size value="Smallest" />
+    <size value="Smallest"/>
     <terminals>
-      <terminal name="Terminal" gates="5" />
+      <terminal name="Terminal" gates="5"/>
     </terminals>
     <runways>
-      <runway name="07/25" length="2500" surface="Asphalt" />
+      <runway name="07/25" length="2500" surface="Asphalt"/>
     </runways>
   </airport>
   <!--South Korea (RK**)-->
@@ -1508,7 +1508,7 @@
       <latitude value="06°03'28''N"/>
       <longitude value="125°05'45''E"/>
     </coordinates>
-    <size value="Very_Small"/>
+    <size value="Very_small"/>
     <terminals>
       <terminal name="Terminal" gates="10"/>
     </terminals>
@@ -2787,139 +2787,139 @@
     </runways>
   </airport>
   <airport name="Yinchuan Hedong Airport" icao="ZLIC" iata="INC" type="Long_Haul_International" season="All_Year">
-    <town town="Yinchuan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Yinchuan" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="38°19'18''N" />
-      <longitude value="106°23'33''E" />
+      <latitude value="38°19'18''N"/>
+      <longitude value="106°23'33''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="3200" surface="Concrete" />
+      <runway name="03/21" length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Sunan Shuofang International Airport" icao="ZSWX" iata="WUX" type="Long_Haul_International" season="All_Year">
-    <town town="Sunan" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Sunan" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="31°29'40''N" />
-      <longitude value="120°25'46''E" />
+      <latitude value="31°29'40''N"/>
+      <longitude value="120°25'46''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="03/21" length="3200" surface="Asphalt" />
+      <runway name="03/21" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Beijing Nanyuan Airport" icao="ZBNY" iata="NAY" type="Long_Haul_International" season="All_Year">
-    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Beijing" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="39°46'57''N" />
-      <longitude value="116°23'16''E" />
+      <latitude value="39°46'57''N"/>
+      <longitude value="116°23'16''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="18/36" length="3200" surface="Concrete" />
+      <runway name="18/36" length="3200" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Yantai Laishan International Airport" icao="ZSYT" iata="YNT" type="Long_Haul_International" season="All_Year">
-    <town town="Yantai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Yantai" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="37°24'06''N" />
-      <longitude value="121°22'18''E" />
+      <latitude value="37°24'06''N"/>
+      <longitude value="121°22'18''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="2600" surface="Concrete" />
+      <runway name="04/22" length="2600" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Lijiang Sanyi Airport" icao="ZPLJ" iata="LJG" type="Long_Haul_International" season="All_Year">
-    <town town="Lijiang" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Lijiang" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="26°40'45''N" />
-      <longitude value="100°14'45''E" />
+      <latitude value="26°40'45''N"/>
+      <longitude value="100°14'45''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="02/20" length="3000" surface="Concrete" />
+      <runway name="02/20" length="3000" surface="Concrete"/>
     </runways>
   </airport>
   <airport name="Xining Caojiabao Airport" icao="ZLXN" iata="XNN" type="Long_Haul_International" season="All_Year">
-    <town town="Xining" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xining" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="36°31'39''N" />
-      <longitude value="102°02'34''E" />
+      <latitude value="36°31'39''N"/>
+      <longitude value="102°02'34''E"/>
     </coordinates>
-    <size value="Medium" />
+    <size value="Medium"/>
     <terminals>
-      <terminal name="Terminal" gates="35" />
+      <terminal name="Terminal" gates="35"/>
     </terminals>
     <runways>
-      <runway name="11/29" length="3800" surface="Asphalt" />
+      <runway name="11/29" length="3800" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="Quanzhou Jinjiang Airport" icao="ZSQZ" iata="JJN" type="Long_Haul_International" season="All_Year">
-    <town town="Quanzhou" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Quanzhou" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="24°47'56''N" />
-      <longitude value="118°35'25''E" />
+      <latitude value="24°47'56''N"/>
+      <longitude value="118°35'25''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Xishuangbanna Gasa International Airport" icao="ZPJH" iata="JHG" type="Long_Haul_International" season="All_Year">
-    <town town="Xishuangbanna" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Xishuangbanna" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="21°58'26''N" />
-      <longitude value="100°45'35''E" />
+      <latitude value="21°58'26''N"/>
+      <longitude value="100°45'35''E"/>
     </coordinates>
-    <size value="Small" />
+    <size value="Small"/>
     <terminals>
-      <terminal name="Terminal" gates="50" />
+      <terminal name="Terminal" gates="50"/>
     </terminals>
     <runways>
-      <runway name="16/34" length="2200" surface="Concrete" />
+      <runway name="16/34" length="2200" surface="Concrete"/>
     </runways>
   </airport>
   <!--not alhpabetized (China)-->
   <airport name="Meixian Airport" icao="ZGMX" iata="MXZ" type="Domestic" season="All_Year">
-    <town town="Meixian" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Meixian" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="024°21'00''N" />
-      <longitude value="116°07'58''E" />
+      <latitude value="024°21'00''N"/>
+      <longitude value="116°07'58''E"/>
     </coordinates>
-    <size value="Very_small" pax="215" />
+    <size value="Very_small" pax="215"/>
     <terminals>
-      <terminal name="Terminal A" gates="4" />
+      <terminal name="Terminal A" gates="4"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <airport name="Zhuhai Airport" icao="ZGSD" iata="ZUH" type="Short_Haul_International" season="All_Year">
-    <town town="Zhuhai" country="148" GMT="08:00:00" DST="08:00:00" />
+    <town town="Zhuhai" country="148" GMT="08:00:00" DST="08:00:00"/>
     <coordinates>
-      <latitude value="022°00'23''N" />
-      <longitude value="113°22'33''E" />
+      <latitude value="022°00'23''N"/>
+      <longitude value="113°22'33''E"/>
     </coordinates>
-    <size value="Small" pax="1797" />
+    <size value="Small" pax="1797"/>
     <terminals>
-      <terminal name="Terminal A" gates="6" />
+      <terminal name="Terminal A" gates="6"/>
     </terminals>
-    <runways />
+    <runways/>
   </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">

@@ -1027,7 +1027,7 @@
       <latitude value="060°11'38''N"/>
       <longitude value="011°06'01''E"/>
     </coordinates>
-    <size value="Large" pax=""/>
+    <size value="Large" pax="0"/>
     <terminals>
       <terminal name="Terminal" gates="52"/>
     </terminals>
@@ -2760,33 +2760,33 @@
   </airport>
   <!--added airports-->
       <airport name="Paris Beauvais Tillé Airport" icao="LFOB" iata="BVA" type="Long_Haul_International" season="All_Year">
-    <town town="Beauvais/Tillé" country="140" GMT="01:00:00" DST="00:00:00" />
+    <town town="Beauvais/Tillé" country="140" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="049°27'15''N" />
-      <longitude value="002°06'46''E" />
+      <latitude value="049°27'15''N"/>
+      <longitude value="002°06'46''E"/>
     </coordinates>
-    <size value="Medium" pax="3677" />
+    <size value="Medium" pax="3677"/>
     <terminals>
-      <terminal name="Terminal A" gates="3" />
+      <terminal name="Terminal A" gates="3"/>
     </terminals>
     <runways>
-      <runway name="04/22" length="1105" surface="Asphalt" />
-      <runway name="13/31" length="2430" surface="Asphalt" />
+      <runway name="04/22" length="1105" surface="Asphalt"/>
+      <runway name="13/31" length="2430" surface="Asphalt"/>
     </runways>
   </airport>
   <airport name="EuroAirport Basel-Mulhouse-Freiburg Airport" icao="LFSB" iata="BSL" type="Long_Haul_International" season="All_Year">
-    <town town="Bâle/Mulhouse" country="140" GMT="01:00:00" DST="00:00:00" />
+    <town town="Bâle/Mulhouse" country="140" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
-      <latitude value="047°35'22''N" />
-      <longitude value="007°31'47''E" />
+      <latitude value="047°35'22''N"/>
+      <longitude value="007°31'47''E"/>
     </coordinates>
-    <size value="Medium" pax="5063" />
+    <size value="Medium" pax="5063"/>
     <terminals>
-      <terminal name="Terminal A" gates="22" />
+      <terminal name="Terminal A" gates="22"/>
     </terminals>
     <runways>
-      <runway name="08/26" length="1819" surface="Concrete" />
-      <runway name="15/33" length="3900" surface="Concrete" />
+      <runway name="08/26" length="1819" surface="Concrete"/>
+      <runway name="15/33" length="3900" surface="Concrete"/>
     </runways>
   </airport>
 </airports>
