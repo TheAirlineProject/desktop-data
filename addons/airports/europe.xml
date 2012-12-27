@@ -1027,7 +1027,7 @@
       <latitude value="060°11'38''N"/>
       <longitude value="011°06'01''E"/>
     </coordinates>
-    <size value="Large" pax="0"/>
+    <size value="Large" pax="21103"/>
     <terminals>
       <terminal name="Terminal" gates="52"/>
     </terminals>
