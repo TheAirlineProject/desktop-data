@@ -33,13 +33,13 @@
       <runway name="17/35" length="3105" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Comodoro Rivadavia Airport" icao="SAVC" iata="CRD" type="Domestic" season="All_Year">
+  <airport name="General Enrique Mosconi International Airport" icao="SAVC" iata="CRD" type="Domestic" season="All_Year">
     <town town="Comodoro Rivadavia" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="045°47'06''S" />
       <longitude value="067°27'56''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Very_small" pax="288" />
     <terminals>
       <terminal name="Terminal" gates="3" />
     </terminals>
@@ -83,7 +83,7 @@
       <latitude value="003°46'35''S" />
       <longitude value="038°31'56''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="5646" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -128,7 +128,7 @@
       <latitude value="023°00'27''S" />
       <longitude value="047°08'03''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="7542" />
     <terminals>
       <terminal name="Terminal" gates="17" />
     </terminals>
@@ -156,7 +156,7 @@
       <latitude value="008°07'36''S" />
       <longitude value="034°55'22''W" />
     </coordinates>
-    <size value="Very_small" pax="0" />
+    <size value="Medium" pax="6360" />
     <terminals>
       <terminal name="Terminal" gates="13" />
     </terminals>
@@ -247,7 +247,7 @@
       <latitude value="025°14'23''S" />
       <longitude value="057°31'09''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Small" pax="733" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -278,7 +278,7 @@
       <latitude value="016°30'48''S" />
       <longitude value="068°11'32''W" />
     </coordinates>
-    <size value="Small" pax="0" />
+    <size value="Small" pax="833" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -294,7 +294,7 @@
       <latitude value="005°27'10''N" />
       <longitude value="055°11'16''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Smallest" pax="107" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -309,7 +309,7 @@
       <latitude value="004°49'11''N" />
       <longitude value="052°21'43''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Very_small" pax="400" />
     <terminals>
       <terminal name="Terminal" gates="4" />
     </terminals>
@@ -339,7 +339,7 @@
       <latitude value="034°50'18''S" />
       <longitude value="056°01'51''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Small" pax="1913" />
     <terminals>
       <terminal name="Terminal" gates="6" />
     </terminals>
@@ -372,7 +372,7 @@
       <latitude value="006°29'54''N" />
       <longitude value="058°15'14''W" />
     </coordinates>
-    <size value="Smallest" pax="0" />
+    <size value="Very_small" pax="215" />
     <terminals>
       <terminal name="Terminal" gates="5" />
     </terminals>
