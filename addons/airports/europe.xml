@@ -1578,6 +1578,92 @@
       <runway name="05/23" length="3252" surface="Concrete"/>
     </runways>
   </airport>
+    <airport name="Lošinj Island Airport" icao="LDLO" iata="LSZ" type="Regional" season="All_Year">
+    <town town="Lošinj" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="044°33'56''N" />
+      <longitude value="014°23'35''E" />
+    </coordinates>
+    <size value="Very_small" pax="140" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="900" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Bol Airport" icao="LDSB" iata="BWK" type="Domestic" season="All_Year">
+    <town town="Brač Island" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="043°17'08''N" />
+      <longitude value="016°40'46''E" />
+    </coordinates>
+    <size value="Smallest" pax="20" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1440" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airports>
+  <airport name="Osijek Airport" icao="LDOS" iata="OSI" type="Short_Haul_International" season="All_Year">
+    <town town="Osijek" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="045°27'45''N" />
+      <longitude value="018°48'36''E" />
+    </coordinates>
+    <size value="Very_small" pax="355" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2499" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pula Airport" icao="LDPL" iata="PUY" type="Short_Haul_International" season="All_Year">
+    <town town="Pula" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="044°53'36''N" />
+      <longitude value="013°55'19''E" />
+    </coordinates>
+    <size value="Very_small" pax="355" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2950" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Rijeka Airport" icao="LDRI" iata="RJK" type="Short_Haul_International" season="All_Year">
+    <town town="Rijeka" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="045°13'00''N" />
+      <longitude value="014°34'13''E" />
+    </coordinates>
+    <size value="Smallest" pax="78" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2488" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Zemunik Airport" icao="LDZD" iata="ZAD" type="Short_Haul_International" season="All_Year">
+    <town town="Zadar" country="120" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="044°06'29''N" />
+      <longitude value="015°20'48''E" />
+    </coordinates>
+    <size value="Very_small" pax="377" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2000" surface="Asphalt" />
+      <runway name="14/32" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Spain (LE**)-->
   <airport name="Alicante Airport" icao="LEAL" iata="ALC" type="Long_Haul_International" season="All_Year">
     <town town="Alicante" country="123" GMT="02:00:00" DST="01:00:00"/>
@@ -2221,6 +2307,35 @@
     </runways>
   </airport>
   <!--Slovenia (LJ**)-->
+    <airport name="Maribor Airport" icao="LJMB" iata="MBX" type="Short_Haul_International" season="All_Year">
+    <town town="" country="105" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="046°28'47''N" />
+      <longitude value="015°41'09''E" />
+    </coordinates>
+    <size value="Very_small" pax="165" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2500" surface="Asphalt" />
+      <runway name="15L/33R" length="1200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Portoroz Airport" icao="LJPZ" iata="POW" type="Short_Haul_International" season="All_Year">
+    <town town="Portoroz" country="105" GMT="00:00:00" DST="-01:00:00" />
+    <coordinates>
+      <latitude value="045°28'24''N" />
+      <longitude value="013°36'53''E" />
+    </coordinates>
+    <size value="Smallest" pax="22" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1201" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Ljubljana Jože Pučnik Airport" icao="LJLJ" iata="LJU" type="Long_Haul_International" season="All_Year">
     <town town="Ljubljana" country="105" GMT="02:00:00" DST="01:00:00"/>
     <coordinates>
