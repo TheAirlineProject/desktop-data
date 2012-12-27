@@ -1606,7 +1606,6 @@
       <runway name="04/22" length="1440" surface="Asphalt" />
     </runways>
   </airport>
-  <airports>
   <airport name="Osijek Airport" icao="LDOS" iata="OSI" type="Short_Haul_International" season="All_Year">
     <town town="Osijek" country="120" GMT="00:00:00" DST="-01:00:00" />
     <coordinates>
