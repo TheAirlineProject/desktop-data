@@ -810,6 +810,92 @@
       <runway name="05/23" length="1800" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="De Kooy Airport" icao="EHKD" iata="DHR" type="Domestic" season="All_Year">
+    <town town="Den Helder" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="052°55'24''N" />
+      <longitude value="004°46'50''E" />
+    </coordinates>
+    <size value="Smallest" pax="14" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1275" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Eindhoven Airport" icao="EHEH" iata="EIN" type="Short_Haul_International" season="All_Year">
+    <town town="Eindhoven" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="051°27'00''N" />
+      <longitude value="005°22'28''E" />
+    </coordinates>
+    <size value="Medium" pax="2142" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Twenthe Airport" icao="EHTW" iata="ENS" type="Domestic" season="All_Year">
+    <town town="Enschede" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="052°16'12''N" />
+      <longitude value="006°52'27''E" />
+    </coordinates>
+    <size value="Smallest" pax="5" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2987" surface="Asphalt" />
+      <runway name="11/29" length="1999" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lelystad Airport" icao="EHLE" iata="LEY" type="Domestic" season="All_Year">
+    <town town="Lelystad" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="052°27'37''N" />
+      <longitude value="005°31'37''E" />
+    </coordinates>
+    <size value="Smallest" pax="23" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="1250" surface="Asphalt" />
+      <runway name="23/05" length="430" surface="Grass" />
+    </runways>
+  </airport>
+  <airport name="Maastricht Aachen Airport" icao="EHBK" iata="MST" type="Short_Haul_International" season="All_Year">
+    <town town="Maastricht" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="050°54'42''N" />
+      <longitude value="005°46'12''E" />
+    </coordinates>
+    <size value="Very_small" pax="363" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Rotterdam Airport" icao="EHRD" iata="RTM" type="Short_Haul_International" season="All_Year">
+    <town town="Rotterdam" country="179" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="051°57'24''N" />
+      <longitude value="004°26'13''E" />
+    </coordinates>
+    <size value="Small" pax="1158" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Ireland (EI**)-->
   <airport name="Cork Airport" icao="EICK" iata="ORK" type="Long_Haul_International" season="All_Year">
     <town town="Cork" country="137" GMT="01:00:00" DST="00:00:00"/>
@@ -817,7 +903,7 @@
       <latitude value="051°50'34''N"/>
       <longitude value="008°29'31''W"/>
     </coordinates>
-    <size value="Medium" pax="2361"/>
+    <size value="Medium" pax="2425"/>
     <terminals>
       <terminal name="Terminal" gates="6"/>
     </terminals>
@@ -854,6 +940,106 @@
     </terminals>
     <runways>
       <runway name="06/24" length="3199" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Donegal Airport" icao="EIDL" iata="CFN" type="Domestic" season="All_Year">
+    <town town="Donegal" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="055°02'39''N" />
+      <longitude value="008°20'27''W" />
+    </coordinates>
+    <size value="Smallest" pax="48" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1496" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Galway Airport" icao="EICM" iata="GWY" type="Regional" season="All_Year">
+    <town town="Galway" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="053°18'00''N" />
+      <longitude value="008°56'29''W" />
+    </coordinates>
+    <size value="Very_small" pax="160" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1220" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kerry Airport" icao="EIKY" iata="KIR" type="Regional" season="All_Year">
+    <town town="Killarney" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="052°10'51''N" />
+      <longitude value="009°31'25''W" />
+    </coordinates>
+    <size value="Very_small" pax="424" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="1230" surface="Asphalt" />
+      <runway name="08/26" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ireland West Knock Airport" icao="EIKN" iata="NOC" type="Regional" season="All_Year">
+    <town town="Charleston" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="053°54'37''N" />
+      <longitude value="008°49'06''W" />
+    </coordinates>
+    <size value="Small" pax="589" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2300" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sligo Airport" icao="EISG" iata="SXL" type="Domestic" season="All_Year">
+    <town town="Sligo" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="054°16'48''N" />
+      <longitude value="008°35'57''W" />
+    </coordinates>
+    <size value="Smallest" pax="21" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1199" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Waterford Airport" icao="EIWF" iata="WAT" type="Domestic" season="All_Year">
+    <town town="Waterford" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="052°11'13''N" />
+      <longitude value="007°05'13''W" />
+    </coordinates>
+    <size value="Smallest" pax="104" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1433" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="City of Derry Airport" icao="EGAE" iata="LDY" type="Regional" season="All_Year">
+    <town town="Derry" country="137" GMT="-01:00:00" DST="-02:00:00" />
+    <coordinates>
+      <latitude value="055°02'34''N" />
+      <longitude value="007°09'39''W" />
+    </coordinates>
+    <size value="Very_small" pax="405" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1205" surface="Asphalt" />
+      <runway name="08/26" length="1852" surface="Asphalt" />
     </runways>
   </airport>
   <!--Denmark (EK**)-->
@@ -1124,6 +1310,20 @@
     <runways>
       <runway name="07/25" length="2550" surface="Concrete"/>
     </runways>
+  </airport>
+  <airport name="Warsaw-Modlin Mazovia Airport" icao="EPMO" iata="WMI" type="Short_Haul_International" season="All_Year">
+	<town town="Modlin" country="135" GMT="00:00:00" DST="-01:00:00"/>
+	<coordinates>
+		<latitude value="052°27'04''N"/>
+		<longitude value="020°39'06''E"/>
+	</coordinates>
+	<size value="Medium" pax="2033"/>
+	<terminals>
+		<terminal name="Terminal" gates="8"/>
+	</terminals>
+	<runways>
+		<runway name="08/26" length="2500" surface="Asphalt"/>
+	</runways>
   </airport>
   <airport name="Warsaw Chopin Airport" icao="EPWA" iata="WAW" type="Long_Haul_International" season="All_Year">
     <town town="Warsaw" country="135" GMT="02:00:00" DST="01:00:00"/>
