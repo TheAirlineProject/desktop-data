@@ -838,7 +838,7 @@
       <runway name="04/22" length="3000" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Twenthe Airport" icao="EHTW" iata="ENS" type="Domestic" season="All_Year">
+  <airport name="Enschede Airport Twente" icao="EHTW" iata="ENS" type="Domestic" season="All_Year">
     <town town="Enschede" country="179" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="052°16'12''N" />
