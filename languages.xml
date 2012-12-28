@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Translator>
   <Languages>
     <Language culture="en-US" name="English (US)" flag="United States-large.png" UnitSystem="Imperial" isEnabled="true">
@@ -2367,6 +2367,15 @@
       <zh-CN name="航空公司简介" />
       <da-DK name="Missing" />
       <es-ES name="Descripcion del aerolineas" />
+    </Text>
+        <Text uid="1016">
+      <en-GB name="Use day turns" />
+      <de-DE name="Missing" />
+      <en-US name="Use day turns" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Benyt daglige runder" />
+      <es-ES name="Missing" />
     </Text>
   </Region>
   <Region name="PageAirlineFleet">
