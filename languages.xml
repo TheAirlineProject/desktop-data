@@ -2962,6 +2962,15 @@
       <da-DK name="Aspiranter" />
       <es-ES name="Missing" />
     </Text>
+  <Text uid="1005">
+      <en-GB name="Number of students to hire" />
+      <de-DE name="Missing" />
+      <en-US name="Number of students to hire" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Ansæt aspiranter" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="PanelPilot">
     <Text uid="200">
@@ -4729,6 +4738,15 @@
       <nl-NL name="Missing" message="Missing." />
       <zh-CN name="雇用教员" message="您确定要雇用这名教员？" />
       <da-DK name="Ansæt instruktør" message="Er du sikker på, at du vil hyre denne instruktør?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+    <Text uid="2803">
+      <en-GB name="Build flight school" message="Are you sure you want to build a new flight school for {0:C}?" />
+      <de-DE name="Missing" message="Missing." />
+      <en-US name="Build flight school" message="Are you sure you want to build a new flight school for {0:C}?" />
+      <nl-NL name="Missing" message="Missing." />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Anlæg flyveskole" message="Er du sikker på, at du vil bygge en ny flyveskole for {0:C}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
     <!--END -PagePilots!-->
