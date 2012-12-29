@@ -2915,15 +2915,24 @@
       <da-DK name="Instruktørinformation" />
       <es-ES name="Missing" />
     </Text>
+    <Text uid="1002">
+    <en-GB name="Select flight school for the instructor" />
+      <de-DE name="Missing" />
+      <en-US name="Select flight school for the instructor" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Vælge flyveskole for instruktøren" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="PanelFlightSchool">
     <Text uid="200">
-      <en-GB name="Hire students" />
+      <en-GB name="Hire student" />
       <de-DE name="Missing" />
-      <en-US name="Hire students" />
+      <en-US name="Hire student" />
       <nl-NL name="Missing" />
       <zh-CN name="学生助理" />
-      <da-DK name="Optag aspiranter" />
+      <da-DK name="Optag aspirant" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1001">
@@ -2954,21 +2963,39 @@
       <es-ES name="Missing" />
     </Text>
     <Text uid="1004">
+      <en-GB name="Students (Name / Age / Country / Educated date / Instructor)" />
+      <de-DE name="Missing" />
+      <en-US name="Students (Name / Age / Country / Educated date / Instructor)" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Aspiranter (Navn / Alder / Land / Uddannet / Instruktør)" />
+      <es-ES name="Missing" />
+    </Text>
+  <Text uid="1005">
+      <en-GB name="Instructor for the student" />
+      <de-DE name="Missing" />
+      <en-US name="Instructor for the student" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Instruktør som skal have aspiranten" />
+      <es-ES name="Missing" />
+    </Text>
+        <Text uid="1006">
       <en-GB name="Students" />
       <de-DE name="Missing" />
       <en-US name="Students" />
       <nl-NL name="Missing" />
-      <zh-CN name="学生" />
+      <zh-CN name="Missing" />
       <da-DK name="Aspiranter" />
       <es-ES name="Missing" />
     </Text>
-  <Text uid="1005">
-      <en-GB name="Number of students to hire" />
+       <Text uid="1007">
+      <en-GB name="Instructors (Name / Age / Rating / Country)" />
       <de-DE name="Missing" />
-      <en-US name="Number of students to hire" />
+      <en-US name="Instructors (Name / Age / Rating / Country)" />
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
-      <da-DK name="Ansæt aspiranter" />
+      <da-DK name="Instruktører (Navn / Alder / Rating / Land)" />
       <es-ES name="Missing" />
     </Text>
   </Region>
