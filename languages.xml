@@ -2935,6 +2935,15 @@
       <da-DK name="Optag aspirant" />
       <es-ES name="Missing" />
     </Text>
+        <Text uid="201">
+      <en-GB name="Buy training aircraft" />
+      <de-DE name="Missing" />
+      <en-US name="Buy training aircraft" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Køb træningsfly" />
+      <es-ES name="Missing" />
+    </Text>
     <Text uid="1001">
       <en-GB name="Flight school information" />
       <de-DE name="Missing" />
@@ -3005,6 +3014,15 @@
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Vælg flyveskole" />
+      <es-ES name="Missing" />
+  </Text>
+  <Text uid="1009">
+     <en-GB name="Training aircrafts" />
+      <de-DE name="Missing" />
+      <en-US name="Training aircrafts" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Træningsfly" />
       <es-ES name="Missing" />
   </Text>
   </Region>
