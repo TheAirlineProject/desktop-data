@@ -2998,6 +2998,15 @@
       <da-DK name="Instruktører (Navn / Alder / Rating / Land)" />
       <es-ES name="Missing" />
     </Text>
+  <Text uid="1008">
+     <en-GB name="Select flight school" />
+      <de-DE name="Missing" />
+      <en-US name="Select flight school" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Vælg flyveskole" />
+      <es-ES name="Missing" />
+  </Text>
   </Region>
   <Region name="PanelPilot">
     <Text uid="200">
@@ -4823,6 +4832,15 @@
       <zh-CN name="航班取消" message="您从 [LI airport={1}] 到 [LI airport={2}] 的航班 {0} 由于恶劣天气被取消了。" />
       <da-DK name="Aflyste fly" message="Dit fly {0} fra [LI airport={1}] til [LI airport={2}] er blevet aflyst grundet dårligt vejr." />
       <es-ES name="Vuelo cancelado" message="Missing" />
+    </Text>
+      <Text uid="1006">
+      <en-GB name="Pilot student" message="Your pilot student {0} has finished the education and is now a pilot for you." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Pilot student" message="Your pilot student {0} has finished the education and is now a pilot for you" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Færdiguddannet aspirant" message="Din flyveelev {0} er nu færdiguddannet og er blevet ansat hos dig" />
+      <es-ES name="Missing" message="Missing" />
     </Text>
   </Region>
   <Region name="Enums">
