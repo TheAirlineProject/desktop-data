@@ -955,12 +955,12 @@
       <es-ES name="Desde última comprobación" />
     </Text>
     <Text uid="1024">
-      <en-GB name="Current position" />
+      <en-GB name="Current route" />
       <de-DE name="Missing" />
-      <en-US name="Current position" />
+      <en-US name="Current route" />
       <nl-NL name="Huidige positie" />
       <zh-CN name="现在的位置" />
-      <da-DK name="Nuværende position" />
+      <da-DK name="Nuværende rute" />
       <es-ES name="Posición actual" />
     </Text>
     <Text uid="1025">
@@ -1017,6 +1017,7 @@
       <da-DK name="Flyoplysninger" />
       <es-ES name="Información sobre compañías aéreas" />
     </Text>
+
   </Region>
   <Region name="PageFleetRoute">
     <Text uid="200">
@@ -2387,6 +2388,15 @@
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Piloter" />
+      <es-ES name="Missing" />
+    </Text>
+   <Text uid="1002">
+      <en-GB name="Assign pilot to airliner" />
+      <de-DE name="Missing" />
+      <en-US name="Assign pilot to airliner" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Tilknyt pilot til fly" />
       <es-ES name="Missing" />
     </Text>
   </Region>
@@ -4432,6 +4442,15 @@
       <da-DK name="Køb underselskab" message="Er du sikker på, at du også vil købe alle underselskaberne?" />
       <es-ES name="Comprar aerolínea subsidiaria" message="¿Está seguro de querer adquirir la totalidad de la aerolínea subsidiaria?" />
     </Text>
+      <Text uid="2115">
+      <en-GB name="Can't reassign pilot" message="You can't reassign the pilot since the airliner is on route." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Can't reassign pilot" message="You can't reassign the pilot since the airliner is on route." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Kan ikke reallokere piloten" message="Du kan ikke reallokere piloten idet hans fly er i rute." />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
     <Text uid="2201">
@@ -4682,6 +4701,24 @@
       <zh-CN name="无效时间表" message="该时间表无效。" />
       <da-DK name="Ugyldig tidsplan" message="Tidsplanen er ugyldig" />
       <es-ES name="Horario no válido" message="El itinerario no es válido." />
+    </Text>
+    <Text uid="2505">
+      <en-GB name="Missing pilots" message="This aircraft is not staffed adequately. Would you like to auto-assign pilots to this airliner?" />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Would you like to auto-assign pilots to this airliner?" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vil du assigne piloter automatisk to flyet?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+        <Text uid="2506">
+      <en-GB name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vær venlig at ansætte nogle flere piloter" />
+      <es-ES name="Missing" message="Missing" />
     </Text>
     <!-- END - Route Model -->
     <!--BEGIN - Alliance Model-->
