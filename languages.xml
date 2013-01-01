@@ -2046,12 +2046,12 @@
       <es-ES name="Missing" />
     </Text>
     <Text uid="1000">
-      <en-GB name="Pilots" />
+      <en-GB name="Flight schools &amp; Pilots" />
       <de-DE name="Missing" />
-      <en-US name="Pilots" />
+      <en-US name="Flight schools &amp; Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="飞行员" />
-      <da-DK name="Piloter" />
+      <zh-CN name="Missing" />
+      <da-DK name="Flyveskoler &amp; Piloter" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1001">
@@ -2059,7 +2059,7 @@
       <de-DE name="Missing" />
       <en-US name="Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="飞行员" />
+      <zh-CN name="Missing" />
       <da-DK name="Piloter" />
       <es-ES name="Missing" />
     </Text>
@@ -2081,6 +2081,7 @@
       <da-DK name="Flyveskoler" />
       <es-ES name="Missing" />
     </Text>
+
   </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
@@ -2375,6 +2376,17 @@
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Benyt daglige runder" />
+      <es-ES name="Missing" />
+    </Text>
+  </Region>
+  <Region name="PageAirlinePilots">
+    <Text uid="1001">
+      <en-GB name="Pilots" />
+      <de-DE name="Missing" />
+      <en-US name="Pilots" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Piloter" />
       <es-ES name="Missing" />
     </Text>
   </Region>
@@ -3278,6 +3290,15 @@
       <da-DK name="Underselskaber" />
       <es-ES name="Subsidiarias" />
     </Text>
+   <Text uid="1008">
+      <en-GB name="Pilots" />
+      <de-DE name="Missing" />
+      <en-US name="Pilots" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Piloter" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="PanelAlliance">
     <Text uid="200">
@@ -3845,7 +3866,7 @@
       <en-US name="Gates &amp; Terminals" />
       <nl-NL name="Gates &amp;amp; Terminals" />
       <zh-CN name="登机口 &amp; 航站楼" />
-      <da-DK name="Gates&amp;amp;amp;amp; Terminaler" />
+      <da-DK name="Gates &amp; Terminaler" />
       <es-ES name="Puerta; Terminales" />
     </Text>
     <Text uid="202">
