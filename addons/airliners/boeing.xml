@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="Boeing" name="Boeing 720 (707-020)" price="3800000">
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
@@ -207,13 +207,13 @@
   <airliner manufacturer="Boeing" name="Boeing 767-300" price="32244130"> <!--89900000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 	<specs wingspan="47.6" length="54.9" range="7900" speed="851" fuelcapacity="63000" consumption="0.030" runwaylengthrequired="2410"/>
-	<capacity passengers="269" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
+	<capacity passengers="350" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
 	<produced from="1986" to="2000"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 767-300ER" price="23292470"> <!--93100000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 	<specs wingspan="47.6" length="54.9" range="11065" speed="851" fuelcapacity="91000" consumption="0.031" runwaylengthrequired="2530"/>
-	<capacity passengers="269" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
+	<capacity passengers="350" cockpitcrew="2" cabincrew="5" maxclasses="3"/>
 	<produced from="1988" to="2014"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 767-400ER" price="25575800"> <!--148800000-->
