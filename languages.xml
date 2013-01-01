@@ -766,9 +766,9 @@
       <es-ES name="Nombre" />
     </Text>
     <Text uid="1003">
-      <en-GB name="Manufactorer" />
+      <en-GB name="Manufacturer" />
       <de-DE name="Missing" />
-      <en-US name="Manufactorer" />
+      <en-US name="Manufacturer" />
       <nl-NL name="Fabrikant" />
       <zh-CN name="制造商" />
       <da-DK name="Leverandør" />
