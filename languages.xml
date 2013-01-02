@@ -4933,7 +4933,7 @@
       <en-US name="Pilot to retire" message="Your pilot {0} is turning {1} years old soon and will retire by the end of the month." />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="Missing" message="Missing" />
-      <da-DK name="Pilot på pension" message="Din pilot [0} bliver snart {1} år og går på pension ved udgangen af måneden" />
+      <da-DK name="Pilot på pension" message="Din pilot {0} bliver snart {1} år og går på pension ved udgangen af måneden" />
       <es-ES name="Missing" message="Missing" />
     </Text>
       <Text uid="1008">
@@ -4943,6 +4943,42 @@
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="Missing" message="Missing" />
       <da-DK name="Instruktør på pension" message="Din instruktør [0} bliver snart {1} år og går på pension ved udgangen af måneden" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+    <Text uid="1009">
+      <en-GB name="Pilot retired" message="Your pilot {0} has now retired." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Pilot retires" message="Your pilot {0} has now retired." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Pilot på pension" message="Din pilot [0} er gået på pension" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+     <Text uid="1010">
+      <en-GB name="Pilot retired" message="Your pilot {0} has now retired. The airliner {1} is now short of pilots so please assign a new one to the airliner." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Pilot retired" message="Your pilot {0} has now retired. The airliner {1} is now short of pilots so please assign a new one to the airliner." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Pilot på pension" message="Din pilot [0} er gået på pension. Venligst assigne en ny pilot til {1} som erstatning for {0}" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+      <Text uid="1011">
+      <en-GB name="Instructor retired" message="Your instructor {0} has now retired." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Instructor retired" message="Your instructor {0} has now retired." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Instruktør på pension" message="Din instruktør [0} er gået på pension" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+        <Text uid="1012">
+      <en-GB name="Instructor retired" message="Your instructor {0} has now retired and {1} has been hired instead." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Instructor retired" message="Your instructor {0} has now retired and {1} has been hired instead" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Instruktør på pension" message="Din instruktør [0} er gået på pension og {1} er blevet ansat istedet for" />
       <es-ES name="Missing" message="Missing" />
     </Text>
   </Region>
