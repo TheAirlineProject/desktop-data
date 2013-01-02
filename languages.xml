@@ -4451,6 +4451,24 @@
       <da-DK name="Kan ikke reallokere piloten" message="Du kan ikke reallokere piloten idet hans fly er i rute." />
       <es-ES name="Missing" message="Missing" />
     </Text>
+   <Text uid="2116">
+      <en-GB name="Can't dismiss pilot" message="You can't dismiss {0} since he is assigned to an airliner." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Can't dismiss pilot" message="You can't dismiss {0} since he is assigned to an airliner" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Kan ikke fyre piloten" message="Du kan ikke fyre {0} idet han er tilknyttet et fly" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+  <Text uid="2117">
+      <en-GB name="Dismiss pilot" message="Are you sure you want to dismiss {0}?" />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Dismiss pilot" message="Are you sure you want to dismiss {0}?" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Fyre piloten" message="Er du sikker på du vil fyre {0}?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
     <Text uid="2201">
@@ -4868,6 +4886,15 @@
       <nl-NL name="Missing" message="Missing." />
       <zh-CN name="Missing" message="Missing" />
       <da-DK name="Anlæg flyveskole" message="Er du sikker på, at du vil bygge en ny flyveskole for {0:C}?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+      <Text uid="2804">
+      <en-GB name="Remove flight school" message="Are you sure you want to remove the flight school {0}? It will release all aircrafts, instructors and students at the flight school" />
+      <de-DE name="Missing" message="Missing." />
+      <en-US name="Remove flight school" message="Are you sure you want to remove the flight school {0}? It will release all aircrafts, instructors and students at the flight school" />
+      <nl-NL name="Missing" message="Missing." />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Fjern flyveskole" message="Er du sikker på, at du vil fjerne din flyveskole {0}? Alle fly, instruktører og aspiranter vil blive opsagt" />
       <es-ES name="Missing" message="Missing" />
     </Text>
     <!--END -PagePilots!-->
