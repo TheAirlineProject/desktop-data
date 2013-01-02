@@ -4711,13 +4711,22 @@
       <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vil du assigne piloter automatisk to flyet?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-        <Text uid="2506">
+    <Text uid="2506">
       <en-GB name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="Missing" message="Missing" />
       <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vær venlig at ansætte nogle flere piloter" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+          <Text uid="2507">
+      <en-GB name="Missing pilots" message="This aircraft is not staffed adequately. Please assign pilots to the airliner" />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Please assign pilots to the airliner" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vær venlig at assigne piloter til flyet" />
       <es-ES name="Missing" message="Missing" />
     </Text>
     <!-- END - Route Model -->
@@ -4916,6 +4925,24 @@
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="Missing" message="Missing" />
       <da-DK name="Færdiguddannet aspirant" message="Din flyveelev {0} er nu færdiguddannet og er blevet ansat hos dig" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+  <Text uid="1007">
+      <en-GB name="Pilot to retire" message="Your pilot {0} is turning {1} years old soon and will retire by the end of the month. " />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Pilot to retire" message="Your pilot {0} is turning {1} years old soon and will retire by the end of the month." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Pilot på pension" message="Din pilot [0} bliver snart {1} år og går på pension ved udgangen af måneden" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+      <Text uid="1008">
+      <en-GB name="Instructor to retire" message="Your instructor {0} is turning {1} years old soon and will retire by the end of the month." />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Instructor to retire" message="Your instructor {0} is turning {1} years old soon and will retire by the end of the month." />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Instruktør på pension" message="Din instruktør [0} bliver snart {1} år og går på pension ved udgangen af måneden" />
       <es-ES name="Missing" message="Missing" />
     </Text>
   </Region>
