@@ -2379,6 +2379,15 @@
       <da-DK name="Benyt daglige runder" />
       <es-ES name="Missing" />
     </Text>
+    <Text uid="1017">
+      <en-GB name="Use same region opponents" />
+      <de-DE name="Missing" />
+      <en-US name="Use same region opponents" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Benyt modstandere fra samme område" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="PageAirlinePilots">
     <Text uid="1001">
@@ -4895,6 +4904,33 @@
       <nl-NL name="Missing" message="Missing." />
       <zh-CN name="Missing" message="Missing" />
       <da-DK name="Fjern flyveskole" message="Er du sikker på, at du vil fjerne din flyveskole {0}? Alle fly, instruktører og aspiranter vil blive opsagt" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+    <Text uid="2805">
+      <en-GB name="Can't fire instructor" message="You can't fire {0} since he have students assigned to him." />
+      <de-DE name="Missing" message="Missing." />
+      <en-US name="Can't fire instructor" message="You can't fire {0} since he have students assigned to him." />
+      <nl-NL name="Missing" message="Missing." />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Kan ikke fyre instruktør" message="Du kan ikke fyre {0}, idet han har aspiranter." />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+      <Text uid="2806">
+      <en-GB name="Fire instructor" message="Are you sure you want to fire {0}?" />
+      <de-DE name="Missing" message="Missing." />
+      <en-US name="Fire instructor" message="Are you sure you want to fire {0}?" />
+      <nl-NL name="Missing" message="Missing." />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Fyr instruktør" message="Er du sikker på, at du vil fyre {0}?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
+        <Text uid="2807">
+      <en-GB name="Fire student" message="Are you sure you want to fire {0}?" />
+      <de-DE name="Missing" message="Missing." />
+      <en-US name="Fire student" message="Are you sure you want to fire {0}?" />
+      <nl-NL name="Missing" message="Missing." />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Fyr aspirant" message="Er du sikker på, at du vil fyre {0}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
     <!--END -PagePilots!-->
