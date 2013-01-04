@@ -255,6 +255,76 @@
       <runway name="02/20" length="3353" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Juan De Ayolas Airport" icao="SGAY" iata="AYO" type="Regional" season="All_Year">
+    <town town="Ayolas" country="213" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="027°22'12''S" />
+      <longitude value="056°50'59''W" />
+    </coordinates>
+    <size value="Very_small" pax="277" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1850" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Guarani International Airport" icao="SGES" iata="AGT" type="Short_Haul_International" season="All_Year">
+    <town town="Ciudad del Este" country="213" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="025°27'35''S" />
+      <longitude value="054°50'24''W" />
+    </coordinates>
+    <size value="Smallest" pax="46" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dr. Luis Maria Argaña International Airport" icao="SGME" iata="ESG" type="Short_Haul_International" season="All_Year">
+    <town town="Mariscal Estigarribia" country="213" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="022°02'59''S" />
+      <longitude value="060°37'11''W" />
+    </coordinates>
+    <size value="Smallest" pax="35" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="3500" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Dr Augusto Roberto Fuster International Airport" icao="SGPJ" iata="PJC" type="Short_Haul_International" season="All_Year">
+    <town town="Pedro Juan Caballero" country="213" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="022°38'23''S" />
+      <longitude value="055°49'48''W" />
+    </coordinates>
+    <size value="Smallest" pax="71" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1801" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Carlos Miguel Gimenez Airport" icao="SGPI" iata="PIL" type="Domestic" season="All_Year">
+    <town town="Pilar" country="213" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="026°52'47''S" />
+      <longitude value="058°19'11''W" />
+    </coordinates>
+    <size value="Smallest" pax="16" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1500" surface="Concrete" />
+    </runways>
+  </airport>
   <!--Columbia (SK**)-->
   <airport name="El Dorado International Airport" icao="SKBO" iata="BOG" type="Long_Haul_International" season="All_Year">
     <town town="Bogotá" country="183" GMT="-05:00:00" DST="-05:00:00" />
