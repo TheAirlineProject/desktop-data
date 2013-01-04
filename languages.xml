@@ -1017,7 +1017,6 @@
       <da-DK name="Flyoplysninger" />
       <es-ES name="Información sobre compañías aéreas" />
     </Text>
-
   </Region>
   <Region name="PageFleetRoute">
     <Text uid="200">
@@ -2051,7 +2050,7 @@
       <de-DE name="Missing" />
       <en-US name="Flight schools &amp; Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="航校与飞行员" />
       <da-DK name="Flyveskoler &amp; Piloter" />
       <es-ES name="Missing" />
     </Text>
@@ -2060,7 +2059,7 @@
       <de-DE name="Missing" />
       <en-US name="Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="飞行员" />
       <da-DK name="Piloter" />
       <es-ES name="Missing" />
     </Text>
@@ -2082,7 +2081,6 @@
       <da-DK name="Flyveskoler" />
       <es-ES name="Missing" />
     </Text>
-
   </Region>
   <Region name="PageAlliances">
     <Text uid="1000">
@@ -2321,7 +2319,7 @@
       <de-DE name="Missing" />
       <en-US name="Select # of opponents" />
       <nl-NL name="Kies # tegenstanders" />
-      <zh-CN name="选择 # 对手" />
+      <zh-CN name="选择对手人数" />
       <da-DK name="Vælg antal modstandere" />
       <es-ES name="Seleccionar # de oponentes" />
     </Text>
@@ -2370,12 +2368,12 @@
       <da-DK name="Missing" />
       <es-ES name="Descripcion del aerolineas" />
     </Text>
-        <Text uid="1016">
+    <Text uid="1016">
       <en-GB name="Use day turns" />
       <de-DE name="Missing" />
       <en-US name="Use day turns" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="游戏时间进度为“天”" />
       <da-DK name="Benyt daglige runder" />
       <es-ES name="Missing" />
     </Text>
@@ -2384,7 +2382,7 @@
       <de-DE name="Missing" />
       <en-US name="Use same region opponents" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="出现同区域竞争者" />
       <da-DK name="Benyt modstandere fra samme område" />
       <es-ES name="Missing" />
     </Text>
@@ -2395,16 +2393,16 @@
       <de-DE name="Missing" />
       <en-US name="Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="飞行员" />
       <da-DK name="Piloter" />
       <es-ES name="Missing" />
     </Text>
-   <Text uid="1002">
+    <Text uid="1002">
       <en-GB name="Assign pilot to airliner" />
       <de-DE name="Missing" />
       <en-US name="Assign pilot to airliner" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="为飞机指派飞行员" />
       <da-DK name="Tilknyt pilot til fly" />
       <es-ES name="Missing" />
     </Text>
@@ -2947,11 +2945,11 @@
       <es-ES name="Missing" />
     </Text>
     <Text uid="1002">
-    <en-GB name="Select flight school for the instructor" />
+      <en-GB name="Select flight school for the instructor" />
       <de-DE name="Missing" />
       <en-US name="Select flight school for the instructor" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="为教员选择航校" />
       <da-DK name="Vælge flyveskole for instruktøren" />
       <es-ES name="Missing" />
     </Text>
@@ -2966,12 +2964,12 @@
       <da-DK name="Optag aspirant" />
       <es-ES name="Missing" />
     </Text>
-        <Text uid="201">
+    <Text uid="201">
       <en-GB name="Buy training aircraft" />
       <de-DE name="Missing" />
       <en-US name="Buy training aircraft" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="购买教练机" />
       <da-DK name="Køb træningsfly" />
       <es-ES name="Missing" />
     </Text>
@@ -3007,55 +3005,55 @@
       <de-DE name="Missing" />
       <en-US name="Students (Name / Age / Country / Educated date / Instructor)" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="学生　(姓名/年龄/国籍/学历/教员)" />
       <da-DK name="Aspiranter (Navn / Alder / Land / Uddannet / Instruktør)" />
       <es-ES name="Missing" />
     </Text>
-  <Text uid="1005">
+    <Text uid="1005">
       <en-GB name="Instructor for the student" />
       <de-DE name="Missing" />
       <en-US name="Instructor for the student" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="教员的学生" />
       <da-DK name="Instruktør som skal have aspiranten" />
       <es-ES name="Missing" />
     </Text>
-        <Text uid="1006">
+    <Text uid="1006">
       <en-GB name="Students" />
       <de-DE name="Missing" />
       <en-US name="Students" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="学生" />
       <da-DK name="Aspiranter" />
       <es-ES name="Missing" />
     </Text>
-       <Text uid="1007">
+    <Text uid="1007">
       <en-GB name="Instructors (Name / Age / Rating / Country)" />
       <de-DE name="Missing" />
       <en-US name="Instructors (Name / Age / Rating / Country)" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="教员　(名字/年龄/等级/国籍)" />
       <da-DK name="Instruktører (Navn / Alder / Rating / Land)" />
       <es-ES name="Missing" />
     </Text>
-  <Text uid="1008">
-     <en-GB name="Select flight school" />
+    <Text uid="1008">
+      <en-GB name="Select flight school" />
       <de-DE name="Missing" />
       <en-US name="Select flight school" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="选择航校" />
       <da-DK name="Vælg flyveskole" />
       <es-ES name="Missing" />
-  </Text>
-  <Text uid="1009">
-     <en-GB name="Training aircrafts" />
+    </Text>
+    <Text uid="1009">
+      <en-GB name="Training aircrafts" />
       <de-DE name="Missing" />
       <en-US name="Training aircrafts" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="教练机" />
       <da-DK name="Træningsfly" />
       <es-ES name="Missing" />
-  </Text>
+    </Text>
   </Region>
   <Region name="PanelPilot">
     <Text uid="200">
@@ -3211,7 +3209,7 @@
       <de-DE name="Passagiere Freude %" />
       <en-US name="Passenger happiness in %" />
       <nl-NL name="Vluchten Statistieken" />
-      <zh-CN name="乘客满意度在 %" />
+      <zh-CN name="乘客满意度为 %" />
       <da-DK name="Passagertilfredshed i %" />
       <es-ES name="Satisfacción de los pasajeros en %" />
     </Text>
@@ -3309,12 +3307,12 @@
       <da-DK name="Underselskaber" />
       <es-ES name="Subsidiarias" />
     </Text>
-   <Text uid="1008">
+    <Text uid="1008">
       <en-GB name="Pilots" />
       <de-DE name="Missing" />
       <en-US name="Pilots" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="飞行员" />
       <da-DK name="Piloter" />
       <es-ES name="Missing" />
     </Text>
@@ -4451,30 +4449,30 @@
       <da-DK name="Køb underselskab" message="Er du sikker på, at du også vil købe alle underselskaberne?" />
       <es-ES name="Comprar aerolínea subsidiaria" message="¿Está seguro de querer adquirir la totalidad de la aerolínea subsidiaria?" />
     </Text>
-      <Text uid="2115">
+    <Text uid="2115">
       <en-GB name="Can't reassign pilot" message="You can't reassign the pilot since the airliner is on route." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Can't reassign pilot" message="You can't reassign the pilot since the airliner is on route." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="无法重新指派飞行员" message="您无法为正在运营中的飞机重新指派飞行员。" />
       <da-DK name="Kan ikke reallokere piloten" message="Du kan ikke reallokere piloten idet hans fly er i rute." />
       <es-ES name="Missing" message="Missing" />
     </Text>
-   <Text uid="2116">
+    <Text uid="2116">
       <en-GB name="Can't dismiss pilot" message="You can't dismiss {0} since he is assigned to an airliner." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Can't dismiss pilot" message="You can't dismiss {0} since he is assigned to an airliner" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="无法解雇飞行员" message="您无法解雇被指派到航班中的飞行员 {0} 。" />
       <da-DK name="Kan ikke fyre piloten" message="Du kan ikke fyre {0} idet han er tilknyttet et fly" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-  <Text uid="2117">
+    <Text uid="2117">
       <en-GB name="Dismiss pilot" message="Are you sure you want to dismiss {0}?" />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Dismiss pilot" message="Are you sure you want to dismiss {0}?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="解雇飞行员" message="您确认要解雇 {0} ？" />
       <da-DK name="Fyre piloten" message="Er du sikker på du vil fyre {0}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4734,7 +4732,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Would you like to auto-assign pilots to this airliner?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="失踪的飞行员" message="此航班没有足够的员工，您想要自动为此飞机指派飞行员吗？" />
       <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vil du assigne piloter automatisk to flyet?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4743,16 +4741,16 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="失踪的飞行员" message="您的飞行员资源短缺，请再聘请一些飞行员。" />
       <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vær venlig at ansætte nogle flere piloter" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-          <Text uid="2507">
+    <Text uid="2507">
       <en-GB name="Missing pilots" message="This aircraft is not staffed adequately. Please assign pilots to the airliner" />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Please assign pilots to the airliner" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="失踪的飞行员" message="此航班没有足够的职工，请为该飞机指派飞行员。" />
       <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vær venlig at assigne piloter til flyet" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4893,16 +4891,16 @@
       <de-DE name="Missing" message="Missing." />
       <en-US name="Build flight school" message="Are you sure you want to build a new flight school for {0:C}?" />
       <nl-NL name="Missing" message="Missing." />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="修建航校" message="您确认要为 {0:C} 兴建一座新的航校吗？" />
       <da-DK name="Anlæg flyveskole" message="Er du sikker på, at du vil bygge en ny flyveskole for {0:C}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-      <Text uid="2804">
+    <Text uid="2804">
       <en-GB name="Remove flight school" message="Are you sure you want to remove the flight school {0}? It will release all aircrafts, instructors and students at the flight school" />
       <de-DE name="Missing" message="Missing." />
       <en-US name="Remove flight school" message="Are you sure you want to remove the flight school {0}? It will release all aircrafts, instructors and students at the flight school" />
       <nl-NL name="Missing" message="Missing." />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="移出航校" message="您确认要移出航校 {0} 吗？此举将会遣散航校所有的飞机、教员和学员。" />
       <da-DK name="Fjern flyveskole" message="Er du sikker på, at du vil fjerne din flyveskole {0}? Alle fly, instruktører og aspiranter vil blive opsagt" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4911,25 +4909,25 @@
       <de-DE name="Missing" message="Missing." />
       <en-US name="Can't fire instructor" message="You can't fire {0} since he have students assigned to him." />
       <nl-NL name="Missing" message="Missing." />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="无法开除教员" message="您无法开除 {0}，因为他正在带学员。" />
       <da-DK name="Kan ikke fyre instruktør" message="Du kan ikke fyre {0}, idet han har aspiranter." />
       <es-ES name="Missing" message="Missing" />
     </Text>
-      <Text uid="2806">
+    <Text uid="2806">
       <en-GB name="Fire instructor" message="Are you sure you want to fire {0}?" />
       <de-DE name="Missing" message="Missing." />
       <en-US name="Fire instructor" message="Are you sure you want to fire {0}?" />
       <nl-NL name="Missing" message="Missing." />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="开除教员" message="您确定要开除 {0} 吗？" />
       <da-DK name="Fyr instruktør" message="Er du sikker på, at du vil fyre {0}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-        <Text uid="2807">
+    <Text uid="2807">
       <en-GB name="Fire student" message="Are you sure you want to fire {0}?" />
       <de-DE name="Missing" message="Missing." />
       <en-US name="Fire student" message="Are you sure you want to fire {0}?" />
       <nl-NL name="Missing" message="Missing." />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="开除学生" message="您确定要开除 {0} 吗？" />
       <da-DK name="Fyr aspirant" message="Er du sikker på, at du vil fyre {0}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4981,30 +4979,30 @@
       <da-DK name="Aflyste fly" message="Dit fly {0} fra [LI airport={1}] til [LI airport={2}] er blevet aflyst grundet dårligt vejr." />
       <es-ES name="Vuelo cancelado" message="Missing" />
     </Text>
-      <Text uid="1006">
+    <Text uid="1006">
       <en-GB name="Pilot student" message="Your pilot student {0} has finished the education and is now a pilot for you." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Pilot student" message="Your pilot student {0} has finished the education and is now a pilot for you" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="飞行员学生" message="您的飞行学员 {0} 已经完成了飞行课程，现在已经成为了一名合格的飞行员。" />
       <da-DK name="Færdiguddannet aspirant" message="Din flyveelev {0} er nu færdiguddannet og er blevet ansat hos dig" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-  <Text uid="1007">
+    <Text uid="1007">
       <en-GB name="Pilot to retire" message="Your pilot {0} is turning {1} years old soon and will retire by the end of the month. " />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Pilot to retire" message="Your pilot {0} is turning {1} years old soon and will retire by the end of the month." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="飞行员退休" message="您的飞行员 {0} 即将年满 {1} 岁，月底就会退休。" />
       <da-DK name="Pilot på pension" message="Din pilot {0} bliver snart {1} år og går på pension ved udgangen af måneden" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-      <Text uid="1008">
+    <Text uid="1008">
       <en-GB name="Instructor to retire" message="Your instructor {0} is turning {1} years old soon and will retire by the end of the month." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Instructor to retire" message="Your instructor {0} is turning {1} years old soon and will retire by the end of the month." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="教员退休" message="您的教员 {0} 即将年满 {1} 岁，月底就会退休。" />
       <da-DK name="Instruktør på pension" message="Din instruktør [0} bliver snart {1} år og går på pension ved udgangen af måneden" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -5013,34 +5011,34 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Pilot retires" message="Your pilot {0} has now retired." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="飞行员退休" message="您的飞行员 {0} 现已退休。" />
       <da-DK name="Pilot på pension" message="Din pilot [0} er gået på pension" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-     <Text uid="1010">
+    <Text uid="1010">
       <en-GB name="Pilot retired" message="Your pilot {0} has now retired. The airliner {1} is now short of pilots so please assign a new one to the airliner." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Pilot retired" message="Your pilot {0} has now retired. The airliner {1} is now short of pilots so please assign a new one to the airliner." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="已退休的飞行员" message="您的飞行员 {0} 现已退休，航班 {1} 现在缺少飞行员，请重新指派一名飞行员。" />
       <da-DK name="Pilot på pension" message="Din pilot [0} er gået på pension. Venligst assigne en ny pilot til {1} som erstatning for {0}" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-      <Text uid="1011">
+    <Text uid="1011">
       <en-GB name="Instructor retired" message="Your instructor {0} has now retired." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Instructor retired" message="Your instructor {0} has now retired." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="已退休的教员" message="您的教员 {0} 现已退休。" />
       <da-DK name="Instruktør på pension" message="Din instruktør [0} er gået på pension" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-        <Text uid="1012">
+    <Text uid="1012">
       <en-GB name="Instructor retired" message="Your instructor {0} has now retired and {1} has been hired instead." />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Instructor retired" message="Your instructor {0} has now retired and {1} has been hired instead" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="已退休的教员" message="您的教员 {0} 现已退休，{1} 急需招聘新教员。" />
       <da-DK name="Instruktør på pension" message="Din instruktør [0} er gået på pension og {1} er blevet ansat istedet for" />
       <es-ES name="Missing" message="Missing" />
     </Text>
