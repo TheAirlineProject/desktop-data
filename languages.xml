@@ -2960,7 +2960,7 @@
       <de-DE name="Missing" />
       <en-US name="Hire student" />
       <nl-NL name="Missing" />
-      <zh-CN name="学生助理" />
+      <zh-CN name="招收学生" />
       <da-DK name="Optag aspirant" />
       <es-ES name="Missing" />
     </Text>
@@ -3014,7 +3014,7 @@
       <de-DE name="Missing" />
       <en-US name="Instructor for the student" />
       <nl-NL name="Missing" />
-      <zh-CN name="教员的学生" />
+      <zh-CN name="为学员选择教员" />
       <da-DK name="Instruktør som skal have aspiranten" />
       <es-ES name="Missing" />
     </Text>
@@ -4732,7 +4732,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Would you like to auto-assign pilots to this airliner?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="失踪的飞行员" message="此航班没有足够的员工，您想要自动为此飞机指派飞行员吗？" />
+      <zh-CN name="飞行员不足" message="此航班没有足够的员工，您想要自动为此飞机指派飞行员吗？" />
       <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vil du assigne piloter automatisk to flyet?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4741,7 +4741,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="失踪的飞行员" message="您的飞行员资源短缺，请再聘请一些飞行员。" />
+      <zh-CN name="飞行员不足" message="您的飞行员资源短缺，请再聘请一些飞行员。" />
       <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vær venlig at ansætte nogle flere piloter" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -4750,7 +4750,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="This aircraft is not staffed adequately. Please assign pilots to the airliner" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="失踪的飞行员" message="此航班没有足够的职工，请为该飞机指派飞行员。" />
+      <zh-CN name="飞行员不足" message="此航班没有足够的职工，请为该飞机指派飞行员。" />
       <da-DK name="Manglende piloter" message="Dette fly har ikke den rette mængde piloter. Vær venlig at assigne piloter til flyet" />
       <es-ES name="Missing" message="Missing" />
     </Text>
