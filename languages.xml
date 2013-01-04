@@ -4737,12 +4737,12 @@
       <es-ES name="Missing" message="Missing" />
     </Text>
     <Text uid="2506">
-      <en-GB name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
+      <en-GB name="Missing pilots" message="You have no free pilots for this airliner. Do you want to hire the missing {0} pilots?" />
       <de-DE name="Missing" message="Missing" />
-      <en-US name="Missing pilots" message="You have no free pilots for this airliner. Please hire some more pilots." />
+      <en-US name="Missing pilots" message="You have no free pilots for this airliner. Do you want to hire the missing {0} pilots?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="飞行员不足" message="您的飞行员资源短缺，请再聘请一些飞行员。" />
-      <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vær venlig at ansætte nogle flere piloter" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vil du hyre {0} piloter til flyet?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
     <Text uid="2507">
