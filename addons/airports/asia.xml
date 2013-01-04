@@ -1988,6 +1988,745 @@
       <runway name="05/23" length="3000" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Husein Sastranegara International Airport" icao="WICC" iata="BDO" type="Short_Haul_International" season="All_Year">
+    <town town="Bandung" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="006°54'02''S"/>
+      <longitude value="107°34'35''E"/>
+    </coordinates>
+    <size value="Small" pax="937"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2244" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Adi Sucipto International Airport" icao="WARJ" iata="JOG" type="Short_Haul_International" season="All_Year">
+    <town town="Jogjakarta" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="007°47'17''S"/>
+      <longitude value="110°25'54''E"/>
+    </coordinates>
+    <size value="Medium" pax="4291"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2200" surface="Asphalt"/>
+      <runway name="09L/27R" length="1337" surface="Grass"/>
+    </runways>
+  </airport>
+  <airport name="Adi Sumarmo International Airport" icao="WARQ" iata="SOC" type="Short_Haul_International" season="All_Year">
+    <town town="Surakarta" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="007°30'58''S"/>
+      <longitude value="110°45'25''E"/>
+    </coordinates>
+    <size value="Small" pax="1195"/>
+    <terminals>
+      <terminal name="Terminal" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2600" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Ahmad Yani International Airport" icao="WARS" iata="SRG" type="Short_Haul_International" season="All_Year">
+    <town town="Semarang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="006°58'17''S"/>
+      <longitude value="110°22'27''E"/>
+    </coordinates>
+    <size value="Medium" pax="2432"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="9"/>
+      <terminal name="Terminal 2" gates="2"/>
+    </terminals>
+    <runways>
+      <runway name="13/30" length="2680" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Halim Perdanakusuma International Airport" icao="WIHH" iata="HLP" type="Long_Haul_International" season="All_Year">
+    <town town="Jakarta" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="006°15'59''S"/>
+      <longitude value="106°53'28''E"/>
+    </coordinates>
+    <size value="Very_small" pax="201"/>
+    <terminals>
+      <terminal name="Terminal" gates="20"/>
+    </terminals>
+    <runways>
+      <runway name="06/24" length="3000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Abdurrahman Saleh Airport" icao="WARA" iata="MLG" type="Domestic" season="All_Year">
+    <town town="Malang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="007°55'35''S"/>
+      <longitude value="112°42'52''E"/>
+    </coordinates>
+    <size value="Small" pax="550"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="17R/35L" length="1970" surface="Asphalt"/>
+      <runway name="17L/35R" length="1500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Tunggul Wulung Airport" icao="WIHL" iata="CXP" type="Regional" season="All_Year">
+    <town town="Cilacap" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="007°38'00''S"/>
+      <longitude value="109°03'00''E"/>
+    </coordinates>
+    <size value="Smallest" pax="15"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="1400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Polonia International Airport" icao="WIMM" iata="MES" type="Short_Haul_International" season="All_Year">
+    <town town="Medan" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="003°34'00''N"/>
+      <longitude value="098°40'59''E"/>
+    </coordinates>
+    <size value="Medium" pax="7616"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="11"/>
+      <terminal name="Terminal 2" gates="11"/>
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sultan Iskandar Muda International Airport" icao="WITT" iata="BTJ" type="Short_Haul_International" season="All_Year">
+    <town town="Banda Aceh" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="005°31'24''N"/>
+      <longitude value="095°25'13''E"/>
+    </coordinates>
+    <size value="Small" pax="705"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="17/35" length="3000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Hang Nadim International Airport" icao="WIDD" iata="BTH" type="Short_Haul_International" season="All_Year">
+    <town town="Batam" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°07'16''N"/>
+      <longitude value="104°07'08''E"/>
+    </coordinates>
+    <size value="Medium" pax="3300"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="12"/>
+    </terminals>
+    <runways>
+      <runway name="04/22" length="4025" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sultan Thaha Airport" icao="WIPA" iata="DJB" type="Domestic" season="All_Year">
+    <town town="Jambi" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°38'17''S"/>
+      <longitude value="103°38'40''E"/>
+    </coordinates>
+    <size value="Small" pax="1014"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Minangkabau International Airport" icao="WIPT" iata="PDG" type="Short_Haul_International" season="All_Year">
+    <town town="Padang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="000°52'30''S"/>
+      <longitude value="100°21'07''E"/>
+    </coordinates>
+    <size value="Medium" pax="2270"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="12"/>
+      <terminal name="Terminal 2" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2750" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sultan Mahmud Badarudin II International Airport" icao="WIPP" iata="PLM" type="Short_Haul_International" season="All_Year">
+    <town town="Palembang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="002°53'54''S"/>
+      <longitude value="104°42'00''E"/>
+    </coordinates>
+    <size value="Medium" pax="2598"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sultan Syarif Kasim II International Airport" icao="WIBB" iata="PKU" type="Short_Haul_International" season="All_Year">
+    <town town="Pekanbaru" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="000°27'39''N"/>
+      <longitude value="101°26'40''E"/>
+    </coordinates>
+    <size value="Medium" pax="2541"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="6"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="2600" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Raja Haji Fisabilillah Airport" icao="WIDN" iata="TNJ" type="Domestic" season="All_Year">
+    <town town="Tanjung Pinang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="000°55'22''N"/>
+      <longitude value="104°31'56''E"/>
+    </coordinates>
+    <size value="Very_small" pax="231"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="6"/>
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2250" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Depati Amir Airport" icao="WIPK" iata="PGK" type="Domestic" season="All_Year">
+    <town town="Pangkal Pinang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="002°09'43''S"/>
+      <longitude value="106°08'20''E"/>
+    </coordinates>
+    <size value="Small" pax="1325"/>
+    <terminals>
+      <terminal name="Terminal" gates="8"/>
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Radin Inten II Airport" icao="WICT" iata="TKG" type="Domestic" season="All_Year">
+    <town town="Bandar Lampung" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="005°14'33''S"/>
+      <longitude value="105°10'44''E"/>
+    </coordinates>
+    <size value="Very_small" pax="213"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Fatmawati Soekarno Airport" icao="WIPL" iata="BKS" type="Domestic" season="All_Year">
+    <town town="Bengkulu" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="003°51'49''S"/>
+      <longitude value="102°20'21''E"/>
+    </coordinates>
+    <size value="Very_small" pax="213"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2250" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Pinang Kampai Airport" icao="WIBD" iata="DUM" type="Regional" season="All_Year">
+    <town town="Dumai" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°36'33''N"/>
+      <longitude value="101°26'00''E"/>
+    </coordinates>
+    <size value="Smallest" pax="12"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1800" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Cut Nyak Dhien Airport" icao="WITC" iata="MEQ" type="Regional" season="All_Year">
+    <town town="Meulaboh" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="004°32'37''N"/>
+      <longitude value="096°15'03''E"/>
+    </coordinates>
+    <size value="Smallest" pax="18"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Ranai Airport" icao="WION" iata="NTX" type="Regional" season="All_Year">
+    <town town="Natuna" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="003°54'31''N"/>
+      <longitude value="108°23'16''E"/>
+    </coordinates>
+    <size value="Smallest" pax="12"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="2563" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Binaka Airport" icao="WIMB" iata="GNS" type="Regional" season="All_Year">
+    <town town="Gunung Sitoli" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°09'58''N"/>
+      <longitude value="097°42'16''E"/>
+    </coordinates>
+    <size value="Smallest" pax="22"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1750" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Aek Godang Airport" icao="WIME" iata="AEG" type="Regional" season="All_Year">
+    <town town="Padang Sidempuan" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°24'00''N"/>
+      <longitude value="099°25'49''E"/>
+    </coordinates>
+    <size value="Smallest" pax="8"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1396" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Ferdinand Lumban Tobing Airport" icao="WIMS" iata="SIX" type="Regional" season="All_Year">
+    <town town="Sibolga" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°33'00''N"/>
+      <longitude value="098°52'59''E"/>
+    </coordinates>
+    <size value="Smallest" pax="9"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="2563" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="H.A.S Hanandjoeddin Airport" icao="WIOD" iata="TJQ" type="Domestic" season="All_Year">
+    <town town="Tanjung Pandan" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="002°44'44''S"/>
+      <longitude value="107°45'17''E"/>
+    </coordinates>
+    <size value="Smallest" pax="26"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="1849" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sepinggan International Airport" icao="WALL" iata="BPN" type="Short_Haul_International" season="All_Year">
+    <town town="Balikpapan" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="001°16'06''S"/>
+      <longitude value="116°53'40''E"/>
+    </coordinates>
+    <size value="Medium" pax="5680"/>
+    <terminals>
+      <terminal name="Terminal A" gates="17"/>
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2495" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Syamsudin Noor Airport" icao="WAOO" iata="BDJ" type="Domestic" season="All_Year">
+    <town town="Banjarmasin" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="003°26'32''S"/>
+      <longitude value="114°45'45''E"/>
+    </coordinates>
+    <size value="Medium" pax="3013"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Tjilik Riwut Airport" icao="WAOP" iata="PKY" type="Domestic" season="All_Year">
+    <town town="Palangkaraya" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="002°13'30''S"/>
+      <longitude value="113°56'34''E"/>
+    </coordinates>
+    <size value="Small" pax="1217"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2100" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Supadio International Airport" icao="WIOO" iata="PNK" type="Short_Haul_International" season="All_Year">
+    <town town="Pontianak" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="000°09'02''S"/>
+      <longitude value="109°24'14''E"/>
+    </coordinates>
+    <size value="Medium" pax="2133"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2250" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="H. Asan Airport" icao="WAOS" iata="SMQ" type="Domestic" season="All_Year">
+    <town town="Sampit" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="002°29'57''S"/>
+      <longitude value="112°58'30''E"/>
+    </coordinates>
+    <size value="Very_small" pax="250"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="1847" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Juwata International Airport" icao="WALR" iata="TRK" type="Short_Haul_International" season="All_Year">
+    <town town="Tarakan" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="003°19'36''N"/>
+      <longitude value="117°33'56''E"/>
+    </coordinates>
+    <size value="Small" pax="912"/>
+    <terminals>
+      <terminal name="Terminal" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Kalimarau Airport" icao="WRLK" iata="BEJ" type="Regional" season="All_Year">
+    <town town="Berau" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="002°09'19''N"/>
+      <longitude value="117°25'56''E"/>
+    </coordinates>
+    <size value="Smallest" pax="17"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1850" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Bontang Airport" icao="WRLC" iata="BXT" type="Regional" season="All_Year">
+    <town town="Bontang" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="000°07'17''N"/>
+      <longitude value="117°28'35''E"/>
+    </coordinates>
+    <size value="Smallest" pax="14"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1050" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Rahadi Oesman Airport" icao="WIOK" iata="KTG" type="Domestic" season="All_Year">
+    <town town="Ketapang" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="001°48'59''S"/>
+      <longitude value="109'57'48''E"/>
+    </coordinates>
+    <size value="Smallest" pax="52"/>
+    <terminals>
+      <terminal name="Terminal" gates="8"/>
+    </terminals>
+    <runways>
+      <runway name="17/35" length="1400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Robert Atty Bessing Airport" icao="WRLM" iata="MLN" type="Regional" season="All_Year">
+    <town town="Malinau" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="002°50'11''N"/>
+      <longitude value="117°22'25''E"/>
+    </coordinates>
+    <size value="Smallest" pax="7"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1400" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Beringin Airport" icao="WAOM" iata="MTW" type="Regional" season="All_Year">
+    <town town="Muara Teweh" country="162" GMT="07:00:00" DST="07:00:00"/>
+    <coordinates>
+      <latitude value="000°56'34''S"/>
+      <longitude value="114°53'40''E"/>
+    </coordinates>
+    <size value="Smallest" pax="12"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="900" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Nunukan Airport" icao="WRLF" iata="NNX" type="Regional" season="All_Year">
+    <town town="Nunukan" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="004°08'12''N"/>
+      <longitude value="117°40'01''E"/>
+    </coordinates>
+    <size value="Smallest" pax="14"/>
+    <terminals>
+      <terminal name="Terminal" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="900" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Iskandar Airport" icao="WAOI" iata="PKN" type="Domestic" season="All_Year">
+    <town town="Pangkalanbun" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="002°42'18''S"/>
+      <longitude value="111°40'23''E"/>
+    </coordinates>
+    <size value="Smallest" pax="20"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="1650" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Jalaludin Airport" icao="WAMG" iata="GTO" type="Domestic" season="All_Year">
+    <town town="Gorontalo" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="000°38'14''N"/>
+      <longitude value="122°50'59''E"/>
+    </coordinates>
+    <size value="Small" pax="917"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2700" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Haluoleo Airport" icao="WAWW" iata="KDI" type="Domestic" season="All_Year">
+    <town town="Kendari" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="004°04'54''S"/>
+      <longitude value="122°25'06''E"/>
+    </coordinates>
+    <size value="Small" pax="1003"/>
+    <terminals>
+      <terminal name="Terminal" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2250" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sultan Hasanuddin International Airport" icao="WAAA" iata="UPG" type="Short_Haul_International" season="All_Year">
+    <town town="Makassar" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="005°03'42''S"/>
+      <longitude value="119°33'15''E"/>
+    </coordinates>
+    <size value="Medium" pax="7456"/>
+    <terminals>
+      <terminal name="Terminal" gates="15"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2500" surface="Asphalt"/>
+      <runway name="03/21" length="3100" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sam Ratulangi International Airport" icao="WAMM" iata="MDC" type="Short_Haul_International" season="All_Year">
+    <town town="Manado" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="001°32'57''N"/>
+      <longitude value="124°55'35''E"/>
+    </coordinates>
+    <size value="Small" pax="1820"/>
+    <terminals>
+      <terminal name="Terminal" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="18/36" length="2700" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Mutiara Airport" icao="WAML" iata="PLW" type="Domestic" season="All_Year">
+    <town town="Palu" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="000°38'14''S"/>
+      <longitude value="122°50'59''E"/>
+    </coordinates>
+    <size value="Small" pax="716"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2250" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Ngurah Rai International Airport" icao="WADD" iata="DPS" type="Long_Haul_International" season="All_Year">
+    <town town="Denpasar" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="008°44'53''S"/>
+      <longitude value="115°10'30''E"/>
+    </coordinates>
+    <size value="Large" pax="12780"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="21"/>
+      <terminal name="Terminal 2" gates="21"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3000" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Lombok International Airport" icao="WADL" iata="AMI" type="Short_Haul_International" season="All_Year">
+    <town town="Mataram" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="008°45'26''S"/>
+      <longitude value="116°16'36''E"/>
+    </coordinates>
+    <size value="Small" pax="1676"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="10"/>
+      <terminal name="Terminal 2" gates="3"/>
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2750" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="El Tari International Airport" icao="WATT" iata="KOE" type="Short_Haul_International" season="All_Year">
+    <town town="Mataram" country="162" GMT="08:00:00" DST="08:00:00"/>
+    <coordinates>
+      <latitude value="010°10'17''S"/>
+      <longitude value="123°41'16''E"/>
+    </coordinates>
+    <size value="Small" pax="1174"/>
+    <terminals>
+      <terminal name="Terminal 1" gates="9"/>
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2500" surface="Asphalt"/>
+      <runway name="12/30" length="1273" surface="Grass"/>
+    </runways>
+  </airport>
+  <airport name="Pattimura Airport" icao="WAPP" iata="AMQ" type="Domestic" season="All_Year">
+    <town town="Ambon" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="003°42'36''S"/>
+      <longitude value="128°05'21''E"/>
+    </coordinates>
+    <size value="Small" pax="817"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Frans Kaisepo Airport" icao="WABB" iata="BIK" type="Domestic" season="All_Year">
+    <town town="Biak" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="001°11'24''S"/>
+      <longitude value="136°06'27''E"/>
+    </coordinates>
+    <size value="Very_small" pax="366"/>
+    <terminals>
+      <terminal name="Terminal" gates="7"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3571" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Sentani Airport" icao="WAJJ" iata="DJJ" type="Domestic" season="All_Year">
+    <town town="Jayapura" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="002°34'37''S"/>
+      <longitude value="140°30'58''E"/>
+    </coordinates>
+    <size value="Small" pax="817"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2500" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Mopah Airport" icao="WAKK" iata="MKQ" type="Domestic" season="All_Year">
+    <town town="Merauke" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="008°31'13''S"/>
+      <longitude value="140°25'06''E"/>
+    </coordinates>
+    <size value="Small" pax="641"/>
+    <terminals>
+      <terminal name="Terminal" gates="6"/>
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1850" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Rendani Airport" icao="WASR" iata="MKW" type="Domestic" season="All_Year">
+    <town town="Manokwari" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="000°53'30''S"/>
+      <longitude value="134°02'57''E"/>
+    </coordinates>
+    <size value="Small" pax="817"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2004" surface="Asphalt"/>
+    </runways>
+  </airport>
+  <airport name="Domine Edward Osok Airport" icao="WASS" iata="SOQ" type="Domestic" season="All_Year">
+    <town town="Sorong" country="162" GMT="09:00:00" DST="09:00:00"/>
+    <coordinates>
+      <latitude value="000°53'39''S"/>
+      <longitude value="131°17'20''E"/>
+    </coordinates>
+    <size value="Small" pax="817"/>
+    <terminals>
+      <terminal name="Terminal" gates="10"/>
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1831" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--Nepal (VN**)-->
   <airport name="Tribhuvan International Airport" icao="VNKT" iata="KTM" type="Long_Haul_International" season="All_Year">
     <town town="Kathmandu" country="251" GMT="05:45:00" DST="05:45:00"/>
