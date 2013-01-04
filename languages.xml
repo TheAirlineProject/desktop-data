@@ -1294,12 +1294,12 @@
       <es-ES name="Temporal" />
     </Text>
     <Text uid="1020">
-      <en-GB name="Estimated Daily Passenger Demand" />
+      <en-GB name="Estimated Daily Passenger Demand / Non-Covered demand" />
       <de-DE name="Estimated Daily Passenger Demand" />
-      <en-US name="Estimated Daily Passenger Demand" />
+      <en-US name="Estimated Daily Passenger Demand / Non-Convered demand" />
       <nl-NL name="Geschatte dagelijkse vraag naar passagiers" />
       <zh-CN name="预计每天的客运量" />
-      <da-DK name="Vurderet antal daglige passagere" />
+      <da-DK name="Vurderet antal daglige passagere / Uafdækket behov" />
       <es-ES name="Demanda diaria de pasajeros estimada" />
     </Text>
     <Text uid="1021">
