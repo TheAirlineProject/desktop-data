@@ -221,6 +221,24 @@
       <da-DK name="Ikke-oversat titel" />
       <es-ES name="Titulo sin Traducir" />
     </Text>
+      <Text uid="2000">
+      <en-GB name="Mil." />
+      <de-DE name="Missing" />
+      <en-US name="Mil." />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Mil." />
+      <es-ES name="Missing" />
+    </Text>
+        <Text uid="2001">
+      <en-GB name="Bil." />
+      <de-DE name="Missing" />
+      <en-US name="Bil." />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Mia." />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="LanguageTranslationConverter">
     <!--News page-->
