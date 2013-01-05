@@ -2959,6 +2959,34 @@
     <runways>
       <runway name="18/36" length="2500" surface="Asphalt"/>
     </runways>
+	  <airport name="Tivat Airport" icao="LYTV" iata="TIV" type="Short_Haul_International" season="All_Year">
+    <town town="Tivat" country="249" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="042°24'16''N" />
+      <longitude value="018°43'23''E" />
+    </coordinates>
+    <size value="Small" pax="647" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2502" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Berane Airport" icao="LYBR" iata="IVG" type="Domestic" season="All_Year">
+    <town town="Berane" country="249" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="042°50'20''N" />
+      <longitude value="019°51'43''E" />
+    </coordinates>
+    <size value="Smallest" pax="59" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+		<runway name="01/19" length="1900" surface="Concrete" />
+	</runways>
+  </airport>
   </airport>
   <!--Slovakia (LZ**)-->
   <airport name="M. R. Štefánik Airport" icao="LZIB" iata="BTS" type="Short_Haul_International" season="All_Year">
