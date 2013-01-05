@@ -222,18 +222,18 @@
       <es-ES name="Titulo sin Traducir" />
     </Text>
       <Text uid="2000">
-      <en-GB name="Mil." />
+      <en-GB name="Million" />
       <de-DE name="Missing" />
-      <en-US name="Mil." />
+      <en-US name="Million" />
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Mil." />
       <es-ES name="Missing" />
     </Text>
         <Text uid="2001">
-      <en-GB name="Bil." />
+      <en-GB name="Billion" />
       <de-DE name="Missing" />
-      <en-US name="Bil." />
+      <en-US name="Billion" />
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Mia." />
@@ -2231,6 +2231,15 @@
       <zh-CN name="出现恶劣天气时提醒我" />
       <da-DK name="Mails ved dårlig vejr" />
       <es-ES name="Recibir correo en caso de mal tiempo" />
+    </Text>
+    <Text uid="1008">
+      <en-GB name="Use shorten currency" />
+      <de-DE name="Missing" />
+      <en-US name="Use shorten currency" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Benyt forkortet beløb" />
+      <es-ES name="Missing" />
     </Text>
   </Region>
   <Region name="PageNewGame">
