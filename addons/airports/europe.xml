@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--Greenland, Iceland and Kosovo (B***)-->
@@ -2385,7 +2385,7 @@
   </airport>
   <!--Malta (LM**)-->
   <airport name="Malta International Airport" icao="LMML" iata="MLA" type="Long_Haul_International" season="All_Year">
-    <town town="Malta" country="132" GMT="02:00:00" DST="01:00:00"/>
+    <town town="Valletta" country="132" GMT="02:00:00" DST="01:00:00"/>
     <coordinates>
       <latitude value="035°51'26''N"/>
       <longitude value="014°28'39''E"/>

@@ -2054,6 +2054,7 @@
       <da-DK name="Flyveskoler &amp; Piloter" />
       <es-ES name="Missing" />
     </Text>
+    
     <Text uid="1001">
       <en-GB name="Pilots" />
       <de-DE name="Missing" />
@@ -2079,6 +2080,15 @@
       <nl-NL name="Missing" />
       <zh-CN name="航校" />
       <da-DK name="Flyveskoler" />
+      <es-ES name="Missing" />
+    </Text>
+    <Text uid="1004">
+      <en-GB name="Select town for flight school" />
+      <de-DE name="Missing" />
+      <en-US name="Select town for flight school" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Vælg flyveskolens lokation" />
       <es-ES name="Missing" />
     </Text>
   </Region>
