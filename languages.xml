@@ -2241,6 +2241,17 @@
       <es-ES name="Missing" />
     </Text>
   </Region>
+    <Region name="PageCredits">
+    <Text uid="1000">
+      <en-GB name="Credits" />
+      <de-DE name="Missing" />
+      <en-US name="Credits" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Credits" />
+      <es-ES name="Missing" />
+    </Text>
+    </Region>
   <Region name="PageNewGame">
     <Text uid="200">
       <en-GB name="Create New Game" />
