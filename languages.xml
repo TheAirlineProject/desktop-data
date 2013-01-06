@@ -4523,6 +4523,15 @@
       <da-DK name="Fyre piloten" message="Er du sikker på du vil fyre {0}?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
+    <Text uid="2118">
+      <en-GB name="Release subsidiary" message="Are you sure you want to release {0} to operate on its own?" />
+      <de-DE name="Missing" message="Missing" />
+      <en-US name="Release subsidiary" message="Are you sure you want to close {0} to operate on its own?" />
+      <nl-NL name="Missing" message="Missing" />
+      <zh-CN name="Missing" message="Missing" />
+      <da-DK name="Frigiv underselskab" message="Er du sikker på, at du vil frigive {0} så det bliver selvstændigt?" />
+      <es-ES name="Missing" message="Missing" />
+    </Text>
     <!-- END - Airline Model -->
     <!-- BEGIN - Airport Model -->
     <Text uid="2201">
