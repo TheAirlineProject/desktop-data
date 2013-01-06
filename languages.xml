@@ -221,21 +221,21 @@
       <da-DK name="Ikke-oversat titel" />
       <es-ES name="Titulo sin Traducir" />
     </Text>
-      <Text uid="2000">
+    <Text uid="2000">
       <en-GB name="Million" />
       <de-DE name="Missing" />
       <en-US name="Million" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="百万" />
       <da-DK name="Mil." />
       <es-ES name="Missing" />
     </Text>
-        <Text uid="2001">
+    <Text uid="2001">
       <en-GB name="Billion" />
       <de-DE name="Missing" />
       <en-US name="Billion" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="十亿" />
       <da-DK name="Mia." />
       <es-ES name="Missing" />
     </Text>
@@ -1316,7 +1316,7 @@
       <de-DE name="Daily total demand / Remaining demand" />
       <en-US name="Daily total demand / Remaining demand" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="每日总需求/剩余需求" />
       <da-DK name="Dagligt behov / Uafdækket behov" />
       <es-ES name="Missing" />
     </Text>
@@ -2072,7 +2072,6 @@
       <da-DK name="Flyveskoler &amp; Piloter" />
       <es-ES name="Missing" />
     </Text>
-    
     <Text uid="1001">
       <en-GB name="Pilots" />
       <de-DE name="Missing" />
@@ -2105,7 +2104,7 @@
       <de-DE name="Missing" />
       <en-US name="Select town for flight school" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="为航校选择开办地点" />
       <da-DK name="Vælg flyveskolens lokation" />
       <es-ES name="Missing" />
     </Text>
@@ -2237,7 +2236,7 @@
       <de-DE name="Missing" />
       <en-US name="Use shorten currency" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="使用货币简写" />
       <da-DK name="Benyt forkortet beløb" />
       <es-ES name="Missing" />
     </Text>
@@ -4778,7 +4777,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Missing pilots" message="You have no free pilots for this airliner. Do you want to hire the missing {0} pilots?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="飞行员不足" message="此班级没有飞行员，您想要雇用 {0} 名飞行员吗？" />
       <da-DK name="Manglende piloter" message="Du har ingen ledige piloter til dette fly. Vil du hyre {0} piloter til flyet?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
