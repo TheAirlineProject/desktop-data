@@ -3803,6 +3803,15 @@
       <da-DK name="Vælg kontraktlængde" />
       <es-ES name="Seleccionar duración del contratoi" />
     </Text>
+      <Text uid="1012">
+      <en-GB name="Airliner classes" />
+      <de-DE name="Missing" />
+      <en-US name="Airliner classes" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Flyklasser" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="PanelUsedAirliner">
     <Text uid="200">
