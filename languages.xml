@@ -3704,6 +3704,15 @@
       <da-DK name="Bestil nye fly" />
       <es-ES name="Encargar Nuevos Aviones" />
     </Text>
+      <Text uid="201">
+      <en-GB name="Set classes" />
+      <de-DE name="Missing" />
+      <en-US name="Set classes" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Sæt flyklasser" />
+      <es-ES name="Missing" />
+    </Text>
     <Text uid="1001">
       <en-GB name="Order Airliners" />
       <de-DE name="Missing" />
