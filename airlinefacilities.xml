@@ -117,4 +117,30 @@
       <es-ES name="Servicio VIP Ejecutivo" shortname="VIP" />
     </translations>
   </airlinefacility>
+    <airlinefacility uid="109" price="90000" fromyear="1950" monthlycost="30000">
+    <level service="2" luxury="0">
+    </level>
+    <translations>
+      <en-US name="Basic Maintenance Center" shortname="Maintenance" />
+      <de-DE name="Missing" shortname="Maintenance" />
+      <en-GB name="Basic Maintenance Center" shortname="Maintenance" />
+      <nl-NL name="Missing" shortname="Maintenance" />
+      <zh-CN name="Missing" shortname="Maintenance" />
+      <da-DK name="Basic Maintenance Center" shortname="Maintenance" />
+      <es-ES name="Missing" shortname="Maintenance" />
+    </translations>
+  </airlinefacility>
+    <airlinefacility uid="110" price="160000" fromyear="1950" monthlycost="45000">
+    <level service="8" luxury="0">
+    </level>
+    <translations>
+      <en-US name="Large Maintenance Center" shortname="Maintenance" />
+      <de-DE name="Missing" shortname="Maintenance" />
+      <en-GB name="Large Maintenance Center" shortname="Maintenance" />
+      <nl-NL name="Missing" shortname="Maintenance" />
+      <zh-CN name="Missing" shortname="Maintenance" />
+      <da-DK name="Large Maintenance Center" shortname="Maintenance" />
+      <es-ES name="Missing" shortname="Maintenance" />
+    </translations>
+  </airlinefacility>
 </airlinefacilities>
