@@ -5054,12 +5054,12 @@
       <es-ES name="Missing" message="Missing" />
     </Text>
          <Text uid="2902">
-      <en-GB name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes {0} days?" />
+      <en-GB name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes a maximum of {0} days?" />
       <de-DE name="Missing" message="Missing" />
-      <en-US name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes {0} days?" />
+      <en-US name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes a maximum of {0} days?" />
       <nl-NL name="Missing" message="Missing" />
       <zh-CN name="Missing" message="Missing" />
-      <da-DK name="Ændre flykonfiguration" message="Det tager {0} dage at ændre disse konfigurationer. Er du sikker på, at du vil det?" />
+      <da-DK name="Ændre flykonfiguration" message="Det tager maksimalt {0} dage at ændre disse konfigurationer. Er du sikker på, at du vil det?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
       <!--END -PageAirlineFacilities!-->
