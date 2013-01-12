@@ -4202,6 +4202,24 @@
       <da-DK name="Fly mellem {0} og {1} er ikke tilladt" />
       <es-ES name="Vuelos entre {0} y {1} no están permitidos" />
     </Text>
+   <Text uid="1003">
+      <en-GB name="Stopover" />
+      <de-DE name="Missing" />
+      <en-US name="Stopover" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Stopover" />
+      <es-ES name="Missing" />
+    </Text>
+<Text uid="1004">
+      <en-GB name="Route" />
+      <de-DE name="Missing" />
+      <en-US name="Route" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Rute" />
+      <es-ES name="Missing" />
+    </Text>
   </Region>
   <Region name="MenuHome">
     <Text uid="1000">
