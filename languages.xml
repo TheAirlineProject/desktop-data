@@ -2241,7 +2241,7 @@
       <es-ES name="Missing" />
     </Text>
   </Region>
-    <Region name="PageCredits">
+  <Region name="PageCredits">
     <Text uid="1000">
       <en-GB name="Credits" />
       <de-DE name="Missing" />
@@ -2251,7 +2251,7 @@
       <da-DK name="Credits" />
       <es-ES name="Missing" />
     </Text>
-    </Region>
+  </Region>
   <Region name="PageNewGame">
     <Text uid="200">
       <en-GB name="Create New Game" />
@@ -2455,39 +2455,39 @@
     </Text>
   </Region>
   <Region name="PageAirlineFacilityMaintenance">
-        <Text uid="201">
+    <Text uid="201">
       <en-GB name="Set classes" />
       <de-DE name="Missing" />
       <en-US name="Set classes" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="设置舱段" />
       <da-DK name="Sæt flyklasser" />
       <es-ES name="Missing" />
     </Text>
-   <Text uid="202">
+    <Text uid="202">
       <en-GB name="Apply" />
       <de-DE name="Missing" />
       <en-US name="Apply" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="应用" />
       <da-DK name="Sæt klasser" />
       <es-ES name="Missing" />
     </Text>
-     <Text uid="1001">
+    <Text uid="1001">
       <en-GB name="Configuration of airliners" />
       <de-DE name="Missing" />
       <en-US name="Configuration of airliners" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="配置飞机" />
       <da-DK name="Konfiguration af fly" />
       <es-ES name="Missing" />
     </Text>
-         <Text uid="1002">
+    <Text uid="1002">
       <en-GB name="Airliner classes" />
       <de-DE name="Missing" />
       <en-US name="Airliner classes" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="飞机舱段" />
       <da-DK name="Flyklasser" />
       <es-ES name="Missing" />
     </Text>
@@ -3742,12 +3742,12 @@
       <da-DK name="Bestil nye fly" />
       <es-ES name="Encargar Nuevos Aviones" />
     </Text>
-      <Text uid="201">
+    <Text uid="201">
       <en-GB name="Set classes" />
       <de-DE name="Missing" />
       <en-US name="Set classes" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="设置舱段" />
       <da-DK name="Sæt flyklasser" />
       <es-ES name="Missing" />
     </Text>
@@ -3850,12 +3850,12 @@
       <da-DK name="Vælg kontraktlængde" />
       <es-ES name="Seleccionar duración del contratoi" />
     </Text>
-      <Text uid="1012">
+    <Text uid="1012">
       <en-GB name="Airliner classes" />
       <de-DE name="Missing" />
       <en-US name="Airliner classes" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="飞机舱段" />
       <da-DK name="Flyklasser" />
       <es-ES name="Missing" />
     </Text>
@@ -4202,21 +4202,21 @@
       <da-DK name="Fly mellem {0} og {1} er ikke tilladt" />
       <es-ES name="Vuelos entre {0} y {1} no están permitidos" />
     </Text>
-   <Text uid="1003">
+    <Text uid="1003">
       <en-GB name="Stopover" />
       <de-DE name="Missing" />
       <en-US name="Stopover" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="经停" />
       <da-DK name="Stopover" />
       <es-ES name="Missing" />
     </Text>
-<Text uid="1004">
+    <Text uid="1004">
       <en-GB name="Route" />
       <de-DE name="Missing" />
       <en-US name="Route" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="航路" />
       <da-DK name="Rute" />
       <es-ES name="Missing" />
     </Text>
@@ -4602,7 +4602,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Release subsidiary" message="Are you sure you want to close {0} to operate on its own?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="释放对子公司的控制" message="Missing" />
       <da-DK name="Frigiv underselskab" message="Er du sikker på, at du vil frigive {0} så det bliver selvstændigt?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
@@ -5062,25 +5062,25 @@
       <es-ES name="Missing" message="Missing" />
     </Text>
     <!--BEGIN -PageAirlineFacilities-->
-       <Text uid="2901">
+    <Text uid="2901">
       <en-GB name="Airliner limit" message="The selected maintenance center can only handle {0} at the time" />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Airliner limit" message="The selected maintenance center can only handle {0} at the time" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="飞机限制" message="选中的维护中心只能同时处理 {0} 架飞机。" />
       <da-DK name="Begrænsning i antal fly" message="Dette maintenance center kan højest håndtere {0} fly ad gangen" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-         <Text uid="2902">
+    <Text uid="2902">
       <en-GB name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes a maximum of {0} days?" />
       <de-DE name="Missing" message="Missing" />
       <en-US name="Apply configuration" message="Are you sure you want to apply these configurations to the airliners which takes a maximum of {0} days?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="Missing" message="Missing" />
+      <zh-CN name="应用配置" message="您确定要对飞机进行为期 {0} 天的维护配置吗？" />
       <da-DK name="Ændre flykonfiguration" message="Det tager maksimalt {0} dage at ændre disse konfigurationer. Er du sikker på, at du vil det?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-      <!--END -PageAirlineFacilities!-->
+    <!--END -PageAirlineFacilities!-->
   </Region>
   <Region name="News">
     <Text uid="1001">
@@ -5191,7 +5191,7 @@
       <da-DK name="Instruktør på pension" message="Din instruktør [0} er gået på pension og {1} er blevet ansat istedet for" />
       <es-ES name="Missing" message="Missing" />
     </Text>
-       </Region>
+  </Region>
   <Region name="Enums">
     <!--Directions: South, South East, East, North East, North, North West, West, South West-->
     <Text uid="S">
