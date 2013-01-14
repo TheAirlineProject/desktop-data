@@ -4185,12 +4185,12 @@
       <es-ES name="{0} puerta(s)" />
     </Text>
     <Text uid="1001">
-      <en-GB name="One or both airports are not the appropriate type for creation" />
+      <en-GB name="One or more airports are not the appropriate type for creation" />
       <de-DE name="Missing" />
-      <en-US name="One or both airports are not the appropriate type for creation" />
+      <en-US name="One or more airports are not the appropriate type for creation" />
       <nl-NL name="Een of beide luchthavens zijn niet van het geschikte soort" />
       <zh-CN name="其中有一个机场或者两个都不是合适的类型，所以无法创建" />
-      <da-DK name="En eller begge lufthavne kan ikke bruges til denne rute" />
+      <da-DK name="En eller flere lufthavne kan ikke bruges til denne rute" />
       <es-ES name="Uno o ambos aeropuertos no son del tipo apropiado" />
     </Text>
     <Text uid="1002">
