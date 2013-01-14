@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
 <profile name="Scandinavian Airlines" iata="SK" color="Tan" country="110" CEO="Rickard Gustafson" mentality="Aggressive" market="Regional" preferedairport="CPH">
-  <narrative narrative="Scandinavian Airlines is an airline operating out of Copenhagen, Denmark, founded in 1946. It serves as the flag carrier of Denmark, Norway, and Sweden, and is the largest carrier in Scandinavia. They operate a fleet of 135 aircraft, primarily Boeing with various Airbus, McDonnell Douglas, and Bombardier aircraft mixed in. "
+  <narrative narrative="Scandinavian Airlines is an airline operating out of Copenhagen, Denmark, founded in 1946. It serves as the flag carrier of Denmark, Norway, and Sweden, and is the largest carrier in Scandinavia. They operate a fleet of 135 aircraft, primarily Boeing with various Airbus, McDonnell Douglas, and Bombardier aircraft mixed in. "></narrative>
 </profile>
 </airline>
