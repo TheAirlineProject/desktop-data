@@ -4602,7 +4602,7 @@
       <de-DE name="Missing" message="Missing" />
       <en-US name="Release subsidiary" message="Are you sure you want to close {0} to operate on its own?" />
       <nl-NL name="Missing" message="Missing" />
-      <zh-CN name="释放对子公司的控制" message="Missing" />
+      <zh-CN name="释放对子公司的控制" message="您确认要关闭 {0} 来让其自行运行吗？" />
       <da-DK name="Frigiv underselskab" message="Er du sikker på, at du vil frigive {0} så det bliver selvstændigt?" />
       <es-ES name="Missing" message="Missing" />
     </Text>
