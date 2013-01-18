@@ -746,6 +746,62 @@
       <es-ES name="{0} Rutas" />
     </Text>
   </Region>
+  <Region name="PageFrontMenu">
+      <Text uid="200">
+      <en-GB name="New Game" />
+      <de-DE name="Missing" />
+      <en-US name="New Game" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Nyt spil" />
+      <es-ES name="Missing" />
+    </Text>
+        <Text uid="201">
+      <en-GB name="Load Game" />
+      <de-DE name="Missing" />
+      <en-US name="Load Game" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Indlæs spil" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="202">
+      <en-GB name="Settings" />
+      <de-DE name="Missing" />
+      <en-US name="Settings" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Indstillinger" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="203">
+      <en-GB name="Credits" />
+      <de-DE name="Missing" />
+      <en-US name="Credits" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Credits" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="204">
+      <en-GB name="Exit Game" />
+      <de-DE name="Missing" />
+      <en-US name="Exit Game" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Afslut spil" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="1001">
+      <en-GB name="Start Menu" />
+      <de-DE name="Missing" />
+      <en-US name="Start Menu" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Hovedmenu" />
+      <es-ES name="Missing" />
+    </Text>
+  </Region>
   <Region name="PageFleetAirliner">
     <Text uid="200">
       <en-GB name="Buy airliner" />
