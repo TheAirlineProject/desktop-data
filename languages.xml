@@ -3066,6 +3066,134 @@
       <es-ES name="Pasajeros por vuelo" />
     </Text>
   </Region>
+  <Region name="PanelRoute">
+      <Text uid="200">
+      <en-GB name="Delete route" />
+      <de-DE name="Missing" />
+      <en-US name="Delete route" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Slet rute" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="1000">
+      <en-GB name="Route Information" />
+      <de-DE name="Missing" />
+      <en-US name="Route Information" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Ruteinformation" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="1001">
+      <en-GB name="Destination1" />
+      <de-DE name="Missing" />
+      <en-US name="Destination1" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Destination1" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="1002">
+      <en-GB name="Destination2" />
+      <de-DE name="Missing" />
+      <en-US name="Destination2" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Destination2" />
+      <es-ES name="Missing" />
+    </Text>
+      <Text uid="1003">
+      <en-GB name="Stops" />
+      <de-DE name="Missing" />
+      <en-US name="Stops" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Stops" />
+      <es-ES name="Missing" />
+    </Text>
+        <Text uid="1004">
+      <en-GB name="Total distance" />
+      <de-DE name="Missing" />
+      <en-US name="Total distance" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Samlet distance" />
+      <es-ES name="Missing" />
+    </Text>
+       <Text uid="1005">
+      <en-GB name="Stop over" />
+      <de-DE name="Missing" />
+      <en-US name="Stop over" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Stop" />
+      <es-ES name="Missing" />
+    </Text>
+    <Text uid="1006">
+      <en-GB name= "Flights per week (out/in)" />
+      <de-DE name="Missing" />
+      <en-US name="Flights per week (out/in)" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Ugentlige adgange (ud/ind)" />
+      <es-ES name="Missing" />
+    </Text> 
+     <Text uid="1007">
+      <en-GB name= "Route Finances" />
+      <de-DE name="Missing" />
+      <en-US name="Route Finances" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Ruteøkonomi" />
+      <es-ES name="Missing" />
+    </Text> 
+     <Text uid="1008">
+      <en-GB name= "Total Route Finances" />
+      <de-DE name="Missing" />
+      <en-US name="Total Route Finances" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Samlet ruteøkonomi" />
+      <es-ES name="Missing" />
+    </Text> 
+     <Text uid="1009">
+      <en-GB name= "Passengers" />
+      <de-DE name="Missing" />
+      <en-US name="Passengers" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Passagerer" />
+      <es-ES name="Missing" />
+    </Text> 
+     <Text uid="1010">
+      <en-GB name= "Avg. Passengers" />
+      <de-DE name="Missing" />
+      <en-US name="Avg. Passengers" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Gns. Passagerer" />
+      <es-ES name="Missing" />
+    </Text> 
+     <Text uid="1011">
+      <en-GB name= "Filling degree" />
+      <de-DE name="Missing" />
+      <en-US name="Filling degree" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Fyldningsgrad" />
+      <es-ES name="Missing" />
+    </Text> 
+       <Text uid="1012">
+      <en-GB name= "Balance" />
+      <de-DE name="Missing" />
+      <en-US name="Balance" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Balance" />
+      <es-ES name="Missing" />
+    </Text> 
+  </Region>
   <Region name="PanelInstructor">
     <Text uid="200">
       <en-GB name="Hire" />
