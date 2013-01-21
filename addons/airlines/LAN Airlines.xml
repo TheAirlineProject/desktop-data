@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="LAN Airlines" iata="LA" color="Navy" country="160" CEO="Enrique Cueto" mentality="Safe" market="Global" preferedairport="SCL">
+    <narrative narrative="LAN is the flag carrier of Chile and the predominant airline in Chile, Peru and Ecuador. "></narrative>
+  </profile>
+  <info real="True" from="1929" to="2199" />
+</airline>
