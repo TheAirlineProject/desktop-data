@@ -747,57 +747,57 @@
     </Text>
   </Region>
   <Region name="PageFrontMenu">
-      <Text uid="200">
+    <Text uid="200">
       <en-GB name="New Game" />
       <de-DE name="Missing" />
       <en-US name="New Game" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="开始新游戏" />
       <da-DK name="Nyt spil" />
       <es-ES name="Missing" />
     </Text>
-        <Text uid="201">
+    <Text uid="201">
       <en-GB name="Load Game" />
       <de-DE name="Missing" />
       <en-US name="Load Game" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="读取存档" />
       <da-DK name="Indlæs spil" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="202">
+    <Text uid="202">
       <en-GB name="Settings" />
       <de-DE name="Missing" />
       <en-US name="Settings" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="设置" />
       <da-DK name="Indstillinger" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="203">
+    <Text uid="203">
       <en-GB name="Credits" />
       <de-DE name="Missing" />
       <en-US name="Credits" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="鸣谢" />
       <da-DK name="Credits" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="204">
+    <Text uid="204">
       <en-GB name="Exit Game" />
       <de-DE name="Missing" />
       <en-US name="Exit Game" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="退出游戏" />
       <da-DK name="Afslut spil" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="1001">
+    <Text uid="1001">
       <en-GB name="Start Menu" />
       <de-DE name="Missing" />
       <en-US name="Start Menu" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="开始菜单" />
       <da-DK name="Hovedmenu" />
       <es-ES name="Missing" />
     </Text>
@@ -3067,132 +3067,132 @@
     </Text>
   </Region>
   <Region name="PanelRoute">
-      <Text uid="200">
+    <Text uid="200">
       <en-GB name="Delete route" />
       <de-DE name="Missing" />
       <en-US name="Delete route" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="删除航路" />
       <da-DK name="Slet rute" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="1000">
+    <Text uid="1000">
       <en-GB name="Route Information" />
       <de-DE name="Missing" />
       <en-US name="Route Information" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="航路信息" />
       <da-DK name="Ruteinformation" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="1001">
+    <Text uid="1001">
       <en-GB name="Destination1" />
       <de-DE name="Missing" />
       <en-US name="Destination1" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="目的地1" />
       <da-DK name="Destination1" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="1002">
+    <Text uid="1002">
       <en-GB name="Destination2" />
       <de-DE name="Missing" />
       <en-US name="Destination2" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="目的地2" />
       <da-DK name="Destination2" />
       <es-ES name="Missing" />
     </Text>
-      <Text uid="1003">
+    <Text uid="1003">
       <en-GB name="Stops" />
       <de-DE name="Missing" />
       <en-US name="Stops" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="站点" />
       <da-DK name="Stops" />
       <es-ES name="Missing" />
     </Text>
-        <Text uid="1004">
+    <Text uid="1004">
       <en-GB name="Total distance" />
       <de-DE name="Missing" />
       <en-US name="Total distance" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="总里程" />
       <da-DK name="Samlet distance" />
       <es-ES name="Missing" />
     </Text>
-       <Text uid="1005">
+    <Text uid="1005">
       <en-GB name="Stop over" />
       <de-DE name="Missing" />
       <en-US name="Stop over" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="经停" />
       <da-DK name="Stop" />
       <es-ES name="Missing" />
     </Text>
     <Text uid="1006">
-      <en-GB name= "Flights per week (out/in)" />
+      <en-GB name="Flights per week (out/in)" />
       <de-DE name="Missing" />
       <en-US name="Flights per week (out/in)" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="每周航班(出/进)" />
       <da-DK name="Ugentlige adgange (ud/ind)" />
       <es-ES name="Missing" />
-    </Text> 
-     <Text uid="1007">
-      <en-GB name= "Route Finances" />
+    </Text>
+    <Text uid="1007">
+      <en-GB name="Route Finances" />
       <de-DE name="Missing" />
       <en-US name="Route Finances" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="航路盈收" />
       <da-DK name="Ruteøkonomi" />
       <es-ES name="Missing" />
-    </Text> 
-     <Text uid="1008">
-      <en-GB name= "Total Route Finances" />
+    </Text>
+    <Text uid="1008">
+      <en-GB name="Total Route Finances" />
       <de-DE name="Missing" />
       <en-US name="Total Route Finances" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="总航路盈收" />
       <da-DK name="Samlet ruteøkonomi" />
       <es-ES name="Missing" />
-    </Text> 
-     <Text uid="1009">
-      <en-GB name= "Passengers" />
+    </Text>
+    <Text uid="1009">
+      <en-GB name="Passengers" />
       <de-DE name="Missing" />
       <en-US name="Passengers" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="乘客" />
       <da-DK name="Passagerer" />
       <es-ES name="Missing" />
-    </Text> 
-     <Text uid="1010">
-      <en-GB name= "Avg. Passengers" />
+    </Text>
+    <Text uid="1010">
+      <en-GB name="Avg. Passengers" />
       <de-DE name="Missing" />
       <en-US name="Avg. Passengers" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="平均乘客" />
       <da-DK name="Gns. Passagerer" />
       <es-ES name="Missing" />
-    </Text> 
-     <Text uid="1011">
-      <en-GB name= "Filling degree" />
+    </Text>
+    <Text uid="1011">
+      <en-GB name="Filling degree" />
       <de-DE name="Missing" />
       <en-US name="Filling degree" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="上客率" />
       <da-DK name="Fyldningsgrad" />
       <es-ES name="Missing" />
-    </Text> 
-       <Text uid="1012">
-      <en-GB name= "Balance" />
+    </Text>
+    <Text uid="1012">
+      <en-GB name="Balance" />
       <de-DE name="Missing" />
       <en-US name="Balance" />
       <nl-NL name="Missing" />
-      <zh-CN name="Missing" />
+      <zh-CN name="平衡" />
       <da-DK name="Balance" />
       <es-ES name="Missing" />
-    </Text> 
+    </Text>
   </Region>
   <Region name="PanelInstructor">
     <Text uid="200">
