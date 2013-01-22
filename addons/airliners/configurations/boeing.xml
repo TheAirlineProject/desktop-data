@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+<configuration airliner="Boeing 747-400" name="Boeing 747-400 (1989)" yearfrom="1989" yearto="1997"  id="300">
+<classes>
+<class type="Economy_Class" seating="313" Audio="102" Video="114" Seat="104"></class>
+<class type="Business_Class" seating="80" Audio="102" Video="114" Seat="107"></class>
+<class type="First_Class" seating="23" Audio="102" Video="114" Seat="108"></class>
+</classes>
+</configuration>
+<configuration airliner="Boeing 747-400" name="Boeing 747-400 (1998)" yearfrom="1998" yearto="2199" id="301">
+<classes>
+<class type="Economy_Class" seating="313" Audio="102" Video="114" Seat="104"></class>
+<class type="Business_Class" seating="80" Audio="103" Video="115" Seat="108"></class>
+<class type="First_Class" seating="23" Audio="103" Video="115" Seat="109"></class>
+</classes>
+</configuration>
+</configurations>
