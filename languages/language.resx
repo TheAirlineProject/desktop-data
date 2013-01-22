@@ -2178,4 +2178,10 @@ Good luck.</value>
   <data name="Enums_E_name" xml:space="preserve">
     <value>E</value>
   </data>
+  <data name="News_1013_message" xml:space="preserve">
+    <value>[LI airline={0}] has created a route from [LI airport={1}] to [LI airport={2}] which mathes one of your routes</value>
+  </data>
+  <data name="News_1013_name" xml:space="preserve">
+    <value>Same route</value>
+  </data>
 </root>
