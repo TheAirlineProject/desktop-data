@@ -2119,19 +2119,19 @@
     <value>Instruktør på pension</value>
   </data>
   <data name="News_1008_message" xml:space="preserve">
-    <value>Din instruktør [0} bliver snart {1} år og går på pension ved udgangen af måneden</value>
+    <value>Din instruktør {0} bliver snart {1} år og går på pension ved udgangen af måneden</value>
   </data>
   <data name="News_1009_name" xml:space="preserve">
     <value>Pilot på pension</value>
   </data>
   <data name="News_1009_message" xml:space="preserve">
-    <value>Din pilot [0} er gået på pension</value>
+    <value>Din pilot {0} er gået på pension</value>
   </data>
   <data name="News_1010_name" xml:space="preserve">
     <value>Pilot på pension</value>
   </data>
   <data name="News_1010_message" xml:space="preserve">
-    <value>Din pilot [0} er gået på pension. Venligst assigne en ny pilot til {1} som erstatning for {0}</value>
+    <value>Din pilot {0} er gået på pension. Venligst assigne en ny pilot til {1} som erstatning for {0}</value>
   </data>
   <data name="News_1011_name" xml:space="preserve">
     <value>Instruktør på pension</value>
