@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scenario name="New York Metro" startYear="2002" startCash="100000000">
+  //
+	<start airline="jetBlue" homeBase="KJFK">
+  <destinations>
+    <destination airport="KLGA"/>
+    <destination airport="KEWR"/>
+    <destination airport="KBOS"/>
+    <destination airport="KLAX"/>
+    <destination airport="KMIA"/>
+    <destination airport="KSFO"/>
+    <destination airport="EGLL"/>
+  </destinations>="KLGA" "KEWR" "KBOS" "KLAX" "KMIA" "KSFO" "EGLL">
+  <fleet>
+    <aircraft name="737-600" quantity="8"/>
+    <aircraft name="757-200" quantity="2"/>
+    <aircraft name="767-200" quantity="1"/>
+  </fleet>
+  <text intro="In the post-9/11 United States, many airlines had trouble getting their passenger values back up to normal. As the CEO of jetBlue, your job is to revitalize the airline market for the New York Metropolitan area, one of the busiest airspaces in the world. You will have 5 years to grow to a fleet of at least 50 aircraft, serving at least 25 domestic and 5 international destinations. During that time, you must have a 5% passenger growth every year, and keep your bank account in the black. Good luck, we know you've got what it takes!"/>
+  <text success="Congratulations! You have successfully improved and revitalized the commercial airline market in the United States and New York metropolitan area by maintaining constant growth and high standards of safety over the previous 5 years!"/>
+</start>
+	<modifiers>
+		<paxDemand country="122" change="-20" length="1"/>
+		<paxDemand airport="KJFK" change="-25" length="2"/>
+		<paxDemand airport="KLGA" change="-25" length="2"/>
+		<paxDemand airport="KEWR" change="-25" length="2"/>
+	</modifiers>
+	<parameters>
+		<failure cash="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
+		<failure rating="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
+		<failure rating="Security" value="30" for="1" text="You have failed the scenario because you didn't maintain a satisfactory security rating for an entire year!"/>
+		<failure fleet="Fleet" value="49" at="5" text="You have failed the scenario because you didn't successfully build your fleet to at least 50 aircraft within 5 years!"/>
+		<failure destinationsDomestic="24" at="5" text="You have failed the scenario because you didn't successfully set up 25 domestic destinations within 5 years!"/>
+		<failure destinationsIntl="4" at="5" text="You have failed the scenario because you didn't successfully set up 5 international destinations within 5 years!"/>
+		<failure paxGrowth="4.99" at="1" text="You have failed the scenario because you didn't maintain a 5% passenger growth each year"/>
+		<failure eventCategory="crime" type="Major" text="You have failed the scenario because you didn't prevent a major crime from happening!"/>
+	</parameters>
+</scenario>
