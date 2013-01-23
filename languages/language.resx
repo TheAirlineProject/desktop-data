@@ -2212,6 +2212,15 @@ Good luck.</value>
     <value>Price diff (avg)</value>
   </data>
   <data name="PageFrontMenu_205_name" xml:space="preserve">
+    <value>Play Scenario</value>
+  </data>
+  <data name="General_117_name" xml:space="preserve">
     <value>Play scenario</value>
+  </data>
+  <data name="PagePlayScenario_1000_name" xml:space="preserve">
+    <value>Play Scenario</value>
+  </data>
+  <data name="PagePlayScenario_200_name" xml:space="preserve">
+    <value>Back to front menu</value>
   </data>
 </root>
