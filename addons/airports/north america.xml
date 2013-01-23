@@ -1753,6 +1753,12 @@
       <longitude value="073°46'44''W"/>
     </coordinates>
     <size value="Very_large" pax="47854"/>
+	<destinations>
+		<destination airport="EGLL" pax="2624"/>
+		<destination airport="LFPG" pax="1228"/>
+		<destination airport="KLAX" pax="1581"/>
+		<destination airport="KSFO" pax="1105"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal 1" gates="11"/>
       <terminal name="Terminal 2" gates="24"/>
