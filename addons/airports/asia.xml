@@ -3676,4 +3676,19 @@
 	  <runway name="15/33" length="2000" surface="Grass"/>
     </runways>
   </airport>
+  <!--Bhutan-->
+    <airport name="Paro Airport" icao="VQPR" iata="PBH" type="Regional" season="All_Year">
+    <town town="Paro" country="252" GMT="06:00:00" DST="00:00:00"/>
+    <coordinates>
+      <latitude value="027°24'32''N"/>
+      <longitude value="089°25'25''E"/>
+    </coordinates>
+    <size value="Small"/>
+    <terminals>
+      <terminal name="Terminal A" gates="3"/>      
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2000" surface="Asphalt"/>
+    </runways>
+  </airport>
 </airports>
