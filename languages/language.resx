@@ -2187,6 +2187,30 @@ Good luck.</value>
   <data name="PageOrderAirliners_1013_name" xml:space="preserve">
     <value>Manufactorer standard</value>
   </data>
+  <data name="PageAirlineStatistics_1005_name" xml:space="preserve">
+    <value>Extended statistics</value>
+  </data>
+  <data name="PageAirlineStatistics_1006_name" xml:space="preserve">
+    <value>On-time percent (human)</value>
+  </data>
+  <data name="PageAirlineStatistics_1007_name" xml:space="preserve">
+    <value>Fill degree (human)</value>
+  </data>
+  <data name="PageAirlineStatistics_1008_name" xml:space="preserve">
+    <value>Customer happiness</value>
+  </data>
+  <data name="PageAirlineStatistics_1009_name" xml:space="preserve">
+    <value>Price / distance (human)</value>
+  </data>
+  <data name="PageAirlineStatistics_1010_name" xml:space="preserve">
+    <value>Price / distance (total)</value>
+  </data>
+  <data name="PageAirlineStatistics_1011_name" xml:space="preserve">
+    <value>Price diff (max)</value>
+  </data>
+  <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
+    <value>Price diff (avg)</value>
+  </data>
   <data name="PageFrontMenu_205_name" xml:space="preserve">
     <value>Play scenario</value>
   </data>
