@@ -1,29 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <scenario name="New York Metro" startYear="2002" startCash="100000000">
-	<start airline="jetBlue" homeBase="KJFK">
+	<start airline="jetBlue" homeBase="JFK">
   <destinations>
-    <destination airport="KLGA"/>
-    <destination airport="KEWR"/>
-    <destination airport="KBOS"/>
-    <destination airport="KLAX"/>
-    <destination airport="KMIA"/>
-    <destination airport="KSFO"/>
-    <destination airport="EGLL"/>
-  </destinations>="KLGA" "KEWR" "KBOS" "KLAX" "KMIA" "KSFO" "EGLL">
+    <destination airport="LGA"/>
+    <destination airport="EWR"/>
+    <destination airport="BOS"/>
+    <destination airport="LAX"/>
+    <destination airport="MIA"/>
+    <destination airport="SFO"/>
+    <destination airport="LHR"/>
+  </destinations>
   <fleet>
     <aircraft name="737-600" quantity="8"/>
     <aircraft name="757-200" quantity="2"/>
     <aircraft name="767-200" quantity="1"/>
   </fleet>
+    <AI>
+      <airline name="Delta Airlines" homeBase="ATL">
+        <route departure="ATL" destination="JFK" airliner="737-600" quantity="2"/>
+        <route departure="ATL" destination="LAX" airliner="757-200" quantity="3"/>
+        <route departure="ATL" destination="BOS" airliner="737-600" quantity="1"/>
+        <route departure="ATL" destination="PHL" airliner="737-600" quantity="2"/>
+        <route departure="ATL" destination="LHR" airliner="747-400" quantity="1"/>
+        <route departure="ATL" destination="DFW" airliner="737-600" quantity="2"/>
+      </airline>
+      <airline name="American Airlines" homeBase="DFW">
+        <route departure="DFW" destination="ATL" airliner="737-600" quantity="2"/>
+        <route departure="DFW" destination="JFK" airliner="737-800" quantity="2"/>
+        <route departure="DFW" destination="LAX" airliner="737-800" quantity="3"/>
+        <route departure="DFW" destination="MIA" airliner="737-800" quantity="2"/>
+        <route departure="DFW" destination="ORD" airliner="717-200" quantity="4"/>
+      </airline>
+      <airline name="United Airlines" homeBase="IAH">
+        <route departure="IAH" destination="CLE" airliner="A320-200" quantity="2"/>
+        <route departure="IAH" destination="DEN" airliner="A320-200" quantity="2"/>
+        <route departure="IAH" destination="SFO" airliner="757-200" quantity="3"/>
+        <route departure="IAH" destination="LAX" airliner="737-900" quantity="2"/>
+        <route departure="IAH" destination="NRT" airliner="777-300" quantity="2"/>
+      </airline>
+    </AI>
   <text intro="In the post-9/11 United States, many airlines had trouble getting their passenger values back up to normal. As the CEO of jetBlue, your job is to revitalize the airline market for the New York Metropolitan area, one of the busiest airspaces in the world. You will have 5 years to grow to a fleet of at least 50 aircraft, serving at least 25 domestic and 5 international destinations. During that time, you must have a 5% passenger growth every year, and keep your bank account in the black. Good luck, we know you've got what it takes!"/>
   <text success="Congratulations! You have successfully improved and revitalized the commercial airline market in the United States and New York metropolitan area by maintaining constant growth and high standards of safety over the previous 5 years!"/>
 </start>
 	<modifiers>
     <!--country/airport is modified by change(%) for length(years)-->
 		<paxDemand country="122" change="-20" length="1"/>
-		<paxDemand airport="KJFK" change="-25" length="2"/>
-		<paxDemand airport="KLGA" change="-25" length="2"/>
-		<paxDemand airport="KEWR" change="-25" length="2"/>
+		<paxDemand airport="JFK" change="-25" length="2"/>
+		<paxDemand airport="LGA" change="-25" length="2"/>
+		<paxDemand airport="EWR" change="-25" length="2"/>
 	</modifiers>
 	<parameters>
     <!--all values are less than. For is if that value is true for that amount of years. At is if it is true at n years into the scenario-->
