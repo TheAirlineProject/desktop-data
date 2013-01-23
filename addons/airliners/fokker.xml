@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="Fokker" name="Fokker F27" price="950000">
 	<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
@@ -32,7 +32,7 @@
   </airliner>
   <airliner manufacturer="Fokker" name="Fokker F28-2000" price="5723810">
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-	<specs wingspan="23.57" length="29.62" range="2743" speed="843" fuelcapacity="13435" consumption="0.061" ruwnaylengthrequired="2000"/>
+	<specs wingspan="23.57" length="29.62" range="2743" speed="843" fuelcapacity="13435" consumption="0.061" runwaylengthrequired="2000"/>
 	<capacity passengers="79" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
 	<produced from="1968" to="1982"/>
   </airliner>
