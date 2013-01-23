@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<singleEvents>
+<!--frequency is amount per 3 years. respondTime is in days. f/bClassReq are the required first and business class seats-->
+  <!--failure low is if game value is less than or equal to stated value. Failure high is if game value is greater than equal to stated-->
+	<event name="Movie Production Charter" text="A major international film producer would like to charter a one-time flight to their filming destination. They will be flying 300 personnel from Hollywood to Sao Paulo. They have requested a dedicated flight so that they can all travel together.">
+		<information year="0" frequency="2" respondTime="10" passengers="300" cargo="0" pay="7000000"/>
+		<flights quantity="1">
+			<flight departure="LAX" destination="CGH" fClassReq="22" bClassReq="48"/>
+		</flights>
+    <parameters>
+      <failureLow fClass ="21"/>
+      <failureLow bClass ="47"/>
+      <failureLow flights ="2"/>
+      <failureLow paxCapacity="299"/>
+      <failureHigh delay="120"/>
+      <failureHigh cancellation="0"/>
+    </parameters>
+	</event>
+</singleEvents>

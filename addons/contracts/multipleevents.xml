@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<multipleEvents>
+<!--frequency is amount per 3 years. respondTime is in days. f/bClassReq are the required first and business class seats. Month is numeric ie 4="April". Length is in months. quantity 0 means unlimited.-->
+  <!--delay in minutes, cancellations singular, remainingDemand is %-->
+	<event name="Summer Olympics" text="The Summer Olympics are coming up! This year, they will be hosted in Atlanta, Georgia. You have been offered the chance to provide airline transportation for officials, athletes, and serious fans. The contract will last 6 weeks, and you must maintain daily flights from Atlanta to London, Paris, Moscow, Cairo, Tokyo, Beijing, Sao Paulo, and Dubai. If you successfully complete this contract by carrying 80% of Atlanta-bound passengers from these airports in the final 4 weeks, you will receive a $25,000,000 bonus!">
+		<information year="1996" month="4" length="4" respondTime="14" passengers="4000000" cargo="0" pay="25000000"/>
+		<flights quantity="0">
+			<flight departure="ATL" destination="LHR"/>
+			<flight departure="ATL" destination="CDG"/>
+			<flight departure="ATL" destination="CGH"/>
+			<flight departure="ATL" destination="HND"/>
+			<flight departure="ATL" destination="DME"/>
+			<flight departure="ATL" destination="BEJ"/>
+			<flight departure="ATL" destination="DXB"/>
+			<flight departure="ATL" destination="CAI"/>
+		</flights>
+    <parameters>
+      <failureLow destinationNotServed="Any"/>
+      <failureHigh averageDelay="60"/>
+      <failureHigh cancelleations="8"/>
+      <failureHigh remainingDemand="20"/>
+    </parameters>
+	</event>
+</multipleEvents>
