@@ -2223,4 +2223,7 @@ Good luck.</value>
   <data name="PagePlayScenario_200_name" xml:space="preserve">
     <value>Back to front menu</value>
   </data>
+  <data name="PagePlayScenario_1001_name" xml:space="preserve">
+    <value>Select Scenario</value>
+  </data>
 </root>
