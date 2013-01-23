@@ -2187,4 +2187,7 @@ Good luck.</value>
   <data name="PageOrderAirliners_1013_name" xml:space="preserve">
     <value>Manufactorer standard</value>
   </data>
+  <data name="PageFrontMenu_205_name" xml:space="preserve">
+    <value>Play scenario</value>
+  </data>
 </root>
