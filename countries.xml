@@ -1543,7 +1543,18 @@
       <es-ES name="Nepal" />
     </translations>
   </country>
-  <!--Next uid = 250-->
+  <country uid="252" shortname="BHU" region="110" flag="Bhutan" tailformat="A5-\\\">
+	<translations>
+		<en-US name="Bhutan" />
+		<de-DE name="Bhutan" />
+		<en-GB name="Bhutan" />
+		<nl-NL name="Bhutan" />
+		<zh-CN name="Missing" />
+		<da-DK name="Bhutan" />
+		<es-ES name="Bhutan" />
+	</translations>
+  </country>
+  <!--Next uid = 253-->
   <!--Territories-->
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />
