@@ -1754,10 +1754,10 @@
     </coordinates>
     <size value="Very_large" pax="47854"/>
 	<destinations>
-		<destination airport="EGLL" pax="2624"/>
-		<destination airport="LFPG" pax="1228"/>
-		<destination airport="KLAX" pax="1581"/>
-		<destination airport="KSFO" pax="1105"/>
+		<destination airport="LHR" pax="2624"/>
+		<destination airport="CDG" pax="1228"/>
+		<destination airport="LAX" pax="1581"/>
+		<destination airport="SFO" pax="1105"/>
 	</destinations>
     <terminals>
       <terminal name="Terminal 1" gates="11"/>
