@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <scenario name="New York Metro" startYear="2002" startCash="100000000">
-  //
 	<start airline="jetBlue" homeBase="KJFK">
   <destinations>
     <destination airport="KLGA"/>
@@ -20,12 +19,15 @@
   <text success="Congratulations! You have successfully improved and revitalized the commercial airline market in the United States and New York metropolitan area by maintaining constant growth and high standards of safety over the previous 5 years!"/>
 </start>
 	<modifiers>
+    <!--country/airport is modified by change(%) for length(years)-->
 		<paxDemand country="122" change="-20" length="1"/>
 		<paxDemand airport="KJFK" change="-25" length="2"/>
 		<paxDemand airport="KLGA" change="-25" length="2"/>
 		<paxDemand airport="KEWR" change="-25" length="2"/>
 	</modifiers>
 	<parameters>
+    <!--all values are less than. For is if that value is true for that amount of years. At is if it is true at n years into the scenario-->
+    <!--example: failure if fleet is less than 49 at 5 years into the scenario or if cash is less than zero for 0.25 years (3 months)-->
 		<failure cash="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
 		<failure rating="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
 		<failure rating="Security" value="30" for="1" text="You have failed the scenario because you didn't maintain a satisfactory security rating for an entire year!"/>
