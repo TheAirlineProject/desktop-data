@@ -2226,4 +2226,7 @@ Good luck.</value>
   <data name="PagePlayScenario_1001_name" xml:space="preserve">
     <value>Select Scenario</value>
   </data>
+  <data name="PageAirline_1025_name" xml:space="preserve">
+    <value>Airline license</value>
+  </data>
 </root>
