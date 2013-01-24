@@ -2232,6 +2232,18 @@ Good luck.</value>
   <data name="PagePlayScenario_1001_name" xml:space="preserve">
     <value>Select Scenario</value>
   </data>
+  <data name="MessageBox_2119_message" xml:space="preserve">
+    <value>Are you sure you want to upgrade your license to {0} for {1}?</value>
+  </data>
+  <data name="MessageBox_2119_name" xml:space="preserve">
+    <value>Upgrade airline license</value>
+  </data>
+  <data name="MessageBox_2808_message" xml:space="preserve">
+    <value>You can only hire staff from countries you are serving</value>
+  </data>
+  <data name="MessageBox_2808_name" xml:space="preserve">
+    <value>Can't hire staff</value>
+  </data>
   <data name="PageAirline_1025_name" xml:space="preserve">
     <value>Airline license</value>
   </data>
