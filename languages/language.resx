@@ -1227,6 +1227,9 @@
   <data name="PanelAirlinesExtendedStatistics_1006_name" xml:space="preserve">
     <value>Airline Value</value>
   </data>
+  <data name="PanelAirlinesExtendedStatistics_1007_name" xml:space="preserve">
+	<value>Customer Happiness</value>
+  </data>
   <data name="PanelAirlinesStatistics_1001_name" xml:space="preserve">
     <value>Flights Statistics</value>
   </data>
@@ -2210,6 +2213,9 @@ Good luck.</value>
   </data>
   <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
     <value>Price diff (avg)</value>
+  </data>
+  <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
+	<value>Employee Happiness</value>
   </data>
   <data name="PageFrontMenu_205_name" xml:space="preserve">
     <value>Play Scenario</value>
