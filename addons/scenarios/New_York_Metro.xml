@@ -52,13 +52,13 @@
 	<parameters>
     <!--all values are less than. For is if that value is true for that amount of years. At is if it is true at n years into the scenario-->
     <!--example: failure if fleet is less than 49 at 5 years into the scenario or if cash is less than zero for 0.25 years (3 months)-->
-		<failure cash="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
-		<failure rating="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
-		<failure rating="Security" value="30" for="1" text="You have failed the scenario because you didn't maintain a satisfactory security rating for an entire year!"/>
-		<failure fleet="Fleet" value="49" at="5" text="You have failed the scenario because you didn't successfully build your fleet to at least 50 aircraft within 5 years!"/>
-		<failure destinationsDomestic="24" at="5" text="You have failed the scenario because you didn't successfully set up 25 domestic destinations within 5 years!"/>
-		<failure destinationsIntl="4" at="5" text="You have failed the scenario because you didn't successfully set up 5 international destinations within 5 years!"/>
-		<failure paxGrowth="4.99" at="1" text="You have failed the scenario because you didn't maintain a 5% passenger growth each year"/>
-		<failure eventCategory="crime" type="Major" text="You have failed the scenario because you didn't prevent a major crime from happening!"/>
+		<failure type="Cash" value="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
+		<failure type="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
+		<failure type="Security" value="30" for="1" text="You have failed the scenario because you didn't maintain a satisfactory security rating for an entire year!"/>
+		<failure type="Fleet" value="49" at="5" text="You have failed the scenario because you didn't successfully build your fleet to at least 50 aircraft within 5 years!"/>
+		<failure type="Domestic" value="24" at="5" text="You have failed the scenario because you didn't successfully set up 25 domestic destinations within 5 years!"/>
+		<failure type="Intl" value="4" at="5" text="You have failed the scenario because you didn't successfully set up 5 international destinations within 5 years!"/>
+		<failure type="PaxGrowth" value="4.99" at="1" text="You have failed the scenario because you didn't maintain a 5% passenger growth each year"/>
+		<failure type="Crime" value="Major" at="0" text="You have failed the scenario because you didn't prevent a major crime from happening!"/>
 	</parameters>
 </scenario>

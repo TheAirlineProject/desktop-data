@@ -56,8 +56,8 @@
 	<parameters>
     <!--all values are less than. For is if that value is true for that amount of years. At is if it is true at n years into the scenario-->
     <!--example: failure if fleet is less than 49 at 5 years into the scenario or if cash is less than zero for 0.25 years (3 months)-->
-		<failure cash="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
-		<failure debt="0" for="1" text="You have failed the scenario because you have accumulated too much debt!"/>
-		<failure rating="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
+		<failure type="Cash" value="0" for="0.25" text="You have failed the scenario because you didn't maintain a positive balance, maybe you aren't the right CEO for this company!"/>
+		<failure type="Debt" value="0" for="1" text="You have failed the scenario because you have accumulated too much debt!"/>
+		<failure type="Safety" value="20" for="1" text="You have failed the scenario because you didn't maintain a satisfactory safety rating for an entire year!"/>
 	</parameters>
 </scenario>
