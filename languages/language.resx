@@ -2244,6 +2244,12 @@ Good luck.</value>
   <data name="PageAirline_1025_name" xml:space="preserve">
     <value>Airline license</value>
   </data>
+  <data name="MessageBox_2951_message" xml:space="preserve">
+    <value>Are you sure you want to delete all news?</value>
+  </data>
+  <data name="MessageBox_2951_name" xml:space="preserve">
+    <value>Delete all news</value>
+  </data>
   <data name="MsgContinue_1000_name" xml:space="preserve">
     <value>_Continue</value>
   </data>
@@ -2261,5 +2267,8 @@ Good luck.</value>
   </data>
   <data name="PageBottomMenu_1003_name" xml:space="preserve">
     <value>Congratulations! You have finished the scenario without failing.</value>
+  </data>
+  <data name="PageNewsBox_203_name" xml:space="preserve">
+    <value>Delete all news</value>
   </data>
 </root>
