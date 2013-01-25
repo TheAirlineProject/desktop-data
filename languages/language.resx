@@ -1228,7 +1228,7 @@
     <value>Airline Value</value>
   </data>
   <data name="PanelAirlinesExtendedStatistics_1007_name" xml:space="preserve">
-	<value>Customer Happiness</value>
+    <value>Customer Happiness</value>
   </data>
   <data name="PanelAirlinesStatistics_1001_name" xml:space="preserve">
     <value>Flights Statistics</value>
@@ -2212,10 +2212,7 @@ Good luck.</value>
     <value>Price diff (max)</value>
   </data>
   <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
-    <value>Price diff (avg)</value>
-  </data>
-  <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
-	<value>Employee Happiness</value>
+    <value>Employee Happiness</value>
   </data>
   <data name="PageFrontMenu_205_name" xml:space="preserve">
     <value>Play Scenario</value>
@@ -2246,5 +2243,23 @@ Good luck.</value>
   </data>
   <data name="PageAirline_1025_name" xml:space="preserve">
     <value>Airline license</value>
+  </data>
+  <data name="MsgContinue_1000_name" xml:space="preserve">
+    <value>_Continue</value>
+  </data>
+  <data name="MsgExit_1000_name" xml:space="preserve">
+    <value>_Exit</value>
+  </data>
+  <data name="PageBottomMenu_1000_name" xml:space="preserve">
+    <value>{0} CEO of {1}</value>
+  </data>
+  <data name="PageBottomMenu_1001_name" xml:space="preserve">
+    <value>Scenario failed</value>
+  </data>
+  <data name="PageBottomMenu_1002_name" xml:space="preserve">
+    <value>Scenario succes</value>
+  </data>
+  <data name="PageBottomMenu_1003_name" xml:space="preserve">
+    <value>Congratulations! You have finished the scenario without failing.</value>
   </data>
 </root>
