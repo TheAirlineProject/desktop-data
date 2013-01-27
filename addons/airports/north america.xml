@@ -9,6 +9,18 @@
       <longitude value="113°34'47''W"/>
     </coordinates>
     <size value="Medium" pax="6277"/>
+	<destinations>
+		<destination airport="LAS" pax="179" />
+		<destination airport="PHX" pax="142" />
+		<destination airport="DEN" pax="119" />
+		<destination airport="SEA" pax="118"/>
+		<destination airport="MSP" pax="116"/>
+		<destination airport="LHR" pax="99"/>
+		<destination airport="IAH" pax="94"/>
+		<destination airport="ORD" pax="85"/>
+		<destination airport="SFO" pax="81"/>
+		<destination airport="LAX" pax="77"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="30"/>
     </terminals>
@@ -322,6 +334,17 @@
       <longitude value="106°36'33''W"/>
     </coordinates>
     <size value="Medium" pax="2828"/>
+	<destinations>
+		<destination airport="PHX" pax="336"/>
+		<destination airport="DEN" pax="299"/>
+		<destination airport="DFW" pax="292"/>
+		<destination airport="DAL" pax="179"/>
+		<destination airport="LAX" pax="174"/>
+		<destination airport="ATL" pax="143"/>
+		<destination airport="SLC" pax="107"/>
+		<destination airport="IAH" pax="95"/>
+		<destination airport="HOU" pax="83"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="25"/>
     </terminals>
@@ -505,6 +528,29 @@
       <longitude value="084°25'37''W"/>
     </coordinates>
     <size value="Largest" pax="92365"/>
+	<destinations>
+		<destination airport="MCO" pax="1305"/>
+		<destination airport="FLL" pax="1187"/>
+		<destinatoin airport="LGA" pax="1155"/>
+		<destination airport="TPA" pax="954"/>
+		<destination airport="LAX" pax="894"/>
+		<destination airport="DCA" pax="850"/>
+		<destination airport="CHA" pax="845"/>
+		<destination airport="PHL" pax="833"/>
+		<destination airport="BWI" pax="778"/>
+		<destination airport="CUN" pax="619"/>
+		<destination airport="CDG" pax="511"/>
+		<destination airport="AMS" pax="397"/>
+		<destination airport="MBJ" pax="392"/>
+		<destination airport="YYZ" pax="346"/>
+		<destination airport="LHR" pax="319"/>
+		<destination airport="NAS" pax="317"/>
+		<destination airport="MEX" pax="292"/>
+		<destination airport="FRA" pax="283"/>
+		<destination airport="ICN" pax="256"/>
+		<destination airport="GDL" pax="123"/>
+		<destination airport="SCL" pax="112"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="199"/>
     </terminals>
@@ -538,6 +584,18 @@
       <longitude value="097°40'12''W"/>
     </coordinates>
     <size value="Medium" pax="4436"/>
+	<destinations>
+		<destination airport="DFW" pax="626"/>
+		<destination airport="IAH" pax="343"/>
+		<destination airport="DEN" pax="301"/>
+		<destination airport="ATL" pax="289"/>
+		<destination airport="DAL" pax="286"/>
+		<destination airport="PHX" pax="232"/>
+		<destination airport="LAX" pax="220"/>
+		<destination airport="ORD" pax="199"/>
+		<destination airport="HOU" pax="139"/>
+		<destination airport="LAS" pax="130"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="25"/>
     </terminals>
@@ -612,6 +670,18 @@
       <longitude value="072°40'57''W"/>
     </coordinates>
     <size value="Medium" pax="2640"/>
+	<destinations>
+		<destination airport="ATL" pax="263"/>
+		<destination airport="BWI" pax="250"/>
+		<destination airport="MCO" pax="244"/>
+		<destination airport="CHA" pax="219"/>
+		<destination airport="ORD" pax="219"/>
+		<destination airport="DFW" pax="136"/>
+		<destination airport="PHL" pax="132"/>
+		<destination airport="DTW" pax="131"/>
+		<destination airport="FLL" pax="121"/>
+		<destination airport="MSP" pax="115"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="24"/>
     </terminals>
@@ -793,6 +863,18 @@
       <longitude value="086°40'41''W"/>
     </coordinates>
     <size value="Medium" pax="4673"/>
+	<destinations>
+		<destination airport="ATL" pax="341"/>
+		<destination airport="DFW" pax="281"/>
+		<destination airport="DEN" pax="260"/>
+		<destination airport="MDW" pax="237"/>
+		<destination airport="CHA" pax="215"/>
+		<destination airport="DTW" pax="214"/>
+		<destination airport="BWI" pax="204"/>
+		<destination airport="ORD" pax="182"/>
+		<destination airport="MCO" pax="152"/>
+		<destination airport="PHL" pax="144"/>
+	</destinations>
     <terminals>
       <terminal name="Terminal" gates="47"/>
     </terminals>
