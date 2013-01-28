@@ -2271,4 +2271,7 @@ Good luck.</value>
   <data name="PageNewsBox_203_name" xml:space="preserve">
     <value>Delete all news</value>
   </data>
+  <data name="PageSearchAirliners_1006_name" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
 </root>
