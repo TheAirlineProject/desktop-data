@@ -2274,4 +2274,10 @@ Good luck.</value>
   <data name="PageSearchAirliners_1006_name" xml:space="preserve">
     <value>Manufacturer</value>
   </data>
+  <data name="PageAirport_1025_name" xml:space="preserve">
+    <value>Domestic</value>
+  </data>
+  <data name="PageAirport_1026_name" xml:space="preserve">
+    <value>International</value>
+  </data>
 </root>
