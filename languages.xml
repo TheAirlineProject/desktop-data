@@ -13,5 +13,6 @@
     <Language culture="zh-CN" name="中文 (CN)" flag="China-large.png" UnitSystem="Metric" isEnabled="true" />
     <Language culture="da-DK" name="Dansk (DA)" flag="Denmark-large.png" UnitSystem="Metric" isEnabled="true" />
     <Language culture="es-ES" name="Español (ES)" flag="Spain-large.png" UnitSystem="Metric" isEnabled="true" />
+    <Language culture="it-IT" name="Italian (IT)" flag="Italy-large.png" UnitSystem="Metric" isEnabled="true" />
   </Languages>
  </Translator>
