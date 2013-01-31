@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airline>
+  <profile name="IndiGo" iata="6E" color="Light Blue" country="152" CEO="Rahul Bhatia" mentality="Aggresive" market="Regional" preferedairport="DEL">
+    <narrative narrative="IndiGo is a low cost carrier and largest airline in India."></narrative>
+  </profile>
+  <info real="True" from="2006" to="2199" />
+</airline>
