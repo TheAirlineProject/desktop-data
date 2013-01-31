@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--South Pacific (N***)-->
@@ -259,7 +259,10 @@
     <terminals>
       <terminal name="Terminal A" gates="2" />
     </terminals>
-    <runways />
+     <runways>
+      <runway name="05/23" length="700" surface="Asphalt" />
+      <runway name="05/23" length="615" surface="Grass" />
+    </runways>
   </airport>
   <airport name="Kaitaia Airport" icao="NZKT" iata="KAT" type="Domestic" season="All_Year">
     <town town="Kaitaia" country="186" GMT="12:00:00" DST="11:00:00" />
@@ -467,16 +470,18 @@
     </runways>
   </airport>
   <airport name="Takaka Airport" icao="NZTK" iata="KTF" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Takaka" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="040°48'47''S" />
       <longitude value="172°46'29''E" />
     </coordinates>
     <size value="Smallest" pax="3" />
     <terminals>
-      <terminal name="Terminal A" gates="2" />
+      <terminal name="Terminal A" gates="2" /> 
     </terminals>
-    <runways />
+      <runways>
+      <runway name="36/18" length="670" surface="Asphalt" />
+    </runways>
   </airport>
   <airport name="Taupo Airport" icao="NZAP" iata="TUO" type="Domestic" season="All_Year">
     <town town="Taupo" country="186" GMT="12:00:00" DST="11:00:00" />

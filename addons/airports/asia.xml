@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--Southwest Asia (O***)-->
@@ -608,7 +608,9 @@
     <terminals>
       <terminal name="Terminal" gates="30"/>
     </terminals>
-    <runways/>
+    <runways>
+      <runway name="01/19" length="3000" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Kitakyushu Airport" icao="RJFR" iata="KKJ" type="Domestic" season="All_Year">
     <town town="Kitakyushu" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -620,7 +622,9 @@
     <terminals>
       <terminal name="Terminal" gates="25"/>
     </terminals>
-    <runways/>
+        <runways>
+      <runway name="18/36" length="2500" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Kagoshima Airport" icao="RJFK" iata="KOJ" type="Domestic" season="All_Year">
     <town town="Kagoshima" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -646,7 +650,9 @@
     <terminals>
       <terminal name="Terminal" gates="58"/>
     </terminals>
-    <runways/>
+     <runways>
+      <runway name="01/19" length="2000" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Hakodate Airport" icao="RJCH" iata="HKD" type="Domestic" season="All_Year">
     <town town="Hakodate" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -714,7 +720,9 @@
     <terminals>
       <terminal name="Terminal" gates="42"/>
     </terminals>
-    <runways/>
+    <runways>
+      <runway name="06/24" length="3000" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Fukue Airport" icao="RJFE" iata="FUJ" type="Regional" season="All_Year">
     <town town="Fukue" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -880,7 +888,9 @@
     <terminals>
       <terminal name="Terminal" gates="43"/>
     </terminals>
-    <runways/>
+    <runways>
+      <runway name="03/21" length="2500" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Kobe Airport" icao="RJBE" iata="UKB" type="Regional" season="All_Year">
     <town town="Kobe" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -976,7 +986,9 @@
     <terminals>
       <terminal name="Terminal" gates="33"/>
     </terminals>
-    <runways/>
+     <runways>
+      <runway name="08/26" length="2000" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Okayama Airport" icao="RJOB" iata="OKJ" type="Regional" season="All_Year">
     <town town="Okayama" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -988,7 +1000,9 @@
     <terminals>
       <terminal name="Terminal" gates="55"/>
     </terminals>
-    <runways/>
+      <runways>
+      <runway name="07/25" length="3000" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Oki Airport" icao="RJNO" iata="OKI" type="Regional" season="All_Year">
     <town town="Oki" country="171" GMT="09:00:00" DST="09:00:00"/>
@@ -2743,7 +2757,7 @@
       <runway name="02/20" length="3050" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Lukla Airport" icao="VNLK" iata="LUA" type="Domestic" season="All_Year">
+  <airport name="Tenzing-Hillary Airport" icao="VNLK" iata="LUA" type="Domestic" season="All_Year">
     <town town="Lukla" country="251" GMT="05:45:00" DST="05:45:00"/>
     <coordinates>
       <latitude value="027°41'12''N"/>
@@ -2753,7 +2767,9 @@
     <terminals>
       <terminal name="Terminal A" gates="4"/>
     </terminals>
-    <runways/>
+    <runways>
+      <runway name="06/24" length="460" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Biratnagar Airport" icao="VNVT" iata="BIR" type="Regional" season="All_Year">
     <town town="Biratnagar" country="251" GMT="05:45:00" DST="05:45:00"/>
@@ -2821,7 +2837,9 @@
     <terminals>
       <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways/>
+        <runways>
+      <runway name="09/27" length="531" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Bharatpur Airport" icao="VNBP" iata="BHR" type="Domestic" season="All_Year">
     <town town="Bharatpur" country="251" GMT="05:45:00" DST="05:45:00"/>
@@ -2833,7 +2851,9 @@
     <terminals>
       <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways/>
+         <runways>
+      <runway name="15/33" length="1158" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Simara Airport" icao="VNSI" iata="SIF" type="Domestic" season="All_Year">
     <town town="Simara" country="251" GMT="05:45:00" DST="05:45:00"/>
@@ -2915,7 +2935,9 @@
     <terminals>
       <terminal name="Terminal A" gates="2"/>
     </terminals>
-    <runways/>
+     <runways>
+      <runway name="02/20" length="549" surface="Concrete"/>
+    </runways>
   </airport>
   <!--Malaysia (WB**, WM**)-->
   <airport name="Kuching International Airport" icao="WBGG" iata="KCH" type="Short_Haul_International" season="All_Year">
@@ -3619,7 +3641,9 @@
     <terminals>
       <terminal name="Terminal" gates="50"/>
     </terminals>
-    <runways/>
+     <runways>
+      <runway name="11/29" length="2600" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Xishuangbanna Gasa International Airport" icao="ZPJH" iata="JHG" type="Long_Haul_International" season="All_Year">
     <town town="Xishuangbanna" country="148" GMT="08:00:00" DST="08:00:00"/>
@@ -3646,7 +3670,9 @@
     <terminals>
       <terminal name="Terminal A" gates="4"/>
     </terminals>
-    <runways/>
+    <runways>
+      <runway name="16/34" length="1800" surface="Asphalt"/>
+    </runways>
   </airport>
   <airport name="Zhuhai Airport" icao="ZGSD" iata="ZUH" type="Short_Haul_International" season="All_Year">
     <town town="Zhuhai" country="148" GMT="08:00:00" DST="08:00:00"/>
@@ -3658,7 +3684,9 @@
     <terminals>
       <terminal name="Terminal A" gates="6"/>
     </terminals>
-    <runways/>
+   <runways>
+      <runway name="5/23" length="4120" surface="Asphalt"/>
+    </runways>
   </airport>
   <!--Mongolia (ZM**)-->
   <airport name="Chinggis Khaan International Airport" icao="ZMUB" iata="ULN" type="Long_Haul_International" season="All_Year">
