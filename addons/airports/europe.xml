@@ -2305,6 +2305,121 @@
       <runway name="04R/22L" length="3002" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Firenze / Amerigo Vespucci Airport" icao="LIRQ" iata="FLR" type="Domestic" season="All_Year">
+    <town town="Firenze" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="043°48'36''N" />
+      <longitude value="011°12'18''E" />
+    </coordinates>
+    <size value="Small" pax="1751" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="1750" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Treviso / Antonio Canova Airport" icao="LIPH" iata="TSF" type="Domestic" season="All_Year">
+    <town town="Treviso" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="045°38'54''N" />
+      <longitude value="012°11'39''E" />
+    </coordinates>
+    <size value="Small" pax="1077" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2420" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lamezia Terme / Sant'Eufemia Airport" icao="LICA" iata="SUF" type="Regional" season="All_Year">
+    <town town="Lamezia Terme" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°54'19''N" />
+      <longitude value="016°14'32''E" />
+    </coordinates>
+    <size value="Medium" pax="2301" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+      <terminal name="Terminal B" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2414" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Brindisi / Casale Airport" icao="LIBR" iata="BDS" type="Regional" season="All_Year">
+    <town town="Brindisi" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°39'27''N" />
+      <longitude value="017°56'49''E" />
+    </coordinates>
+    <size value="Medium" pax="2058" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="1869" surface="Asphalt" />
+      <runway name="14/32" length="2532" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Olbia / Costa Smeralda Airport" icao="LIEO" iata="OLB" type="Regional" season="All_Year">
+    <town town="Olbia" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°53'55''N" />
+      <longitude value="009°31'03''E" />
+    </coordinates>
+    <size value="Small" pax="1874" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2446" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Trapani / Vincenzo Florio Airport" icao="LICT" iata="TPS" type="Domestic" season="All_Year">
+    <town town="Trapani" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°54'41''N" />
+      <longitude value="012°29'16''E" />
+    </coordinates>
+    <size value="Small" pax="1470" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2698" surface="Asphalt" />
+      <runway name="31/13" length="2620" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Alghero / Fertilia Airport" icao="LIEA" iata="AHO" type="Regional" season="All_Year">
+    <town town="Alghero" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°37'55''N" />
+      <longitude value="008°17'26''E" />
+    </coordinates>
+    <size value="Small" pax="1514" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Genova / Sestri Cristoforo Colombo Airport" icao="LIMJ" iata="GOA" type="Domestic" season="All_Year">
+    <town town="Genova" country="141" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="044°24'47''N" />
+      <longitude value="008°50'14''E" />
+    </coordinates>
+    <size value="Small" pax="1406" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2915" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Slovenia (LJ**)-->
     <airport name="Maribor Airport" icao="LJMB" iata="MBX" type="Short_Haul_International" season="All_Year">
     <town town="" country="105" GMT="00:00:00" DST="-01:00:00" />
