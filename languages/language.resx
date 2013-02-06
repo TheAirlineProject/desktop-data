@@ -2292,4 +2292,10 @@ Good luck.</value>
   <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
     <value>First departing time</value>
   </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value>Are you sure you want to add these entries to the time table, since the existing time table will be cleared?</value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value>Clear time table</value>
+  </data>
 </root>
