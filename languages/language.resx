@@ -2280,4 +2280,13 @@ Good luck.</value>
   <data name="PageAirport_1026_name" xml:space="preserve">
     <value>International</value>
   </data>
+  <data name="PopUpAirlinerAutoRoutes_1001_name" xml:space="preserve">
+    <value>Business route</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
+    <value>Flights per day</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
+    <value>Minutes between flights</value>
+  </data>
 </root>
