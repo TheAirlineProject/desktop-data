@@ -2289,4 +2289,7 @@ Good luck.</value>
   <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
     <value>Minutes between flights</value>
   </data>
+  <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
+    <value>First departing time</value>
+  </data>
 </root>
