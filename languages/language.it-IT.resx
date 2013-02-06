@@ -184,10 +184,10 @@
     <value>Non tradotto</value>
   </data>
   <data name="General_2000_name" xml:space="preserve">
-    <value>Milione</value>
+    <value>Milioni</value>
   </data>
   <data name="General_2001_name" xml:space="preserve">
-    <value>Miliardo</value>
+    <value>Miliardi</value>
   </data>
   <data name="LanguageTranslationConverter_1000_name" xml:space="preserve">
     <value>Scrivi</value>
@@ -223,13 +223,13 @@
     <value>Costruisci terminal</value>
   </data>
   <data name="PopUpTerminal_1001_name" xml:space="preserve">
-    <value>Numero di cancelli d&apos;imbarco</value>
+    <value>Numero di gate</value>
   </data>
   <data name="PopUpTerminal_1002_name" xml:space="preserve">
     <value>Prezzo base per il terminal</value>
   </data>
   <data name="PopUpTerminal_1003_name" xml:space="preserve">
-    <value>Prezzo per cancello d&apos;imbarco</value>
+    <value>Prezzo per gate</value>
   </data>
   <data name="PopUpTerminal_1004_name" xml:space="preserve">
     <value>Giorni necessari alla costruzione</value>
@@ -283,7 +283,7 @@
     <value>Su: Tasto su</value>
   </data>
   <data name="PopUpMap_1005_name" xml:space="preserve">
-    <value>Sotto: Tasto sotto</value>
+    <value>Giù: Tasto giù</value>
   </data>
   <data name="PopUpLoan_1000_name" xml:space="preserve">
     <value>Richiedi un prestito</value>
@@ -400,7 +400,7 @@
     <value>Capacità passeggeri</value>
   </data>
   <data name="PageFleetAirliner_1010_name" xml:space="preserve">
-    <value>Classe massima</value>
+    <value>Numero max di classsi</value>
   </data>
   <data name="PageFleetAirliner_1011_name" xml:space="preserve">
     <value>Lunghezza minima della pista</value>
@@ -541,7 +541,7 @@
     <value>Dimensione aeroporto</value>
   </data>
   <data name="PageAirport_1016_name" xml:space="preserve">
-    <value>Numero di cancelli d&apos;imbarco</value>
+    <value>Numero di gate</value>
   </data>
   <data name="PageAirport_1017_name" xml:space="preserve">
     <value>Numero di piste</value>
@@ -559,7 +559,7 @@
     <value>Dimensione cargo</value>
   </data>
   <data name="PageAirport_1022_name" xml:space="preserve">
-    <value>Aperto</value>
+    <value>Aperto da</value>
   </data>
   <data name="PageAirport_1023_name" xml:space="preserve">
     <value>Reddito dell&apos;aeroporto</value>
@@ -685,7 +685,7 @@
     <value>Estendi opzioni di ricerca aeroporto</value>
   </data>
   <data name="PageExtendedSearchAirports_1002_name" xml:space="preserve">
-    <value>Cerca aeroporti con</value>
+    <value>Cerca aeroporti che siano da</value>
   </data>
   <data name="PageExtendedSearchAirports_1003_name" xml:space="preserve">
     <value>di</value>
@@ -694,7 +694,7 @@
     <value>Distanza</value>
   </data>
   <data name="PageAirportsStatistics_1001_name" xml:space="preserve">
-    <value>Aeroporti più larghi / Passeggeri</value>
+    <value>Aeroporti più grandi / Passeggeri</value>
   </data>
   <data name="PageAirline_1000_name" xml:space="preserve">
     <value>Compagnia</value>
@@ -709,7 +709,7 @@
     <value>Codice IATA</value>
   </data>
   <data name="PageAirline_1004_name" xml:space="preserve">
-    <value>Amministratore delegato</value>
+    <value>Amministratore Delegato</value>
   </data>
   <data name="PageAirline_1005_name" xml:space="preserve">
     <value>Paese</value>
@@ -823,7 +823,7 @@
     <value>News</value>
   </data>
   <data name="PageSettings_1000_name" xml:space="preserve">
-    <value>Opzioni</value>
+    <value>Impostazioni</value>
   </data>
   <data name="PageSettings_1001_name" xml:space="preserve">
     <value>Velocità</value>
@@ -847,7 +847,7 @@
     <value>Mail per maltempo</value>
   </data>
   <data name="PageSettings_1008_name" xml:space="preserve">
-    <value>Usa valuta ristretta</value>
+    <value>Use shorten currency</value>
   </data>
   <data name="PageCredits_1000_name" xml:space="preserve">
     <value>Crediti</value>
@@ -1039,10 +1039,10 @@
     <value>Cibo e bevande</value>
   </data>
   <data name="PageAirlineWages_1003_name" xml:space="preserve">
-    <value>Multe</value>
+    <value>Sovrapprezzi</value>
   </data>
   <data name="PageAirlineWages_1004_name" xml:space="preserve">
-    <value>Tasse e Multe</value>
+    <value>Prezzi e Addizionali</value>
   </data>
   <data name="PageAirlineWages_1005_name" xml:space="preserve">
     <value>Impiegati</value>
@@ -1315,7 +1315,7 @@
     <value>Stati</value>
   </data>
   <data name="PanelAirliner_1001_name" xml:space="preserve">
-    <value>Specifiche tipo di compagnia</value>
+    <value>Specifiche dell&apos;aereo</value>
   </data>
   <data name="PanelAirliner_1002_name" xml:space="preserve">
     <value>Modello</value>
@@ -1342,7 +1342,7 @@
     <value>Passeggeri</value>
   </data>
   <data name="PanelAirliner_1010_name" xml:space="preserve">
-    <value>Massima classe</value>
+    <value>Numero max di classi</value>
   </data>
   <data name="PanelAirliner_1011_name" xml:space="preserve">
     <value>Numero di equipaggio</value>
@@ -1354,7 +1354,7 @@
     <value>Consumo carburante</value>
   </data>
   <data name="PanelAirliner_1014_name" xml:space="preserve">
-    <value>Raggio di produzione</value>
+    <value>Produzione</value>
   </data>
   <data name="PanelAirliner_1015_name" xml:space="preserve">
     <value>Lunghezza minima della pista</value>
@@ -1540,7 +1540,7 @@
     <value>Base</value>
   </data>
   <data name="MenuOptions_1000_name" xml:space="preserve">
-    <value>Ozioni</value>
+    <value>Opzioni</value>
   </data>
   <data name="MenuNewGame_1000_name" xml:space="preserve">
     <value>Nuovo gioco</value>
@@ -1972,7 +1972,7 @@
     <value>Crea alleanza</value>
   </data>
   <data name="MessageBox_2604_message" xml:space="preserve">
-    <value>Sei sicuro di voler creare questa alleanza {0}?</value>
+    <value>Sei sicuro di voler creare questa alleanza?</value>
   </data>
   <data name="MessageBox_2605_name" xml:space="preserve">
     <value>Accetta alleanza</value>
@@ -2264,5 +2264,29 @@
   </data>
   <data name="PageSearchAirliners_1006_name" xml:space="preserve">
     <value>Costruttore</value>
+  </data>
+  <data name="PageAirport_1025_name" xml:space="preserve">
+    <value>Nazionali</value>
+  </data>
+  <data name="PageAirport_1026_name" xml:space="preserve">
+    <value>Internazionali</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1001_name" xml:space="preserve">
+    <value>Business route</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
+    <value>Voli per giorno</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
+    <value>Minuti tra i voli</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
+    <value>Primo orario di decollo</value>
+  </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value>Sei sicuro di voler aggiungere queste voci all&apos;orario di volo, dato che l&apos;orario di volo esistente verrebbe cancellato?</value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value>Cancella orario di volo</value>
   </data>
 </root>

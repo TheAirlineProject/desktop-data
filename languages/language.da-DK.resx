@@ -2265,4 +2265,28 @@
   <data name="PageSearchAirliners_1006_name" xml:space="preserve">
     <value>Fabrikant</value>
   </data>
+  <data name="PageAirport_1025_name" xml:space="preserve">
+    <value>Indenrigs</value>
+  </data>
+  <data name="PageAirport_1026_name" xml:space="preserve">
+    <value>International</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1001_name" xml:space="preserve">
+    <value>Business rute</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
+    <value>Flyvninger per dag</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
+    <value>Tid mellem flyvninger</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
+    <value>Første afgangstid</value>
+  </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil tilføje dette til time table?</value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value>Ryd time table</value>
+  </data>
 </root>
