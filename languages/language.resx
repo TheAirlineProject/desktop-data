@@ -2298,4 +2298,7 @@ Good luck.</value>
   <data name="MessageBox_2705_name" xml:space="preserve">
     <value>Clear time table</value>
   </data>
+  <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
+    <value>Flights per week</value>
+  </data>
 </root>

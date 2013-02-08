@@ -2272,6 +2272,30 @@
     <value>删除所有新闻</value>
   </data>
   <data name="PageSearchAirliners_1006_name" xml:space="preserve">
-    <value></value>
+    <value>厂商</value>
+  </data>
+  <data name="PageAirport_1025_name" xml:space="preserve">
+    <value>国内</value>
+  </data>
+  <data name="PageAirport_1026_name" xml:space="preserve">
+    <value>国际</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1001_name" xml:space="preserve">
+    <value>商务航线</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
+    <value>每天航班数</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
+    <value>每个航班的间隔时长</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
+    <value>首飞时间</value>
+  </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value>您确认要清空时间表，然后把这些条目添加到时间表里吗？</value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value>清空时间表</value>
   </data>
 </root>
