@@ -2301,4 +2301,22 @@ Good luck.</value>
   <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
     <value>Flights per week</value>
   </data>
+  <data name="PageNewGame_1018_name" xml:space="preserve">
+    <value>Random opponents</value>
+  </data>
+  <data name="PageNewGame_1019_name" xml:space="preserve">
+    <value>Select opponents</value>
+  </data>
+  <data name="PageNewGame_1020_name" xml:space="preserve">
+    <value>Generate opponents</value>
+  </data>
+  <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
+    <value>Select Opponents</value>
+  </data>
+  <data name="PopUpSelectOpponents_1001_name" xml:space="preserve">
+    <value>Selected opponents (Max: {0})</value>
+  </data>
+  <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
+    <value>Possible opponents</value>
+  </data>
 </root>

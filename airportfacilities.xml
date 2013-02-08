@@ -181,18 +181,33 @@
       <es-ES name="Autofacturación" />
     </translations>
   </airportfacility>
-  <airportfacility uid="112" shortname="Ticket Office" type="TicketOffice" typelevel="1" price="12500" buildingdays="10">
-    <level service="0" luxury="15">
+  <airportfacility uid="112" shortname="Small Ticket Office" type="TicketOffice" typelevel="1" price="12500" buildingdays="10">
+    <level service="1" luxury="15">
+    </level>
+    <employees type="Support" numberofemployees="4">
+    </employees>
+    <translations>
+      <en-US name="Small Airport Ticket Office" />
+      <de-DE name="Missing" />
+      <en-GB name="Small Airport Ticket Office" />
+      <nl-NL name="Ticketkantoor in de luchthaven" />
+      <zh-CN name="机场售票处" />
+      <da-DK name="Lille lufthavnsbilletkontor" />
+      <es-ES name="Oficina de Billetes" />
+    </translations>
+  </airportfacility>
+    <airportfacility uid="113" shortname="Large Ticket Office" type="TicketOffice" typelevel="2" price="25000" buildingdays="10">
+    <level service="2" luxury="15">
     </level>
     <employees type="Support" numberofemployees="8">
     </employees>
     <translations>
-      <en-US name="Airport Ticket Office" />
+      <en-US name="Large Airport Ticket Office" />
       <de-DE name="Missing" />
-      <en-GB name="Airport Ticket Office" />
+      <en-GB name="Large Airport Ticket Office" />
       <nl-NL name="Ticketkantoor in de luchthaven" />
       <zh-CN name="机场售票处" />
-      <da-DK name="Lufthavnsbilletkontor" />
+      <da-DK name="Stor lufthavnsbilletkontor" />
       <es-ES name="Oficina de Billetes" />
     </translations>
   </airportfacility>
