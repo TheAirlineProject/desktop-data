@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<alliance name="Oneworld" logo="oneworld" type="Full" formation="02.01.1999 00:00:00" headquarter="JFK">
+<members>
+<member airline="AA" joined="02.01.1999 00:00:00"></member>
+<member airline="BA" joined="02.01.1999 00:00:00"></member>
+<member airline="QF" joined="02.01.1999 00:00:00"></member>
+<member airline="AY" joined="02.01.1999 00:00:00"></member>
+<member airline="IB" joined="02.01.1999 00:00:00"></member>
+<member airline="CX" joined="02.01.1999 00:00:00"></member>
+</members>
+</alliance>
