@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <majordestinations>
-  <majordestionation airport="CGK">
+  <majordestination airport="CGK">
 	<destinations>
 	  <destination airport="SIN" pax="999"/>
 	  <destination airport="KUL" pax="977"/>
