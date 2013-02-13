@@ -2319,4 +2319,25 @@ Good luck.</value>
   <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
     <value>Possible opponents</value>
   </data>
+  <data name="MessageBox_2220_message" xml:space="preserve">
+    <value>Are you sure you want to sign a contract with {0} for {1}?</value>
+  </data>
+  <data name="MessageBox_2220_name" xml:space="preserve">
+    <value>Airport contract</value>
+  </data>
+  <data name="MessageBox_2221_message" xml:space="preserve">
+    <value>Are you sure you want to terminate the airport contract with {0}?</value>
+  </data>
+  <data name="MessageBox_2221_name" xml:space="preserve">
+    <value>Terminate airport contract</value>
+  </data>
+  <data name="PageAirportGates_1009_name" xml:space="preserve">
+    <value>Contracted by</value>
+  </data>
+  <data name="PageAirportGates_206_name" xml:space="preserve">
+    <value>Sign contract</value>
+  </data>
+  <data name="PageAirportGates_207_name" xml:space="preserve">
+    <value>Terminate contract</value>
+  </data>
 </root>
