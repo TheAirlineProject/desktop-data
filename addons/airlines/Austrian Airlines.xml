@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-  <profile name="Austrian" iata="OS" color="Red" country="169" CEO="Jaan Albrecht" mentality="Aggressive" market="Global " preferedairport="VIE">
+  <profile name="Austrian Airlines" iata="OS" color="Red" country="169" CEO="Jaan Albrecht" mentality="Aggressive" market="Global " preferedairport="VIE">
   <narrative narrative="Austrian Airlines is the flag carrier airline of Austria, headquartered in Office Park 2 on the grounds of Vienna International Airport in Schwechat and a subsidiary of Deutsche Lufthansa AG. Since July 1, 2012 all flights are operated by subsidiary Tyrolean Airways under the brand name Austrian. It operates scheduled services to over 130 destinations. Its hub is Vienna International Airport, with a focus city at Innsbruck Airport. It is a member of Star Alliance." />
   <info real="True" from="1957" to="2199" />
   </profile>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mergers>
+<merger name="Lufthansa takes over Austrian Airlines which continues as a subsidiary for Lufthansa" airline1="LH" airline2="OS" type="Subsidiary" date="09.13.2009 00:00:00"></merger>
+<merger name="Lufthansa takes over Swiss which continues as a subsidiary for Lufthansa" airline1="LH" airline2="LX" type="Subsidiary" date="07.01.2007 00:00:00"></merger>
+<merger name="Delta Air Lines and Northwest Airlines have merged together and continues under the name Delta Air Lines" airline1="DL" airline2="NW" type="Merger" date="01.31.2010 00:00:00"></merger>
+</mergers>

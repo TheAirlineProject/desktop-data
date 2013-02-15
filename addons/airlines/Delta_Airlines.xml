@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-  <profile name="Delta Airlines" iata="DA" color="MediumBlue" country="122" CEO="Richard Anderson" mentality="Aggressive" market="Global" preferedairport="ATL">
-    <narrative narrative="Delta Airlines is a major US airline operating out of Atlanta. Their flights serve every continent except Antarctica. The fleet is over 700 in size,
+  <profile name="Delta Air Lines" iata="DL" color="MediumBlue" country="122" CEO="Richard Anderson" mentality="Aggressive" market="Global" preferedairport="ATL">
+    <narrative narrative="Delta Air Lines is a major US airline operating out of Atlanta. Their flights serve every continent except Antarctica. The fleet is over 700 in size,
 consisting largely of Boeing 757s, MD-88s, Boeing 767, Airbus A320, and Boeing 737s." />
   </profile>
   <startdata>
