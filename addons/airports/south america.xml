@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--must be placed in \data\addons\airports-->
 <airports>
 <!--Argentina (SA**)-->
@@ -223,6 +223,78 @@
     <runways>
       <runway name="17L/35R" length="3748" surface="Asphalt" />
       <runway name="17R/35L" length="3800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pdte. carlos Ibañez del Campo Airport" icao="SCCI" iata="PUQ" type="Domestic" season="All_Year">
+    <town town="Punta Arenas" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="053°00'09''S" />
+      <longitude value="070°51'16''W" />
+    </coordinates>
+    <size value="Smallest" pax="70" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1678" surface="Asphalt" />
+      <runway name="07/25" length="2790" surface="Asphalt" />
+      <runway name="12/30" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Cerro Moreno Airport" icao="SCFA" iata="ANF" type="Domestic" season="All_Year">
+    <town town="Antofagasta" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="023°26'40''S" />
+      <longitude value="070°26'42''W" />
+    </coordinates>
+    <size value="Very_small" pax="90123" />
+    <terminals>
+      <terminal name="Terminal A" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2599" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Chacalluta Airport" icao="SCAR" iata="ARI" type="Domestic" season="All_Year">
+    <town town="Arica" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="018°20'54''S" />
+      <longitude value="070°20'19''W" />
+    </coordinates>
+    <size value="Smallest" pax="23" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2170" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Carriel Sur Airport" icao="SCIE" iata="CCP" type="Domestic" season="All_Year">
+    <town town="Concepcion" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="036°46'21''S" />
+      <longitude value="073°03'47''W" />
+    </coordinates>
+    <size value="Smallest" pax="14" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2298" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Diego Aracena Airport" icao="SCDA" iata="IQQ" type="Domestic" season="All_Year">
+    <town town="Iquique" country="160" GMT="-04:00:00" DST="-03:00:00" />
+    <coordinates>
+      <latitude value="020°32'06''S" />
+      <longitude value="070°10'52''W" />
+    </coordinates>
+    <size value="Smallest" pax="7" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="3350" surface="Asphalt" />
     </runways>
   </airport>
   <!--Equador (SE**)-->
