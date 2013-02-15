@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="Gol Transportes Aéreos" iata="G3" color="Orange" country="138" CEO="Constantino de Oliveira Junior" mentality="Aggressive" market="Global" preferedairport="CGH">
+ <narrative narrative="Gol Transportes Aéreos is a Brazilian low-cost airline based in Comandante Lineu Gomes Square, São Paulo, Brazil"></narrative>
+</profile>
+<info real="True" from="2000" to="2199"></info>
+</airline>
