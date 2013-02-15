@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="South African Airways" iata="SA" color="DarkRed" country="158" CEO="Nico Bezuindenhout " mentality="Moderate" market="Regional" preferedairport="JNB">
+<narrative narrative="South African Airways was formed on 1 February 1934 following the acquisition of Union Airways by the South African government." /> 
+</profile>
+<info real="True" from="1934" to="2199"></info>
+</airline>
+
