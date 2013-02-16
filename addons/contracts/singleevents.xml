@@ -14,7 +14,7 @@
 	  <failureSchedule before="2" after="1"/>
     </parameters>
 	</event>
-	<event name="Military Training Relocation" text="The French army is accepting bids to transport 800 troops to a training event in Libya. Due to security concerns, they are demanding dedicated aircraft.">
+	<event name="Military Training Relocation" text="The French army is accepting bids to transport 800 troops to a training event in Libya. Due to security concerns, they are demanding dedicated aircraft." >
 		<information year="0" frequency="1" respondTime="10" passengers="800" cargo="1500" pay="3000000"/>
 		<routes quantity="1" roundTrip="false" stayLength="0">
 			<route departure="FRA" destination="TIP" fClassReq="20" bClassReq="62" passengers="800"/>
@@ -34,7 +34,7 @@
 			<route departure="MOB" destination="MIA" fClassReq="0" bClassReq="5" passengers="14"/>
 			<route departure="PHL" destination="MIA" fClassReq="0" bClassReq="11" passengers="38"/>
 		</routes>
-	<paramters>
+	<parameters>
 		<failureLow fClass="0" bClass="10" paxCapacity="37"/>
 		<failureHigh delay="240" cancellation="2" />
 		<failureSchedule before="4" after="0"/>
