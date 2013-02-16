@@ -21,4 +21,23 @@
       <failureHigh remainingDemand="20"/>
     </parameters>
 	</event>
+	<event name="US-Afghanistan Withdrawal" text="The US military is seeking to withdraw it's non-essential personnel from the Afghanistan combat zone over a several week period.">
+		<information year="2012" month="6" length="3" respondTime="14" passengers="88000" cargo="0" pay="37000000"/>
+			<flight departure="BGW" destination="EWR" passengers="10000"/>
+			<flight departure="BGW" destination="BOS" passengers="4000"/>
+			<flight departure="FRA" destination="IAD" passengers="15000"/>
+			<flight departure="FRA" destination="ORD" passengers="6000"/>
+			<flight departure="DRS" destination="CLT" passengers="9000"/>
+			<flight departure="DRS" destination="ATL" passengers="7000"/>
+			<flight departure="BGW" destination="FRA" passengers="21000"/>
+			<flight departure="BGW" destination="DRS" passengers="16000"/>
+		</flights>
+	<parameters>
+		<failureLow destinationNotServed="BGW"/>
+		<penaltyLow destinationNotServed="FRA" pay="30000000"/>
+		<penaltyHigh averageDelay="60" amount="50000"/>
+		<failureHigh cancellations="8" />
+		<failureHigh remainingDemand="15"/>
+	</parameters>
+	</event>
 </multipleEvents>
