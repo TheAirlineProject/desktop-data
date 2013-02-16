@@ -23,7 +23,7 @@
 	  <route departure="SFO" destination="LHR" airliner="Boeing 777-200ER" quantity="2"/>
 	</routes>
     <AI>
-      <airline name="DA" homeBase="ATL">
+      <airline name="DL" homeBase="ATL">
         <route departure="ATL" destination="JFK" airliner="Boeing 737-600" quantity="2"/>
         <route departure="ATL" destination="LAX" airliner="Boeing 757-200" quantity="3"/>
         <route departure="ATL" destination="BOS" airliner="Boeing 737-600" quantity="1"/>
