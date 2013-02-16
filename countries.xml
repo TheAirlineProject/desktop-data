@@ -1543,7 +1543,7 @@
       <es-ES name="Nepal" />
     </translations>
   </country>
-  <country uid="252" shortname="BHU" region="110" flag="Bhutan" tailformat="A5-\\\">
+  <country uid="252" shortname="BHU" region="110" flag="Bhutan" tailformat="A5-\\s3">
 	<translations>
 		<en-US name="Bhutan" />
 		<de-DE name="Bhutan" />
