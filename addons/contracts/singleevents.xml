@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <singleEvents>
 <!--frequency is amount per 3 years. respondTime is in days. f/bClassReq are the required first and business class seats-->
   <!--failure low is if game value is less than or equal to stated value. Failure high is if game value is greater than equal to stated-->
