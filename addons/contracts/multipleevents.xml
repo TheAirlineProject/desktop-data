@@ -23,6 +23,7 @@
 	</event>
 	<event name="US-Afghanistan Withdrawal" text="The US military is seeking to withdraw it's non-essential personnel from the Afghanistan combat zone over a several week period.">
 		<information year="2012" month="6" length="3" respondTime="14" passengers="88000" cargo="0" pay="37000000"/>
+		<flights quantity="0">
 			<flight departure="BGW" destination="EWR" passengers="10000"/>
 			<flight departure="BGW" destination="BOS" passengers="4000"/>
 			<flight departure="FRA" destination="IAD" passengers="15000"/>
