@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="Gol Transportes Aéreos" iata="G3" color="Darkorange" country="138" CEO="Constantino de Oliveira Junior" mentality="Aggressive" market="Regional" preferedairport="GRU">
+<narrative narrative="Gol operates a growing domestic and international scheduled network. Its main hubs are Sao Paulo's Congonhas Airport, Rio de Janeiro's Galeo International Airport and Braslia International Airport - Presidente Juscelino Kubitschek. Gol also has focus operations at Tancredo Neves International Airport near Belo Horizonte, Rio de Janeiro-Santos Dumont Airport, Sao Paulo-Guarulhos International Airport and Porto Alegre's Salgado Filho International Airport." />
+  </profile>
+  <startdata>
+  <!--the airliners the airline would start with which isn't on a route earyl (1960) late (2010)-->
+  <airliners>
+    <airliner type="Boeing 737-700" early="0" late="43"></airliner>
+    <airliner type="Boeing 737-800" early="0" late="87"></airliner>
+  </airliners>
+  </startdata>
+</airline>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<airline>
+<profile name="Azul Brazilian Airlines" iata="AD" color="Darkblue" country="138" CEO="David Neeleman" mentality="Aggressive" market="Regional" preferedairport="GRU">
+<narrative narrative="Azul Linhas Areas Brasileiras S/A is a Brazilian domestic low-cost airline based in Barueri. It was established on May 5, 2008 by Brazilian-born David Neeleman, founder and former-CEO of JetBlue. The airline began service on December 15, 2008 and has ordered a fleet of 76 Embraer 195 jets. The company was named Azul after a naming contest in 2008, where 'Samba' was the other popular name." />
+  </profile>
+  <startdata>
+  <!--the airliners the airline would start with which isn't on a route earyl (1960) late (2010)-->
+  <airliners>
+    <airliner type="ATR 72-500" early="0" late="18"></airliner> 
+    <airliner type="Embraer E-190" early="0" late="10"></airliner>
+    <airliner type="Embraer E-195" early="0" late="40"></airliner>
+  </airliners>
+  </startdata>
+</airline>
