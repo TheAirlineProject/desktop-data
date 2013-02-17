@@ -1661,6 +1661,59 @@
 	  <runway name="18/36" length="3200" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Gabala International Airport" icao="UBBQ" iata="GBB" type="Short_Haul_International" season="All_Year">
+    <town town="Gabala" country="235" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="040°49'36''N" />
+      <longitude value="047°42'44''E" />
+    </coordinates>
+    <size value="Smallest" pax="86" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Ganja Airport" icao="UBBG" iata="KVD" type="Long_Haul_International" season="All_Year">
+    <town town="Ganja" country="235" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="040°44'15''N" />
+      <longitude value="046°19'03''E" />
+    </coordinates>
+    <size value="Small" pax="512" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2505" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Nakhchivan Airport" icao="UBBN" iata="NAJ" type="Short_Haul_International" season="All_Year">
+    <town town="Nakhchivan" country="235" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="039°11'19''N" />
+      <longitude value="045°27'30''E" />
+    </coordinates>
+    <size value="Very_small" pax="215" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="14L/32R" length="3300" surface="Asphalt" />
+      <runway name="14R/32L" length="3300" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Zaqatala International Airport" icao="UBBY" iata="ZTU" type="Short_Haul_International" season="All_Year">
+    <town town="Zaqatala" country="235" GMT="04:00:00" DST="04:00:00" />
+    <coordinates>
+      <latitude value="041°33'43''N" />
+      <longitude value="046°40'01''E" />
+    </coordinates>
+    <size value="Very_small" pax="151" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways />
+  </airport>
   <!--Armenia (UD**)-->
   <airport name="Zvartnots International Airport" icao="UDYZ" iata="EVN" type="Long_Haul_International" season="All_Year">
     <town town="Yerevan" country="234" GMT="04:00:00" DST="04:00:00"/>
