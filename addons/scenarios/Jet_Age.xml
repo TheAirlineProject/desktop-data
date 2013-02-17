@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <scenario name="Jet Age" startYear="1963" startCash="17500000" difficulty="Normal" endYear="1970">
-	<intro text="As the world ushers in the jet age, airlines are rushing to be the first to utilize the faster and more economic mode of transportation. Your job as CEO of Continental Airlines is to convert their fleet of Douglas turboprop aircraft to a profitable fleet of jets. By 1970, your fleet must be 90% jets and you must continue to turn a profit every year.">
-	<success text="Congratulations! You have successfully converted the prop-driven Continental fleet to modern jet airliners!">
+	<intro text="As the world ushers in the jet age, airlines are rushing to be the first to utilize the faster and more economic mode of transportation. Your job as CEO of Continental Airlines is to convert their fleet of Douglas turboprop aircraft to a profitable fleet of jets. By 1970, your fleet must be 90% jets and you must continue to turn a profit every year."/>
+	<success text="Congratulations! You have successfully converted the prop-driven Continental fleet to modern jet airliners!"/>
 		<start airline="CO" homeBase="MDW">
 	<destinations>
 		<destination airport="EWR"/>
@@ -51,7 +51,7 @@
 		  <route departure="JFK" destination="YYZ" airliner="Boeing 727-100" quantity="1"/>
 		  <route departure="JFK" destination="YUL" airliner="Boeing 727-100" quanityt="1"/>
 		</airline>
-	  </ai>
+	  </AI>
 	</start>
 	<modifiers>
 		<paxDemand country="122" change="20" length="5"/>
