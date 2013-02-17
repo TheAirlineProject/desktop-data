@@ -24,5 +24,6 @@
 <member airline="ET" joined="05.01.2011 00:00:00"></member>
 <member airline="SA" joined="11.01.2006 00:00:00"></member>
 <member airline="US" joined="04.14.2004 00:00:00" exited="06.30.2013 00:00:00"></member>
+<member airline="CO" joined="10.25.2009 00:00:00" exited="03.03.2012 00:00:00"></member>
 </members>
 </alliance>
