@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <airliners>
+  <airliner manufacturer="Douglas" name="Douglas DC-3" price="3100000">
+	<type body="Narrow_Body" rangetype="Short_Range" engine="Prop"/>
+	<specs wingspan="29.0" length="19.7" range="1210" speed="333" fuelcapacity="3736" consumption="0.096" runwaylengthrequired="1800"/>
+	<capacity passengers="32" cockpitcrew="2" cabincrew="1" maxclasses="1"/>
+	<produced from="1937" to="1942"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-6" price="3800000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Prop"/>
+	<specs wingspan="35.81" length="30.66" range="7377" speed="501" fuelcapacity="15111" consumption="0.037" runwaylengthrequired="2600"/>
+	<capacity passengers="56" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
+	<produced from="1946" to="1958"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-6B" price="4200000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Prop"/>
+	<specs wingspan="35.81" length="32.18" range="4830" speed="507" fuelcapacity="15111" consumption="0.058" runwaylengthrequired="2600"/>
+	<capacity passengers="62" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
+	<produced from="1946" to="1958"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-7" price="4500000">
+	<type body="Narrow_Body" rangetype="Long_Range" engine="Prop"/>
+	<specs wingspan="35.81" length="33.20" range="5737" speed="578" fuelcapacity="20865" consumption="0.044" runwaylengthrequired="2900"/>
+	<capacity passengers="82" cockpitcrew="3" cabincrew="2" maxclasses="1"/>
+	<produced from="1953" to="1958"/>
+  </airliner>
+  <airliner manufacturer="Douglas" name="Douglas DC-7C" price="5100000">
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Prop"/>
+	<specs wingspan="38.86" length="34.21" range="6114" speed="578" fuelcapacity="22340" consumption="0.035" runwaylengthrequired="2900"/>
+	<capacity passengers="105" cockpitcrew="3" cabincrew="4" maxclasses="2"/>
+	<produced from="1954" to="1958"/>
+  </airliner>
   <airliner manufacturer="Douglas" name="Douglas DC-8-10" price="4600000">
 	<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="43.41" length="45.87" range="5800" speed="893" fuelcapacity="74518" consumption="0.073" runwaylengthrequired="3028"/>
