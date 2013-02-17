@@ -778,8 +778,8 @@
       <runway name="1/19" length="2300" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="28 De Noviembre Airport" icao="SAWT" iata="RYO" type="Domestic" season="All_Year">
-    <town town="El Turbio" country="106" GMT="-03:00:00" DST="-03:00:00" />
+  <airport name="Rio Turbio Airport" icao="SAWT" iata="RYO" type="Domestic" season="All_Year">
+    <town town="28 de Noviembre" country="106" GMT="-03:00:00" DST="-03:00:00" />
     <coordinates>
       <latitude value="051°36'33''S" />
       <longitude value="072°13'18''W" />
