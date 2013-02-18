@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
 	<airliner manufacturer="Cessna" name="Cessna 206" price="557500">	<!--2012-->
 		<type body="Narrow_Body" rangetype="Regional" engine="Turboprop"/>
@@ -24,7 +24,7 @@
 		<capacity passengers="9" cockpitcrew="2" cabincrew="0" maxclasses="1"/>
 		<produced from="2004" to="2038"/>
 	</airliner>
-	<airliner manufacutrer="Cessna" name="Cessna Citation X" price="24422900"> <!--2011-->
+	<airliner manufacturer="Cessna" name="Cessna Citation X" price="24422900"> <!--2011-->
 		<type body="Narrow_Body" rangetype="Long_Range" engine="Jet"/>
 		<specs wingspan="19.38" length="22.05" range="5956" speed="972" fuelcapacity="7291" consumption="0.102" runwaylengthrequired="1600"/>
 		<capacity passengers="12" cockpitcrew="2" cabincrew="0" maxclasses="1"/>

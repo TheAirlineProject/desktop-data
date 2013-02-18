@@ -49,7 +49,7 @@
 		  <route departure="JFK" destination="MIA" airliner="Boeing 727-100" quantity="1"/>
 		  <route departure="JFK" destination="DAL" airliner="Boeing 727-100" quantity="1"/>
 		  <route departure="JFK" destination="YYZ" airliner="Boeing 727-100" quantity="1"/>
-		  <route departure="JFK" destination="YUL" airliner="Boeing 727-100" quanityt="1"/>
+		  <route departure="JFK" destination="YUL" airliner="Boeing 727-100" quantity="1"/>
 		</airline>
 	  </AI>
 	</start>
