@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<scenario name="New Management" startYear="2012" startCash="75000000" difficulty="Normal" endYear="2017"> <!--Hard-->
+<scenario name="New Management" startYear="2012" startCash="75000000" difficulty="Hard" endYear="2017">
   <intro text="After years of mismanagement, Pacific Airways has been strained heavily financially and has accumulated significant debt. After the Board removed the previous CEO, they have elected you to get the company back on solid financial footing. Heavy competition will hinder you in your efforts. You know this task will not be easy but the fate of the entire company lies in your hands. Good Luck!"/>
   <success text="Congratulations! You have successfully saved the company from bankruptcy and you may just have a job for some time into the future."/>
 	<start airline="PCA" homeBase="SFO" debt="500000000">
