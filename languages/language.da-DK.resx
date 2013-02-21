@@ -2289,4 +2289,61 @@
   <data name="MessageBox_2705_name" xml:space="preserve">
     <value>Ryd time table</value>
   </data>
+  <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
+    <value>Ugentlige flyvninger</value>
+  </data>
+  <data name="PageNewGame_1018_name" xml:space="preserve">
+    <value>Tilfældige modstandere</value>
+  </data>
+  <data name="PageNewGame_1019_name" xml:space="preserve">
+    <value>Vælge modstandere</value>
+  </data>
+  <data name="PageNewGame_1020_name" xml:space="preserve">
+    <value>Opret modstandere</value>
+  </data>
+  <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
+    <value>Vælge modstandere</value>
+  </data>
+  <data name="PopUpSelectOpponents_1001_name" xml:space="preserve">
+    <value>Valgte modstandere (Max: {0})</value>
+  </data>
+  <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
+    <value>Mulige modstandere</value>
+  </data>
+  <data name="MessageBox_2220_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil indgå en kontrak med {0} for {1}?</value>
+  </data>
+  <data name="MessageBox_2220_name" xml:space="preserve">
+    <value>Lufthavnskontrakt</value>
+  </data>
+  <data name="MessageBox_2221_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil opsige kontrakten med {0}?</value>
+  </data>
+  <data name="MessageBox_2221_name" xml:space="preserve">
+    <value>Opsig lufthavnskontrakt</value>
+  </data>
+  <data name="PageAirportGates_1009_name" xml:space="preserve">
+    <value>Kontrakt</value>
+  </data>
+  <data name="PageAirportGates_206_name" xml:space="preserve">
+    <value>Indgå kontrakt</value>
+  </data>
+  <data name="PageAirportGates_207_name" xml:space="preserve">
+    <value>Opsig kontrakt</value>
+  </data>
+  <data name="MessageBox_2706_message" xml:space="preserve">
+    <value>Det er ikke muligt at tilføje disse entries</value>
+  </data>
+  <data name="MessageBox_2706_name" xml:space="preserve">
+    <value>Fejl i tidstabel</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_201_name" xml:space="preserve">
+    <value>Advanceret</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_202_name" xml:space="preserve">
+    <value>Flyt tidsplan</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
+    <value>Autogenereret</value>
+  </data>
 </root>

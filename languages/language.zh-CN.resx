@@ -2284,7 +2284,7 @@
     <value>商务航线</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
-    <value>每天航班数</value>
+    <value>每日航班</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
     <value>每个航班的间隔时长</value>
@@ -2297,5 +2297,62 @@
   </data>
   <data name="MessageBox_2705_name" xml:space="preserve">
     <value>清空时间表</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
+    <value>每周航班数</value>
+  </data>
+  <data name="PageNewGame_1018_name" xml:space="preserve">
+    <value>随机竞争对手</value>
+  </data>
+  <data name="PageNewGame_1019_name" xml:space="preserve">
+    <value>选择竞争对手</value>
+  </data>
+  <data name="PageNewGame_1020_name" xml:space="preserve">
+    <value>生成竞争对手</value>
+  </data>
+  <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
+    <value>选择竞争对手</value>
+  </data>
+  <data name="PopUpSelectOpponents_1001_name" xml:space="preserve">
+    <value>已选竞争对手(最多:{0})</value>
+  </data>
+  <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
+    <value>潜在竞争对手</value>
+  </data>
+  <data name="MessageBox_2220_message" xml:space="preserve">
+    <value>您确定要与 {0} 签订 {1} 合约吗？</value>
+  </data>
+  <data name="MessageBox_2220_name" xml:space="preserve">
+    <value>机场合约</value>
+  </data>
+  <data name="MessageBox_2221_message" xml:space="preserve">
+    <value>您确认要终止与 {0} 的机场合约吗？</value>
+  </data>
+  <data name="MessageBox_2221_name" xml:space="preserve">
+    <value>终止机场合约</value>
+  </data>
+  <data name="PageAirportGates_1009_name" xml:space="preserve">
+    <value>合约</value>
+  </data>
+  <data name="PageAirportGates_206_name" xml:space="preserve">
+    <value>签订合约</value>
+  </data>
+  <data name="PageAirportGates_207_name" xml:space="preserve">
+    <value>终止合约</value>
+  </data>
+  <data name="MessageBox_2706_message" xml:space="preserve">
+    <value>这些条目无法添加到时间表</value>
+  </data>
+  <data name="MessageBox_2706_name" xml:space="preserve">
+    <value>无效的时间安排</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_201_name" xml:space="preserve">
+    <value>进阶安排</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_202_name" xml:space="preserve">
+    <value>更改计划</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
+    <value>自动生成计划</value>
   </data>
 </root>
