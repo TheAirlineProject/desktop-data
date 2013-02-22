@@ -2,6 +2,21 @@
 <!--must be placed in \data\addons\airports-->
 <airports>
   <!--Southwest Asia (O***)-->
+  <!--Afghanistan (OA**)-->
+  <airport name="Kabul International Airport" icao="OAKB" iata="KBL" type="Long_Haul_International" season="All_Year">
+    <town town="Kabul" country="253" GMT="04:30:00" DST="04:30:00"/>
+    <coordinates>
+      <latitude value="034°33'56''N"/>
+      <longitude value="069°12'39''E"/>
+    </coordinates>
+    <size value="Smallest" pax="310"/>
+    <terminals>
+      <terminal name="Terminal" gates="5"/>
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3500" surface="Asphalt"/>
+    </runways>
+  </airport>
   <!--Bahrain (OB**)-->
   <airport name="Bahrain International Airport" icao="OBII" iata="BAH" type="Long_Haul_International" season="All_Year">
     <town town="Bahrain" country="151" GMT="03:00:00" DST="03:00:00"/>

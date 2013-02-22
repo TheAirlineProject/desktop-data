@@ -1554,7 +1554,17 @@
 		<es-ES name="Bhutan" />
 	</translations>
   </country>
-  <!--Next uid = 253-->
+  <country uid="253" shortname="AFG" region="110" flag="Afghanistan" tailformat="YA-\\s3">
+	<translations>
+		<en-US name="Afghanistan" />
+		<de-DE name="Afghanistan" />
+		<en-GB name="Afghanistan" />
+		<nl-NL name="Afghanistan" />
+		<zh-CN name="Afghanistan" />
+		<da-DK name="Afghanistan" />
+		<es-ES name="Afghanistan" />
+	</translations>
+  </country>
   <!--Territories-->
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />
