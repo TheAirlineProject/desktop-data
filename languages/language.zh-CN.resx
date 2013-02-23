@@ -478,7 +478,7 @@
     <value>现状</value>
   </data>
   <data name="PageFleetRoute_1003_name" xml:space="preserve">
-    <value>每天的航班数</value>
+    <value>日常航班</value>
   </data>
   <data name="PageFleetRoute_1004_name" xml:space="preserve">
     <value>平均客运量</value>
@@ -2230,7 +2230,7 @@
     <value>选择剧本</value>
   </data>
   <data name="MessageBox_2119_message" xml:space="preserve">
-    <value>您无法在 {0} 与 {1} 两家公司之间进行汇款。</value>
+    <value>您要将花费 {1} 将公司资质升级到 {0} 吗？</value>
   </data>
   <data name="MessageBox_2119_name" xml:space="preserve">
     <value>无法汇款</value>
@@ -2242,7 +2242,7 @@
     <value>无法雇佣职员</value>
   </data>
   <data name="PageAirline_1025_name" xml:space="preserve">
-    <value>并购为子公司</value>
+    <value>航空公司资质</value>
   </data>
   <data name="MessageBox_2951_message" xml:space="preserve">
     <value>您确定要删除所有的新闻？</value>
