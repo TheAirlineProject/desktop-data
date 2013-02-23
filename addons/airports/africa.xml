@@ -577,6 +577,52 @@
       <runway name="04/22" length="4500" surface="Asphalt"/>
     </runways>
   </airport>
+   <airport name="Port Elizabeth Airport" icao="FAPE" iata="PLZ" type="Long_Haul_International" season="All_Year">
+    <town town="Port Elizabeth" country="158" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="033°59'05''S" />
+      <longitude value="025°37'02''E" />
+    </coordinates>
+    <size value="Small" pax="1349" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1980" surface="Asphalt" />
+      <runway name="10/28" length="1178" surface="Asphalt" />
+      <runway name="17/35" length="1677" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ben Schoeman Airport" icao="FAEL" iata="ELS" type="Domestic" season="All_Year">
+    <town town="East London" country="158" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="033°02'08''S" />
+      <longitude value="027°49'33''E" />
+    </coordinates>
+    <size value="Small" pax="676" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1585" surface="Asphalt" />
+      <runway name="11/29" length="1939" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="George Airport" icao="FAGG" iata="GRJ" type="Domestic" season="All_Year">
+    <town town="George" country="158" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="034°00'20''S" />
+      <longitude value="022°22'44''E" />
+    </coordinates>
+    <size value="Small" pax="537" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1220" surface="Asphalt" />
+      <runway name="11/29" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Rwanda (RW**)-->
   
   <!--Central African Republic (FE**)-->

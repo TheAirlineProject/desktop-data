@@ -1077,7 +1077,7 @@
       <latitude value="023°25'56''S" />
       <longitude value="046°28'09''W" />
     </coordinates>
-    <size value="Very_large" pax="32177" />
+    <size value="Very_large" pax="32777" />
     <terminals>
       <terminal name="Terminal" gates="37" />
     </terminals>
@@ -1164,7 +1164,7 @@
       <latitude value="012°54'39''S" />
       <longitude value="038°19'51''W" />
     </coordinates>
-    <size value="Medium" pax="8528" />
+    <size value="Medium" pax="8811" />
     <terminals>
       <terminal name="Terminal" gates="11" />
     </terminals>
@@ -2510,20 +2510,6 @@
     </terminals>
     <runways>
       <runway name="16/34" length="1500" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Paulo Afonso Airport" icao="SBUF" iata="PAV" type="Regional" season="All_Year">
-    <town town="Paulo Afonso" country="138" GMT="-03:00:00" DST="-03:00:00" />
-    <coordinates>
-      <latitude value="009°24'03''S" />
-      <longitude value="038°15'02''W" />
-    </coordinates>
-    <size value="Smallest" pax="10" />
-    <terminals>
-      <terminal name="Terminal A" gates="2" />
-    </terminals>
-    <runways>
-      <runway name="14/32" length="1800" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Paulo Afonso Airport" icao="SBUF" iata="PAV" type="Regional" season="All_Year">

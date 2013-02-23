@@ -576,7 +576,7 @@
       <latitude value="051°28'39''N"/>
       <longitude value="000°27'41''W"/>
     </coordinates>
-    <size value="Largest" pax="69433"/>
+    <size value="Largest" pax="69983"/>
     <terminals>
       <terminal name="Terminal 1" gates="55"/>
       <terminal name="Terminal 2" gates="20"/>

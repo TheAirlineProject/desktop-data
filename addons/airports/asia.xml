@@ -431,7 +431,7 @@
       <latitude value="035°33'08''N"/>
       <longitude value="139°46'46''E"/>
     </coordinates>
-    <size value="Largest" pax="62263"/>
+    <size value="Largest" pax="64211"/>
     <terminals>
       <terminal name="Terminal" gates="133"/>
     </terminals>
@@ -3067,6 +3067,146 @@
       <runway name="04/22" length="3352" surface="Asphalt"/>
     </runways>
   </airport>
+  <airport name="Miri Airport" icao="WBGR" iata="MYY" type="Long_Haul_International" season="All_Year">
+    <town town="Miri" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="004°19'19''N" />
+      <longitude value="113°59'13''E" />
+    </coordinates>
+    <size value="Medium" pax="2018" />
+    <terminals>
+      <terminal name="Terminal A" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2745" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Langkawi International Airport" icao="WMKL" iata="LGK" type="Short_Haul_International" season="All_Year">
+    <town town="Langkawi" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="006°19'47''N" />
+      <longitude value="099°43'43''E" />
+    </coordinates>
+    <size value="Small" pax="1594" />
+    <terminals>
+      <terminal name="Terminal A" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3810" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sultan Abdul Aziz Shah International Airport" icao="WMSA" iata="SZB" type="Short_Haul_International" season="All_Year">
+    <town town="Subang" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="003°07'50''N" />
+      <longitude value="101°32'56''E" />
+    </coordinates>
+    <size value="Small" pax="1442" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="3780" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Senai International Airport" icao="WMKJ" iata="JHB" type="Long_Haul_International" season="All_Year">
+    <town town="Senai" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="001°38'28''N" />
+      <longitude value="103°40'11''E" />
+    </coordinates>
+    <size value="Small" pax="1380" />
+    <terminals>
+      <terminal name="Terminal A" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="3354" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sultan Ismail Petra Airport" icao="WMKC" iata="KBR" type="Short_Haul_International" season="All_Year">
+    <town town="Kota Baharu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="006°10'00''N" />
+      <longitude value="102°17'34''E" />
+    </coordinates>
+    <size value="Small" pax="1132" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2128" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sibu Airport" icao="WBGS" iata="SBW" type="Short_Haul_International" season="All_Year">
+    <town town="Sibu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="002°15'41''N" />
+      <longitude value="111°59'06''E" />
+    </coordinates>
+    <size value="Small" pax="1204" />
+    <terminals>
+      <terminal name="Terminal A" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2754" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Tawau Airport" icao="WBKW" iata="TWU" type="Regional" season="All_Year">
+    <town town="Tawau" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="004°19'12''N" />
+      <longitude value="118°07'40''E" />
+    </coordinates>
+    <size value="Small" pax="982" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2682" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sandakan Airport" icao="WBKS" iata="SDK" type="Short_Haul_International" season="All_Year">
+    <town town="Sandakan" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="005°54'03''N" />
+      <longitude value="118°03'32''E" />
+    </coordinates>
+    <size value="Small" pax="834" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2134" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Bintulu Airport" icao="WBGB" iata="BTU" type="Domestic" season="All_Year">
+    <town town="Bintulu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="003°07'25''N" />
+      <longitude value="113°01'11''E" />
+    </coordinates>
+    <size value="Small" pax="661" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2745" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sultan Mahmud Airport" icao="WMKN" iata="TGG" type="Domestic" season="All_Year">
+    <town town="Kuala Terengganu" country="173" GMT="08:00:00" DST="08:00:00" />
+    <coordinates>
+      <latitude value="005°22'57''N" />
+      <longitude value="103°06'10''E" />
+    </coordinates>
+    <size value="Small" pax="550" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2012" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Singapore (WS**)-->
   <airport name="Singapore Changi Airport" icao="WSSS" iata="SIN" type="Long_Haul_International" season="All_Year">
     <town town="Singapore" country="174" GMT="08:00:00" DST="08:00:00"/>
@@ -3093,7 +3233,7 @@
       <latitude value="040°04'48''N"/>
       <longitude value="116°35'04''E"/>
     </coordinates>
-    <size value="Largest" pax="77403"/>
+    <size value="Largest" pax="81929"/>
     <terminals>
       <terminal name="Terminal 1" gates="16"/>
       <terminal name="Terminal 2" gates="20"/>
