@@ -360,7 +360,7 @@
       <runway name="05/23" length="3100" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Katsina Airport" icao="" iata="DKA" type="Domestic" season="All_Year">
+  <airport name="Katsina Airport" icao="DNKT" iata="DKA" type="Domestic" season="All_Year">
     <town town="Katsina" country="145" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="013°00'28''N" />
@@ -416,7 +416,7 @@
       <runway name="17/35" length="2700" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Warri Airport" icao="" iata="QRW" type="Domestic" season="All_Year">
+  <airport name="Warri Airport" icao="DNSU" iata="QRW" type="Domestic" season="All_Year">
     <town town="Warri" country="145" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="005°35'45''N" />

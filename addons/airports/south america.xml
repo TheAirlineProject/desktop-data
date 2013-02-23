@@ -1800,7 +1800,7 @@
       <runway name="01/19" length="1700" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Apartadó Airport" icao="" iata="APO" type="Domestic" season="All_Year">
+  <airport name="Antonio Roldán Betancourt Airport" icao="SKLC" iata="APO" type="Domestic" season="All_Year">
     <town town="Apartadó" country="183" GMT="-05:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="007°01'58''N" />

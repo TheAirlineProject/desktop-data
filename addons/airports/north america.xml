@@ -3559,7 +3559,7 @@
       <runway name="02/20" length="1018" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Chiquimula Airport" icao="" iata="CIQ" type="Domestic" season="All_Year">
+  <airport name="Chiquimula Airport" icao="MGES" iata="CIQ" type="Domestic" season="All_Year">
     <town town="Chiquimula" country="194" GMT="-06:00:00" DST="-07:00:00"/>
     <coordinates>
       <latitude value="014°51'00''N"/>
