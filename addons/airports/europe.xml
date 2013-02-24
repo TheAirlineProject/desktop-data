@@ -1163,6 +1163,133 @@
       <runway name="08R/26L" length="2549" surface="Asphalt"/>
     </runways>
   </airport>
+    <airport name="Bornholm Airport" icao="EKRN" iata="RNN" type="Domestic" season="All_Year">
+    <town town="Rønne" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="055°03'47''N" />
+      <longitude value="014°45'34''E" />
+    </coordinates>
+    <size value="Smallest" pax="25" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2002" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Copenhagen Roskilde Airport" icao="EKRK" iata="RKE" type="Domestic" season="All_Year">
+    <town town="Copenhagen" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="055°35'08''N" />
+      <longitude value="012°07'53''E" />
+    </coordinates>
+    <size value="Smallest" pax="34" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1500" surface="Asphalt" />
+      <runway name="11/29" length="1740" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Esbjerg Airport" icao="EKEB" iata="EBJ" type="Domestic" season="All_Year">
+    <town town="Esbjerg" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="055°31'33''N" />
+      <longitude value="008°33'12''E" />
+    </coordinates>
+    <size value="Smallest" pax="57" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2599" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Læsø Airport" icao="EKLS" iata="BYR" type="Domestic" season="All_Year">
+    <town town="Læsø" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°16'37''N" />
+      <longitude value="011°00'00''E" />
+    </coordinates>
+    <size value="Smallest" pax="14" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="928" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Læsø Airport" icao="EKLS" iata="BYR" type="Domestic" season="All_Year">
+    <town town="Læsø" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°16'37''N" />
+      <longitude value="011°00'00''E" />
+    </coordinates>
+    <size value="Smallest" pax="14" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="928" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sindal Airport" icao="EKSN" iata="CNL" type="Domestic" season="All_Year">
+    <town town="Sindal" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°30'12''N" />
+      <longitude value="010°13'45''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1199" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Stauning Airport" icao="EKVJ" iata="STA" type="Domestic" season="All_Year">
+    <town town="Skjern / Ringkøbing" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="055°59'24''N" />
+      <longitude value="008°21'14''E" />
+    </coordinates>
+    <size value="Smallest" pax="10" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1450" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Skive Airport" icao="EKSV" iata="SQW" type="Domestic" season="All_Year">
+    <town town="Skive" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°33'00''N" />
+      <longitude value="009°10'22''E" />
+    </coordinates>
+    <size value="Smallest" pax="7" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="1199" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Thisted Airport" icao="EKTS" iata="TED" type="Domestic" season="All_Year">
+    <town town="Thisted" country="110" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°04'07''N" />
+      <longitude value="008°42'18''E" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1600" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Luxembourg (EL**)-->
   <airport name="Luxembourg–Findel Airport" icao="ELLX" iata="LUX" type="Long_Haul_International" season="All_Year">
     <town town="Luxembourg" country="119" GMT="02:00:00" DST="01:00:00"/>
@@ -1415,6 +1542,504 @@
     </terminals>
     <runways>
       <runway name="12/30" length="1668" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Arvidsjaur Airport" icao="ESNX" iata="AJR" type="Domestic" season="All_Year">
+    <town town="Arvidsjaur" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="065°35'25''N" />
+      <longitude value="019°16'54''E" />
+    </coordinates>
+    <size value="Smallest" pax="42" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Borlange Airport" icao="ESSD" iata="BLE" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="060°25'19''N" />
+      <longitude value="015°30'54''E" />
+    </coordinates>
+    <size value="Smallest" pax="34" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2310" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Gothenburg City Airport" icao="ESGP" iata="GSE" type="Short_Haul_International" season="All_Year">
+    <town town="Gothenburg" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°46'28''N" />
+      <longitude value="011°52'13''E" />
+    </coordinates>
+    <size value="Small" pax="714" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2039" surface="Asphalt" />
+      <runway name="04/22" length="871" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Gällivare Airport" icao="ESNG" iata="GEV" type="Domestic" season="All_Year">
+    <town town="Gällivare" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="067°07'56''N" />
+      <longitude value="020°48'52''E" />
+    </coordinates>
+    <size value="Smallest" pax="34" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="1714" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Hagfors Airport" icao="ESOH" iata="HFS" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="060°01'12''N" />
+      <longitude value="013°34'44''E" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="1509" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Halmstad Airport" icao="ESMT" iata="HAD" type="Regional" season="All_Year">
+    <town town="Halmstad" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°41'27''N" />
+      <longitude value="012°49'12''E" />
+    </coordinates>
+    <size value="Smallest" pax="94" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2261" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Hemavan Airport" icao="ESUT" iata="HMV" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="065°48'21''N" />
+      <longitude value="015°04'58''E" />
+    </coordinates>
+    <size value="Smallest" pax="10" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1601" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Jönköping Airport" icao="ESGJ" iata="JKG" type="Domestic" season="All_Year">
+    <town town="Jönköping" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°45'27''N" />
+      <longitude value="014°04'07''E" />
+    </coordinates>
+    <size value="Smallest" pax="73" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2203" surface="Asphalt" />
+      <runway name="11/29" length="600" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kalmar Airport" icao="ESMQ" iata="KLR" type="Regional" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°41'07''N" />
+      <longitude value="016°17'15''E" />
+    </coordinates>
+    <size value="Smallest" pax="166" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="664" surface="Asphalt" />
+      <runway name="16/34" length="2050" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Karlstad Airport" icao="ESOK" iata="KSD" type="Domestic" season="All_Year">
+    <town town="Karlstad" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="059°26'40''N" />
+      <longitude value="013°20'14''E" />
+    </coordinates>
+    <size value="Smallest" pax="82" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2516" surface="Asphalt" />
+      <runway name="03L/21R" length="561" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kiruna Airport" icao="ESNQ" iata="KRN" type="Regional" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="067°49'19''N" />
+      <longitude value="020°20'12''E" />
+    </coordinates>
+    <size value="Smallest" pax="200" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2502" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kramfors Sollefteå Airport" icao="ESNK" iata="KRF" type="Domestic" season="All_Year">
+    <town town="Kramfors / Sollefteå" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="063°02'54''N" />
+      <longitude value="017°46'08''E" />
+    </coordinates>
+    <size value="Smallest" pax="22" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2001" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kristianstad Airport" icao="ESMK" iata="KID" type="Domestic" season="All_Year">
+    <town town="Kristianstad" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="055°55'18''N" />
+      <longitude value="014°05'07''E" />
+    </coordinates>
+    <size value="Smallest" pax="39" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2215" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Linköping SAAB Airport" icao="ESSL" iata="LPI" type="Domestic" season="All_Year">
+    <town town="Linköping" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="058°24'22''N" />
+      <longitude value="015°40'49''E" />
+    </coordinates>
+    <size value="Smallest" pax="91" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2130" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Luleå Airport" icao="ESPA" iata="LLA" type="Short_Haul_International" season="All_Year">
+    <town town="Luleå" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="065°32'37''N" />
+      <longitude value="022°07'19''E" />
+    </coordinates>
+    <size value="Small" pax="979" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="3350" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lycksele Airport" icao="ESNL" iata="LYC" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="064°32'53''N" />
+      <longitude value="018°42'58''E" />
+    </coordinates>
+    <size value="Smallest" pax="21" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2001" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Mora Airport" icao="ESKM" iata="MXX" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="060°57'28''N" />
+      <longitude value="014°30'41''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1814" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Norrköping Airport" icao="ESSP" iata="NRK" type="Domestic" season="All_Year">
+    <town town="Norrköping" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="058°35'10''N" />
+      <longitude value="016°15'02''E" />
+    </coordinates>
+    <size value="Smallest" pax="115" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2203" surface="Asphalt" />
+      <runway name="11/29" length="594" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Oskarshamn Airport" icao="ESMO" iata="OSK" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°21'01''N" />
+      <longitude value="016°29'52''E" />
+    </coordinates>
+    <size value="Smallest" pax="12" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pajala Airport" icao="ESUP" iata="PJA" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="067°14'44''N" />
+      <longitude value="023°04'08''E" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1420" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ronneby Airport" icao="ESDF" iata="RNB" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°16'00''N" />
+      <longitude value="015°15'54''E" />
+    </coordinates>
+    <size value="Very_small" pax="208" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2331" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Skellefteå Airport" icao="ESNS" iata="SFT" type="Regional" season="All_Year">
+    <town town="Skellefteå" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="064°37'29''N" />
+      <longitude value="021°04'36''E" />
+    </coordinates>
+    <size value="Very_small" pax="224" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2100" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Stockholm Västerås Airport" icao="ESOW" iata="VST" type="Regional" season="All_Year">
+    <town town="Stockholm / Västerås" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="059°35'21''N" />
+      <longitude value="016°38'00''E" />
+    </coordinates>
+    <size value="Very_small" pax="150" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2581" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Storuman Airport" icao="ESUD" iata="SQO" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="064°57'39''N" />
+      <longitude value="017°41'47''E" />
+    </coordinates>
+    <size value="Smallest" pax="150" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2283" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sundsvall-Härnösand Airport" icao="ESNN" iata="SDL" type="Short_Haul_International" season="All_Year">
+    <town town="Sundsvall/ Härnösand" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="062°31'41''N" />
+      <longitude value="017°26'38''E" />
+    </coordinates>
+    <size value="Smallest" pax="256" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2090" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sveg Airport" icao="ESND" iata="EVG" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="062°02'52''N" />
+      <longitude value="014°25'22''E" />
+    </coordinates>
+    <size value="Smallest" pax="6" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1700" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Torsby Airport" icao="ESST" iata="TYF" type="Domestic" season="All_Year">
+    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="060°09'27''N" />
+      <longitude value="012°59'28''E" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1591" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Trollhättan-Vänersborg Airport" icao="ESGT" iata="THN" type="Domestic" season="All_Year">
+    <town town="Trollhättan" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="058°19'05''N" />
+      <longitude value="012°20'42''E" />
+    </coordinates>
+    <size value="Smallest" pax="40" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1710" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Umeå Airport" icao="ESNU" iata="UME" type="Short_Haul_International" season="All_Year">
+    <town town="Umeå" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="063°47'30''N" />
+      <longitude value="020°16'58''E" />
+    </coordinates>
+    <size value="Small" pax="846" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2302" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Visby Airport" icao="ESSV" iata="VBY" type="Regional" season="All_Year">
+    <town town="Visby" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="057°39'46''N" />
+      <longitude value="018°20'46''E" />
+    </coordinates>
+    <size value="Small" pax="308" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2000" surface="Asphalt" />
+      <runway name="10/28" length="1101" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Växjö Kronoberg Airport" icao="ESMX" iata="VXO" type="Regional" season="All_Year">
+    <town town="Växjö" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°55'44''N" />
+      <longitude value="014°43'40''E" />
+    </coordinates>
+    <size value="Small" pax="162" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2103" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ängelholm-Helsingborg Airport" icao="ESTA" iata="AGH" type="Regional" season="All_Year">
+    <town town="Ängelholm" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="056°17'45''N" />
+      <longitude value="012°50'49''E" />
+    </coordinates>
+    <size value="Small" pax="376" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1997" surface="Asphalt" />
+      <runway name="14/32" length="1945" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Örebro Airport" icao="ESOE" iata="ORB" type="Domestic" season="All_Year">
+    <town town="Örebro" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="059°13'25''N" />
+      <longitude value="015°02'16''E" />
+    </coordinates>
+    <size value="Smallest" pax="68" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2601" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Örnsköldsvik Airport" icao="ESNO" iata="OER" type="Domestic" season="All_Year">
+    <town town="Örnsköldsvik" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="063°24'29''N" />
+      <longitude value="018°59'23''E" />
+    </coordinates>
+    <size value="Smallest" pax="86" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2014" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Östersund Airport" icao="ESNZ" iata="OSD" type="Regional" season="All_Year">
+    <town town="Östersund" country="168" GMT="01:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="063°11'39''N" />
+      <longitude value="014°30'01''E" />
+    </coordinates>
+    <size value="Smallest" pax="356" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2500" surface="Asphalt" />
+      <runway name="12L/30R" length="1230" surface="Asphalt" />
     </runways>
   </airport>
   <!--Latvia (EV**)-->
