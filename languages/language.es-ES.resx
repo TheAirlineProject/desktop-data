@@ -1761,16 +1761,16 @@
     <value>No se puede despedir a {0} porque esta asignada a un avion de pasajeros</value>
   </data>
   <data name="MessageBox_2117_name" xml:space="preserve">
-    <value></value>
+    <value>Fuego piloto</value>
   </data>
   <data name="MessageBox_2117_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro que quieres disparar {0}?</value>
   </data>
   <data name="MessageBox_2118_name" xml:space="preserve">
-    <value></value>
+    <value>Liberar filial</value>
   </data>
   <data name="MessageBox_2118_message" xml:space="preserve">
-    <value></value>
+    <value>Esta seguro que desea liberar {0} a operar por su cuenta?</value>
   </data>
   <data name="MessageBox_2201_name" xml:space="preserve">
     <value>No hay dinero suficiente</value>
@@ -1875,16 +1875,16 @@
     <value>¿Desea adquirir instalaciones de facturación antes de arrendar  una puerta en el aeropuerto?</value>
   </data>
   <data name="MessageBox_2218_name" xml:space="preserve">
-    <value></value>
+    <value>Construir pista</value>
   </data>
   <data name="MessageBox_2218_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro que quiere construir una pista de aterrizaje en {0} para {1:C}?</value>
   </data>
   <data name="MessageBox_2219_name" xml:space="preserve">
     <value>No hay dinero suficiente</value>
   </data>
   <data name="MessageBox_2219_message" xml:space="preserve">
-    <value></value>
+    <value>Usted no tiene sufficiente dinero para construir una pista de aterrizaje</value>
   </data>
   <data name="MessageBox_2301_name" xml:space="preserve">
     <value>Avión no detenido</value>
@@ -1935,22 +1935,22 @@
     <value>El itinerario no es válido.</value>
   </data>
   <data name="MessageBox_2505_name" xml:space="preserve">
-    <value></value>
+    <value>Falta pilotos</value>
   </data>
   <data name="MessageBox_2505_message" xml:space="preserve">
-    <value></value>
+    <value>Este avión no es atendida adecuadamente. ¿Te gustaría asignar automáticamente a los pilotos a este avión?</value>
   </data>
   <data name="MessageBox_2506_name" xml:space="preserve">
-    <value></value>
+    <value>Faltan pilotos</value>
   </data>
   <data name="MessageBox_2506_message" xml:space="preserve">
-    <value></value>
+    <value>No tiene pilotos gratuitas para este avión. ¿Quiere contratar a los desaparecidos {0} pilotos?</value>
   </data>
   <data name="MessageBox_2507_name" xml:space="preserve">
-    <value></value>
+    <value>Faltan pilotos</value>
   </data>
   <data name="MessageBox_2507_message" xml:space="preserve">
-    <value></value>
+    <value>Este avión no es atendida adecuadamente. Asigne a los pilotos del avión</value>
   </data>
   <data name="MessageBox_2601_name" xml:space="preserve">
     <value>Unirse a alianza</value>
@@ -2025,58 +2025,58 @@
     <value>El avión no puede alcanzar su destino desde esta entrada.</value>
   </data>
   <data name="MessageBox_2801_name" xml:space="preserve">
-    <value></value>
+    <value>Contratar piloto</value>
   </data>
   <data name="MessageBox_2801_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro de que deseas contratar este piloto?</value>
   </data>
   <data name="MessageBox_2802_name" xml:space="preserve">
-    <value></value>
+    <value>Contratar instructor</value>
   </data>
   <data name="MessageBox_2802_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro de quedeseas contratar este instructor?</value>
   </data>
   <data name="MessageBox_2803_name" xml:space="preserve">
-    <value></value>
+    <value>Construir la escuela de vuelo</value>
   </data>
   <data name="MessageBox_2803_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro que quiere construir una escuela de vuelo nuevo para {0:C}?</value>
   </data>
   <data name="MessageBox_2804_name" xml:space="preserve">
-    <value></value>
+    <value>Retire la escuela de vuelo</value>
   </data>
   <data name="MessageBox_2804_message" xml:space="preserve">
-    <value></value>
+    <value>¿Está seguro que desea eliminar la escuela de vuelo {0}? Se dará a conocer todos los aviones, instructores y estudiantes de la escuela de vuelo</value>
   </data>
   <data name="MessageBox_2805_name" xml:space="preserve">
-    <value></value>
+    <value>No se puede disparar instructor</value>
   </data>
   <data name="MessageBox_2805_message" xml:space="preserve">
-    <value></value>
+    <value>No se puede despedir a {0} ya que los estudiantes se les encomienden</value>
   </data>
   <data name="MessageBox_2806_name" xml:space="preserve">
-    <value></value>
+    <value>Fuego instructor</value>
   </data>
   <data name="MessageBox_2806_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro que quieres disparar {0}?</value>
   </data>
   <data name="MessageBox_2807_name" xml:space="preserve">
-    <value></value>
+    <value>Fuego estudiante</value>
   </data>
   <data name="MessageBox_2807_message" xml:space="preserve">
-    <value></value>
+    <value>Seguro que quieres disparar {0}?</value>
   </data>
   <data name="MessageBox_2901_name" xml:space="preserve">
-    <value></value>
+    <value>Avion de linea limite</value>
   </data>
   <data name="MessageBox_2901_message" xml:space="preserve">
-    <value></value>
+    <value>El centro de mantanimiento seleccionado solo puede manejar {0} en el tiempo</value>
   </data>
   <data name="MessageBox_2902_name" xml:space="preserve">
-    <value></value>
+    <value>Aplicacion de la configuracion</value>
   </data>
   <data name="MessageBox_2902_message" xml:space="preserve">
-    <value></value>
+    <value>¿Está seguro que desea aplicar estas configuraciones para los aviones que toma un máximo de {0} días?</value>
   </data>
   <data name="News_1001_name" xml:space="preserve">
     <value>Bienvenido al juego</value>
@@ -2108,28 +2108,28 @@
     <value>Vuelo cancelado</value>
   </data>
   <data name="News_1005_message" xml:space="preserve">
-    <value></value>
+    <value>Su vuelo {0} de [LI aeropuerto = {1}] en [LI aeropuerto = {2}] se ha cancelado el vuelo actual debido al mal tiempo</value>
   </data>
   <data name="News_1006_name" xml:space="preserve">
-    <value></value>
+    <value>Piloto de estudiante</value>
   </data>
   <data name="News_1006_message" xml:space="preserve">
-    <value></value>
+    <value>Su estudiante piloto {0} ha terminado la educación y ahora es un piloto para usted</value>
   </data>
   <data name="News_1007_name" xml:space="preserve">
-    <value></value>
+    <value>Piloto de jubilarse</value>
   </data>
   <data name="News_1007_message" xml:space="preserve">
-    <value></value>
+    <value>Su piloto {0} está convirtiendo {1} años antes y se retirará a finales de mes.</value>
   </data>
   <data name="News_1008_name" xml:space="preserve">
-    <value></value>
+    <value>Instructor de jubilarse</value>
   </data>
   <data name="News_1008_message" xml:space="preserve">
-    <value></value>
+    <value>Su instructor{0} está convirtiendo {1} años antes y se retirará a finales de mes.</value>
   </data>
   <data name="News_1009_name" xml:space="preserve">
-    <value></value>
+    <value>Piloto se retira</value>
   </data>
   <data name="News_1009_message" xml:space="preserve">
     <value></value>
@@ -2267,6 +2267,87 @@
     <value></value>
   </data>
   <data name="PageSearchAirliners_1006_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirport_1025_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirport_1026_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1001_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1003_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageNewGame_1018_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageNewGame_1019_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageNewGame_1020_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpSelectOpponents_1001_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2220_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2220_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2221_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2221_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirportGates_1009_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirportGates_206_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirportGates_207_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2706_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2706_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_201_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_202_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
     <value></value>
   </data>
 </root>
