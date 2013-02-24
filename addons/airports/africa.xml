@@ -932,7 +932,7 @@
       <terminal name="Terminal A" gates="3" />
     </terminals>
     <runways>
-		<name="02/20" length="3700" surface="Asphalt" />
+		<runway name="02/20" length="3700" surface="Asphalt" />
 	</runways>
   </airport>
     <airport name="Dundo Airport" icao="FNDU" iata="DUE" type="Domestic" season="All_Year">
