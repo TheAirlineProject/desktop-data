@@ -3,6 +3,10 @@
   <profile name="Scandinavian Airlines" iata="SK" color="Tan" country="110;139;113" CEO="Rickard Gustafson" mentality="Aggressive" market="Global" preferedairport="CPH">
     <narrative narrative="Scandinavian Airlines or SAS, previously Scandinavian Airlines System, is the flag carrier of Denmark, Norway and Sweden, and the largest airline in Scandinavia.
 Part of the SAS Group and headquartered at Stockholm Arlanda Airport (ARN) in Sigtuna, Sweden, the airline operates 182 aircraft to 90 destinations. The airline's main hub is Kastrup or Copenhagen Airport, which is the main European and intercontinental hub. Somewhat smaller hubs also exist at Oslo Airport, Gardermoen and Stockholm-Arlanda Airport." />
+<logos>
+<logo from="1945" to="1983" path="SK1945-1983"></logo>
+<logo from="1984" to="1998" path="SK1984-1998"></logo>
+</logos>  
   </profile>
   <startdata>
   <routes>
