@@ -2361,4 +2361,7 @@ Good luck.</value>
   <data name="PageAirportFlights_201_name" xml:space="preserve">
     <value>Flights map</value>
   </data>
+  <data name="PageAirlineFleet_1010_name" xml:space="preserve">
+    <value>Select airline for transfering</value>
+  </data>
 </root>
