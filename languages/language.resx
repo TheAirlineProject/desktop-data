@@ -2364,4 +2364,10 @@ Good luck.</value>
   <data name="PageAirlineFleet_1010_name" xml:space="preserve">
     <value>Select airline for transfering</value>
   </data>
+  <data name="PageAirlineSubsidiaries_1002_name" xml:space="preserve">
+    <value>Transfer funds between airlines</value>
+  </data>
+  <data name="PageAirlineSubsidiaries_201_name" xml:space="preserve">
+    <value>Transfer funds</value>
+  </data>
 </root>
