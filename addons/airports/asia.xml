@@ -2055,21 +2055,6 @@
       <runway name="07R/25L" length="3865" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Polonia International Airport" icao="WIMM" iata="MES" type="Short_Haul_International" season="All_Year">
-    <town town="Medan" country="162" GMT="07:00:00" DST="07:00:00"/>
-    <coordinates>
-      <latitude value="003°34'00''N"/>
-      <longitude value="098°40'59''E"/>
-    </coordinates>
-    <size value="Medium" pax="7170"/>
-    <terminals>
-      <terminal name="Terminal 1" gates="10"/>
-      <terminal name="Terminal 2" gates="10"/>
-    </terminals>
-    <runways>
-      <runway name="05/23" length="3000" surface="Asphalt"/>
-    </runways>
-  </airport>
   <airport name="Husein Sastranegara International Airport" icao="WICC" iata="BDO" type="Short_Haul_International" season="All_Year">
     <town town="Bandung" country="162" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
