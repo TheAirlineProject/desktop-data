@@ -1531,7 +1531,7 @@
       <es-ES name="Montenegro" />
     </translations>
   </country>
-  <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="NP-\\s3">
+  <country uid="251" shortname="NEP" region="110" flag="Nepal" tailformat="9N-\\s3">
     <currency symbol="रू" position="Left" rate="88.11" />
     <translations>
       <en-US name="Nepal" />
