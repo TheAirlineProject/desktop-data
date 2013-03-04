@@ -184,7 +184,7 @@
     <value>Niet vertaald</value>
   </data>
   <data name="General_2000_name" xml:space="preserve">
-    <value>miljoen</value>
+    <value>Miljoen</value>
   </data>
   <data name="General_2001_name" xml:space="preserve">
     <value>Miljard</value>
@@ -199,7 +199,7 @@
     <value>Ontvangen</value>
   </data>
   <data name="PopUpTimeTable_1000_name" xml:space="preserve">
-    <value>Dienstregeling route</value>
+    <value>Vluchtschema</value>
   </data>
   <data name="PopUpBuildRunway_1000_name" xml:space="preserve">
     <value>Bouw start-/landingsbaan</value>
@@ -322,7 +322,7 @@
     <value>Logo luchtvaartmaatschappij</value>
   </data>
   <data name="PopUpNewSubsidiary_1004_name" xml:space="preserve">
-    <value>Kleur luchtvaartmaatschappij</value>
+    <value>Kleur maatschappij</value>
   </data>
   <data name="PopUpNewSubsidiary_1005_name" xml:space="preserve">
     <value>Thuisbasis luchtvaartmaatschappij</value>
@@ -361,7 +361,7 @@
     <value>Credits</value>
   </data>
   <data name="PageFrontMenu_204_name" xml:space="preserve">
-    <value>Beëindig spel</value>
+    <value>Spel afsluiten</value>
   </data>
   <data name="PageFrontMenu_1001_name" xml:space="preserve">
     <value>Startmenu</value>
@@ -715,7 +715,7 @@
     <value>Thuisland</value>
   </data>
   <data name="PageAirline_1006_name" xml:space="preserve">
-    <value>Kleur van de luchtvaartmaatschappij</value>
+    <value>Kleur maatschappij</value>
   </data>
   <data name="PageAirline_1007_name" xml:space="preserve">
     <value>Aantal vliegtuigen in vloot</value>
@@ -877,7 +877,7 @@
     <value>Naam directeur</value>
   </data>
   <data name="PageNewGame_1006_name" xml:space="preserve">
-    <value>Kleur luchtvaartmaatschappij</value>
+    <value>Kleur maatschappij</value>
   </data>
   <data name="PageNewGame_1007_name" xml:space="preserve">
     <value>Kies thuisbasis</value>
@@ -1240,7 +1240,7 @@
     <value>Vluchten</value>
   </data>
   <data name="PanelAirlines_1002_name" xml:space="preserve">
-    <value>Financi?n</value>
+    <value>Financiën</value>
   </data>
   <data name="PanelAirlines_1003_name" xml:space="preserve">
     <value>Vloot</value>
@@ -1258,7 +1258,7 @@
     <value>Statistieken</value>
   </data>
   <data name="PanelAirline_1005_name" xml:space="preserve">
-    <value>Financi?n</value>
+    <value>Financiën</value>
   </data>
   <data name="PanelAirline_1006_name" xml:space="preserve">
     <value>Beleid van de luchtvaartmaatschappij</value>
@@ -1546,7 +1546,7 @@
     <value>Nieuw spel</value>
   </data>
   <data name="MenuExitGame_1000_name" xml:space="preserve">
-    <value>Spel be?indigen</value>
+    <value>Spel afsluiten</value>
   </data>
   <data name="MessageBox_101_name" xml:space="preserve">
     <value>Foute bestandsnaam</value>
@@ -1567,7 +1567,7 @@
     <value>Weet je zeker dat je een opgeslagen spel wil laden?</value>
   </data>
   <data name="MessageBox_1003_name" xml:space="preserve">
-    <value>Spel be?indigen</value>
+    <value>Spel afsluiten</value>
   </data>
   <data name="MessageBox_1003_message" xml:space="preserve">
     <value>Weet je zeker dat je wil stoppen?</value>
@@ -1960,7 +1960,7 @@
     <value>Uit samenwerking stappen</value>
   </data>
   <data name="MessageBox_2602_message" xml:space="preserve">
-    <value>Ben je zeker dat je {0} wil verlaten?</value>
+    <value>Ben je zeker dat je {0} wilt verlaten?</value>
   </data>
   <data name="MessageBox_2603_name" xml:space="preserve">
     <value>Samenwerking verwijderen</value>
@@ -2023,10 +2023,10 @@
     <value>Het vliegtuig kan de bestemming niet bereiken vanuit deze locatie</value>
   </data>
   <data name="MessageBox_2801_name" xml:space="preserve">
-    <value>Huur piloot</value>
+    <value>Piloot aannemen</value>
   </data>
   <data name="MessageBox_2801_message" xml:space="preserve">
-    <value>Weet u zeker dat u deze piloot wilt inhuren?</value>
+    <value>Weet u zeker dat u deze piloot wilt aannemen?</value>
   </data>
   <data name="MessageBox_2802_name" xml:space="preserve">
     <value>Huur instructeur</value>
@@ -2221,10 +2221,10 @@
     <value>Kies een scenario</value>
   </data>
   <data name="MessageBox_2119_message" xml:space="preserve">
-    <value>Weet u zeker dat u de licentie wilt uitbreiden van {0} naar {1}?</value>
+    <value>Weet u zeker dat u de vergunning wilt uitbreiden van {0} naar {1}?</value>
   </data>
   <data name="MessageBox_2119_name" xml:space="preserve">
-    <value>Licentie uitbreiden</value>
+    <value>Vergunning uitbreiden</value>
   </data>
   <data name="MessageBox_2808_message" xml:space="preserve">
     <value>U kunt alleen personeel aannemen uit landen waarop u vliegt.</value>
