@@ -2188,7 +2188,7 @@ Good luck.</value>
     <value>Same route</value>
   </data>
   <data name="PageOrderAirliners_1013_name" xml:space="preserve">
-    <value>Manufactorer standard</value>
+    <value>Manufacturer standard</value>
   </data>
   <data name="PageAirlineStatistics_1005_name" xml:space="preserve">
     <value>Extended statistics</value>
@@ -2381,6 +2381,18 @@ Good luck.</value>
   </data>
   <data name="MessageBox_2121_name" xml:space="preserve">
     <value>Transfer funds</value>
+  </data>
+  <data name="MessageBox_2122_message" xml:space="preserve">
+    <value>You can't delete this airliner since it is in route.</value>
+  </data>
+  <data name="MessageBox_2122_name" xml:space="preserve">
+    <value>Can't delete airliner</value>
+  </data>
+  <data name="MessageBox_2222_message" xml:space="preserve">
+    <value>Are you sure you want to rent a gate at {0}?</value>
+  </data>
+  <data name="MessageBox_2222_name" xml:space="preserve">
+    <value>Rent gate</value>
   </data>
   <data name="PageAirline_1026_name" xml:space="preserve">
     <value>Buy as a subsidiary</value>

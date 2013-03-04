@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -186,6 +186,9 @@
   <data name="General_2000_name" xml:space="preserve">
     <value>miljoen</value>
   </data>
+  <data name="General_2001_name" xml:space="preserve">
+    <value>Miljard</value>
+  </data>
   <data name="LanguageTranslationConverter_1000_name" xml:space="preserve">
     <value>Type</value>
   </data>
@@ -197,6 +200,18 @@
   </data>
   <data name="PopUpTimeTable_1000_name" xml:space="preserve">
     <value>Dienstregeling route</value>
+  </data>
+  <data name="PopUpBuildRunway_1000_name" xml:space="preserve">
+    <value>Bouw start-/landingsbaan</value>
+  </data>
+  <data name="PopUpBuildRunway_1001_name" xml:space="preserve">
+    <value>Naam start-/landingsbaan</value>
+  </data>
+  <data name="PopUpBuildRunway_1002_name" xml:space="preserve">
+    <value>Verharding</value>
+  </data>
+  <data name="PopUpBuildRunway_1003_name" xml:space="preserve">
+    <value>Lengte start-/landingsbaan</value>
   </data>
   <data name="PopUpAirlinerRoutes_1000_name" xml:space="preserve">
     <value>Planning overdragen</value>
@@ -332,6 +347,24 @@
   </data>
   <data name="PageRoutes_1003_name" xml:space="preserve">
     <value>{0} routes</value>
+  </data>
+  <data name="PageFrontMenu_200_name" xml:space="preserve">
+    <value>Nieuw spel</value>
+  </data>
+  <data name="PageFrontMenu_201_name" xml:space="preserve">
+    <value>Laad spel</value>
+  </data>
+  <data name="PageFrontMenu_202_name" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="PageFrontMenu_203_name" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="PageFrontMenu_204_name" xml:space="preserve">
+    <value>Beëindig spel</value>
+  </data>
+  <data name="PageFrontMenu_1001_name" xml:space="preserve">
+    <value>Startmenu</value>
   </data>
   <data name="PageFleetAirliner_200_name" xml:space="preserve">
     <value>Vliegtuig kopen</value>
@@ -519,6 +552,9 @@
   <data name="PageAirport_1019_name" xml:space="preserve">
     <value>Seizoensmatig</value>
   </data>
+  <data name="PageAirport_1020_name" xml:space="preserve">
+    <value>Dagelijkse vraag / Resterende vraag</value>
+  </data>
   <data name="PageAirport_1021_name" xml:space="preserve">
     <value>Omvang lading</value>
   </data>
@@ -531,8 +567,14 @@
   <data name="PageAirport_1024_name" xml:space="preserve">
     <value>Sluitingsdatum</value>
   </data>
+  <data name="PageAirportRunways_201_name" xml:space="preserve">
+    <value>Bouw start-/landingsbaan</value>
+  </data>
   <data name="PageAirportRunways_1001_name" xml:space="preserve">
     <value>Startbaaninformatie (naam / lengte / ondergrond)</value>
+  </data>
+  <data name="PageAirportRunways_1002_name" xml:space="preserve">
+    <value>Informatie start-/landingsbaan (Naam / Lengte / Verharding / Opleveringsdatum)</value>
   </data>
   <data name="PageAirportFacilities_1001_name" xml:space="preserve">
     <value>Luchthavenvoorzieningen</value>
@@ -747,6 +789,24 @@
   <data name="PageFlights_1000_name" xml:space="preserve">
     <value>Vluchten</value>
   </data>
+  <data name="PagePilots_200_name" xml:space="preserve">
+    <value>Bouw luchtvaartschool</value>
+  </data>
+  <data name="PagePilots_1000_name" xml:space="preserve">
+    <value>Luchtvaartscholen &amp; Piloten</value>
+  </data>
+  <data name="PagePilots_1001_name" xml:space="preserve">
+    <value>Piloten</value>
+  </data>
+  <data name="PagePilots_1002_name" xml:space="preserve">
+    <value>Instructeurs</value>
+  </data>
+  <data name="PagePilots_1003_name" xml:space="preserve">
+    <value>Luchtvaartschoolen</value>
+  </data>
+  <data name="PagePilots_1004_name" xml:space="preserve">
+    <value>Selecteer locatie luchtvaartschool</value>
+  </data>
   <data name="PageAlliances_1000_name" xml:space="preserve">
     <value>Allianties</value>
   </data>
@@ -755,6 +815,9 @@
   </data>
   <data name="PageNewsBox_201_name" xml:space="preserve">
     <value>Alles markeren als gelezen</value>
+  </data>
+  <data name="PageNewsBox_202_name" xml:space="preserve">
+    <value>Verwijder geselecteerd nieuws</value>
   </data>
   <data name="PageNewsBox_1000_name" xml:space="preserve">
     <value>Nieuws</value>
@@ -782,6 +845,12 @@
   </data>
   <data name="PageSettings_1007_name" xml:space="preserve">
     <value>Mail bij slecht weer</value>
+  </data>
+  <data name="PageSettings_1008_name" xml:space="preserve">
+    <value>Gebruik afkorting voor valuta</value>
+  </data>
+  <data name="PageCredits_1000_name" xml:space="preserve">
+    <value>Credits</value>
   </data>
   <data name="PageNewGame_200_name" xml:space="preserve">
     <value>Nieuw spel aanmaken</value>
@@ -830,6 +899,36 @@
   </data>
   <data name="PageNewGame_1013_name" xml:space="preserve">
     <value>Kies focus van luchtvaartmaatschappij</value>
+  </data>
+  <data name="PageNewGame_1014_name" xml:space="preserve">
+    <value>Gebruik lokale valuta</value>
+  </data>
+  <data name="PageNewGame_1015_name" xml:space="preserve">
+    <value>Beschrijving </value>
+  </data>
+  <data name="PageNewGame_1016_name" xml:space="preserve">
+    <value>Gebruik 24-uurs snelheid</value>
+  </data>
+  <data name="PageNewGame_1017_name" xml:space="preserve">
+    <value>Tegenstanders uit zelfde regio</value>
+  </data>
+  <data name="PageAirlinePilots_1001_name" xml:space="preserve">
+    <value>Piloten</value>
+  </data>
+  <data name="PageAirlinePilots_1002_name" xml:space="preserve">
+    <value>Wijs piloot aan toestel toe</value>
+  </data>
+  <data name="PageAirlineFacilityMaintenance_201_name" xml:space="preserve">
+    <value>Aantal klassen</value>
+  </data>
+  <data name="PageAirlineFacilityMaintenance_202_name" xml:space="preserve">
+    <value>Toepassen</value>
+  </data>
+  <data name="PageAirlineFacilityMaintenance_1001_name" xml:space="preserve">
+    <value>Vliegtuigconfiguratie</value>
+  </data>
+  <data name="PageAirlineFacilityMaintenance_1002_name" xml:space="preserve">
+    <value>Vliegtuig klassen</value>
   </data>
   <data name="PageAirlineFleet_1001_name" xml:space="preserve">
     <value>Overzicht vloot</value>
@@ -999,6 +1098,117 @@
   <data name="PageAirlineStatistics_1004_name" xml:space="preserve">
     <value>Passagiers per vlucht</value>
   </data>
+  <data name="PanelRoute_200_name" xml:space="preserve">
+    <value>Verwijder route</value>
+  </data>
+  <data name="PanelRoute_1000_name" xml:space="preserve">
+    <value>Route-informatie</value>
+  </data>
+  <data name="PanelRoute_1001_name" xml:space="preserve">
+    <value>Bestemming 1</value>
+  </data>
+  <data name="PanelRoute_1002_name" xml:space="preserve">
+    <value>Bestemming 2</value>
+  </data>
+  <data name="PanelRoute_1003_name" xml:space="preserve">
+    <value>Stops</value>
+  </data>
+  <data name="PanelRoute_1004_name" xml:space="preserve">
+    <value>Totale afstand</value>
+  </data>
+  <data name="PanelRoute_1005_name" xml:space="preserve">
+    <value>Rustpunt</value>
+  </data>
+  <data name="PanelRoute_1006_name" xml:space="preserve">
+    <value>Vluchten per week (uit/in)</value>
+  </data>
+  <data name="PanelRoute_1007_name" xml:space="preserve">
+    <value>Route-financiën</value>
+  </data>
+  <data name="PanelRoute_1008_name" xml:space="preserve">
+    <value>Totale route-financiën</value>
+  </data>
+  <data name="PanelRoute_1009_name" xml:space="preserve">
+    <value>Passagiers</value>
+  </data>
+  <data name="PanelRoute_1010_name" xml:space="preserve">
+    <value>Gemiddeld aantal passagiers</value>
+  </data>
+  <data name="PanelRoute_1011_name" xml:space="preserve">
+    <value>Bezetting</value>
+  </data>
+  <data name="PanelRoute_1012_name" xml:space="preserve">
+    <value>Balans</value>
+  </data>
+  <data name="PanelInstructor_200_name" xml:space="preserve">
+    <value>Huur</value>
+  </data>
+  <data name="PanelInstructor_1001_name" xml:space="preserve">
+    <value>Instructeurs informatie</value>
+  </data>
+  <data name="PanelInstructor_1002_name" xml:space="preserve">
+    <value>Selecteer luchtvaartschool voor instructeur</value>
+  </data>
+  <data name="PanelFlightSchool_200_name" xml:space="preserve">
+    <value>Huur student</value>
+  </data>
+  <data name="PanelFlightSchool_201_name" xml:space="preserve">
+    <value>Koop trainingsvliegtuig</value>
+  </data>
+  <data name="PanelFlightSchool_1001_name" xml:space="preserve">
+    <value>Vluchtschool informatie</value>
+  </data>
+  <data name="PanelFlightSchool_1002_name" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="PanelFlightSchool_1003_name" xml:space="preserve">
+    <value>Instructeurs</value>
+  </data>
+  <data name="PanelFlightSchool_1004_name" xml:space="preserve">
+    <value>Studenten (Naam / Leeftijd / Land / Opleidingsdatum / Instructeur)</value>
+  </data>
+  <data name="PanelFlightSchool_1005_name" xml:space="preserve">
+    <value>Instructeur voor student</value>
+  </data>
+  <data name="PanelFlightSchool_1006_name" xml:space="preserve">
+    <value>Studenten</value>
+  </data>
+  <data name="PanelFlightSchool_1007_name" xml:space="preserve">
+    <value>Instructeurs (Naam / Leeftijd / Ervaring / Land)</value>
+  </data>
+  <data name="PanelFlightSchool_1008_name" xml:space="preserve">
+    <value>Selecteer luchtvaartschool</value>
+  </data>
+  <data name="PanelFlightSchool_1009_name" xml:space="preserve">
+    <value>Trainingsvliegtuigen</value>
+  </data>
+  <data name="PanelPilot_200_name" xml:space="preserve">
+    <value>Huur</value>
+  </data>
+  <data name="PanelPilot_1001_name" xml:space="preserve">
+    <value>Piloot informatie</value>
+  </data>
+  <data name="PanelPilot_1002_name" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="PanelPilot_1003_name" xml:space="preserve">
+    <value>Geboortedatum</value>
+  </data>
+  <data name="PanelPilot_1004_name" xml:space="preserve">
+    <value>Plaats</value>
+  </data>
+  <data name="PanelPilot_1005_name" xml:space="preserve">
+    <value>Land</value>
+  </data>
+  <data name="PanelPilot_1006_name" xml:space="preserve">
+    <value>Opleidingsjaar</value>
+  </data>
+  <data name="PanelPilot_1007_name" xml:space="preserve">
+    <value>Ervaring</value>
+  </data>
+  <data name="PanelPilot_1008_name" xml:space="preserve">
+    <value>Maandelijks salaris</value>
+  </data>
   <data name="PanelAirlinesExtendedStatistics_1001_name" xml:space="preserve">
     <value>Vloot Statistieken</value>
   </data>
@@ -1055,6 +1265,9 @@
   </data>
   <data name="PanelAirline_1007_name" xml:space="preserve">
     <value>Dochtermaatschappijen</value>
+  </data>
+  <data name="PanelAirline_1008_name" xml:space="preserve">
+    <value>Piloten</value>
   </data>
   <data name="PanelAlliance_200_name" xml:space="preserve">
     <value>Meedoen met samenwerking</value>
@@ -1167,6 +1380,9 @@
   <data name="PageOrderAirliners_200_name" xml:space="preserve">
     <value>Nieuw vliegtuige bestellen</value>
   </data>
+  <data name="PageOrderAirliners_201_name" xml:space="preserve">
+    <value>Bepaal klassen</value>
+  </data>
   <data name="PageOrderAirliners_1001_name" xml:space="preserve">
     <value>Vliegtuigen bestellen</value>
   </data>
@@ -1199,6 +1415,9 @@
   </data>
   <data name="PageOrderAirliners_1011_name" xml:space="preserve">
     <value>Kies contractduur</value>
+  </data>
+  <data name="PageOrderAirliners_1012_name" xml:space="preserve">
+    <value>Vliegtuig klassen</value>
   </data>
   <data name="PanelUsedAirliner_200_name" xml:space="preserve">
     <value>Kopen</value>
@@ -1296,6 +1515,12 @@
   <data name="PanelNewRoute_203_name" xml:space="preserve">
     <value>Bestemming 2</value>
   </data>
+  <data name="PanelNewRoute_204_name" xml:space="preserve">
+    <value>Afstand</value>
+  </data>
+  <data name="PanelNewRoute_205_name" xml:space="preserve">
+    <value>Max. afstand</value>
+  </data>
   <data name="PanelNewRoute_206_name" xml:space="preserve">
     <value>{0} gate(s)</value>
   </data>
@@ -1304,6 +1529,12 @@
   </data>
   <data name="PanelNewRoute_1002_name" xml:space="preserve">
     <value>Vluchten tussen {0} en {1} zijn niet toegestaan</value>
+  </data>
+  <data name="PanelNewRoute_1003_name" xml:space="preserve">
+    <value>Rustpunt</value>
+  </data>
+  <data name="PanelNewRoute_1004_name" xml:space="preserve">
+    <value>Route</value>
   </data>
   <data name="MenuHome_1000_name" xml:space="preserve">
     <value>Hoofdscherm</value>
@@ -1515,6 +1746,30 @@
   <data name="MessageBox_2114_message" xml:space="preserve">
     <value>Ben je zeker dat je ook alle dochtermaatschappijen wil kopen?</value>
   </data>
+  <data name="MessageBox_2115_name" xml:space="preserve">
+    <value>Piloot kan niet opnieuw toegewezen worden. </value>
+  </data>
+  <data name="MessageBox_2115_message" xml:space="preserve">
+    <value>Piloot kan niet opnieuw toegewezen worden omdat het vliegtuig nog in de lucht zit. </value>
+  </data>
+  <data name="MessageBox_2116_name" xml:space="preserve">
+    <value>Piloot kan niet ontslagen worden.</value>
+  </data>
+  <data name="MessageBox_2116_message" xml:space="preserve">
+    <value>Piloot {0} kan niet niet ontslagen worden, is nog toegewezen aan een vliegtuig. </value>
+  </data>
+  <data name="MessageBox_2117_name" xml:space="preserve">
+    <value>Ontsla piloot</value>
+  </data>
+  <data name="MessageBox_2117_message" xml:space="preserve">
+    <value>Weet u zeker dat u {0} wilt ontslaan?</value>
+  </data>
+  <data name="MessageBox_2118_name" xml:space="preserve">
+    <value>Dochtermaatschappij liquideren</value>
+  </data>
+  <data name="MessageBox_2118_message" xml:space="preserve">
+    <value>Weet u zeker dat u {0} wilt sluiten en zelfstandig wilt laten opereren?</value>
+  </data>
   <data name="MessageBox_2201_name" xml:space="preserve">
     <value>Niet genoeg geld</value>
   </data>
@@ -1617,6 +1872,18 @@
   <data name="MessageBox_2217_message" xml:space="preserve">
     <value>Wil je incheckvoorzieningen kopen voor je een gate huurt in de luchthaven?</value>
   </data>
+  <data name="MessageBox_2218_name" xml:space="preserve">
+    <value>Bouw start-/landingsbaan</value>
+  </data>
+  <data name="MessageBox_2218_message" xml:space="preserve">
+    <value>Weet u zeker dat u een start-/landingsbaan wilt bouwen op {0} voor {1:C}?</value>
+  </data>
+  <data name="MessageBox_2219_name" xml:space="preserve">
+    <value>Niet genoeg geld</value>
+  </data>
+  <data name="MessageBox_2219_message" xml:space="preserve">
+    <value>U heeft niet genoeg geld om een start-/landingsbaan te bouwen.</value>
+  </data>
   <data name="MessageBox_2301_name" xml:space="preserve">
     <value>Vliegtuig in de lucht</value>
   </data>
@@ -1664,6 +1931,24 @@
   </data>
   <data name="MessageBox_2504_message" xml:space="preserve">
     <value>De dienstregeling is ongeldig.</value>
+  </data>
+  <data name="MessageBox_2505_name" xml:space="preserve">
+    <value>Ontbrekende piloten</value>
+  </data>
+  <data name="MessageBox_2505_message" xml:space="preserve">
+    <value>De bemanning van dit vliegtuig is onvoldoende. Wilt u piloten automatisch toewijzen?</value>
+  </data>
+  <data name="MessageBox_2506_name" xml:space="preserve">
+    <value>Ontbrekende piloten</value>
+  </data>
+  <data name="MessageBox_2506_message" xml:space="preserve">
+    <value>Er zijn geen piloten beschikbaar voor dit vliegtuig. Wilt u de ontbrekende {0} piloten inhuren?</value>
+  </data>
+  <data name="MessageBox_2507_name" xml:space="preserve">
+    <value>Ontbrekende piloten</value>
+  </data>
+  <data name="MessageBox_2507_message" xml:space="preserve">
+    <value>De bemanning van dit vliegtuig is onvoldoende. Wijs piloten aan dit vliegtuig toe. </value>
   </data>
   <data name="MessageBox_2601_name" xml:space="preserve">
     <value>Aansluiten bij samenwerking</value>
@@ -1737,6 +2022,60 @@
   <data name="MessageBox_2704_message" xml:space="preserve">
     <value>Het vliegtuig kan de bestemming niet bereiken vanuit deze locatie</value>
   </data>
+  <data name="MessageBox_2801_name" xml:space="preserve">
+    <value>Huur piloot</value>
+  </data>
+  <data name="MessageBox_2801_message" xml:space="preserve">
+    <value>Weet u zeker dat u deze piloot wilt inhuren?</value>
+  </data>
+  <data name="MessageBox_2802_name" xml:space="preserve">
+    <value>Huur instructeur</value>
+  </data>
+  <data name="MessageBox_2802_message" xml:space="preserve">
+    <value>Weet u zeker dat u deze instructeur wilt inhuren?</value>
+  </data>
+  <data name="MessageBox_2803_name" xml:space="preserve">
+    <value>Bouw luchtvaartschool</value>
+  </data>
+  <data name="MessageBox_2803_message" xml:space="preserve">
+    <value>Weet u zeker dat u een nieuwe luchtvaartschool wilt bouwen voor {0:C}?</value>
+  </data>
+  <data name="MessageBox_2804_name" xml:space="preserve">
+    <value>Verwijder luchtvaartschool</value>
+  </data>
+  <data name="MessageBox_2804_message" xml:space="preserve">
+    <value>Weet u zeker dat u luchtvaartschool {0} wilt verwijderen? Alle op deze luchtvaartschool aanwezige vliegtuigen, instructeurs en studenten verdwijnen.</value>
+  </data>
+  <data name="MessageBox_2805_name" xml:space="preserve">
+    <value>Instructeur kan niet worden ontslagen</value>
+  </data>
+  <data name="MessageBox_2805_message" xml:space="preserve">
+    <value>U kunt {0} niet ontslaan omdat er nog studenten aan hem zijn toegewezen. </value>
+  </data>
+  <data name="MessageBox_2806_name" xml:space="preserve">
+    <value>Ontsla instructeur</value>
+  </data>
+  <data name="MessageBox_2806_message" xml:space="preserve">
+    <value>Weet u zeker dat u {0} wilt ontslaan?</value>
+  </data>
+  <data name="MessageBox_2807_name" xml:space="preserve">
+    <value>Ontslag student</value>
+  </data>
+  <data name="MessageBox_2807_message" xml:space="preserve">
+    <value>Weet u zeker dat u {0} wilt ontslaan?</value>
+  </data>
+  <data name="MessageBox_2901_name" xml:space="preserve">
+    <value>Vliegtuig limiet</value>
+  </data>
+  <data name="MessageBox_2901_message" xml:space="preserve">
+    <value>Het geselecteerde onderhoudscentrum kan op het moment maar {0} afhandelen. </value>
+  </data>
+  <data name="MessageBox_2902_name" xml:space="preserve">
+    <value>Configuratie toepassen</value>
+  </data>
+  <data name="MessageBox_2902_message" xml:space="preserve">
+    <value>Weet u zeker dat u deze configuratie op de vliegtuigen wilt toepassen? Dit duurt maximaal {0} dagen.</value>
+  </data>
   <data name="News_1001_name" xml:space="preserve">
     <value>Welkom</value>
   </data>
@@ -1758,8 +2097,56 @@
   <data name="News_1004_name" xml:space="preserve">
     <value>Geannuleerde vlucht</value>
   </data>
+  <data name="News_1004_message" xml:space="preserve">
+    <value>De vlucht {0} van [LI airport={1}] naar [LI airport={2}] is afgelast vanwege technische problemen.</value>
+  </data>
   <data name="News_1005_name" xml:space="preserve">
     <value>Geannuleerde vlucht</value>
+  </data>
+  <data name="News_1005_message" xml:space="preserve">
+    <value>De vlucht {0} van [LI airport={1}] naar [LI airport={2}] is afgelast vanwege slechte weersomstandigheden.</value>
+  </data>
+  <data name="News_1006_name" xml:space="preserve">
+    <value>Student-piloot</value>
+  </data>
+  <data name="News_1006_message" xml:space="preserve">
+    <value>Student-piloot {0} heeft de opleiding afgerond en is nu een piloot voor uw maatschjappij geworden</value>
+  </data>
+  <data name="News_1007_name" xml:space="preserve">
+    <value>Piloot gaat met pensioen</value>
+  </data>
+  <data name="News_1007_message" xml:space="preserve">
+    <value>Piloot {0} wordt {1} jaar en zal aan het einde van de maand met pensioen gaan. </value>
+  </data>
+  <data name="News_1008_name" xml:space="preserve">
+    <value>Instructeur gaat met pensioen</value>
+  </data>
+  <data name="News_1008_message" xml:space="preserve">
+    <value>Insctructeur {0} wordt {1} jaar en zal aan het einde van de maand met pensioen gaan. </value>
+  </data>
+  <data name="News_1009_name" xml:space="preserve">
+    <value>Piloot gepensioneerd</value>
+  </data>
+  <data name="News_1009_message" xml:space="preserve">
+    <value>Piloot {0} is gepensioneerd en uit dienst getreden, </value>
+  </data>
+  <data name="News_1010_name" xml:space="preserve">
+    <value>Piloot gepensioneerd</value>
+  </data>
+  <data name="News_1010_message" xml:space="preserve">
+    <value>Piloot {0} is gepensioneerd. Het vliegtuig {1} heeft nu te weinig piloten. Wijs een nieuwe piloot toe. </value>
+  </data>
+  <data name="News_1011_name" xml:space="preserve">
+    <value>Instructeur gepensioneerd</value>
+  </data>
+  <data name="News_1011_message" xml:space="preserve">
+    <value>Instructeur {0} is gepensioneerd en uit dienst getreden.</value>
+  </data>
+  <data name="News_1012_name" xml:space="preserve">
+    <value>Instructeur gepensioneerd</value>
+  </data>
+  <data name="News_1012_message" xml:space="preserve">
+    <value>Instructeur {0} is gepensioneerd. Hij wordt opgevolgd door {1}</value>
   </data>
   <data name="Enums_S_name" xml:space="preserve">
     <value>Z</value>
@@ -1785,29 +2172,35 @@
   <data name="Enums_E_name" xml:space="preserve">
     <value>O</value>
   </data>
+  <data name="News_1013_message" xml:space="preserve">
+    <value>[LI airline={0}] heeft een route van[LI airport={1}] naar [LI airport={2}] welke hetzelfde is als één van onze routes</value>
+  </data>
   <data name="News_1013_name" xml:space="preserve">
     <value>Zelfde route</value>
+  </data>
+  <data name="PageOrderAirliners_1013_name" xml:space="preserve">
+    <value>Standaardfabrikant</value>
   </data>
   <data name="PageAirlineStatistics_1005_name" xml:space="preserve">
     <value>Uitgebreide statistieken</value>
   </data>
   <data name="PageAirlineStatistics_1006_name" xml:space="preserve">
-    <value />
+    <value>Op tijd percentage (mens)</value>
   </data>
   <data name="PageAirlineStatistics_1007_name" xml:space="preserve">
-    <value />
+    <value>Bezettingsgraad (mens)</value>
   </data>
   <data name="PageAirlineStatistics_1008_name" xml:space="preserve">
     <value>Klanttevredenheid</value>
   </data>
   <data name="PageAirlineStatistics_1009_name" xml:space="preserve">
-    <value />
+    <value>Prijs / afstand (mens)</value>
   </data>
   <data name="PageAirlineStatistics_1010_name" xml:space="preserve">
-    <value />
+    <value>Prijs / afstand (totaal)</value>
   </data>
   <data name="PageAirlineStatistics_1011_name" xml:space="preserve">
-    <value />
+    <value>Prijsverschil (max)</value>
   </data>
   <data name="PageAirlineStatistics_1012_name" xml:space="preserve">
     <value>Personeelstevredenheid</value>
@@ -1826,6 +2219,12 @@
   </data>
   <data name="PagePlayScenario_1001_name" xml:space="preserve">
     <value>Kies een scenario</value>
+  </data>
+  <data name="MessageBox_2119_message" xml:space="preserve">
+    <value>Weet u zeker dat u de licentie wilt uitbreiden van {0} naar {1}?</value>
+  </data>
+  <data name="MessageBox_2119_name" xml:space="preserve">
+    <value>Licentie uitbreiden</value>
   </data>
   <data name="MessageBox_2808_message" xml:space="preserve">
     <value>U kunt alleen personeel aannemen uit landen waarop u vliegt.</value>
@@ -1884,13 +2283,73 @@
   <data name="PopUpAirlinerAutoRoutes_1004_name" xml:space="preserve">
     <value>Eerste vluchttijd</value>
   </data>
+  <data name="MessageBox_2705_message" xml:space="preserve">
+    <value>Weet u zeker dat u dit wilt toevoegen aan het vluchtschema, aangezien het bestaande vluchtschema gewist zal worden?</value>
+  </data>
+  <data name="MessageBox_2705_name" xml:space="preserve">
+    <value>Wis vluchtschema</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_1005_name" xml:space="preserve">
+    <value>Vluchten per week</value>
+  </data>
+  <data name="PageNewGame_1018_name" xml:space="preserve">
+    <value>Willekeurige tegenstanders</value>
+  </data>
+  <data name="PageNewGame_1019_name" xml:space="preserve">
+    <value>Selecteer tegenstanders</value>
+  </data>
+  <data name="PageNewGame_1020_name" xml:space="preserve">
+    <value>Genereer tegenstanders</value>
+  </data>
   <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
-    <value />
+    <value>Selecteer Tegenstanders</value>
   </data>
   <data name="PopUpSelectOpponents_1001_name" xml:space="preserve">
-    <value />
+    <value>Geselecteerde tegenstanders (Max: {0})</value>
   </data>
   <data name="PopUpSelectOpponents_1002_name" xml:space="preserve">
-    <value />
+    <value>Mogelijke tegenstanders</value>
+  </data>
+  <data name="MessageBox_2220_message" xml:space="preserve">
+    <value>Weet u zeker dat u een contract met {0} wilt tekenen voor {1}?</value>
+  </data>
+  <data name="MessageBox_2220_name" xml:space="preserve">
+    <value>Luchthaven contract</value>
+  </data>
+  <data name="MessageBox_2221_message" xml:space="preserve">
+    <value>Weet u zeker dat u het contract met luchthaven {0} wilt beëindigen?</value>
+  </data>
+  <data name="MessageBox_2221_name" xml:space="preserve">
+    <value>Beëindig luchthaven contract</value>
+  </data>
+  <data name="PageAirportGates_1009_name" xml:space="preserve">
+    <value>Gecontracteerd door</value>
+  </data>
+  <data name="PageAirportGates_206_name" xml:space="preserve">
+    <value>Teken contract</value>
+  </data>
+  <data name="PageAirportGates_207_name" xml:space="preserve">
+    <value>Beëindig contract</value>
+  </data>
+  <data name="MessageBox_2706_message" xml:space="preserve">
+    <value>De invoer kan niet aan het vluchtschema worden toegevoegd</value>
+  </data>
+  <data name="MessageBox_2706_name" xml:space="preserve">
+    <value>Ongeldige invoer vluchschema</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_201_name" xml:space="preserve">
+    <value>Geavanceerde planning</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_202_name" xml:space="preserve">
+    <value>Vluchtschema verplaatsen</value>
+  </data>
+  <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
+    <value>Automatische planning</value>
+  </data>
+  <data name="PageAirportFlights_200_name" xml:space="preserve">
+    <value>Toegekende tijdvakken</value>
+  </data>
+  <data name="PageAirportFlights_201_name" xml:space="preserve">
+    <value>Vluchtkaart</value>
   </data>
 </root>
