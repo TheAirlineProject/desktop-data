@@ -2370,4 +2370,19 @@ Good luck.</value>
   <data name="PageAirlineSubsidiaries_201_name" xml:space="preserve">
     <value>Transfer funds</value>
   </data>
+  <data name="MessageBox_2120_message" xml:space="preserve">
+    <value>You can't transfer funds from {0} to {1}</value>
+  </data>
+  <data name="MessageBox_2120_name" xml:space="preserve">
+    <value>Can't transfer funds</value>
+  </data>
+  <data name="MessageBox_2121_message" xml:space="preserve">
+    <value>Are you sure you want to transfer {0:C} from {1} to {2}?</value>
+  </data>
+  <data name="MessageBox_2121_name" xml:space="preserve">
+    <value>Transfer funds</value>
+  </data>
+  <data name="PageAirline_1026_name" xml:space="preserve">
+    <value>Buy as a subsidiary</value>
+  </data>
 </root>
