@@ -5,7 +5,7 @@
 	<state country="110" name="Greenland" shortname="GL"  flag="Denmark - Greenland"></state>
 	<!--France-->
 	<state country="140" name="French Guiana" shortname="GF"  flag="France - French Guiana"></state>
-	<state country="140" name="Réunion" shortname="RE"  flag="France - Réunion"></state>
+	<state country="140" name="Réunion" shortname="RE"  flag="France - Reunion"></state>
 	<state country="140" name="Saint Pierre and Miquelon" shortname="PM"  flag="France - Saint Pierre and Miquelon"></state>
 	<state country="140" name="French Polynesia" shortname="PF"  flag="France - French Polynesia"></state>
 	<!--United Kingdom-->
