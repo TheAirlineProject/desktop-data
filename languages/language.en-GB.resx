@@ -1975,7 +1975,7 @@ All your rented gates will be moved to the terminal.</value>
     <value>Create alliance</value>
   </data>
   <data name="MessageBox_2604_message" xml:space="preserve">
-    <value>Are you sure you want to create this alliance?.</value>
+    <value>Are you sure you want to create this alliance?</value>
   </data>
   <data name="MessageBox_2605_name" xml:space="preserve">
     <value>Joins alliance</value>

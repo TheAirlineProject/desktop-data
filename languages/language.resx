@@ -2143,7 +2143,7 @@ Good luck.</value>
     <value>Pilot retired</value>
   </data>
   <data name="News_1010_message" xml:space="preserve">
-    <value>Your pilot {0} has now retired. The airliner {1} is now short of pilots so please assign a new one to the airliner.</value>
+    <value>Your pilot {0} has now retired. A new pilot has been assigned to your airliner {1} </value>
   </data>
   <data name="News_1011_name" xml:space="preserve">
     <value>Instructor retired</value>
