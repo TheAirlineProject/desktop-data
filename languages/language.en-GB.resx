@@ -1540,7 +1540,7 @@
     <value>Options</value>
   </data>
   <data name="MenuNewGame_1000_name" xml:space="preserve">
-    <value>New game</value>
+    <value>Main menu</value>
   </data>
   <data name="MenuExitGame_1000_name" xml:space="preserve">
     <value>Exit game</value>
