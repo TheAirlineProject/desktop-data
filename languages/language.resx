@@ -2397,4 +2397,52 @@ Good luck.</value>
   <data name="PageAirline_1026_name" xml:space="preserve">
     <value>Buy as a subsidiary</value>
   </data>
+  <data name="ToolTip_1001_name" xml:space="preserve">
+    <value>Go to previous screen</value>
+  </data>
+  <data name="ToolTip_1002_name" xml:space="preserve">
+    <value>Go to the next screen</value>
+  </data>
+  <data name="ToolTip_1003_name" xml:space="preserve">
+    <value>Pause the game</value>
+  </data>
+  <data name="ToolTip_1004_name" xml:space="preserve">
+    <value>Resume the game</value>
+  </data>
+  <data name="ToolTip_1005_name" xml:space="preserve">
+    <value>Change the gameplay speed</value>
+  </data>
+  <data name="ToolTip_1006_name" xml:space="preserve">
+    <value>Select minutes per turn</value>
+  </data>
+  <data name="ToolTip_1007_name" xml:space="preserve">
+    <value>Select your language</value>
+  </data>
+  <data name="ToolTip_1008_name" xml:space="preserve">
+    <value>Select the background skin</value>
+  </data>
+  <data name="ToolTip_1009_name" xml:space="preserve">
+    <value>Sends mail on every landing</value>
+  </data>
+  <data name="ToolTip_1010_name" xml:space="preserve">
+    <value>Sends mail if a flight is affected by bad weather</value>
+  </data>
+  <data name="ToolTip_1011_name" xml:space="preserve">
+    <value>Displays $1,200,000 as $1.2 million</value>
+  </data>
+  <data name="ToolTip_1012_name" xml:space="preserve">
+    <value>IATA is a 3 letter code. ICAO is a 4 letter code</value>
+  </data>
+  <data name="ToolTip_1013_name" xml:space="preserve">
+    <value>View Events Calendar</value>
+  </data>
+  <data name="ToolTip_1014_name" xml:space="preserve">
+    <value>Upgrade your airline's license</value>
+  </data>
+  <data name="ToolTip_1015_name" xml:space="preserve">
+    <value>Purchase this airline and dissolve it into your airline</value>
+  </data>
+  <data name="ToolTip_1016_name" xml:space="preserve">
+    <value>Purchase this airline as a subsidiary to yours</value>
+  </data>
 </root>
