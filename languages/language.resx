@@ -2445,4 +2445,13 @@ Good luck.</value>
   <data name="ToolTip_1016_name" xml:space="preserve">
     <value>Purchase this airline as a subsidiary to yours</value>
   </data>
+  <data name="PageFinances_2001_name" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="PageFinances_2002_name" xml:space="preserve">
+    <value>Marketing Budget</value>
+  </data>
+  <data name="PageFinances_2003_name" xml:space="preserve">
+    <value>Newspaper Budget</value>
+  </data>
 </root>
