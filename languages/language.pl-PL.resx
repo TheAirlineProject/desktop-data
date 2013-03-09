@@ -223,16 +223,16 @@
     <value>Utwórz terminal</value>
   </data>
   <data name="PopUpTerminal_1001_name" xml:space="preserve">
-    <value>Liczba gate&apos;ów</value>
+    <value>Liczba bramek</value>
   </data>
   <data name="PopUpTerminal_1002_name" xml:space="preserve">
     <value>Cena podstawowa za terminal</value>
   </data>
   <data name="PopUpTerminal_1003_name" xml:space="preserve">
-    <value>Cena za gate&apos;a</value>
+    <value>Cena za bramkę</value>
   </data>
   <data name="PopUpTerminal_1004_name" xml:space="preserve">
-    <value>Liczba dni do wybudowania terminalu</value>
+    <value>Liczba dni do ukończenia budowy terminalu</value>
   </data>
   <data name="PopUpTerminal_1005_name" xml:space="preserve">
     <value>Cena końcowa za terminal</value>
@@ -247,7 +247,7 @@
     <value>Zmień wyposażenie kabiny samolotu</value>
   </data>
   <data name="PopUpRouteFacilities_1001_name" xml:space="preserve">
-    <value>Catering na pokładzie</value>
+    <value>Posiłki na pokładzie</value>
   </data>
   <data name="PopUpRouteFacilities_1002_name" xml:space="preserve">
     <value>Napoje na pokładzie</value>
@@ -331,7 +331,7 @@
     <value>Ilość gotówki na start</value>
   </data>
   <data name="PageRoutes_200_name" xml:space="preserve">
-    <value>Utwórz nową trasę</value>
+    <value>Utwórz nowe połączenie</value>
   </data>
   <data name="PageRoutes_201_name" xml:space="preserve">
     <value>Mapa połączeń</value>
@@ -364,13 +364,13 @@
     <value>Wyjdź z gry</value>
   </data>
   <data name="PageFrontMenu_1001_name" xml:space="preserve">
-    <value>Menu start</value>
+    <value>Menu startowe</value>
   </data>
   <data name="PageFleetAirliner_200_name" xml:space="preserve">
     <value>Kup samolot</value>
   </data>
   <data name="PageFleetAirliner_1000_name" xml:space="preserve">
-    <value>Samolot flotowy</value>
+    <value>Flota samolotów</value>
   </data>
   <data name="PageFleetAirliner_1001_name" xml:space="preserve">
     <value>Typ samolotu</value>
@@ -415,7 +415,7 @@
     <value>Prędkość przelotowa</value>
   </data>
   <data name="PageFleetAirliner_1015_name" xml:space="preserve">
-    <value>Wydajność paliwowa</value>
+    <value>Zużycie paliwa</value>
   </data>
   <data name="PageFleetAirliner_1016_name" xml:space="preserve">
     <value>Pojemność zbiornika</value>
@@ -427,13 +427,13 @@
     <value>Baza operacyjna</value>
   </data>
   <data name="PageFleetAirliner_1019_name" xml:space="preserve">
-    <value>Rocznik produkcji</value>
+    <value>Wyprodukowany</value>
   </data>
   <data name="PageFleetAirliner_1020_name" xml:space="preserve">
     <value>{0} ma ({1} lat)</value>
   </data>
   <data name="PageFleetAirliner_1021_name" xml:space="preserve">
-    <value>Numer rejestracyjny</value>
+    <value>Numer boczny</value>
   </data>
   <data name="PageFleetAirliner_1022_name" xml:space="preserve">
     <value>Nalot</value>
@@ -457,7 +457,7 @@
     <value>Wybierz właściciela samolotu</value>
   </data>
   <data name="PageFleetAirliner_1029_name" xml:space="preserve">
-    <value>Informacje o leasingu</value>
+    <value>Informacje leasingowe</value>
   </data>
   <data name="PageFleetAirliner_1030_name" xml:space="preserve">
     <value>Informacje o samolocie</value>
@@ -541,7 +541,7 @@
     <value>Rozmiar lotniska</value>
   </data>
   <data name="PageAirport_1016_name" xml:space="preserve">
-    <value>Liczba gate&apos;ów</value>
+    <value>Liczba bramek</value>
   </data>
   <data name="PageAirport_1017_name" xml:space="preserve">
     <value>Liczba pasów startowych</value>
@@ -556,7 +556,7 @@
     <value>Dzienny popyt / Pozostały popyt</value>
   </data>
   <data name="PageAirport_1021_name" xml:space="preserve">
-    <value>Ilość cargo</value>
+    <value>Ilość ruchu towarowego</value>
   </data>
   <data name="PageAirport_1022_name" xml:space="preserve">
     <value>Otwarcie</value>
@@ -598,7 +598,7 @@
     <value>Prognoza pogody</value>
   </data>
   <data name="PageAirportTraffic_1001_name" xml:space="preserve">
-    <value>Pasażerowie do destynacji</value>
+    <value>Pasażerowie do celu</value>
   </data>
   <data name="PageAirportFlights_1001_name" xml:space="preserve">
     <value>Loty</value>
@@ -622,31 +622,32 @@
     <value>Zrezygnuj</value>
   </data>
   <data name="PageAirportGates_204_name" xml:space="preserve">
-    <value>Załóż hub</value>
+    <value>Utwórz hub</value>
   </data>
   <data name="PageAirportGates_205_name" xml:space="preserve">
     <value>Przypisz do {0}</value>
   </data>
   <data name="PageAirportGates_1001_name" xml:space="preserve">
-    <value>Informacje o terminalach (Właściciel / Suma Gate&apos;ów / Zamówione Gate&apos;y / Używane gate&apos;y / Data doręczenia)</value>
+    <value>Informacje o terminalach (Właściciel / Suma bramek / Zamówione bramki / Używane bramki / Data ukończenia)</value>
   </data>
   <data name="PageAirportGates_1002_name" xml:space="preserve">
-    <value>Informacja o gate&apos;ach</value>
+    <value>Informacja o bramkach</value>
   </data>
   <data name="PageAirportGates_1003_name" xml:space="preserve">
-    <value>Liczba gate&apos;ów</value>
+    <value>Liczba bramek</value>
   </data>
   <data name="PageAirportGates_1004_name" xml:space="preserve">
-    <value>Wykorzystane gate&apos;y</value>
+    <value>Wykorzystane bramki</value>
   </data>
   <data name="PageAirportGates_1005_name" xml:space="preserve">
-    <value>Wolne gate&apos;y</value>
+    <value>Wolne bramki</value>
   </data>
   <data name="PageAirportGates_1006_name" xml:space="preserve">
-    <value>Miesięczny koszt gate&apos;a</value>
+    <value>Miesięczny koszt bramki
+</value>
   </data>
   <data name="PageAirportGates_1007_name" xml:space="preserve">
-    <value>Gate&apos;y linii (Suma / Używane)</value>
+    <value>Bramki linii (Suma / Używane)</value>
   </data>
   <data name="PageAirportGates_1008_name" xml:space="preserve">
     <value>Huby</value>
@@ -670,7 +671,7 @@
     <value>Opcje wyszukiwania</value>
   </data>
   <data name="PageSearchAirports_1005_name" xml:space="preserve">
-    <value>Regiony</value>
+    <value>Region</value>
   </data>
   <data name="PageSearchAirports_1006_name" xml:space="preserve">
     <value>Państwo</value>
@@ -718,7 +719,7 @@
     <value>Kolor linii lotniczej</value>
   </data>
   <data name="PageAirline_1007_name" xml:space="preserve">
-    <value>Rozmiar lotniska</value>
+    <value>Ilość samolotów</value>
   </data>
   <data name="PageAirline_1008_name" xml:space="preserve">
     <value>Kapitał</value>
@@ -751,7 +752,7 @@
     <value>Data wygaśnięcia</value>
   </data>
   <data name="PageAirline_1018_name" xml:space="preserve">
-    <value>Rabat</value>
+    <value>Zniżka</value>
   </data>
   <data name="PageAirline_1019_name" xml:space="preserve">
     <value>Samoloty</value>
@@ -784,7 +785,7 @@
     <value>Kalendarz</value>
   </data>
   <data name="PageCalendar_200_name" xml:space="preserve">
-    <value>Pokaż wszystkie dni wolne</value>
+    <value>Pokaż wszystkie dni wolne i święta</value>
   </data>
   <data name="PageFlights_1000_name" xml:space="preserve">
     <value>Loty</value>
@@ -835,7 +836,7 @@
     <value>Skórka</value>
   </data>
   <data name="PageSettings_1004_name" xml:space="preserve">
-    <value>Powiadomienie o lądowaniach</value>
+    <value>Powiadomienia o lądowaniach</value>
   </data>
   <data name="PageSettings_1005_name" xml:space="preserve">
     <value>Format kodów lotnisk</value>
@@ -844,7 +845,7 @@
     <value>Ilość minut na turę</value>
   </data>
   <data name="PageSettings_1007_name" xml:space="preserve">
-    <value>Powiadomienie o złej pogodzie</value>
+    <value>Powiadomienia o złej pogodzie</value>
   </data>
   <data name="PageSettings_1008_name" xml:space="preserve">
     <value>Używaj skrótu waluty</value>
@@ -856,7 +857,7 @@
     <value>Utwórz nową grę</value>
   </data>
   <data name="PageNewGame_201_name" xml:space="preserve">
-    <value>Nowa gra</value>
+    <value>Utwórz grę</value>
   </data>
   <data name="PageNewGame_202_name" xml:space="preserve">
     <value>Menu startowe</value>
@@ -874,7 +875,7 @@
     <value>Kraj pochodzenia</value>
   </data>
   <data name="PageNewGame_1005_name" xml:space="preserve">
-    <value>Imię i nazwisko prezesa</value>
+    <value>Nazwisko prezesa</value>
   </data>
   <data name="PageNewGame_1006_name" xml:space="preserve">
     <value>Kolor linii</value>
@@ -931,10 +932,10 @@
     <value>Klasy w samolocie</value>
   </data>
   <data name="PageAirlineFleet_1001_name" xml:space="preserve">
-    <value>Flota</value>
+    <value>Przegląd floty</value>
   </data>
   <data name="PageAirlineFleet_1002_name" xml:space="preserve">
-    <value>Wykorzystanie floty na trasach</value>
+    <value>Wykorzystanie samolotów na trasach</value>
   </data>
   <data name="PageAirlineFleet_1003_name" xml:space="preserve">
     <value>Flota linii lotniczej</value>
@@ -988,7 +989,7 @@
     <value>Reklama linii</value>
   </data>
   <data name="PageAirlineFacilities_1004_name" xml:space="preserve">
-    <value>Zapisz plan promocji</value>
+    <value>Zapisz plan reklamowy</value>
   </data>
   <data name="PageAirlineDestinations_201_name" xml:space="preserve">
     <value>Mapa połączeń</value>
@@ -1021,10 +1022,10 @@
     <value>Liczba pasażerów</value>
   </data>
   <data name="PageAirlineDestinations_1010_name" xml:space="preserve">
-    <value>Największy udział w gate&apos;ach</value>
+    <value>Największy udział w bramkach</value>
   </data>
   <data name="PageAirlineDestinations_1011_name" xml:space="preserve">
-    <value>Najniższy udział w gate&apos;ach</value>
+    <value>Najniższy udział w bramkach</value>
   </data>
   <data name="PageAirlineSubsidiaries_200_name" xml:space="preserve">
     <value>Utwórz linię zależną</value>
@@ -1036,7 +1037,7 @@
     <value>Płace</value>
   </data>
   <data name="PageAirlineWages_1002_name" xml:space="preserve">
-    <value>Catering</value>
+    <value>Posiłki i napoje</value>
   </data>
   <data name="PageAirlineWages_1003_name" xml:space="preserve">
     <value>Opłaty</value>
@@ -1057,7 +1058,7 @@
     <value>Promocja</value>
   </data>
   <data name="PageAirlineWages_1009_name" xml:space="preserve">
-    <value>Załoga kokpitowa</value>
+    <value>Piloci</value>
   </data>
   <data name="PageAirlineWages_1010_name" xml:space="preserve">
     <value>Załoga pokładowa</value>
@@ -1075,7 +1076,7 @@
     <value>Wybierz konfigurację</value>
   </data>
   <data name="PageAirlineWages_1015_name" xml:space="preserve">
-    <value>Rabaty</value>
+    <value>Zniżki</value>
   </data>
   <data name="PageAirlineWages_1016_name" xml:space="preserve">
     <value>Ogólne zasady</value>
@@ -1150,7 +1151,7 @@
     <value>Wybierz szkołę lotniczą dla instruktora</value>
   </data>
   <data name="PanelFlightSchool_200_name" xml:space="preserve">
-    <value>Zatrudnij ucznia</value>
+    <value>Zwerbuj ucznia</value>
   </data>
   <data name="PanelFlightSchool_201_name" xml:space="preserve">
     <value>Kup samolot treningowy</value>
@@ -1168,10 +1169,10 @@
     <value>Studenci (Nazwisko / Wiek / Kraj / Data zakończenia edukacji / Instruktor)</value>
   </data>
   <data name="PanelFlightSchool_1005_name" xml:space="preserve">
-    <value>Instruktor dla studenta</value>
+    <value>Instruktor dla ucznia</value>
   </data>
   <data name="PanelFlightSchool_1006_name" xml:space="preserve">
-    <value>Studenci</value>
+    <value>Uczniowie</value>
   </data>
   <data name="PanelFlightSchool_1007_name" xml:space="preserve">
     <value>Instruktorzy (Nazwisko / Wiek / Rating / Kraj)</value>
@@ -1315,7 +1316,7 @@
     <value>Państwa</value>
   </data>
   <data name="PanelAirliner_1001_name" xml:space="preserve">
-    <value>Specyfikacja Typu Samolotu</value>
+    <value>Specyfikacja Samolotu</value>
   </data>
   <data name="PanelAirliner_1002_name" xml:space="preserve">
     <value>Model</value>
@@ -1396,7 +1397,7 @@
     <value>Dodaj zamówienie</value>
   </data>
   <data name="PageOrderAirliners_1005_name" xml:space="preserve">
-    <value>Rabat</value>
+    <value>Zniżka</value>
   </data>
   <data name="PageOrderAirliners_1006_name" xml:space="preserve">
     <value>Cena końcowa</value>
@@ -1423,22 +1424,22 @@
     <value>Kup</value>
   </data>
   <data name="PanelUsedAirliner_201_name" xml:space="preserve">
-    <value>Leasinguj</value>
+    <value>Wyleasinguj</value>
   </data>
   <data name="PanelUsedAirliner_1001_name" xml:space="preserve">
     <value>Informacje o samolocie</value>
   </data>
   <data name="PanelUsedAirliner_1002_name" xml:space="preserve">
-    <value>Rok budowy maszyny</value>
+    <value>Rok produkcji</value>
   </data>
   <data name="PanelUsedAirliner_1003_name" xml:space="preserve">
-    <value>Rejestracja</value>
+    <value>Numer boczny</value>
   </data>
   <data name="PanelUsedAirliner_1004_name" xml:space="preserve">
-    <value>Sumaryczny nalot</value>
+    <value> Nalot</value>
   </data>
   <data name="PanelUsedAirliner_1005_name" xml:space="preserve">
-    <value>Nalot od przeglądu</value>
+    <value>Nalot od ostatniego przeglądu</value>
   </data>
   <data name="PanelUsedAirliner_1006_name" xml:space="preserve">
     <value>Konfiguracja kabiny</value>
@@ -1453,16 +1454,16 @@
     <value>Rata leasingowa</value>
   </data>
   <data name="PanelUsedAirliner_1104_name" xml:space="preserve">
-    <value>Roczne koszty utrzymania</value>
+    <value>Roczny koszt utrzymania</value>
   </data>
   <data name="PanelUsedAirliner_1105_name" xml:space="preserve">
     <value>Wybierz bazę operacyjną</value>
   </data>
   <data name="PanelAirport_201_name" xml:space="preserve">
-    <value>Gate&apos;y i terminale</value>
+    <value>Bramki i terminale</value>
   </data>
   <data name="PanelAirport_202_name" xml:space="preserve">
-    <value>Wyposażenie w terminalu</value>
+    <value>Wyposażenie terminalu</value>
   </data>
   <data name="PanelAirport_203_name" xml:space="preserve">
     <value>Statystyki</value>
@@ -1519,7 +1520,7 @@
     <value>Odległość</value>
   </data>
   <data name="PanelNewRoute_205_name" xml:space="preserve">
-    <value>Max. dostępny zasięg</value>
+    <value>Maksymalny zasięg</value>
   </data>
   <data name="PanelNewRoute_206_name" xml:space="preserve">
     <value>{0} Gate(y)</value>
@@ -1600,7 +1601,7 @@
     <value>Niewystarczająca ilość gotówki</value>
   </data>
   <data name="MessageBox_2001_message" xml:space="preserve">
-    <value>Nie masz dostatecznej ilości pieniędzy, by kupić te samoloty</value>
+    <value>Nie masz dostatecznej ilości pieniędzy, by zamówić te samoloty</value>
   </data>
   <data name="MessageBox_2002_name" xml:space="preserve">
     <value>Brak bazy operacyjnej</value>
@@ -1621,13 +1622,13 @@
     <value>Nie masz dostatecznej ilości gotówki, by wyleasingować samolot.</value>
   </data>
   <data name="MessageBox_2005_name" xml:space="preserve">
-    <value>Weź samolot w leasing</value>
+    <value>Wylesinguj samolot</value>
   </data>
   <data name="MessageBox_2005_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz wziąć {0} w leasing?</value>
+    <value>Jesteś pewny, że chcesz wylesingować {0} ?</value>
   </data>
   <data name="MessageBox_2006_name" xml:space="preserve">
-    <value>Nie wystarczy gotówki</value>
+    <value>Niewystarczająca ilość pieniędzy</value>
   </data>
   <data name="MessageBox_2006_message" xml:space="preserve">
     <value>Nie masz dostatecznie dużo pieniędzy, by kupić ten samolot</value>
@@ -1654,7 +1655,7 @@
     <value>Zerwij kontrakt</value>
   </data>
   <data name="MessageBox_2010_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz zerwać Twój kontrakt z {0}, płacąc karę umowną w wysokości {1:C}?</value>
+    <value>Jesteś pewny, że chcesz zerwać twój kontrakt z {0}, płacąc karę umowną w wysokości {1:C}?</value>
   </data>
   <data name="MessageBox_2011_name" xml:space="preserve">
     <value>Zerwij kontrakt</value>
@@ -1663,22 +1664,22 @@
     <value>Jesteś pewny, że chcesz rozszerzyć swój kontrakt z {0}?</value>
   </data>
   <data name="MessageBox_2101_name" xml:space="preserve">
-    <value>Zbyt mała ilość gotówki</value>
+    <value>Niewystarczająca ilość pieniędzy</value>
   </data>
   <data name="MessageBox_2101_message" xml:space="preserve">
-    <value>Nie masz dostatecznie dużej ilości gotówki, by zakupić tą usługę</value>
+    <value>Nie masz dostatecznie dużej ilościpieniędzy, by zakupić tą usługę</value>
   </data>
   <data name="MessageBox_2102_name" xml:space="preserve">
-    <value>Kup funkcjonalność</value>
+    <value>Kup usługę</value>
   </data>
   <data name="MessageBox_2102_message" xml:space="preserve">
     <value>Jesteś pewny, że chcesz kupić {0} jako rozszerzenie usług linii lotniczej?</value>
   </data>
   <data name="MessageBox_2103_name" xml:space="preserve">
-    <value>Usuń funkcjonalność</value>
+    <value>Usuń usługę</value>
   </data>
   <data name="MessageBox_2103_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz usunąć funkcjonalność {0}?</value>
+    <value>Jesteś pewny, że chcesz usunąć usługę {0}?</value>
   </data>
   <data name="MessageBox_2104_name" xml:space="preserve">
     <value>Nieprawidłowa liczba</value>
@@ -1690,7 +1691,7 @@
     <value>Spłać pożyczkę</value>
   </data>
   <data name="MessageBox_2105_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz spłacić {0:c} na konto pożyczki?</value>
+    <value>Jesteś pewny, że chcesz spłacić {0:c} na poczet pożyczki?</value>
   </data>
   <data name="MessageBox_2106_name" xml:space="preserve">
     <value>Sprzedaj samolot</value>
@@ -1699,7 +1700,7 @@
     <value>Jesteś pewny, że chcesz sprzedać {0}?</value>
   </data>
   <data name="MessageBox_2107_name" xml:space="preserve">
-    <value>Zakończ umowę leasingu</value>
+    <value>Zakończ leasing samolotu</value>
   </data>
   <data name="MessageBox_2107_message" xml:space="preserve">
     <value>Jesteś pewny, że chcesz zakończyć leasing {0}?</value>
@@ -1711,10 +1712,10 @@
     <value>Jesteś pewny, że chcesz zmienić stawki?</value>
   </data>
   <data name="MessageBox_2109_name" xml:space="preserve">
-    <value>Brak wystarczającej ilości środków</value>
+    <value>Brak wystarczającej ilości pieniędzy</value>
   </data>
   <data name="MessageBox_2109_message" xml:space="preserve">
-    <value>Nie masz dostatecznie dużej ilości pieniędzy, by kupić ten samolot</value>
+    <value>Nie masz dostatecznie dużo pieniędzy, by kupić ten samolot</value>
   </data>
   <data name="MessageBox_2110_name" xml:space="preserve">
     <value>Kup samolot</value>
@@ -1804,7 +1805,7 @@
     <value>Wybuduj terminal</value>
   </data>
   <data name="MessageBox_2206_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz wybudować terminal z {0} gate&apos;ami za {1:C}?
+    <value>Jesteś pewny, że chcesz wybudować terminal z {0} bramkami za {1:C}?
 
 Wszystkie wynajęte przez Ciebie gate&apos;y zostaną przeniesione do tego terminala, gdy tylko budowa zostanie zakończona.</value>
   </data>
@@ -1818,7 +1819,7 @@ Wszystkie wynajęte przez Ciebie gate&apos;y zostaną przeniesione do tego termi
     <value>Wyburz terminal</value>
   </data>
   <data name="MessageBox_2208_message" xml:space="preserve">
-    <value>Jesteś pewny, że chcesz wyburzyć ten terminal z {0} gate&apos;ami?</value>
+    <value>Jesteś pewny, że chcesz wyburzyć ten terminal z {0} bramkami?</value>
   </data>
   <data name="MessageBox_2209_name" xml:space="preserve">
     <value>Wyburzenie nie jest możliwe</value>
@@ -1838,13 +1839,13 @@ Wszystkie wynajęte przez Ciebie gate&apos;y zostaną przeniesione do tego termi
   <data name="MessageBox_2211_message" xml:space="preserve">
     <value>Jesteś pewny, że chcesz wybudować ten terminal za {0:C}?
 
-Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
+Wszystkie twoje bramki zostaną przeniesione do nowego terminala.</value>
   </data>
   <data name="MessageBox_2212_name" xml:space="preserve">
-    <value>Brak środków</value>
+    <value>Niewystarczająca ilość pieniędzy</value>
   </data>
   <data name="MessageBox_2212_message" xml:space="preserve">
-    <value>Nie masz wystarczającej ilości gotówki, by ustanowić hub.</value>
+    <value>Nie masz wystarczającej ilości pieniędzy, by utworzyć hub.</value>
   </data>
   <data name="MessageBox_2213_name" xml:space="preserve">
     <value>Utwórz hub</value>
@@ -1862,7 +1863,7 @@ Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
     <value>Błąd</value>
   </data>
   <data name="MessageBox_2215_message" xml:space="preserve">
-    <value>Nie możesz oddać gate&apos;y, gdyż potrzebujesz mieć przynajmniej 20%o wszystkich bramek by posiadać hub</value>
+    <value>Nie możesz oddać bramek, gdyż potrzebujesz mieć przynajmniej 20% o wszystkich bramek by posiadać hub</value>
   </data>
   <data name="MessageBox_2216_name" xml:space="preserve">
     <value>Przenieś operacje</value>
@@ -1874,7 +1875,7 @@ Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
     <value>Usługi odprawy biletowo-bagażowej (check-in)</value>
   </data>
   <data name="MessageBox_2217_message" xml:space="preserve">
-    <value>Czy chcesz kupić stanowiska check-in zanim wykupisz gate&apos;a na lotnisku?</value>
+    <value>Czy chcesz kupić stanowiska check-in zanim wykupisz bramkę na lotnisku?</value>
   </data>
   <data name="MessageBox_2218_name" xml:space="preserve">
     <value>Wybuduj pas startowy</value>
@@ -1883,13 +1884,13 @@ Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
     <value>Jesteś pewny, że chcesz zbudować pas startowy na lotnisku {0} za {1:C}?</value>
   </data>
   <data name="MessageBox_2219_name" xml:space="preserve">
-    <value>Za mało gotówki.</value>
+    <value>Niewystarczająca ilość pieniędzy</value>
   </data>
   <data name="MessageBox_2219_message" xml:space="preserve">
     <value>Nie masz wystarczających środków na budowę pasa startowego</value>
   </data>
   <data name="MessageBox_2301_name" xml:space="preserve">
-    <value>Samolot nie jest na ziemi.</value>
+    <value>Samolot nie jest uziemiony</value>
   </data>
   <data name="MessageBox_2301_message" xml:space="preserve">
     <value>Samolot musi się znajdować na ziemi, by go zmodyfikować</value>
@@ -1907,7 +1908,7 @@ Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
     <value>Jesteś pewny, że chcesz utworzyć tę linię?</value>
   </data>
   <data name="MessageBox_2403_name" xml:space="preserve">
-    <value>Imię i nazwisko prezesa</value>
+    <value>Nazwisko prezesa</value>
   </data>
   <data name="MessageBox_2403_message" xml:space="preserve">
     <value>Imię i nazwisko prezesa musi być dłuższe niż 2 znaki.</value>
@@ -1916,7 +1917,7 @@ Wszystkie twoje gate&apos;y zostaną przeniesione do nowego terminala.</value>
     <value>Nieprawidłowe połączenie</value>
   </data>
   <data name="MessageBox_2501_message" xml:space="preserve">
-    <value>Połączenie nie jest prawidłowe. Być może dlatego, że brakuje gate&apos;ów na jednym z lotnisk lub cena nie jest prawidłowa</value>
+    <value>Połączenie nie jest prawidłowe. Być może dlatego, że brakuje bramek na jednym z lotnisk lub cena nie jest prawidłowa</value>
   </data>
   <data name="MessageBox_2502_name" xml:space="preserve">
     <value>Usuń samolot</value>
@@ -2121,7 +2122,7 @@ Powodzenia!</value>
     <value>Twój uczeń {0} właśnie zakończył swoją edukację lotniczą i jest gotowy by zasiąść za sterami Twojego samolotu.</value>
   </data>
   <data name="News_1007_name" xml:space="preserve">
-    <value>Pilot odchodzi na emeryturę</value>
+    <value>Pilot odchodzący na emeryturę</value>
   </data>
   <data name="News_1007_message" xml:space="preserve">
     <value>Twój pilot {0} niedługo będzie miał {1} urodziny i odejdzie na emeryturę z końcem miesiąca.</value>
@@ -2353,5 +2354,11 @@ Powodzenia!</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
     <value>Planowanie automatyczne</value>
+  </data>
+  <data name="PageAirportFlights_200_name" xml:space="preserve">
+    <value>Rozmieszczenie slotów</value>
+  </data>
+  <data name="PageAirportFlights_201_name" xml:space="preserve">
+    <value>Mapa lotów</value>
   </data>
 </root>

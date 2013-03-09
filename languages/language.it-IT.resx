@@ -2332,18 +2332,24 @@
     <value>Termina contratto</value>
   </data>
   <data name="MessageBox_2706_message" xml:space="preserve">
-    <value></value>
+    <value>Il volo  non può essere aggiunto all&apos;orario dei voli</value>
   </data>
   <data name="MessageBox_2706_name" xml:space="preserve">
-    <value></value>
+    <value>Proposta di volo non valida</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_201_name" xml:space="preserve">
-    <value></value>
+    <value>Programmazione avanzata</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_202_name" xml:space="preserve">
-    <value></value>
+    <value>Orario di connessione</value>
   </data>
   <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
-    <value></value>
+    <value>Orario auto-generato</value>
+  </data>
+  <data name="PageAirportFlights_200_name" xml:space="preserve">
+    <value>Allocazioni slot</value>
+  </data>
+  <data name="PageAirportFlights_201_name" xml:space="preserve">
+    <value>Mappa delle rotte</value>
   </data>
 </root>

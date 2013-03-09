@@ -2355,4 +2355,10 @@
   <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
     <value>自动生成计划</value>
   </data>
+  <data name="PageAirportFlights_200_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirportFlights_201_name" xml:space="preserve">
+    <value>航班地图</value>
+  </data>
 </root>

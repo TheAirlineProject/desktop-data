@@ -2346,4 +2346,10 @@
   <data name="PopUpAirlinerAutoRoutes_203_name" xml:space="preserve">
     <value>Autogenereret</value>
   </data>
+  <data name="PageAirportFlights_200_name" xml:space="preserve">
+    <value>Slotallokeringer</value>
+  </data>
+  <data name="PageAirportFlights_201_name" xml:space="preserve">
+    <value>Flyvekort</value>
+  </data>
 </root>
