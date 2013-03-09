@@ -2454,4 +2454,10 @@ Good luck.</value>
   <data name="PageFinances_2003_name" xml:space="preserve">
     <value>Newspaper Budget</value>
   </data>
+  <data name="MessageBox_2952_message" xml:space="preserve">
+    <value>Are you sure you want to change the settings?</value>
+  </data>
+  <data name="MessageBox_2952_name" xml:space="preserve">
+    <value>Change settings</value>
+  </data>
 </root>
