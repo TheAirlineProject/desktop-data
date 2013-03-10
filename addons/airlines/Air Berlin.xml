@@ -2,8 +2,8 @@
 <airline>
   <profile name="Air Berlin" iata="AB" color="Red" country="163" CEO="Hartmut Mehdorn" mentality="Aggressive" market="Global " preferedairport="DUS">
   <narrative narrative="Air Berlin GmbH Luftverkehrs KG is Germany's second largest airline, after Lufthansa German Airlines, and Europe's sixth largest airline in terms of passengers. It operates an extensive network including holiday destinations in the Mediterranean region, the Canary Islands and North Africa as well as intercontinental destinations in Southeast Asia, the Caribbean and the Americas. The airline is a member of the Oneworld alliance, its Austrian subsidiary NIKI is an affiliate member of Oneworld." />
-  <info real="True" from="1978" to="2199" />
-  </profile>
+   </profile>
+    <info real="True" from="1978" to="2199" />
   <startdata>
    <airliners>
     <airliner type="Airbus A320-200" early="0" late="33"></airliner>  

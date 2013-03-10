@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
   <profile name="Finnair" iata="AY" color="Navy" country="167" CEO="Mika Vehvilainen" mentality="Safe" market="Global " preferedairport="HEL"> 
 <narrative narrative="Finnair is the flag carrier and largest airline of Finland, with its headquarters in Vantaa and its main hub at Helsinki-Vantaa Airport. Finnair and its subsidiaries dominate both the domestic and international air travel markets in Finland, and its largest owner is the government of Finland, with 55.8% of the shares." />
-<info real="True" from="1923" to="2199" />
 </profile>
+<info real="True" from="1923" to="2199" />
 <startdata>
    <airliners>
     <airliner type="Airbus A319-100" early="0" late="9"></airliner>  
