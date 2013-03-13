@@ -2021,6 +2021,64 @@
       <runway name="07R/25L" length="3800" surface="Concrete"/>
     </runways>
   </airport>
+  <airport name="Trà Nóc Airport" icao="VVCT" iata="VCA" type="Short_Haul_International" season="All_Year">
+    <town town="Can Tho" country="170" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="010°05'06''N" />
+      <longitude value="105°42'43''E" />
+    </coordinates>
+    <size value="Small" pax="0" />
+    <terminals>
+      <terminal name="Terminal A" gates="11" />
+      <terminal name="Terminal B" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2404" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lien Khuong Airport" icao="VVDL" iata="DLI" type="Short_Haul_International" season="All_Year">
+    <town town="Dalat" country="170" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="011°45'00''N" />
+      <longitude value="108°22'01''E" />
+    </coordinates>
+    <size value="Very_small" pax="0" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+        <runways>
+      <runway name="09/27" length="3250" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Da Nang International Airport" icao="VVDN" iata="DAD" type="Short_Haul_International" season="All_Year">
+    <town town="Da Nang" country="170" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="016°02'38''N" />
+      <longitude value="108°11'56''E" />
+    </coordinates>
+    <size value="Very_small" pax="0" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="17L/35R" length="3048" surface="Asphalt" />
+      <runway name="17R/35L" length="3048" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Cat Bi International Airport" icao="VVCI" iata="HPH" type="Short_Haul_International" season="All_Year">
+    <town town="Haiphong" country="170" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="020°49'09''N" />
+      <longitude value="106°43'29''E" />
+    </coordinates>
+    <size value="Smallest" pax="0" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2402" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Southeast Asia (W***)-->
   <!--Indonesia (WA**, WI**, WR** and WQ**)-->
   <airport name="Juanda International Airport" icao="WARR" iata="SUB" type="Short_Haul_International" season="All_Year">
