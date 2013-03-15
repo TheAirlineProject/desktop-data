@@ -2445,19 +2445,130 @@ Good luck.</value>
   <data name="ToolTip_1016_name" xml:space="preserve">
     <value>Purchase this airline as a subsidiary to yours</value>
   </data>
-  <data name="PageFinances_2001_name" xml:space="preserve">
-    <value>Apply</value>
-  </data>
-  <data name="PageFinances_2002_name" xml:space="preserve">
-    <value>Marketing Budget</value>
-  </data>
-  <data name="PageFinances_2003_name" xml:space="preserve">
-    <value>Newspaper Budget</value>
-  </data>
   <data name="MessageBox_2952_message" xml:space="preserve">
     <value>Are you sure you want to change the settings?</value>
   </data>
   <data name="MessageBox_2952_name" xml:space="preserve">
     <value>Change settings</value>
+  </data>
+  <data name="PageFinances_2001_name" xml:space="preserve">
+    <value>Finances and Budgets</value>
+  </data>
+  <data name="PageFinances_2002_name" xml:space="preserve">
+    <value>Primary Budgets</value>
+  </data>
+  <data name="PageFinances_2003_name" xml:space="preserve">
+    <value>Marketing Budget</value>
+  </data>
+  <data name="PageFinances_2004_name" xml:space="preserve">
+    <value>Maintenance Budget</value>
+  </data>
+  <data name="PageFinances_2005_name" xml:space="preserve">
+    <value>Security Budget</value>
+  </data>
+  <data name="PageFinances_2006_name" xml:space="preserve">
+    <value>Customer Service Budget</value>
+  </data>
+  <data name="PageFinances_2007_name" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="PageFinances_2008_name" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="PageFinances_2009_name" xml:space="preserve">
+    <value>Security</value>
+  </data>
+  <data name="PageFinances_2010_name" xml:space="preserve">
+    <value>Customer Service</value>
+  </data>
+  <data name="PageFinances_2011_name" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="PageFinances_2012_name" xml:space="preserve">
+    <value>Television</value>
+  </data>
+  <data name="PageFinances_2013_name" xml:space="preserve">
+    <value>Radio</value>
+  </data>
+  <data name="PageFinances_2014_name" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="PageFinances_2015_name" xml:space="preserve">
+    <value>Interior Overhaul</value>
+  </data>
+  <data name="PageFinances_2016_name" xml:space="preserve">
+    <value>Engine Restoration</value>
+  </data>
+  <data name="PageFinances_2017_name" xml:space="preserve">
+    <value>Parts Replacement</value>
+  </data>
+  <data name="PageFinances_2018_name" xml:space="preserve">
+    <value>Remote Service</value>
+  </data>
+  <data name="PageFinances_2019_name" xml:space="preserve">
+    <value>In-Flight Security</value>
+  </data>
+  <data name="PageFinances_2020_name" xml:space="preserve">
+    <value>Airport Security</value>
+  </data>
+  <data name="PageFinances_2021_name" xml:space="preserve">
+    <value>Security Equipment</value>
+  </data>
+  <data name="PageFinances_2022_name" xml:space="preserve">
+    <value>Computer Security</value>
+  </data>
+  <data name="PageFinances_2023_name" xml:space="preserve">
+    <value>Compensations</value>
+  </data>
+  <data name="PageFinances_2024_name" xml:space="preserve">
+    <value>Promotions</value>
+  </data>
+  <data name="PageFinances_2025_name" xml:space="preserve">
+    <value>Service Center</value>
+  </data>
+  <data name="PageFinances_2026_name" xml:space="preserve">
+    <value>Public Relations</value>
+  </data>
+  <data name="PageFinances_2027_name" xml:space="preserve">
+    <value>Total Cash</value>
+  </data>
+  <data name="PageFinances_2028_name" xml:space="preserve">
+    <value>Total Budget</value>
+  </data>
+  <data name="PageFinances_2029_name" xml:space="preserve">
+    <value>Remaining Budget</value>
+  </data>
+  <data name="PageFinances_2030_name" xml:space="preserve">
+    <value>End of Year Cash</value>
+  </data>
+  <data name="PageFinances_2031_name" xml:space="preserve">
+    <value>Fleet Size</value>
+  </data>
+  <data name="PageFinances_2032_name" xml:space="preserve">
+    <value>Total Fleet Value</value>
+  </data>
+  <data name="PageFinances_2033_name" xml:space="preserve">
+    <value>Avg Airliner Value</value>
+  </data>
+  <data name="PageFinances_2034_name" xml:space="preserve">
+    <value>Subsidiaries</value>
+  </data>
+  <data name="PageFinances_2035_name" xml:space="preserve">
+    <value>Total Subs. Value</value>
+  </data>
+  <data name="PageFinances_2036_name" xml:space="preserve">
+    <value>Avg Subs. Value</value>
+  </data>
+  <data name="PageFinances_2037_name" xml:space="preserve">
+    <value>Total Employees</value>
+  </data>
+  <data name="PageFinances_2038_name" xml:space="preserve">
+    <value>Total Salary</value>
+  </data>
+  <data name="PageFinances_2039_name" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="PageFinances_2040_name" xml:space="preserve">
+    <value>Reset</value>
   </data>
 </root>
