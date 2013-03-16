@@ -2571,4 +2571,10 @@ Good luck.</value>
   <data name="PageFinances_2040_name" xml:space="preserve">
     <value>Reset</value>
   </data>
+  <data name="PageFleetAirliner_1031_name" xml:space="preserve">
+    <value>Cargo capacity</value>
+  </data>
+  <data name="PanelAirliner_1017_name" xml:space="preserve">
+    <value>Cargo capacity</value>
+  </data>
 </root>
