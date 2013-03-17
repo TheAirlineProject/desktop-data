@@ -2595,4 +2595,7 @@ Good luck.</value>
   <data name="PanelRoute_1014_name" xml:space="preserve">
     <value>Avg. Cargo</value>
   </data>
+  <data name="PanelRoute_1015_name" xml:space="preserve">
+    <value>Cargo unit price</value>
+  </data>
 </root>
