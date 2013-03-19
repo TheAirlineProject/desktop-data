@@ -2352,4 +2352,214 @@
   <data name="PageAirportFlights_201_name" xml:space="preserve">
     <value>Mappa delle rotte</value>
   </data>
+  <data name="PageAirlineFleet_1010_name" xml:space="preserve">
+    <value>Seleziona compagnia per trasferimento</value>
+  </data>
+  <data name="PageAirlineSubsidiaries_1002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirlineSubsidiaries_201_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2120_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2120_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2121_message" xml:space="preserve">
+    <value>Sei sicuro di voler trasferire {0:C} da {1} a {2}?</value>
+  </data>
+  <data name="MessageBox_2121_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2122_message" xml:space="preserve">
+    <value>Non puoi cancellare questo aereo dato che in volo.</value>
+  </data>
+  <data name="MessageBox_2122_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2222_message" xml:space="preserve">
+    <value>Sei sicuro di voler noleggiare un gate a {0}?</value>
+  </data>
+  <data name="MessageBox_2222_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirline_1026_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1001_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1003_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1004_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1005_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1006_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1007_name" xml:space="preserve">
+    <value>Seleziona la lingua</value>
+  </data>
+  <data name="ToolTip_1008_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1009_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1010_name" xml:space="preserve">
+    <value>Ricevi posta se un volo incappa in maltempo </value>
+  </data>
+  <data name="ToolTip_1011_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1012_name" xml:space="preserve">
+    <value>IATA è un codice a 3 lettere. ICAO a 4 lettere.</value>
+  </data>
+  <data name="ToolTip_1013_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1014_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1015_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="ToolTip_1016_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2952_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2952_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2001_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2003_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2004_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2005_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2006_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2007_name" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="PageFinances_2008_name" xml:space="preserve">
+    <value>Manutenzione</value>
+  </data>
+  <data name="PageFinances_2009_name" xml:space="preserve">
+    <value>Sicurezza</value>
+  </data>
+  <data name="PageFinances_2010_name" xml:space="preserve">
+    <value>Servizio clienti</value>
+  </data>
+  <data name="PageFinances_2011_name" xml:space="preserve">
+    <value>Stampa</value>
+  </data>
+  <data name="PageFinances_2012_name" xml:space="preserve">
+    <value>Televisione</value>
+  </data>
+  <data name="PageFinances_2013_name" xml:space="preserve">
+    <value>Radio</value>
+  </data>
+  <data name="PageFinances_2014_name" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="PageFinances_2015_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2016_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2017_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2018_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2019_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2020_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2021_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2022_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2023_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2024_name" xml:space="preserve">
+    <value>Promozioni</value>
+  </data>
+  <data name="PageFinances_2025_name" xml:space="preserve">
+    <value>Centro Servizi</value>
+  </data>
+  <data name="PageFinances_2026_name" xml:space="preserve">
+    <value>Pubbliche Relazioni</value>
+  </data>
+  <data name="PageFinances_2027_name" xml:space="preserve">
+    <value>Denaro totale</value>
+  </data>
+  <data name="PageFinances_2028_name" xml:space="preserve">
+    <value>Budget totale</value>
+  </data>
+  <data name="PageFinances_2029_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2030_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2031_name" xml:space="preserve">
+    <value>Flotta</value>
+  </data>
+  <data name="PageFinances_2032_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2033_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2034_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2035_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2036_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2037_name" xml:space="preserve">
+    <value>Totale dipendenti</value>
+  </data>
+  <data name="PageFinances_2038_name" xml:space="preserve">
+    <value>Totale Salari</value>
+  </data>
+  <data name="PageFinances_2039_name" xml:space="preserve">
+    <value>Applica</value>
+  </data>
+  <data name="PageFinances_2040_name" xml:space="preserve">
+    <value>Reset</value>
+  </data>
 </root>

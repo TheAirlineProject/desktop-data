@@ -2356,9 +2356,219 @@
     <value>自动生成计划</value>
   </data>
   <data name="PageAirportFlights_200_name" xml:space="preserve">
-    <value></value>
+    <value>分配</value>
   </data>
   <data name="PageAirportFlights_201_name" xml:space="preserve">
     <value>航班地图</value>
+  </data>
+  <data name="PageAirlineFleet_1010_name" xml:space="preserve">
+    <value>选择航空公司来转账</value>
+  </data>
+  <data name="PageAirlineSubsidiaries_1002_name" xml:space="preserve">
+    <value>航空公司之间的转账</value>
+  </data>
+  <data name="PageAirlineSubsidiaries_201_name" xml:space="preserve">
+    <value>转账</value>
+  </data>
+  <data name="MessageBox_2120_message" xml:space="preserve">
+    <value>您无法在 {0} 与 {1} 之间转账。</value>
+  </data>
+  <data name="MessageBox_2120_name" xml:space="preserve">
+    <value>无法转账</value>
+  </data>
+  <data name="MessageBox_2121_message" xml:space="preserve">
+    <value>您确认要从 {1} 转 {0:C}  到 {2} 吗？</value>
+  </data>
+  <data name="MessageBox_2121_name" xml:space="preserve">
+    <value>转账</value>
+  </data>
+  <data name="MessageBox_2122_message" xml:space="preserve">
+    <value>您无法删除正在执行航路的飞机。</value>
+  </data>
+  <data name="MessageBox_2122_name" xml:space="preserve">
+    <value>无法删除飞机</value>
+  </data>
+  <data name="MessageBox_2222_message" xml:space="preserve">
+    <value>您确认要在 {0} 租借一个登机口吗？</value>
+  </data>
+  <data name="MessageBox_2222_name" xml:space="preserve">
+    <value>租借登机口</value>
+  </data>
+  <data name="PageAirline_1026_name" xml:space="preserve">
+    <value>收购为子公司？</value>
+  </data>
+  <data name="ToolTip_1001_name" xml:space="preserve">
+    <value>返回上一个页面</value>
+  </data>
+  <data name="ToolTip_1002_name" xml:space="preserve">
+    <value>前往下一个页面</value>
+  </data>
+  <data name="ToolTip_1003_name" xml:space="preserve">
+    <value>暂停游戏</value>
+  </data>
+  <data name="ToolTip_1004_name" xml:space="preserve">
+    <value>继续游戏</value>
+  </data>
+  <data name="ToolTip_1005_name" xml:space="preserve">
+    <value>更改游戏运行速度</value>
+  </data>
+  <data name="ToolTip_1006_name" xml:space="preserve">
+    <value>选择每轮时间</value>
+  </data>
+  <data name="ToolTip_1007_name" xml:space="preserve">
+    <value>选择您的语言</value>
+  </data>
+  <data name="ToolTip_1008_name" xml:space="preserve">
+    <value>选择背景图片</value>
+  </data>
+  <data name="ToolTip_1009_name" xml:space="preserve">
+    <value>在每个航班着陆的时候以邮件通知我</value>
+  </data>
+  <data name="ToolTip_1010_name" xml:space="preserve">
+    <value>航班因恶劣天气而延误时以邮件通知我</value>
+  </data>
+  <data name="ToolTip_1011_name" xml:space="preserve">
+    <value>显示 $1,200,000 为 $1.2 百万</value>
+  </data>
+  <data name="ToolTip_1012_name" xml:space="preserve">
+    <value>IATA 至少3位字符， ICAO 至少4位字符</value>
+  </data>
+  <data name="ToolTip_1013_name" xml:space="preserve">
+    <value>查阅事件日历</value>
+  </data>
+  <data name="ToolTip_1014_name" xml:space="preserve">
+    <value>更新您的飞机合同</value>
+  </data>
+  <data name="ToolTip_1015_name" xml:space="preserve">
+    <value>收购此航空公司并且吸纳其航线</value>
+  </data>
+  <data name="ToolTip_1016_name" xml:space="preserve">
+    <value>收购此公司作为您的子公司</value>
+  </data>
+  <data name="MessageBox_2952_message" xml:space="preserve">
+    <value>您确认要修改设置吗？</value>
+  </data>
+  <data name="MessageBox_2952_name" xml:space="preserve">
+    <value>修改设置</value>
+  </data>
+  <data name="PageFinances_2001_name" xml:space="preserve">
+    <value>财政预算</value>
+  </data>
+  <data name="PageFinances_2002_name" xml:space="preserve">
+    <value>主要预算</value>
+  </data>
+  <data name="PageFinances_2003_name" xml:space="preserve">
+    <value>营销预算</value>
+  </data>
+  <data name="PageFinances_2004_name" xml:space="preserve">
+    <value>维护预算</value>
+  </data>
+  <data name="PageFinances_2005_name" xml:space="preserve">
+    <value>安全预算</value>
+  </data>
+  <data name="PageFinances_2006_name" xml:space="preserve">
+    <value>客户服务预算</value>
+  </data>
+  <data name="PageFinances_2007_name" xml:space="preserve">
+    <value>营销</value>
+  </data>
+  <data name="PageFinances_2008_name" xml:space="preserve">
+    <value>维护</value>
+  </data>
+  <data name="PageFinances_2009_name" xml:space="preserve">
+    <value>安全</value>
+  </data>
+  <data name="PageFinances_2010_name" xml:space="preserve">
+    <value>客户服务</value>
+  </data>
+  <data name="PageFinances_2011_name" xml:space="preserve">
+    <value>打印机</value>
+  </data>
+  <data name="PageFinances_2012_name" xml:space="preserve">
+    <value>电视</value>
+  </data>
+  <data name="PageFinances_2013_name" xml:space="preserve">
+    <value>收音机</value>
+  </data>
+  <data name="PageFinances_2014_name" xml:space="preserve">
+    <value>互联网</value>
+  </data>
+  <data name="PageFinances_2015_name" xml:space="preserve">
+    <value>室内装潢</value>
+  </data>
+  <data name="PageFinances_2016_name" xml:space="preserve">
+    <value>引擎维修</value>
+  </data>
+  <data name="PageFinances_2017_name" xml:space="preserve">
+    <value>部件更换</value>
+  </data>
+  <data name="PageFinances_2018_name" xml:space="preserve">
+    <value>远程服务</value>
+  </data>
+  <data name="PageFinances_2019_name" xml:space="preserve">
+    <value>飞行安全</value>
+  </data>
+  <data name="PageFinances_2020_name" xml:space="preserve">
+    <value>机场安全</value>
+  </data>
+  <data name="PageFinances_2021_name" xml:space="preserve">
+    <value>安全设施</value>
+  </data>
+  <data name="PageFinances_2022_name" xml:space="preserve">
+    <value>计算机安全</value>
+  </data>
+  <data name="PageFinances_2023_name" xml:space="preserve">
+    <value>补偿</value>
+  </data>
+  <data name="PageFinances_2024_name" xml:space="preserve">
+    <value>促销</value>
+  </data>
+  <data name="PageFinances_2025_name" xml:space="preserve">
+    <value>服务中心</value>
+  </data>
+  <data name="PageFinances_2026_name" xml:space="preserve">
+    <value>公共关系</value>
+  </data>
+  <data name="PageFinances_2027_name" xml:space="preserve">
+    <value>总现金</value>
+  </data>
+  <data name="PageFinances_2028_name" xml:space="preserve">
+    <value>总预算</value>
+  </data>
+  <data name="PageFinances_2029_name" xml:space="preserve">
+    <value>剩余预算</value>
+  </data>
+  <data name="PageFinances_2030_name" xml:space="preserve">
+    <value>年底结余现金</value>
+  </data>
+  <data name="PageFinances_2031_name" xml:space="preserve">
+    <value>机队规模</value>
+  </data>
+  <data name="PageFinances_2032_name" xml:space="preserve">
+    <value>机队的总价值</value>
+  </data>
+  <data name="PageFinances_2033_name" xml:space="preserve">
+    <value>航空公司的平均价值</value>
+  </data>
+  <data name="PageFinances_2034_name" xml:space="preserve">
+    <value>子公司</value>
+  </data>
+  <data name="PageFinances_2035_name" xml:space="preserve">
+    <value>所有子公司的总价值</value>
+  </data>
+  <data name="PageFinances_2036_name" xml:space="preserve">
+    <value>所有子公司的平均价值</value>
+  </data>
+  <data name="PageFinances_2037_name" xml:space="preserve">
+    <value>员工总数</value>
+  </data>
+  <data name="PageFinances_2038_name" xml:space="preserve">
+    <value>薪金总额</value>
+  </data>
+  <data name="PageFinances_2039_name" xml:space="preserve">
+    <value>应用</value>
+  </data>
+  <data name="PageFinances_2040_name" xml:space="preserve">
+    <value>重设</value>
   </data>
 </root>

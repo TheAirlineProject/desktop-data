@@ -2352,4 +2352,214 @@
   <data name="PageAirportFlights_201_name" xml:space="preserve">
     <value>Flyvekort</value>
   </data>
+  <data name="PageAirlineFleet_1010_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirlineSubsidiaries_1002_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageAirlineSubsidiaries_201_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2120_message" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="MessageBox_2120_name" xml:space="preserve">
+    <value>Kan ikke overføre penge</value>
+  </data>
+  <data name="MessageBox_2121_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil overføre {0:C} fra {1} til {2}?</value>
+  </data>
+  <data name="MessageBox_2121_name" xml:space="preserve">
+    <value>Overfør penge</value>
+  </data>
+  <data name="MessageBox_2122_message" xml:space="preserve">
+    <value>Du kan ikke slette dette fly idet det er i rute</value>
+  </data>
+  <data name="MessageBox_2122_name" xml:space="preserve">
+    <value>Kan ikke slette fly</value>
+  </data>
+  <data name="MessageBox_2222_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil leje en gate ved {0}?</value>
+  </data>
+  <data name="MessageBox_2222_name" xml:space="preserve">
+    <value>Leje gate</value>
+  </data>
+  <data name="PageAirline_1026_name" xml:space="preserve">
+    <value>Køb som underselskab</value>
+  </data>
+  <data name="ToolTip_1001_name" xml:space="preserve">
+    <value>To til foregående</value>
+  </data>
+  <data name="ToolTip_1002_name" xml:space="preserve">
+    <value>Gå til næste</value>
+  </data>
+  <data name="ToolTip_1003_name" xml:space="preserve">
+    <value>Pause spillet</value>
+  </data>
+  <data name="ToolTip_1004_name" xml:space="preserve">
+    <value>Forsæt spillet</value>
+  </data>
+  <data name="ToolTip_1005_name" xml:space="preserve">
+    <value>Ændre spillehastigheden</value>
+  </data>
+  <data name="ToolTip_1006_name" xml:space="preserve">
+    <value>Vælg minutter per omgang</value>
+  </data>
+  <data name="ToolTip_1007_name" xml:space="preserve">
+    <value>Vælg dit sprog</value>
+  </data>
+  <data name="ToolTip_1008_name" xml:space="preserve">
+    <value>Vælg baggrunds-skin</value>
+  </data>
+  <data name="ToolTip_1009_name" xml:space="preserve">
+    <value>Send mails ved landinger</value>
+  </data>
+  <data name="ToolTip_1010_name" xml:space="preserve">
+    <value>Send mail ved dårligt vejr</value>
+  </data>
+  <data name="ToolTip_1011_name" xml:space="preserve">
+    <value>Vis $1.200.000 som $1.2 million</value>
+  </data>
+  <data name="ToolTip_1012_name" xml:space="preserve">
+    <value>IATA er på 3 bogstaver. ICAO er på 4 bogstaver</value>
+  </data>
+  <data name="ToolTip_1013_name" xml:space="preserve">
+    <value>Se kalender</value>
+  </data>
+  <data name="ToolTip_1014_name" xml:space="preserve">
+    <value>Opgradere licens</value>
+  </data>
+  <data name="ToolTip_1015_name" xml:space="preserve">
+    <value>Køb selskab</value>
+  </data>
+  <data name="ToolTip_1016_name" xml:space="preserve">
+    <value>Køb selskab som underselskab</value>
+  </data>
+  <data name="MessageBox_2952_message" xml:space="preserve">
+    <value>Er du sikker på, at du vil ændre indstillingerne?</value>
+  </data>
+  <data name="MessageBox_2952_name" xml:space="preserve">
+    <value>Ændre indstillinger</value>
+  </data>
+  <data name="PageFinances_2001_name" xml:space="preserve">
+    <value>Finanser og budget</value>
+  </data>
+  <data name="PageFinances_2002_name" xml:space="preserve">
+    <value>Primære budget</value>
+  </data>
+  <data name="PageFinances_2003_name" xml:space="preserve">
+    <value>Marketingsbudget</value>
+  </data>
+  <data name="PageFinances_2004_name" xml:space="preserve">
+    <value>Vedligeholdelsesbudget</value>
+  </data>
+  <data name="PageFinances_2005_name" xml:space="preserve">
+    <value>Sikkerhedsbudget</value>
+  </data>
+  <data name="PageFinances_2006_name" xml:space="preserve">
+    <value>Kundeservicesbudget</value>
+  </data>
+  <data name="PageFinances_2007_name" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="PageFinances_2008_name" xml:space="preserve">
+    <value>Vedligeholdelse</value>
+  </data>
+  <data name="PageFinances_2009_name" xml:space="preserve">
+    <value>Sikkerhed</value>
+  </data>
+  <data name="PageFinances_2010_name" xml:space="preserve">
+    <value>Kundeservice</value>
+  </data>
+  <data name="PageFinances_2011_name" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="PageFinances_2012_name" xml:space="preserve">
+    <value>TV</value>
+  </data>
+  <data name="PageFinances_2013_name" xml:space="preserve">
+    <value>Radio</value>
+  </data>
+  <data name="PageFinances_2014_name" xml:space="preserve">
+    <value>Internet</value>
+  </data>
+  <data name="PageFinances_2015_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2016_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2017_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2018_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2019_name" xml:space="preserve">
+    <value>In-Flight sikkerhed</value>
+  </data>
+  <data name="PageFinances_2020_name" xml:space="preserve">
+    <value>Lufthavnssikkerhed</value>
+  </data>
+  <data name="PageFinances_2021_name" xml:space="preserve">
+    <value>Sikkerhedsudstyr</value>
+  </data>
+  <data name="PageFinances_2022_name" xml:space="preserve">
+    <value>Computersikkerhed</value>
+  </data>
+  <data name="PageFinances_2023_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2024_name" xml:space="preserve">
+    <value>Promotions</value>
+  </data>
+  <data name="PageFinances_2025_name" xml:space="preserve">
+    <value>Servicecenter</value>
+  </data>
+  <data name="PageFinances_2026_name" xml:space="preserve">
+    <value>PR</value>
+  </data>
+  <data name="PageFinances_2027_name" xml:space="preserve">
+    <value>Samlet beløb</value>
+  </data>
+  <data name="PageFinances_2028_name" xml:space="preserve">
+    <value>Samlet budget</value>
+  </data>
+  <data name="PageFinances_2029_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2030_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2031_name" xml:space="preserve">
+    <value>Flådestørrelse</value>
+  </data>
+  <data name="PageFinances_2032_name" xml:space="preserve">
+    <value>Samlet flådeværdi</value>
+  </data>
+  <data name="PageFinances_2033_name" xml:space="preserve">
+    <value>Gns. flyalder</value>
+  </data>
+  <data name="PageFinances_2034_name" xml:space="preserve">
+    <value>Underselskaber</value>
+  </data>
+  <data name="PageFinances_2035_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2036_name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="PageFinances_2037_name" xml:space="preserve">
+    <value>Samlet antal ansatte</value>
+  </data>
+  <data name="PageFinances_2038_name" xml:space="preserve">
+    <value>Samlet løn</value>
+  </data>
+  <data name="PageFinances_2039_name" xml:space="preserve">
+    <value>Sæt</value>
+  </data>
+  <data name="PageFinances_2040_name" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

@@ -2577,6 +2577,12 @@ Good luck.</value>
   <data name="PanelAirliner_1017_name" xml:space="preserve">
     <value>Cargo capacity</value>
   </data>
+  <data name="PageAirliners_1003_name" xml:space="preserve">
+    <value>Passenger airliners</value>
+  </data>
+  <data name="PageAirliners_1004_name" xml:space="preserve">
+    <value>Cargo airliners</value>
+  </data>
   <data name="PanelNewRoute_1005_name" xml:space="preserve">
     <value>Passenger route</value>
   </data>
