@@ -2604,4 +2604,7 @@ Good luck.</value>
   <data name="PanelRoute_1015_name" xml:space="preserve">
     <value>Cargo unit price</value>
   </data>
+  <data name="PageAirline_1027_name" xml:space="preserve">
+    <value>Airline type</value>
+  </data>
 </root>
