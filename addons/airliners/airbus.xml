@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="Airbus" name="Airbus A300B4" price="16114380"> <!--35500000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
@@ -10,6 +10,12 @@
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="44.85" length="54.08" range="6850" speed="875" fuelcapacity="62000" consumption="0.034" runwaylengthrequired="2240"/>
     <capacity passengers="266" cockpitcrew="2" cabincrew="5" maxclasses="2"/>
+    <produced from="1983" to="2006"/>
+  </airliner>
+   <airliner type="Cargo" manufacturer="Airbus" name="Airbus A300-600F" price="17711740"> <!--59600000-->
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="44.85" length="54.08" range="6850" speed="875" fuelcapacity="62000" consumption="0.034" runwaylengthrequired="2240"/>
+    <capacity cockpitcrew="2" cargo="116"/>
     <produced from="1983" to="2006"/>
   </airliner>
   <airliner manufacturer="Airbus" name="Airbus A300-600R" price="16312230"> <!--65200000-->
@@ -70,6 +76,12 @@
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="60.30" length="58.82" range="13430" speed="871" fuelcapacity="139090" consumption="0.027" runwaylengthrequired="2490"/>
     <capacity passengers="380" cockpitcrew="2" cabincrew="8" maxclasses="3"/>
+    <produced from="1998" to="2018"/>
+  </airliner>
+    <airliner type="Cargo" manufacturer="Airbus" name="Airbus A330-200F" image="Airbus A330-200" price="26366440"> <!--145200000-->
+	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
+    <specs wingspan="60.30" length="58.82" range="13430" speed="871" fuelcapacity="139090" consumption="0.027" runwaylengthrequired="2490"/>
+    <capacity cockpitcrew="2" cargo="475"/>
     <produced from="1998" to="2018"/>
   </airliner>
   <airliner manufacturer="Airbus" name="Airbus A330-300" image="Airbus A330-300" price="29259040"> <!--146500000-->

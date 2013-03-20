@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="MD" name="MD-11" price="14761070"> <!--59000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
@@ -15,7 +15,7 @@
   <airliner type="Cargo" manufacturer="MD" name="MD-11F" price="15933030"> <!--59000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="51.66" length="58.65" range="7320" speed="945" fuelcapacity="146170" consumption="0.026" runwaylengthrequired="2745"/>
-    <capacity cockpitcrew="2" cargo="90787"/>
+    <capacity cockpitcrew="2" cargo="440"/>
     <produced from="1986" to="2000"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-8-32" price="5782310"> <!--6800000-->

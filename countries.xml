@@ -628,7 +628,7 @@
     </translations>
   </country>
   <country uid="158" shortname="RSA" region="109" flag="South Africa" tailformat="ZS-\\s3">
-	<currency symbol="R" position="Left" rate="8.57" />
+	<currency symbol="R" position="Left" rate="1.00" />
     <translations>
       <en-US name="South Africa" />
       <de-DE name="Südafrika" />
@@ -1564,6 +1564,204 @@
 		<da-DK name="Afghanistan" />
 		<es-ES name="Afghanistan" />
 	</translations>
+  </country>
+  <country uid="255" shortname="ZIM" region="109" flag="Zimbabwe" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Zimbabwe" />
+      <de-DE name="Zimbabwe" />
+      <en-GB name="Zimbabwe" />
+      <nl-NL name="Zimbabwe" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Zimbabwe" />
+      <es-ES name="Zimbabue" />
+    </translations>
+  </country>
+  <country uid="256" shortname="SWA" region="109" flag="Swaziland" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Swaziland" />
+      <de-DE name="Swaziland" />
+      <en-GB name="Swaziland" />
+      <nl-NL name="Swaziland" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Swaziland" />
+      <es-ES name="Swaziland" />
+    </translations>
+  </country>
+  <country uid="257" shortname="LES" region="109" flag="Lesotho" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Lesotho" />
+      <de-DE name="Lesotho" />
+      <en-GB name="Lesotho" />
+      <nl-NL name="Lesotho" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Lesotho" />
+      <es-ES name="Lesotho" />
+    </translations>
+  </country>
+  <country uid="258" shortname="BOT" region="109" flag="Botswana" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Botswana" />
+      <de-DE name="Botswana" />
+      <en-GB name="Botswana" />
+      <nl-NL name="Botswana" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Botswana" />
+      <es-ES name="Botswana" />
+    </translations>
+  </country>
+  <country uid="259" shortname="NAM" region="109" flag="Namibia" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Namibia" />
+      <de-DE name="Namibia" />
+      <en-GB name="Namibia" />
+      <nl-NL name="Namibia" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Namibia" />
+      <es-ES name="Namibia" />
+    </translations>
+  </country>
+  <country uid="260" shortname="MAD" region="109" flag="Madagascar" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Madagascar" />
+      <de-DE name="Madagascar" />
+      <en-GB name="Madagascar" />
+      <nl-NL name="Madagascar" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Madagascar" />
+      <es-ES name="Madagascar" />
+    </translations>
+  </country>
+  <country uid="261" shortname="UGA" region="109" flag="Uganda" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Uganda" />
+      <de-DE name="Uganda" />
+      <en-GB name="Uganda" />
+      <nl-NL name="Uganda" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Uganda" />
+      <es-ES name="Uganda" />
+    </translations>
+  </country>
+  <country uid="262" shortname="SOM" region="109" flag="Somalia" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Somalia" />
+      <de-DE name="Somalia" />
+      <en-GB name="Somalia" />
+      <nl-NL name="Somalia" />
+      <zh-CN name="津巴布韦" />
+      <da-DK name="Somalia" />
+      <es-ES name="Somalia" />
+    </translations>
+  </country>
+  <country uid="263" shortname="SUD" region="109" flag="South Sudan" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="South Sudan" />
+      <de-DE name="South Sudan" />
+      <en-GB name="South Sudan" />
+      <nl-NL name="South Sudan" />
+      <zh-CN name="South Sudan" />
+      <da-DK name="South Sudan" />
+      <es-ES name="South Sudan" />
+    </translations>
+  </country>
+  <country uid="264" shortname="ERI" region="109" flag="Eritrea" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Eritrea" />
+      <de-DE name="Eritrea" />
+      <en-GB name="Eritrea" />
+      <nl-NL name="Eritrea" />
+      <zh-CN name="Eritrea" />
+      <da-DK name="Eritrea" />
+      <es-ES name="Eritrea" />
+    </translations>
+  </country>
+  <country uid="265" shortname="CHA" region="109" flag="Chad" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Chad" />
+      <de-DE name="Chad" />
+      <en-GB name="Chad" />
+      <nl-NL name="Chad" />
+      <zh-CN name="Chad" />
+      <da-DK name="Chad" />
+      <es-ES name="Chad" />
+    </translations>
+  </country>
+  <country uid="267" shortname="NIG" region="109" flag="Niger" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Niger" />
+      <de-DE name="Niger" />
+      <en-GB name="Niger" />
+      <nl-NL name="Niger" />
+      <zh-CN name="Niger" />
+      <da-DK name="Niger" />
+      <es-ES name="Niger" />
+    </translations>
+  </country>
+  <country uid="268" shortname="MAL" region="109" flag="Mali" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Mali" />
+      <de-DE name="Mali" />
+      <en-GB name="Mali" />
+      <nl-NL name="Mali" />
+      <zh-CN name="Mali" />
+      <da-DK name="Mali" />
+      <es-ES name="Mali" />
+    </translations>
+  </country>
+  <country uid="269" shortname="MAU" region="109" flag="Mauritania" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Mauritania" />
+      <de-DE name="Mauritania" />
+      <en-GB name="Mauritania" />
+      <nl-NL name="Mauritania" />
+      <zh-CN name="Mauritania" />
+      <da-DK name="Mauritania" />
+      <es-ES name="Mauritania" />
+    </translations>
+  </country>
+  <country uid="270" shortname="SIE" region="109" flag="Sierra Leone" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Sierra Leone" />
+      <de-DE name="Sierra Leone" />
+      <en-GB name="Sierra Leone" />
+      <nl-NL name="Sierra Leone" />
+      <zh-CN name="Sierra Leone" />
+      <da-DK name="Sierra Leone" />
+      <es-ES name="Sierra Leone" />
+    </translations>
+  </country>
+  <country uid="271" shortname="COM" region="109" flag="Comoros" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Comoros" />
+      <de-DE name="Comoros" />
+      <en-GB name="Comoros" />
+      <nl-NL name="Comoros" />
+      <zh-CN name="Comoros" />
+      <da-DK name="Comoros" />
+      <es-ES name="Comoros" />
+    </translations>
+  </country>
+  <country uid="272" shortname="MAY" region="109" flag="Mayotte" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Mayotte" />
+      <de-DE name="Mayotte" />
+      <en-GB name="Mayotte" />
+      <nl-NL name="Mayotte" />
+      <zh-CN name="Mayotte" />
+      <da-DK name="Mayotte" />
+      <es-ES name="Mayotte" />
+    </translations>
+  </country>
+  <country uid="273" shortname="REU" region="109" flag="Réunion" tailformat="NP-\\s3">
+    <translations>
+      <en-US name="Réunion" />
+      <de-DE name="Réunion" />
+      <en-GB name="Réunion" />
+      <nl-NL name="Réunion" />
+      <zh-CN name="Réunion" />
+      <da-DK name="Réunion" />
+      <es-ES name="Réunion" />
+    </translations>
   </country>
   <!--Territories-->
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
