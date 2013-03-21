@@ -2607,4 +2607,7 @@ Good luck.</value>
   <data name="PageAirline_1027_name" xml:space="preserve">
     <value>Airline type</value>
   </data>
+  <data name="PageNewGame_1021_name" xml:space="preserve">
+    <value>Airline type</value>
+  </data>
 </root>
