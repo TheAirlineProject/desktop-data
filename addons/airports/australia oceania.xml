@@ -851,7 +851,7 @@
       <latitude value="061°10'27''N" />
       <longitude value="149°59'46''W" />
     </coordinates>
-    <size value="Medium" pax="4976" />
+    <size value="Medium" pax="4976" cargo="Largest" cargovolume="2543"/>
     <terminals>
       <terminal name="Terminal" gates="10" />
     </terminals>

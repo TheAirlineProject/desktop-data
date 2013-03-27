@@ -1771,7 +1771,7 @@
       <latitude value="039°43'02''N"/>
       <longitude value="086°17'39''W"/>
     </coordinates>
-    <size value="Medium" pax="3670"/>
+    <size value="Medium" pax="3670" cargo="Very_large"/>
     <terminals>
       <terminal name="Colonel H. Weir Cook Terminal" gates="46"/>
     </terminals>
@@ -2089,7 +2089,7 @@
       <latitude value="035°02'32''N"/>
       <longitude value="089°58'36''W"/>
     </coordinates>
-    <size value="Medium" pax="4344"/>
+    <size value="Medium" pax="4344" cargo="Largest" cargovolume="3916"/>
     <terminals>
       <terminal name="Terminal A" gates="23"/>
       <terminal name="Terminal B" gates="42"/>
@@ -2764,7 +2764,7 @@
       <latitude value="038°10'28''N"/>
       <longitude value="085°44'10''W"/>
     </coordinates>
-    <size value="Small" pax="1651"/>
+    <size value="Small" pax="1651" cargo="Largest" cargovolume="2188"/>
     <terminals>
       <terminal name="Terminal" gates="7"/>
     </terminals>
