@@ -553,7 +553,7 @@
     <value>Seasonal</value>
   </data>
   <data name="PageAirport_1020_name" xml:space="preserve">
-    <value>Daily total demand / Remaining demand</value>
+    <value>Daily total demand / Remaining demand (Passengers / Cargo)</value>
   </data>
   <data name="PageAirport_1021_name" xml:space="preserve">
     <value>Cargo size</value>

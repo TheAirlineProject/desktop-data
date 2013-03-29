@@ -147,7 +147,7 @@
       <latitude value="050°01'35''N"/>
       <longitude value="008°32'35''E"/>
     </coordinates>
-    <size value="Largest" pax="56436"/>
+    <size value="Largest" pax="56436" cargo="Largest" cargovolume="2275"/>
     <terminals>
       <terminal name="Terminal 1" gates="103"/>
       <terminal name="Terminal 2" gates="42"/>
@@ -2559,7 +2559,7 @@
       <latitude value="049°00'46''N"/>
       <longitude value="002°33'00''E"/>
     </coordinates>
-    <size value="Largest" pax="60970"/>
+    <size value="Largest" pax="60970" cargo="Largest" cargovolume="2399"/>
     <terminals>
       <terminal name="Terminal 1" gates="7"/>
       <terminal name="Terminal 2" gates="105"/>
