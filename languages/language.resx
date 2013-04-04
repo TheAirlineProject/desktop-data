@@ -2634,4 +2634,7 @@ Good luck.</value>
   <data name="PageAirport_1028_name" xml:space="preserve">
     <value>Cargo</value>
   </data>
+  <data name="PageAirportTraffic_1002_name" xml:space="preserve">
+    <value>Cargo to destination</value>
+  </data>
 </root>
