@@ -1446,7 +1446,7 @@
       <latitude value="040°41'32''N"/>
       <longitude value="074°10'07''W"/>
     </coordinates>
-    <size value="Very_large" pax="33577"/>
+    <size value="Very_large" pax="33577" cargo="Medium" cargovolume="854"/>
     <terminals>
       <terminal name="Terminal" gates="110"/>
     </terminals>
@@ -1771,7 +1771,7 @@
       <latitude value="039°43'02''N"/>
       <longitude value="086°17'39''W"/>
     </coordinates>
-    <size value="Medium" pax="3670" cargo="Very_large"/>
+    <size value="Medium" pax="3670" cargo="Medium" cargovolume="947"/>
     <terminals>
       <terminal name="Colonel H. Weir Cook Terminal" gates="46"/>
     </terminals>
@@ -1829,7 +1829,7 @@
     </runways>
   </airport>
   <airport name="John F. Kennedy International Airport" icao="KJFK" iata="JFK" type="Long_Haul_International" season="All_Year">
-    <town town="New York, NY" country="122" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="New York, NY" country="122" GMT="-04:00:00" DST="-05:00:00"  cargo="Large" cargovolume="1343"/>
     <coordinates>
       <latitude value="040°38'23''N"/>
       <longitude value="073°46'44''W"/>
@@ -1879,7 +1879,7 @@
       <latitude value="033°56'33''N"/>
       <longitude value="118°24'29''W"/>
     </coordinates>
-    <size value="Largest" pax="61848"/>
+    <size value="Largest" pax="61848" cargo="Very_large" cargovolume="1810"/>
     <terminals>
       <terminal name="Terminal 1" gates="15"/>
       <terminal name="Terminal 2" gates="11"/>
@@ -2123,7 +2123,7 @@
       <latitude value="025°47'35''N"/>
       <longitude value="080°17'26''W"/>
     </coordinates>
-    <size value="Very_large" pax="38314"/>
+    <size value="Very_large" pax="38314" cargo="Very_large" cargovolume="1835"/>
     <terminals>
       <terminal name="North Terminal" gates="45"/>
       <terminal name="Central Terminal" gates="47"/>
@@ -2326,7 +2326,7 @@
       <latitude value="041°58'46''N"/>
       <longitude value="087°54'16''W"/>
     </coordinates>
-    <size value="Largest" pax="66834"/>
+    <size value="Largest" pax="66834" cargo="Large" cargovolume="1424"/>
     <terminals>
       <terminal name="Terminal 1" gates="53"/>
       <terminal name="Terminal 2" gates="38"/>

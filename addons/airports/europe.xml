@@ -576,7 +576,7 @@
       <latitude value="051°28'39''N" />
       <longitude value="000°27'41''W" />
     </coordinates>
-    <size value="Largest" pax="69983" />
+    <size value="Largest" pax="69983" cargo="Very_large" cargovolume="1551" />
     <terminals>
       <terminal name="Terminal 1" gates="55" />
       <terminal name="Terminal 2" gates="20" />
@@ -782,7 +782,7 @@
       <latitude value="052°18'31''N" />
       <longitude value="004°45'50''E" />
     </coordinates>
-    <size value="Largest" pax="49754" />
+    <size value="Largest" pax="49754" cargo="Very_large" cargovolume="1538"/>
     <terminals>
       <terminal name="Terminal" gates="165" />
     </terminals>
@@ -1297,7 +1297,7 @@
       <latitude value="049°37'35''N" />
       <longitude value="006°12'41''E" />
     </coordinates>
-    <size value="Small" pax="1630" />
+    <size value="Small" pax="1630" cargo="Medium" cargovolume="705" />
     <terminals>
       <terminal name="Terminal" gates="9" />
     </terminals>
@@ -2289,44 +2289,100 @@
     </runways>
   </airport>
   <!--Spain (LE**)-->
-  <airport name="Alicante Airport" icao="LEAL" iata="ALC" type="Long_Haul_International" season="All_Year">
+  <airport name="A Coruña Airport" icao="LECO" iata="LCG" type="Regional" season="All_Year">
+    <town town="Culleredo" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°18'07''N" />
+      <longitude value="008°22'38''W" />
+    </coordinates>
+    <size value="Small" pax="1012" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1938" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Albacete-Los Llanos Airport" icao="LEAB" iata="ABC" type="Domestic" season="All_Year">
+    <town town="Albacete" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°56'55''N" />
+      <longitude value="001°51'48''W" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2700" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Alicante Airport" icao="LEAL" iata="ALC" type="Short_Haul_International" season="All_Year">
     <town town="Alicante" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="038°16'55''N" />
-      <longitude value="000°33'29''W" />
+      <latitude value="038°17'01''N" />
+      <longitude value="000°33'31''W" />
     </coordinates>
     <size value="Medium" pax="9913" />
     <terminals>
-      <terminal name="Terminal" gates="40" />
+      <terminal name="Terminal" gates="14" />
     </terminals>
     <runways>
       <runway name="10/28" length="3000" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Bilbao Airport" icao="LEBB" iata="BIO" type="Long_Haul_International" season="All_Year">
-    <town town="Bilbao" country="123" GMT="02:00:00" DST="01:00:00" />
+  <airport name="Almería International Airport" icao="LEAM" iata="LEI" type="Regional" season="All_Year">
+    <town town="Almería" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="043°18'03''N" />
-      <longitude value="002°54'38''W" />
+      <latitude value="036°50'38''N" />
+      <longitude value="002°22'12''W" />
     </coordinates>
-    <size value="Medium" pax="4046" />
+    <size value="Small" pax="780" />
     <terminals>
-      <terminal name="Terminal" gates="6" />
+      <terminal name="Terminal" gates="4" />
     </terminals>
     <runways>
-      <runway name="10/28" length="2000" surface="Asphalt" />
-      <runway name="12/30" length="2600" surface="Asphalt" />
+      <runway name="07/25" length="3200" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Barcelona El Prat Airport" icao="LEBL" iata="BCN" type="Long_Haul_International" season="All_Year">
+  <airport name="Asturias Airport" icao="LEAS" iata="OVD" type="Regional" season="All_Year">
+    <town town="Ranón" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°33'49''N" />
+      <longitude value="006°02'05''W" />
+    </coordinates>
+    <size value="Small" pax="1339" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Badajoz Airport" icao="LEBZ" iata="BJZ" type="Domestic" season="All_Year">
+    <town town="Badajoz" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°53'29''N" />
+      <longitude value="006°49'17''W" />
+    </coordinates>
+    <size value="Smallest" pax="56" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2852" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Barcelona-El Prat Airport" icao="LEBL" iata="BCN" type="Long_Haul_International" season="All_Year">
     <town town="Barcelona" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°17'49''N" />
       <longitude value="002°04'42''E" />
     </coordinates>
-    <size value="Very_large" pax="34387" />
+    <size value="Very_large" pax="34398" />
     <terminals>
       <terminal name="Terminal 1" gates="60" />
+	  <terminal name="Terminal 2" gates="59" />
     </terminals>
     <runways>
       <runway name="02/20" length="2528" surface="Asphalt" />
@@ -2334,18 +2390,135 @@
       <runway name="07R/25L" length="2660" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Bilbao Airport" icao="LEBB" iata="BIO" type="Long_Haul_International" season="All_Year">
+    <town town="Bilbao" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°18'04''N" />
+      <longitude value="002°54'38''W" />
+    </coordinates>
+    <size value="Medium" pax="4046" />
+    <terminals>
+      <terminal name="Terminal" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2000" surface="Asphalt" />
+      <runway name="12/30" length="2600" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Burgos Airport" icao="LEBG" iata="RGS" type="Domestic" season="All_Year">
+    <town town="Burgos" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°21'27''N" />
+      <longitude value="003°36'49''W" />
+    </coordinates>
+    <size value="Smallest" pax="35" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2100" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Córdoba Airport" icao="LEBA" iata="ODB" type="Domestic" season="All_Year">
+    <town town="Córdoba" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="037°50'31''N" />
+      <longitude value="004°50'56''W" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1380" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Fuerteventura Airport" icao="GCFV" iata="FUE" type="Regional" season="All_Year">
+    <town town="Fuerteventura Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°27'10''N" />
+      <longitude value="013°51'50''W" />
+    </coordinates>
+    <size value="Medium" pax="4948" />
+    <terminals>
+      <terminal name="Terminal" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="01R/19L" length="3406" surface="Asphalt" />
+	  <runway name="01L/19R" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Girona-Costa Brava Airport" icao="LEGE" iata="GRO" type="Long_Haul_International" season="All_Year">
     <town town="Girona" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°54'03''N" />
-      <longitude value="002°45'37''E" />
+      <longitude value="002°45'38''E" />
     </coordinates>
-    <size value="Medium" pax="4863" />
+    <size value="Medium" pax="3007" />
     <terminals>
-      <terminal name="Terminal" gates="8" />
+      <terminal name="Terminal" gates="11" />
     </terminals>
     <runways>
       <runway name="02/20" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Gran Canaria Airport" icao="GCLP" iata="LPA" type="Short_Haul_International" season="All_Year">
+    <town town="Gran Canaria Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°55'55''N" />
+      <longitude value="015°23'12''W" />
+    </coordinates>
+    <size value="Large" pax="10538" />
+    <terminals>
+      <terminal name="Terminal" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="03L/21R" length="3100" surface="Asphalt" />
+      <runway name="03R/21L" length="3100" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Federico Garcia Lorca Granada-Jaen Airport" icao="LEGR" iata="GRX" type="Domestic" season="All_Year">
+    <town town="Granada" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="037°11'19''N" />
+      <longitude value="003°46'38''W" />
+    </coordinates>
+    <size value="Small" pax="872" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2900" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Hierro Airport" icao="GCHI" iata="VDE" type="Domestic" season="All_Year">
+    <town town="El Hierro Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="027°48'53''N" />
+      <longitude value="017°53'13''W" />
+    </coordinates>
+    <size value="Very_small" pax="170" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1250" surface="Asphalt" />
+    </runways>
+  </airport>
+  
+  <airport name="Huesca-Pirineos Airport" icao="LEHC" iata="HSK" type="Domestic" season="All_Year">
+    <town town="Huesca" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°04'51''N" />
+      <longitude value="000°19'24''W" />
+    </coordinates>
+    <size value="Smallest" pax="2" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12R/30L" length="2100" surface="Asphalt" />
+	  <runway name="12L/30R" length="615" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Ibiza Airport" icao="LEIB" iata="IBZ" type="Long_Haul_International" season="All_Year">
@@ -2362,54 +2535,169 @@
       <runway name="06/24" length="2800" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Jerez Airport" icao="LEJR" iata="XRY" type="Regional" season="All_Year">
+    <town town="Jerez de la Frontera" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="036°44'40''N" />
+      <longitude value="006°03'36''W" />
+    </coordinates>
+    <size value="Small" pax="1032" />
+    <terminals>
+      <terminal name="Terminal" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2300" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="La Gomera Airport" icao="GCGM" iata="GMZ" type="Domestic" season="All_Year">
+    <town town="San Sebastián de La Gomera" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°01'47''N" />
+      <longitude value="017°12'53''W" />
+    </coordinates>
+    <size value="Smallest" pax="32" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1500" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="La Palma Airport" icao="GCLA" iata="SPC" type="Regional" season="All_Year">
+    <town town="Santa Cruz de La Palma" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°37'35''N" />
+      <longitude value="017°45'20''W" />
+    </coordinates>
+    <size value="Small" pax="1067" />
+    <terminals>
+      <terminal name="Terminal" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lanzarote Airport" icao="GCRR" iata="ACE" type="Short_Haul_International" season="All_Year">
+    <town town="Lanzarote Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°56'43''N" />
+      <longitude value="013°36'18''W" />
+    </coordinates>
+    <size value="Medium" pax="5543" />
+    <terminals>
+      <terminal name="Terminal T1" gates="7" />
+	  <terminal name="Terminal T2" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="León Airport" icao="LELN" iata="LEN" type="Domestic" season="All_Year">
+    <town town="León" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°35'20''N" />
+      <longitude value="005°39'20''W" />
+    </coordinates>
+    <size value="Very_small" pax="85" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="3000" surface="Asphalt" />
+      <runway name="06/24" length="1034" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Logroño-Agoncillo Airport" icao="LELO" iata="RJL" type="Domestic" season="All_Year">
+    <town town="Logroño" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°27'39''N" />
+      <longitude value="002°19'20''W" />
+    </coordinates>
+    <size value="Smallest" pax="17" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2201" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Madrid-Barajas Airport" icao="LEMD" iata="MAD" type="Long_Haul_International" season="All_Year">
     <town town="Madrid" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="040°28'20''N" />
       <longitude value="003°33'39''W" />
     </coordinates>
-    <size value="Largest" pax="49644" />
+    <size value="Largest" pax="49671" />
     <terminals>
-      <terminal name="Terminal 1" gates="42" />
-      <terminal name="Terminal 2" gates="23" />
-      <terminal name="Terminal 3" gates="11" />
-      <terminal name="Terminal 4" gates="74" />
-      <terminal name="Terminal 4S" gates="44" />
+      <terminal name="Terminal T1" gates="42" />
+      <terminal name="Terminal T2" gates="23" />
+      <terminal name="Terminal T3" gates="11" />
+      <terminal name="Terminal T4" gates="74" />
+      <terminal name="Terminal T4S" gates="44" />
     </terminals>
     <runways>
-      <runway name="15L/33R" length="3500" surface="Asphalt" />
-      <runway name="15R/33L" length="4100" surface="Asphalt" />
+      <runway name="14L/32R" length="3500" surface="Asphalt" />
+      <runway name="14R/32L" length="3988" surface="Asphalt" />
       <runway name="18L/36R" length="3500" surface="Asphalt" />
-      <runway name="18R/36L" length="4349" surface="Asphalt" />
+      <runway name="18R/36L" length="4179" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Málaga Airport" icao="LEMG" iata="AGP" type="Long_Haul_International" season="All_Year">
-    <town town="Malaga" country="123" GMT="02:00:00" DST="01:00:00" />
+    <town town="Málaga" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="036°40'25''N" />
       <longitude value="004°29'56''W" />
     </coordinates>
     <size value="Large" pax="12823" />
     <terminals>
-      <terminal name="Terminal 3" gates="43" />
+      <terminal name="Terminal T2" gates="17" />
+	  <terminal name="Terminal T3" gates="48" />
     </terminals>
     <runways>
       <runway name="13/31" length="3200" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Menorca Airport" icao="LEMH" iata="MAH" type="Long_Haul_International" season="All_Year">
-    <town town="Menorca" country="123" GMT="02:00:00" DST="01:00:00" />
+  <airport name="Melilla Airport" icao="GEML" iata="MLN" type="Domestic" season="All_Year">
+    <town town="Melilla Island" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="035°16'47''N" />
+      <longitude value="002°57'22''W" />
+    </coordinates>
+    <size value="Very_small" pax="286" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1433" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Menorca Airport" icao="LEMH" iata="MAH" type="Regional" season="All_Year">
+    <town town="Menorca Island" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="039°51'45''N" />
       <longitude value="004°13'07''E" />
     </coordinates>
     <size value="Medium" pax="2576" />
     <terminals>
-      <terminal name="Terminal" gates="11" />
+      <terminal name="Terminal" gates="9" />
     </terminals>
     <runways>
-      <runway name="01L/19R" length="2550" surface="Asphalt" />
+      <runway name="01L/19R" length="2350" surface="Asphalt" />
       <runway name="01R/19L" length="2100" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Murcia-San Javier Airport" icao="LELC" iata="MJV" type="Regional" season="All_Year">
+    <town town="Murcia" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="037°46'30''N" />
+      <longitude value="000°48'44''W" />
+    </coordinates>
+    <size value="Small" pax="1262" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="05R/23L" length="2320" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Palma De Mallorca Airport" icao="LEPA" iata="PMI" type="Long_Haul_International" season="All_Year">
@@ -2430,6 +2718,132 @@
       <runway name="06R/24L" length="3000" surface="Asphalt" />
     </runways>
   </airport>
+  <airport name="Pamplona Airport" icao="LEPP" iata="PNA" type="Domestic" season="All_Year">
+    <town town="Pamplona" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°46'12''N" />
+      <longitude value="001°38'46''W" />
+    </coordinates>
+    <size value="Very_small" pax="238" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="2207" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Reus Airport" icao="LERS" iata="REU" type="Regional" season="All_Year">
+    <town town="Reus" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="041°08'50''N" />
+      <longitude value="001°10'01''E" />
+    </coordinates>
+    <size value="Small" pax="1362" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2459" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Salamanca Airport" icao="LESA" iata="SLM" type="Domestic" season="All_Year">
+    <town town="Salamanca" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="040°57'07''N" />
+      <longitude value="005°30'07''W" />
+    </coordinates>
+    <size value="Smallest" pax="37" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2513" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="San Sebastián Airport" icao="LESO" iata="EAS" type="Domestic" season="All_Year">
+    <town town="Hondarribia" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°21'23''N" />
+      <longitude value="001°47'26''W" />
+    </coordinates>
+    <size value="Very_small" pax="248" />
+    <terminals>
+      <terminal name="Terminal" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1754" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Santander Airport" icao="LEXJ" iata="SDR" type="Regional" season="All_Year">
+    <town town="Santander" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°25'37''N" />
+      <longitude value="003°49'12''W" />
+    </coordinates>
+    <size value="Small" pax="1116" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="2320" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Santiago de Compostela Airport" icao="LEST" iata="SCQ" type="Regional" season="All_Year">
+    <town town="Santiago de Compostela" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°53'46''N" />
+      <longitude value="008°24'54''W" />
+    </coordinates>
+    <size value="Medium" pax="2464" />
+    <terminals>
+      <terminal name="Terminal" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sevilla Airport" icao="LEZL" iata="SVQ" type="Long_Haul_International" season="All_Year">
+    <town town="Sevilla" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="037°25'04''N" />
+      <longitude value="005°53'35''W" />
+    </coordinates>
+    <size value="Medium" pax="4959" />
+    <terminals>
+      <terminal name="Terminal" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3360" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Tenerife Norte Airport" icao="GCXO" iata="TFN" type="Long_Haul_International" season="All_Year">
+    <town town="Tenerife Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°28'57''N" />
+      <longitude value="016°20'29''W" />
+    </coordinates>
+    <size value="Medium" pax="4095" />
+    <terminals>
+      <terminal name="Terminal" gates="14" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="3171" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Tenerife South Airport" icao="GCTS" iata="TFS" type="Long_Haul_International" season="All_Year">
+    <town town="Tenerife Island" country="123" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="028°02'40''N" />
+      <longitude value="016°34'21''W" />
+    </coordinates>
+    <size value="Medium" pax="8656" />
+    <terminals>
+      <terminal name="Terminal" gates="37" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3200" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Valencia Airport" icao="LEVC" iata="VLC" type="Long_Haul_International" season="All_Year">
     <town town="Valencia" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
@@ -2444,18 +2858,61 @@
       <runway name="12/30" length="3215" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Sevilla Airport" icao="LEZL" iata="SVQ" type="Long_Haul_International" season="All_Year">
-    <town town="Sevilla" country="123" GMT="02:00:00" DST="01:00:00" />
+  <airport name="Valladolid Airport" icao="LEVD" iata="VLL" type="Domestic" season="All_Year">
+    <town town="Valladolid" country="123" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
-      <latitude value="037°25'04''N" />
-      <longitude value="005°53'35''W" />
+      <latitude value="041°42'21''N" />
+      <longitude value="004°51'06''W" />
     </coordinates>
-    <size value="Medium" pax="4051" />
+    <size value="Very_small" pax="462" />
     <terminals>
-      <terminal name="Terminal" gates="8" />
+      <terminal name="Terminal" gates="3" />
     </terminals>
     <runways>
-      <runway name="09/27" length="3360" surface="Concrete" />
+      <runway name="05/23" length="3005" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Vigo Airport" icao="LEVX" iata="VGO" type="Regional" season="All_Year">
+    <town town="Vigo" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°13'54''N" />
+      <longitude value="008°37'36''W" />
+    </coordinates>
+    <size value="Small" pax="976" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Vitoria/Foronda Airport" icao="LEVT" iata="VIT" type="Domestic" season="All_Year">
+    <town town="Alava" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°52'58''N" />
+      <longitude value="002°43'28''W" />
+    </coordinates>
+    <size value="Smallest" pax="28" />
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="3500" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Zaragoza Airport" icao="LEZG" iata="ZAZ" type="Regional" season="All_Year">
+    <town town="Zaragoza" country="123" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="041°39'58''N" />
+      <longitude value="001°02'29''W" />
+    </coordinates>
+    <size value="Small" pax="751" />
+    <terminals>
+      <terminal name="Terminal" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="12L/30R" length="3032" surface="Asphalt" />
+      <runway name="12R/30L" length="3718" surface="Asphalt" />
     </runways>
   </airport>
   <!--France (LF**)-->

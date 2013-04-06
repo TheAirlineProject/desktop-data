@@ -249,7 +249,7 @@
       <latitude value="025°15'40''N"/>
       <longitude value="051°33'54''E"/>
     </coordinates>
-    <size value="Large" pax="14930"/>
+    <size value="Large" pax="14930" cargo="Medium" cargovolume="707"/>
     <terminals>
       <terminal name="Terminal" gates="60"/>
     </terminals>
@@ -295,7 +295,7 @@
       <latitude value="025°04'48''N"/>
       <longitude value="121°13'56''E"/>
     </coordinates>
-    <size value="Large" pax="24947"/>
+    <size value="Large" pax="24947" cargo="Very_large" cargovolume="1767"/>
     <terminals>
       <terminal name="Terminal 1" gates="18"/>
       <terminal name="Terminal 2" gates="20"/>
@@ -328,7 +328,7 @@
       <latitude value="034°25'38''N"/>
       <longitude value="135°14'38''E"/>
     </coordinates>
-    <size value="Large" pax="15332"/>
+    <size value="Large" pax="15332" cargo="Medium" cargovolume="759"/>
     <terminals>
       <terminal name="Terminal" gates="47"/>
     </terminals>
@@ -431,7 +431,7 @@
       <latitude value="035°33'08''N"/>
       <longitude value="139°46'46''E"/>
     </coordinates>
-    <size value="Largest" pax="64211"/>
+    <size value="Largest" pax="64211" cargo="Medium" cargovolume="804"/>
     <terminals>
       <terminal name="Terminal" gates="133"/>
     </terminals>
@@ -1814,7 +1814,7 @@
       <latitude value="019°05'19''N"/>
       <longitude value="072°52'04''E"/>
     </coordinates>
-    <size value="Very_large" pax="30439"/>
+    <size value="Very_large" pax="30439" cargo="Medium" cargovolume="671"/>
     <terminals>
       <terminal name="Terminal" gates="109"/>
     </terminals>
@@ -1953,7 +1953,7 @@
       <latitude value="013°54'45''N"/>
       <longitude value="100°36'24''E"/>
     </coordinates>
-    <size value="Largest" pax="47910"/>
+    <size value="Largest" pax="47910" cargo="Large" cargovolume="1310"/>
     <terminals>
       <terminal name="Terminal" gates="70"/>
     </terminals>
@@ -3086,7 +3086,7 @@
       <latitude value="002°44'44''N"/>
       <longitude value="101°42'35''E"/>
     </coordinates>
-    <size value="Very_large" pax="37670"/>
+    <size value="Very_large" pax="37670" cargo="Medium" cargovolume="697"/>
     <terminals>
       <terminal name="Main Terminal" gates="43"/>
       <terminal name="Satellite Terminal A" gates="41"/>
@@ -3257,7 +3257,7 @@
       <latitude value="001°21'20''N"/>
       <longitude value="103°59'14''E"/>
     </coordinates>
-    <size value="Very_large" pax="46543"/>
+    <size value="Very_large" pax="46543" cargo="Very_large" cargovolume="1841"/>
     <terminals>
       <terminal name="Terminal 1" gates="45"/>
       <terminal name="Terminal 2" gates="46"/>
@@ -3276,7 +3276,7 @@
       <latitude value="040°04'48''N"/>
       <longitude value="116°35'04''E"/>
     </coordinates>
-    <size value="Largest" pax="81929"/>
+    <size value="Largest" pax="81929" cargo="Large" cargovolume="1549"/>
     <terminals>
       <terminal name="Terminal 1" gates="16"/>
       <terminal name="Terminal 2" gates="20"/>
@@ -3308,7 +3308,7 @@
       <latitude value="023°11'03''N"/>
       <longitude value="113°15'57''E"/>
     </coordinates>
-    <size value="Very_large" pax="45040"/>
+    <size value="Very_large" pax="45040" cargo="Large" cargovolume="1144"/>
     <terminals>
       <terminal name="Terminal" gates="61"/>
     </terminals>
@@ -3338,7 +3338,7 @@
       <latitude value="022°38'22''N"/>
       <longitude value="113°48'44''E"/>
     </coordinates>
-    <size value="Very_large" pax="28245"/>
+    <size value="Very_large" pax="28245" cargo="Medium" cargovolume="809"/>
     <terminals>
       <terminal name="Terminal" gates="53"/>
     </terminals>
