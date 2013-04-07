@@ -4895,6 +4895,21 @@
       <runway name="03/21" length="2134" surface="Asphalt"/>
     </runways>
   </airport>
+    <airport name="Raleigh County Memorial Airport" icao="KBKW" iata="BKW" type="Domestic" season="All_Year">
+    <town town="Beckley, WV" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="037°47'14''N" />
+      <longitude value="081°07'27''W" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="2057" surface="Asphalt" />
+      <runway name="10/28" length="1524" surface="Asphalt" />
+    </runways>
+  </airport>
     <airport name="Easterwood Field" icao="KCLL" iata="CLL" type="Regional" season="All_Year">
     <town town="College Station, TX" country="122" GMT="-05:00:00" DST="-06:00:00"/>
     <coordinates>
@@ -6381,6 +6396,22 @@
       <runway name="04/22" length="2438" surface="Concrete"/>
       <runway name="13/31" length="2134" surface="Asphalt"/>
       <runway name="18/36" length="1615" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Decatur Airport" icao="KDEC" iata="DEC" type="Domestic" season="All_Year">
+    <town town="Decatur, IL" country="122" GMT="-04:00:00" DST="-05:00:00" />
+    <coordinates>
+      <latitude value="039°50'04''N" />
+      <longitude value="088°51'56''W" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2590" surface="Asphalt" />
+      <runway name="12/30" length="2072" surface="Asphalt" />
+      <runway name="18/36" length="1615" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Sheppard Air Force Base-Wichita Falls Municipal Airport" icao="KSPS" iata="SPS" type="Regional" season="All_Year">
