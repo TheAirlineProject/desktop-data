@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <airline>
-  <profile name="Air Cargo Carriers" iata="2Q" color="Blue" country="122" CEO="James Germek" mentality="Moderate" market="Domestic" preferedairport="SDF" routefocus="Cargo">
+  <profile name="Air Cargo Carriers" iata="2Q" color="Blue" country="122" CEO="James Germek" mentality="Moderate" market="Domestic" preferedairport="MKE" routefocus="Cargo">
   <narrative narrative="Air Cargo Carriers is a cargo airline based in Milwaukee, Wisconsin, USA. It was established in 1986 and operates contract feeder cargo services for UPS and DHL. Air Cargo Carriers, Inc. is the largest civilian operator of Shorts aircraft in the world." />
    </profile>
     <info real="True" from="1986" to="2199" />
@@ -16,5 +16,12 @@
   <route destination1="MDT" destination2="CVG" opened="1986" closed="2199" routetype="Cargo"></route>
   <route destination1="SJU" destination2="STT" opened="1986" closed="2199" routetype="Cargo"></route>
   </routes>
+    <random_routes>
+  <routes origin="MKE" destinations="6" minimumsize="Smallest">
+<countries>
+<country value="122"></country>
+</countries>
+  </routes>
+  </random_routes>
   </startdata>
 </airline>
