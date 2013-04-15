@@ -211,6 +211,37 @@
       <es-ES name="Oficina de Billetes" />
     </translations>
   </airportfacility>
+    <airportfacility uid="200" shortname="Cargo None" type="Cargo" typelevel="0" price="0" buildingdays="0">
+    <level service="2" luxury="15">
+    </level>
+    <employees type="Support" numberofemployees="0">
+    </employees>
+    <translations>
+        <en-US name="None" />
+      <de-DE name="Keiner" />
+      <en-GB name="None" />
+      <nl-NL name="Geen" />
+      <zh-CN name="无" />
+      <da-DK name="Ingen" />
+      <es-ES name="Ninguna" />
+    </translations>
+  </airportfacility>
+   <airportfacility uid="201" shortname="Cargo Terminal" type="Cargo" typelevel="1" price="125000" buildingdays="10">
+    <level service="2" luxury="15">
+    </level>
+    <employees type="Support" numberofemployees="8">
+    </employees>
+    <translations>
+      <en-US name="Cargo Terminal" />
+      <de-DE name="Missing" />
+      <en-GB name="Cargo Terminal" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Fragtterminal" />
+      <es-ES name="Missing" />
+    </translations>
+  </airportfacility>
+  
   <!-- <airportfacility uid="113" shortname="International Departures" type="IntlService" typelevel="1" price="260000" buildingdays="10">
     <level service="0" luxury="5"></level>
     <translations>

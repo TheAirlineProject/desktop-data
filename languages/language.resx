@@ -577,10 +577,10 @@
     <value>Runway Information (Name / Length / Surface/ Exp. Finished)</value>
   </data>
   <data name="PageAirportFacilities_1001_name" xml:space="preserve">
-    <value>Airport Facilities</value>
+    <value>Airline facilities</value>
   </data>
   <data name="PageAirportFacilities_1002_name" xml:space="preserve">
-    <value>Facilities</value>
+    <value>facilities</value>
   </data>
   <data name="PageAirportStatistics_1001_name" xml:space="preserve">
     <value>Airport Statistics</value>
@@ -2636,5 +2636,8 @@ Good luck.</value>
   </data>
   <data name="PageAirportTraffic_1002_name" xml:space="preserve">
     <value>Cargo to destination</value>
+  </data>
+  <data name="PageAirportFacilities_1003_name" xml:space="preserve">
+    <value>Airport facilities</value>
   </data>
 </root>

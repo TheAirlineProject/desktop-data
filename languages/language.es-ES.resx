@@ -253,7 +253,7 @@
     <value>Bebidas a bordo</value>
   </data>
   <data name="PopUpRouteFacilities_1003_name" xml:space="preserve">
-    <value>Tripulación de abordo</value>
+    <value>Tripulación a bordo</value>
   </data>
   <data name="PopUpRouteFacilities_1004_name" xml:space="preserve">
     <value>Tipo de asiento</value>
@@ -295,7 +295,7 @@
     <value>Nivel de Dificultad Personalizado</value>
   </data>
   <data name="PopUpDifficulty_200_name" xml:space="preserve">
-    <value>Cantidad de Dinero</value>
+    <value>Nivel de Dinero</value>
   </data>
   <data name="PopUpDifficulty_201_name" xml:space="preserve">
     <value>Nivel de Precio</value>
@@ -481,7 +481,7 @@
     <value>Vuelos por día</value>
   </data>
   <data name="PageFleetRoute_1004_name" xml:space="preserve">
-    <value>Promedio Pasajeros</value>
+    <value>Promedio de pasajeros</value>
   </data>
   <data name="PageAirliners_1000_name" xml:space="preserve">
     <value>Aviones</value>
@@ -553,7 +553,7 @@
     <value>Estacionalidad</value>
   </data>
   <data name="PageAirport_1020_name" xml:space="preserve">
-    <value>Demanda total diaria / Demanda restante</value>
+    <value>Demanda diaria total / Demanda restante (Pasajeros / Carga)</value>
   </data>
   <data name="PageAirport_1021_name" xml:space="preserve">
     <value>Tamaño de Carga</value>
@@ -664,7 +664,7 @@
     <value>Solo aeropuertos humanos</value>
   </data>
   <data name="PageSearchAirports_1003_name" xml:space="preserve">
-    <value>Solo centros de operaciones</value>
+    <value>Sólo centros de operaciones</value>
   </data>
   <data name="PageSearchAirports_1004_name" xml:space="preserve">
     <value>Opciones de búsqueda</value>
@@ -1854,13 +1854,13 @@
     <value>Error</value>
   </data>
   <data name="MessageBox_2214_message" xml:space="preserve">
-    <value>El aeropuerto sirve como centro de operaciones y necesita al menos un {0}</value>
+    <value>El aeropuerto sirve como centro de operaciones, y necesita al menos un {0}</value>
   </data>
   <data name="MessageBox_2215_name" xml:space="preserve">
     <value>Error</value>
   </data>
   <data name="MessageBox_2215_message" xml:space="preserve">
-    <value>No se puede desprender de una puerta, ya que necesita al menos un 20 % de las puertas cuando se tiene un centro de operaciones.</value>
+    <value>No se puede deshacer de una puerta, ya que cuando tiene un centro de operaciones necesita al menos el 20 % de las puertas.</value>
   </data>
   <data name="MessageBox_2216_name" xml:space="preserve">
     <value>Reasignar operaciones</value>
@@ -2565,5 +2565,71 @@
   </data>
   <data name="PageFinances_2040_name" xml:space="preserve">
     <value>Restaurar</value>
+  </data>
+  <data name="PageFleetAirliner_1031_name" xml:space="preserve">
+    <value>Capacidad de carga</value>
+  </data>
+  <data name="PanelAirliner_1017_name" xml:space="preserve">
+    <value>Capacidad de carga</value>
+  </data>
+  <data name="PageAirliners_1003_name" xml:space="preserve">
+    <value>Aviones de pasajeros</value>
+  </data>
+  <data name="PageAirliners_1004_name" xml:space="preserve">
+    <value>Aviones de carga</value>
+  </data>
+  <data name="PanelNewRoute_1005_name" xml:space="preserve">
+    <value>Ruta de pasajeros</value>
+  </data>
+  <data name="PanelNewRoute_1006_name" xml:space="preserve">
+    <value>Ruta de carga</value>
+  </data>
+  <data name="PanelNewRoute_1007_name" xml:space="preserve">
+    <value>Precio por unidad de carga</value>
+  </data>
+  <data name="PanelNewRoute_1008_name" xml:space="preserve">
+    <value>Seleccione precio por unidad de carga</value>
+  </data>
+  <data name="PanelRoute_1013_name" xml:space="preserve">
+    <value>Carga</value>
+  </data>
+  <data name="PanelRoute_1014_name" xml:space="preserve">
+    <value>Carga media</value>
+  </data>
+  <data name="PanelRoute_1015_name" xml:space="preserve">
+    <value>Precio por unidad de carga</value>
+  </data>
+  <data name="PageAirline_1027_name" xml:space="preserve">
+    <value>Tipo de aerolínea</value>
+  </data>
+  <data name="PageNewGame_1021_name" xml:space="preserve">
+    <value>Tipo de aerolínea</value>
+  </data>
+  <data name="PopUpNewSubsidiary_1007_name" xml:space="preserve">
+    <value>Pasajero</value>
+  </data>
+  <data name="PopUpNewSubsidiary_1008_name" xml:space="preserve">
+    <value>Carga</value>
+  </data>
+  <data name="PopUpNewSubsidiary_1009_name" xml:space="preserve">
+    <value>Tipo de aerolínea</value>
+  </data>
+  <data name="NewsFeed_1001_name" xml:space="preserve">
+    <value>{0} crea una nueva ruta entre {1} y {2}</value>
+  </data>
+  <data name="NewsFeed_1002_name" xml:space="preserve">
+    <value>{0} cierra su ruta entre {1} y {2}</value>
+  </data>
+  <data name="NewsFeed_1003_name" xml:space="preserve">
+    <value>{0} abre un nuevo centro de operaciones en {1}, {2}, {3}</value>
+  </data>
+  <data name="PageAirport_1027_name" xml:space="preserve">
+    <value>Pasajeros</value>
+  </data>
+  <data name="PageAirport_1028_name" xml:space="preserve">
+    <value>Carga</value>
+  </data>
+  <data name="PageAirportTraffic_1002_name" xml:space="preserve">
+    <value>Carga al destino</value>
   </data>
 </root>
