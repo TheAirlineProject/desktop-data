@@ -194,6 +194,20 @@
       <runway name="12R/30L" length="4445" surface="Asphalt"/>
     </runways>
   </airport>
+      <airport name="Sharjah International Airport" icao="OMSJ" iata="SHJ" type="Long_Haul_International" season="All_Year">
+    <town town="Sharjah" country="156" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="025°19'42''N" />
+      <longitude value="055°31'01''E" />
+    </coordinates>
+    <size value="Large" pax="7516" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="4060" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Oman (OO**)-->
   <airport name="Muscat International Airport" icao="OOMS" iata="MCT" type="Long_Haul_International" season="All_Year">
     <town town="Muscat" country="178" GMT="04:00:00" DST="04:00:00"/>
@@ -1960,6 +1974,22 @@
     <runways>
       <runway name="01L/19R" length="3700" surface="Asphalt"/>
       <runway name="01R/19L" length="4000" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Don Mueang International Airport" icao="VTBD" iata="DMK" type="Long_Haul_International" season="All_Year">
+    <town town="Bangkok" country="175" GMT="07:00:00" DST="07:00:00" />
+    <coordinates>
+      <latitude value="013°54'45''N" />
+      <longitude value="100°36'25''E" />
+    </coordinates>
+    <size value="Medium" pax="5983" />
+    <terminals>
+      <terminal name="Terminal A" gates="22" />
+      <terminal name="Terminal C" gates="13" />
+    </terminals>
+    <runways>
+      <runway name="03L/21R" length="3700" surface="Asphalt" />
+      <runway name="03R/21L" length="3500" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Chiang Mai International Airport" icao="VTCC" iata="CNX" type="Short_Haul_International" season="All_Year">
