@@ -212,7 +212,7 @@
     </translations>
   </airportfacility>
     <airportfacility uid="200" shortname="Cargo None" type="Cargo" typelevel="0" price="0" buildingdays="0">
-    <level service="2" luxury="15">
+    <level service="50" luxury="15">
     </level>
     <employees type="Support" numberofemployees="0">
     </employees>
@@ -226,10 +226,10 @@
       <es-ES name="Ninguna" />
     </translations>
   </airportfacility>
-   <airportfacility uid="201" shortname="Cargo Terminal" type="Cargo" typelevel="1" price="125000" buildingdays="10">
-    <level service="2" luxury="15">
+   <airportfacility uid="201" shortname="Cargo Terminal" type="Cargo" typelevel="1" price="125000" buildingdays="30">
+    <level service="75" luxury="15">
     </level>
-    <employees type="Support" numberofemployees="8">
+    <employees type="Support" numberofemployees="4">
     </employees>
     <translations>
       <en-US name="Cargo Terminal" />
@@ -238,6 +238,21 @@
       <nl-NL name="Missing" />
       <zh-CN name="Missing" />
       <da-DK name="Fragtterminal" />
+      <es-ES name="Missing" />
+    </translations>
+  </airportfacility>
+     <airportfacility uid="202" shortname="Cargo Center" type="Cargo" typelevel="2" price="250000" buildingdays="45">
+    <level service="100" luxury="15">
+    </level>
+    <employees type="Support" numberofemployees="8">
+    </employees>
+    <translations>
+      <en-US name="Cargo Center" />
+      <de-DE name="Missing" />
+      <en-GB name="Cargo Center" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Fragtcenter" />
       <es-ES name="Missing" />
     </translations>
   </airportfacility>
