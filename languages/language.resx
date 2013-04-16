@@ -2637,6 +2637,12 @@ Good luck.</value>
   <data name="PageAirportTraffic_1002_name" xml:space="preserve">
     <value>Cargo to destination</value>
   </data>
+  <data name="MessageBox_2123_message" xml:space="preserve">
+    <value>Are you sure you want to convert {0} to a cargo airliner for {1}?</value>
+  </data>
+  <data name="MessageBox_2123_name" xml:space="preserve">
+    <value>Convert airliner</value>
+  </data>
   <data name="MessageBox_2223_message" xml:space="preserve">
     <value>This airport is serving a cargo route so it needs at least a terminal</value>
   </data>
@@ -2645,6 +2651,9 @@ Good luck.</value>
   </data>
   <data name="PageAirportFacilities_1003_name" xml:space="preserve">
     <value>Airport facilities</value>
+  </data>
+  <data name="PageFleetAirliner_1032_name" xml:space="preserve">
+    <value>Convert to cargo airliner</value>
   </data>
   <data name="PanelNewRoute_1009_name" xml:space="preserve">
     <value>All destinations needs to have cargo facilities to create a route</value>
