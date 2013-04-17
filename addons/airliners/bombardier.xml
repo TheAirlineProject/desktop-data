@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="Bombardier" name="Bombardier CRJ100" price="3417720"> <!--16200000-->
 	<type body="Narrow_Body" rangetype="Regional" engine="Jet"/>
@@ -70,7 +70,7 @@
     <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="35.1" length="34.9" range="4074" speed="828" fuelcapacity="15775" consumption="0.035" runwaylengthrequired="1509"/>
     <capacity passengers="110" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
-    <produced from="2013" to="2026" rate="24">
+    <produced from="2013" to="2026" rate="24"/>
   </airliner>
   <airliner manufacturer="Bombardier" name="Bombardier CS-100ER" price="7954400"> <!--63611340-->
     <type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>

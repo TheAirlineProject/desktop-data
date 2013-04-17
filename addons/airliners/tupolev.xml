@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
   <airliner manufacturer="Tupolev" name="Tupolev Tu-134" price="1917810"> <!--2100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
@@ -10,6 +10,6 @@
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="37.55" length="48.00" range="3900" speed="950" fuelcapacity="34000" consumption="0.076" runwaylengthrequired="2500"/>
     <capacity passengers="114" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
-    <produced from="1972" to="2006" rate="22">
+    <produced from="1972" to="2006" rate="22"/>
   </airliner>
 </airliners>
