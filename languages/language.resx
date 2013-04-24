@@ -628,7 +628,7 @@
     <value>Allocate to {0}</value>
   </data>
   <data name="PageAirportGates_1001_name" xml:space="preserve">
-    <value>Terminal Information (Owner / Total Gates / Ordered Gates / Used Gates / Delivery date)</value>
+    <value>Terminals</value>
   </data>
   <data name="PageAirportGates_1002_name" xml:space="preserve">
     <value>Gates Information</value>
@@ -646,7 +646,7 @@
     <value>Monthly Price Per Gate</value>
   </data>
   <data name="PageAirportGates_1007_name" xml:space="preserve">
-    <value>Airline Gates (Total / Used)</value>
+    <value>Airline Contracts (Gates / Months left)</value>
   </data>
   <data name="PageAirportGates_1008_name" xml:space="preserve">
     <value>Hubs</value>
@@ -2657,5 +2657,41 @@ Good luck.</value>
   </data>
   <data name="PanelNewRoute_1009_name" xml:space="preserve">
     <value>All destinations must have cargo facilities to create a route</value>
+  </data>
+  <data name="PopUpAirportContract_1000_name" xml:space="preserve">
+    <value>Create contract with {0}</value>
+  </data>
+  <data name="PopUpAirportContract_1001_name" xml:space="preserve">
+    <value>Number of gates</value>
+  </data>
+  <data name="PopUpAirportContract_1002_name" xml:space="preserve">
+    <value>Years of contract</value>
+  </data>
+  <data name="PopUpAirportContract_1003_name" xml:space="preserve">
+    <value>Yearly payment</value>
+  </data>
+  <data name="MessageBox_2224_message" xml:space="preserve">
+    <value>You can't terminate the contract since one or more of the gates are in use.</value>
+  </data>
+  <data name="MessageBox_2224_name" xml:space="preserve">
+    <value>Contract in use</value>
+  </data>
+  <data name="MessageBox_2225_message" xml:space="preserve">
+    <value>Are you sure you want to terminate the contract for a cost of {0}?</value>
+  </data>
+  <data name="MessageBox_2225_name" xml:space="preserve">
+    <value>Terminate contract</value>
+  </data>
+  <data name="PageAirportGates_2006_message" xml:space="preserve">
+    <value>Sign a contract for a number of gates with the airport</value>
+  </data>
+  <data name="MessageBox_2226_message" xml:space="preserve">
+    <value>The contract is a part of your teminal {0}, so it can't be removed.</value>
+  </data>
+  <data name="MessageBox_2226_name" xml:space="preserve">
+    <value>Can't remove contract</value>
+  </data>
+  <data name="ToolTip_1017_name" xml:space="preserve">
+    <value>Signs a contract with the airport for a number of gates</value>
   </data>
 </root>
