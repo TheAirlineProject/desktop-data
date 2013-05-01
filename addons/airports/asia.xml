@@ -1962,6 +1962,7 @@
   </airport>
   <!--Thailand (VT**)-->
   <airport name="Bangkok International Airport" icao="VTBS" iata="BKK" type="Long_Haul_International" season="All_Year">
+  <period from="09.09.2006 00:00:00" to="01.01.2199 00:00:00"/>
     <town town="Bangkok" country="175" GMT="07:00:00" DST="07:00:00"/>
     <coordinates>
       <latitude value="013°54'45''N"/>
@@ -1982,7 +1983,13 @@
       <latitude value="013°54'45''N" />
       <longitude value="100°36'25''E" />
     </coordinates>
-    <size value="Medium" pax="5983" />
+    <size>
+    <yearvalues>
+    <!--inflationbefore: the growth in pax from the year before the year. inflationafter: the growth in pax after the year -->
+        <yearvalue from="1900" to="2005" value="Largest" pax="38000" inflationbefore="5"></yearvalue>
+        <yearvalue from="2006" to="2199" value="Medium" pax="5983" inflationafter="3"></yearvalue>
+    </yearvalues>
+    </size>
     <terminals>
       <terminal name="Terminal A" gates="22" />
       <terminal name="Terminal C" gates="13" />
