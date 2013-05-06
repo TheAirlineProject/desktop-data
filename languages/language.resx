@@ -2694,4 +2694,7 @@ Good luck.</value>
   <data name="ToolTip_1017_name" xml:space="preserve">
     <value>Signs a contract with the airport for a number of gates</value>
   </data>
+  <data name="PanelRoute_1016_name" xml:space="preserve">
+    <value>Route type</value>
+  </data>
 </root>
