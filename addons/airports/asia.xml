@@ -33,6 +33,23 @@
       <runway name="12R/30L" length="2530" surface="Asphalt"/>
     </runways>
   </airport>
+  <!--Jordan (OJ**)-->
+    <airport name="Queen Alia International Airport" icao="OJAI" iata="AMM" type="Long_Haul_International" season="All_Year">
+    <town town="Amman" country="274" GMT="03:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="031°43'21''N" />
+      <longitude value="035°59'35''E" />
+    </coordinates>
+    <size value="Medium" pax="6250" />
+    <terminals>
+      <terminal name="Terminal A" gates="20" />
+      <terminal name="Terminal B" gates="20" />
+    </terminals>
+    <runways>
+      <runway name="08L/26R" length="3660" surface="Asphalt" />
+      <runway name="08R/26L" length="3660" surface="Concrete" />
+    </runways>
+  </airport>
   <!--Saudi Arabia (OE**)-->
   <airport name="King Fahd International Airport" icao="OEDF" iata="DMM" type="Long_Haul_International" season="All_Year">
     <town town="Dammam" country="136" GMT="03:00:00" DST="03:00:00"/>
@@ -1899,7 +1916,7 @@
     </runways>
   </airport>
   <!--Sri Lanka (VC**)-->
-  <airport name="Bandaranaike International Airport" icao="VCBI" iata="CMB" type="Short_Haul_International" season="All_Year">
+  <airport name="Bandaranaike International Airport" icao="VCBI" iata="CMB" type="Long_Haul_International" season="All_Year">
     <town town="Colombo" country="153" GMT="05:30:00" DST="05:30:00"/>
     <coordinates>
       <latitude value="007°10'45''N"/>

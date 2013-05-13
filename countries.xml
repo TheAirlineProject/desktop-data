@@ -1763,6 +1763,28 @@
       <es-ES name="Réunion" />
     </translations>
   </country>
+    <country uid="274" shortname="JOR" region="111" flag="Jordan" tailformat="JY-\\s3">
+    <translations>
+      <en-US name="Jordan" />
+      <de-DE name="Jordanien" />
+      <en-GB name="Jordan" />
+      <nl-NL name="Jordanië" />
+      <zh-CN name="约旦" />
+      <da-DK name="Jordan" />
+      <es-ES name="Jordania" />
+    </translations>
+  </country>
+      <country uid="275" shortname="IVC" region="109" flag="Cote d'Ivoire" tailformat="TU-\\s3">
+    <translations>
+      <en-US name="Ivory Coast" />
+      <de-DE name="Elfenbeinküste" />
+      <en-GB name="Ivory Coast" />
+      <nl-NL name="Ivoorkust" />
+      <zh-CN name="科特迪瓦" />
+      <da-DK name="Elfenbenskysten" />
+      <es-ES name="Costa_de_Marfil" />
+    </translations>
+  </country>
   <!--Territories-->
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />

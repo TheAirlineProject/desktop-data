@@ -2934,8 +2934,7 @@
       <runway name="04R/22L" length="3081" surface="Asphalt"/>
     </runways>
   </airport>
-  
-  <!--Kenya (HK**)-->
+    <!--Kenya (HK**)-->
   <airport name="Jomo Kenyatta International Airport" icao="HKJK" iata="NBO" type="Long_Haul_International" season="All_Year">
     <town town="Nairobi" country="146" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
@@ -2948,6 +2947,21 @@
     </terminals>
     <runways>
       <runway name="06/24" length="4117" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Mombasa Moi International Airport" icao="HKMO" iata="MBA" type="Long_Haul_International" season="All_Year">
+    <town town="Mombasa" country="146" GMT="03:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="004°02'05''S" />
+      <longitude value="039°35'39''E" />
+    </coordinates>
+    <size value="Small" pax="1007" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3350" surface="Asphalt" />
+      <runway name="15/33" length="1363" surface="Asphalt" />
     </runways>
   </airport>
   <!--Libya (HL**)-->
@@ -3193,4 +3207,33 @@
     </runways>
   </airport>
   <!-- Added airports -->
+    <airport name="Entebbe International Airport" icao="HUEN" iata="EBB" type="Long_Haul_International" season="All_Year">
+    <town town="Kampala" country="261" GMT="03:00:00" DST="03:00:00" />
+    <coordinates>
+      <latitude value="000°02'32''N" />
+      <longitude value="032°26'36''E" />
+    </coordinates>
+    <size value="Small" pax="1230" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2408" surface="Asphalt" />
+      <runway name="17/35" length="3658" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Port Bouet Airport" icao="DIAP" iata="ABJ" type="Long_Haul_International" season="All_Year">
+    <town town="Abidjan" country="275" GMT="00:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="005°15'41''N" />
+      <longitude value="003°55'34''W" />
+    </coordinates>
+    <size value="Small" pax="962" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
 </airports>
