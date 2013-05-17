@@ -1522,7 +1522,7 @@
     <value>Max. Distance</value>
   </data>
   <data name="PanelNewRoute_206_name" xml:space="preserve">
-    <value>{0} gate(s)</value>
+    <value>{0} % free</value>
   </data>
   <data name="PanelNewRoute_1001_name" xml:space="preserve">
     <value>One or more airports are not of appropriate type (Regional/Domestic/Intl)</value>
