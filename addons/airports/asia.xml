@@ -2003,8 +2003,8 @@
     <size>
     <yearvalues>
     <!--inflationbefore: the growth in pax from the year before the year. inflationafter: the growth in pax after the year -->
-        <yearvalue from="1900" to="2005" value="Largest" pax="38000" cargo="Smallest" cargovolume="0"/> inflationbefore="5"></yearvalue>
-        <yearvalue from="2006" to="2199" value="Medium" pax="5983" cargo="Smallest" cargovolume="0"/> inflationafter="3"></yearvalue>
+        <yearvalue from="1900" to="2005" value="Largest" pax="38000" cargo="Smallest" cargovolume="0" inflationbefore="5"></yearvalue>
+        <yearvalue from="2006" to="2199" value="Medium" pax="5983" cargo="Smallest" cargovolume="0" inflationafter="3"></yearvalue>
     </yearvalues>
     </size>
     <terminals>
