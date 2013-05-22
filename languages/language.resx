@@ -2697,4 +2697,7 @@ Good luck.</value>
   <data name="PanelRoute_1016_name" xml:space="preserve">
     <value>Route type</value>
   </data>
+  <data name="PopUpAirportContract_1004_name" xml:space="preserve">
+    <value>Pay up front</value>
+  </data>
 </root>
