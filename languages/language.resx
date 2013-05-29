@@ -2700,4 +2700,7 @@ Good luck.</value>
   <data name="PopUpAirportContract_1004_name" xml:space="preserve">
     <value>Pay up front</value>
   </data>
+  <data name="PageNewGame_203_name" xml:space="preserve">
+    <value>Next</value>
+  </data>
 </root>
