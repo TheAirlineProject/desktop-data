@@ -4,7 +4,7 @@
 		<classes>
 			<class type="Economy_Class" seating="242" Audio="100" Video="111" Seat="104"></class>
 			<class type="Business_Class" seating="24" Audio="100" Video="111" Seat="104"></class>
-		</classses>
+		</classes>
 	</configuration>
 	<configuration airliner="Airbus A300B4" name="Airbus A300B4 3-Class" yearfrom="1975" yearto="2007" id="341">
 		<classes>
