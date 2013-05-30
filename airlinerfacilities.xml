@@ -78,7 +78,7 @@
   <airlinerfacility uid="105" type="Seat" fromyear="1960">
     <level service="5">
     </level>
-    <seats percent="100" price="200" uses="1">
+    <seats percent="100" price="200" uses="1.2">
     </seats>
     <translations>
       <en-US name="Premium Seats" />
@@ -93,7 +93,7 @@
   <airlinerfacility uid="106" type="Seat" fromyear="1970">
     <level service="20">
     </level>
-    <seats percent="100" price="250" uses="1">
+    <seats percent="100" price="250" uses="1.5">
     </seats>
     <translations>
       <en-US name="Luxury Seats" />
@@ -123,7 +123,7 @@
   <airlinerfacility uid="108" type="Seat" fromyear="1989">
     <level service="50">
     </level>
-    <seats percent="100" price="390" uses="2">
+    <seats percent="100" price="390" uses="2.5">
     </seats>
     <translations>
       <en-US name="Angled Lie-Flat Seats" />
@@ -153,7 +153,7 @@
   <airlinerfacility uid="110" type="Seat" fromyear="1999">
     <level service="100">
     </level>
-    <seats percent="100" price="450" uses="3">
+    <seats percent="100" price="450" uses="4">
     </seats>
     <translations>
       <en-US name="Full-Flat Beds" />
