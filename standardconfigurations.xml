@@ -32,13 +32,19 @@
 			<class type="Economy_Class" seating="30" regularseating="30" Audio="100" Video="111" Seat="104"></class>
 		</classes>
 	</configuration>
-	<configuration type="Airliner" name="Standard (2 classes)" id="201" minimumseats="50">
+	<configuration type="Airliner" name="Yearly Standard (2 classes)" id="201" minimumseats="50"><!--before 1976-->
+		<classes>
+			<class type="Economy_Class" seating="40" regularseating="40" Audio="100" Video="111" Seat="104"></class>
+			<class type="First_Class" seating="10" regularseating="10" Audio="100" Video="111" Seat="106"></class>
+		</classes>
+	</configuration>
+		<configuration type="Airliner" name="Later Standard (2 classes)" id="202" minimumseats="50"> <!--after 1976-->
 		<classes>
 			<class type="Economy_Class" seating="40" regularseating="40" Audio="100" Video="111" Seat="104"></class>
 			<class type="Business_Class" seating="10" regularseating="10" Audio="100" Video="111" Seat="106"></class>
 		</classes>
 	</configuration>
-	<configuration type="Airliner" name="Standard (3 classes)" id="202" minimumseats="75">
+	<configuration type="Airliner" name="Later Standard (3 classes)" id="203" minimumseats="75">
 		<classes>
 			<class type="Economy_Class" seating="40" regularseating="40" Audio="102" Video="114" Seat="104"></class>
 			<class type="Business_Class" seating="15" regularseating="15" Audio="103" Video="115" Seat="106"></class>
