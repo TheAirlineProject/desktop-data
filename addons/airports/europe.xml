@@ -84,8 +84,8 @@
   <airport name="Ostend-Bruges International Airport" icao="EBOS" iata="OST" type="Short_Haul_International" season="All_Year">
 	<town town="Ostend" country="107" GMT="02:00:00" DST="01:00:00" />
 	<coordinates>
-		<latitude value="051°11′59''N" />
-		<longitude value="051°11′59''E" />
+		<latitude value="051°11'59''N" />
+		<longitude value="002°51'49''E" />
 	</coordinates>
 	<size value="Small" pax="678" cargo="Medium" cargovolume="1500" />
 	<terminals>
