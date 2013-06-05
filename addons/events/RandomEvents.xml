@@ -5,7 +5,7 @@ messagebox. Important "no" should go to mail. Money is the cost of fixing the da
 -->
 <events>
 	<event uid="1001" type="Safety" name="Bird Strike" text="This flight recently encountered a bird strike at one of your airports.
-	You should increase your training budget to so pilots will better be able to avoid this." frequency="8" important="0">
+	You should increase your training budget to so pilots will better be able to avoid this." frequency="8" important="True">
 		<effects duration="1" customerHappiness="-5" employeeHappiness="0" airlineSecurity="0" aircraftDamage="-5" airlineSafety="0" financial="-100000" />
 		<demand passenger="0.97" cargo="1.00" />
 	</event>
