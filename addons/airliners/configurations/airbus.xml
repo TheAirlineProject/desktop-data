@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <configurations>
 	<configuration airliner="Airbus A300B4" name="Airbus A300B4 2-Class" yearfrom="1975" yearto="2007" id="340">
 		<classes>
@@ -170,3 +170,4 @@
 			<class type="First_Class" seating="12" Audio="100" Video="100" seat="104"></class>
 		</classes>
 	</configuration>
+	</configurations>
