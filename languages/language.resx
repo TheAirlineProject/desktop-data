@@ -2703,4 +2703,19 @@ Good luck.</value>
   <data name="PageNewGame_203_name" xml:space="preserve">
     <value>Next</value>
   </data>
+  <data name="PanelFleetAirliner_200_name" xml:space="preserve">
+    <value>Facilities</value>
+  </data>
+  <data name="PanelFleetAirliner_201_name" xml:space="preserve">
+    <value>Route &amp; Flight</value>
+  </data>
+  <data name="PanelFleetAirliner_202_name" xml:space="preserve">
+    <value>Timeslots</value>
+  </data>
+  <data name="PanelFleetAirliner_203_name" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
+  <data name="PanelFleetAirliner_204_name" xml:space="preserve">
+    <value>Insurances</value>
+  </data>
 </root>

@@ -3611,6 +3611,66 @@
     </runways>
   </airport>
   <!--Austria (LO**)-->
+   <airport name="Graz Airport" icao="LOWG" iata="GRZ" type="Short_Haul_International" season="All_Year">
+    <town town="Graz" country="169" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°59'27''N" />
+      <longitude value="015°26'22''E" />
+    </coordinates>
+    <size value="Small" pax="930" />
+    <terminals>
+      <terminal name="Terminal A" gates="14" />
+    </terminals>
+    <runways>
+      <runway name="17C/35C" length="3000" surface="Asphalt" />
+      <runway name="17L/35R" length="640" surface="Grass" />
+      <runway name="17R/35L" length="760" surface="Grass" />
+    </runways>
+  </airport>
+  <airport name="Innsbruck Airport" icao="LOWI" iata="INN" type="Short_Haul_International" season="All_Year">
+    <town town="Innsbruck" country="169" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="047°15'37''N" />
+      <longitude value="011°20'38''E" />
+    </coordinates>
+    <size value="Small" pax="930" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways >
+      <runway name="08/26" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
+
+  <airport name="Klagenfurt Airport" icao="LOWK" iata="KLU" type="Short_Haul_International" season="All_Year">
+    <town town="Klagenfurt am Wörthersee" country="169" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°38'33''N" />
+      <longitude value="014°20'15''E" />
+    </coordinates>
+    <size value="Small" pax="280" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="10L/28R" length="2720" surface="Concrete" />
+      <runway name="10R/28L" length="710" surface="Grass" />
+    </runways>
+  </airport>
+  <airport name="Linz Airport" icao="LOWL" iata="LNZ" type="Short_Haul_International" season="All_Year">
+    <town town="Linz" country="169" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="048°13'59''N" />
+      <longitude value="014°11'15''E" />
+    </coordinates>
+    <size value="Small" pax="623" />
+    <terminals>
+      <terminal name="Terminal A" gates="10" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Salzburg Airport" icao="LOWS" iata="SZG" type="Long_Haul_International" season="All_Year">
     <town town="Salzburg" country="169" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
