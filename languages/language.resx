@@ -2724,4 +2724,7 @@ Good luck.</value>
   <data name="PageAirport_1030_name" xml:space="preserve">
     <value>Departures</value>
   </data>
+  <data name="PanelAirline_1009_name" xml:space="preserve">
+    <value>Insurances</value>
+  </data>
 </root>
