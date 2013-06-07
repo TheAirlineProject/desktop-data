@@ -96,6 +96,222 @@
 	</runways>
   </airport>
   <!--Germany (ED**)-->
+    <airport name="Karlsruhe Baden-Baden Airport" icao="EDSB" iata="FKB" type="Short_Haul_International" season="All_Year">
+    <town town="Baden-Baden" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="048°46'45''N" />
+      <longitude value="008°04'49''E" />
+    </coordinates>
+    <size value="Small" pax="1287" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3060" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Bremen Airport" icao="EDDW" iata="BRE" type="Short_Haul_International" season="All_Year">
+    <town town="Bremen" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="053°02'51''N" />
+      <longitude value="008°47'12''E" />
+    </coordinates>
+    <size value="Medium" pax="2447" />
+    <terminals>
+      <terminal name="Terminal A" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="700" surface="Asphalt" />
+      <runway name="09/27" length="2040" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dortmund Airport" icao="EDLW" iata="DTM" type="Short_Haul_International" season="All_Year">
+    <town town="Dortmund" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="051°31'05''N" />
+      <longitude value="007°36'44''E" />
+    </coordinates>
+    <size value="Medium" pax="2500" />
+    <terminals>
+      <terminal name="Terminal A" gates="12" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Erfurt Airport" icao="EDDE" iata="ERF" type="Short_Haul_International" season="All_Year">
+    <town town="Erfurt" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="050°58'47''N" />
+      <longitude value="010°57'29''E" />
+    </coordinates>
+    <size value="Medium" pax="183" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+      <terminal name="Terminal B" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2600" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Friedrichshafen Airport" icao="EDNY" iata="FDH" type="Regional" season="Summer">
+    <town town="Friedrichshafen" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="047°40'16''N" />
+      <longitude value="009°30'41''E" />
+    </coordinates>
+    <size value="Small" pax="545" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2356" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Leipzig Halle Airport" icao="EDDP" iata="LEJ" type="Regional" season="All_Year">
+    <town town="Leipzig" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="051°25'56''N" />
+      <longitude value="012°14'29''E" />
+    </coordinates>
+    <size value="Medium" pax="2279" />
+    <terminals>
+      <terminal name="Terminal A" gates="11" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3600" surface="Concrete" />
+      <runway name="08R/26L" length="3600" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lübeck Blankensee Airport" icao="EDHL" iata="LBC" type="Regional" season="All_Year">
+    <town town="Lübeck" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="053°48'19''N" />
+      <longitude value="010°43'09''E" />
+    </coordinates>
+    <size value="Small" pax="5378" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2102" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Memmingen Allgau Airport" icao="EDJA" iata="FMM" type="Short_Haul_International" season="All_Year">
+    <town town="Memmingen" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="047°59'19''N" />
+      <longitude value="010°14'22''E" />
+    </coordinates>
+    <size value="Small" pax="600" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2981" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Münster Osnabrück Airport" icao="EDDG" iata="FMO" type="Short_Haul_International" season="All_Year">
+    <town town="Münster" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="052°08'04''N" />
+      <longitude value="007°41'05''E" />
+    </coordinates>
+    <size value="Small" pax="1020" />
+    <terminals>
+      <terminal name="Terminal A" gates="23" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2170" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Paderborn Lippstadt Airport" icao="EDLP" iata="PAD" type="Short_Haul_International" season="All_Year">
+    <town town="Paderborn" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="051°36'50''N" />
+      <longitude value="008°36'58''E" />
+    </coordinates>
+    <size value="Small" pax="1037" />
+    <terminals>
+      <terminal name="Terminal A" gates="13" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2180" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Rostock-Laage Airport" icao="ETNL" iata="RLG" type="Short_Haul_International" season="All_Year">
+    <town town="Rostock" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="053°55'05''N" />
+      <longitude value="012°16'41''E" />
+    </coordinates>
+    <size value="Very_small" pax="161" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="2500" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Saarbrücken Airport" icao="EDDR" iata="SCN" type="Short_Haul_International" season="All_Year">
+    <town town="Saarbrücken" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="049°12'52''N" />
+      <longitude value="007°06'34''E" />
+    </coordinates>
+    <size value="Small" pax="424" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2000" surface="Asphalt" />
+      <runway name="09L/27R" length="545" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Westerland Sylt Airport" icao="EDXW" iata="GWT" type="Regional" season="All_Year">
+    <town town="Westerland" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="054°54'47''N" />
+      <longitude value="008°20'25''E" />
+    </coordinates>
+    <size value="Small" pax="25" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1696" surface="Asphalt" />
+      <runway name="14/32" length="2120" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Westerland Sylt Airport" icao="EDXW" iata="GWT" type="Short_Haul_International" season="All_Year">
+    <town town="Westerland" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="054°54'47''N" />
+      <longitude value="008°20'25''E" />
+    </coordinates>
+    <size value="Medium" pax="2208" />
+    <terminals>
+      <terminal name="Terminal A" gates="9" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="1696" surface="Asphalt" />
+      <runway name="14/32" length="2120" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Zweibrücken Airport" icao="EDRZ" iata="ZQW" type="Short_Haul_International" season="All_Year">
+    <town town="Zweibrücken" country="163" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="049°12'33''N" />
+      <longitude value="007°24'02''E" />
+    </coordinates>
+    <size value="Very_small" pax="350" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2950" surface="Concrete" />
+    </runways>
+  </airport>
   <airport name="Leipzig-Altenburg Airport" icao="EDAC" iata="AOC" type="Regional" season="All_Year">
     <town town="Altenburg" country="1001" GMT="02:00:00" DST="01:00:00" />
     <coordinates>

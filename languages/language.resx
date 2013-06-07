@@ -2718,4 +2718,10 @@ Good luck.</value>
   <data name="PanelFleetAirliner_204_name" xml:space="preserve">
     <value>Insurances</value>
   </data>
+  <data name="PageAirport_1029_name" xml:space="preserve">
+    <value>Arrivals</value>
+  </data>
+  <data name="PageAirport_1030_name" xml:space="preserve">
+    <value>Departures</value>
+  </data>
 </root>
