@@ -612,6 +612,123 @@
     </runways>
   </airport>
   <!--United Kingdom (EG**)-->
+    <airport name="Bournemouth Airport" icao="EGHH" iata="BOH" type="Short_Haul_International" season="All_Year">
+    <town town="Bournemouth" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="050°46'47''N" />
+      <longitude value="001°50'32''W" />
+    </coordinates>
+    <size value="Small" pax="613" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2271" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="City of Derry Airport" icao="EGAE" iata="LDY" type="Short_Haul_International" season="All_Year">
+    <town town="Derry" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="055°02'34''N" />
+      <longitude value="007°09'39''W" />
+    </coordinates>
+    <size value="Very_small" pax="398" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1205" surface="Asphalt" />
+      <runway name="08/26" length="1852" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Durham Tees Valley Airport" icao="EGNV" iata="MME" type="Short_Haul_International" season="All_Year">
+    <town town="Durham" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="054°30'33''N" />
+      <longitude value="001°25'45''W" />
+    </coordinates>
+    <size value="Very_small" pax="164" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="2291" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Exeter International Airport" icao="EGTE" iata="EXT" type="Short_Haul_International" season="Summer">
+    <town town="Exeter" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="050°44'03''N" />
+      <longitude value="003°24'50''W" />
+    </coordinates>
+    <size value="Small" pax="717" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2083" surface="Asphalt" />
+      <runway name="13/31" length="1339" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Gloucestershire Airport" icao="EGBJ" iata="GLO" type="Domestic" season="All_Year">
+    <town town="Staverton" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="051°53'39''N" />
+      <longitude value="002°10'01''W" />
+    </coordinates>
+    <size value="Smallest" pax="16" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="981" surface="Asphalt" />
+      <runway name="09/27" length="1419" surface="Asphalt" />
+      <runway name="18/36" length="800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Newquay Cornwall Airport" icao="EGHQ" iata="NQY" type="Regional" season="Summer">
+    <town town="Newquay" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="050°26'26''N" />
+      <longitude value="004°59'43''W" />
+    </coordinates>
+    <size value="Very_small" pax="166" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="2745" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Norwich International Airport" icao="EGSH" iata="NWI" type="Short_Haul_International" season="All_Year">
+    <town town="Norwich" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="052°40'32''N" />
+      <longitude value="001°16'58''E" />
+    </coordinates>
+    <size value="Small" pax="396" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1266" surface="Asphalt" />
+      <runway name="09/27" length="1841" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Robin Hood Doncaster Sheffield Airport" icao="EGCN" iata="DSA" type="Short_Haul_International" season="All_Year">
+    <town town="Doncaster" country="130" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="053°28'49''N" />
+      <longitude value="001°00'38''W" />
+    </coordinates>
+    <size value="Small" pax="396" />
+    <terminals>
+      <terminal name="Terminal A" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2893" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Belfast International Airport" icao="EGAA" iata="BFS" type="Long_Haul_International" season="All_Year">
     <town town="Belfast, NIR" country="130" GMT="00:00:00" DST="00:00:00" />
     <coordinates>
@@ -3395,6 +3512,236 @@
     </runways>
   </airport>
   <!--Italy (LI**)-->
+  
+  <airport name="Ancona / Falconara Airport" icao="LIPY" iata="AOI" type="Regional" season="All_Year">
+    <town town="Ancona" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°36'58''N" />
+      <longitude value="013°21'44''E" />
+    </coordinates>
+    <size value="Small" pax="564" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2962" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Bolzano Airport" icao="LIPB" iata="BZO" type="Domestic" season="All_Year">
+    <town town="Bolzano" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°27'36''N" />
+      <longitude value="011°19'35''E" />
+    </coordinates>
+    <size value="Smallest" pax="45" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1297" surface="Asphalt" />
+      <runway name="01R/19L" length="698" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Crotone Airport" icao="LIBC" iata="CRV" type="Regional" season="All_Year">
+    <town town="Crotone" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°59'49''N" />
+      <longitude value="017°04'48''E" />
+    </coordinates>
+    <size value="Very_small" pax="154" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Cuneo / Levaldigi Airport" icao="LIMZ" iata="CUF" type="Short_Haul_International" season="All_Year">
+    <town town="Cuneo" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="044°32'49''N" />
+      <longitude value="007°37'23''E" />
+    </coordinates>
+    <size value="Very_small" pax="236" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="2104" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Marina Di Campo Airport" icao="LIRJ" iata="EBA" type="Regional" season="All_Year">
+    <town town="Marina  Di Campo" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°45'37''N" />
+      <longitude value="010°14'21''E" />
+    </coordinates>
+    <size value="Smallest" pax="5" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="949" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Foggia / Gino Lisa Airport" icao="LIBF" iata="FOG" type="Domestic" season="All_Year">
+    <town town="Foggia" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="041°25'58''N" />
+      <longitude value="015°32'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1440" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lampedusa Airport" icao="LICD" iata="LMP" type="Domestic" season="All_Year">
+    <town town="Lampedusa" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="035°29'52''N" />
+      <longitude value="012°37'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Perugia / San Egidio Airport" icao="LIRZ" iata="PEG" type="Domestic" season="All_Year">
+    <town town="Perugia" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="043°05'45''N" />
+      <longitude value="012°30'47''E" />
+    </coordinates>
+    <size value="Smallest" pax="202" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1696" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Parma Airport" icao="LIMP" iata="PMF" type="Domestic" season="All_Year">
+    <town town="Parma" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="044°49'28''N" />
+      <longitude value="010°17'47''E" />
+    </coordinates>
+    <size value="Smallest" pax="10" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2122" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Parma Airport" icao="LIMP" iata="PMF" type="Domestic" season="All_Year">
+    <town town="Parma" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="044°49'28''N" />
+      <longitude value="010°17'47''E" />
+    </coordinates>
+    <size value="Smallest" pax="10" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2122" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pantelleria Airport" icao="LICG" iata="PNL" type="Domestic" season="All_Year">
+    <town town="Pantelleria" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="036°48'59''N" />
+      <longitude value="011°58'08''E" />
+    </coordinates>
+    <size value="Smallest" pax="10" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="1220" surface="Asphalt" />
+      <runway name="08/26" length="1675" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pescara International Airport" icao="LIBP" iata="PSR" type="Short_Haul_International" season="All_Year">
+    <town town="Pescara" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°25'54''N" />
+      <longitude value="014°10'51''E" />
+    </coordinates>
+    <size value="Very_small" pax="563" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2418" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Pescara International Airport" icao="LIBP" iata="PSR" type="Short_Haul_International" season="All_Year">
+    <town town="Pescara" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="042°25'54''N" />
+      <longitude value="014°10'51''E" />
+    </coordinates>
+    <size value="Very_small" pax="563" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="2418" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Reggio Calabria Airport" icao="LICR" iata="REG" type="Short_Haul_International" season="All_Year">
+    <town town="Reggio Calabria" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°04'16''N" />
+      <longitude value="015°39'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="22" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1699" surface="Asphalt" />
+      <runway name="15/33" length="1996" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Reggio Calabria Airport" icao="LICR" iata="REG" type="Short_Haul_International" season="All_Year">
+    <town town="Reggio Calabria" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°04'16''N" />
+      <longitude value="015°39'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="22" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1699" surface="Asphalt" />
+      <runway name="15/33" length="1996" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Reggio Calabria Airport" icao="LICR" iata="REG" type="Short_Haul_International" season="All_Year">
+    <town town="Reggio Calabria" country="141" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="038°04'16''N" />
+      <longitude value="015°39'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="22" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="1699" surface="Asphalt" />
+      <runway name="15/33" length="1996" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Bari Airport" icao="LIBD" iata="BRI" type="Long_Haul_International" season="All_Year">
     <town town="Bari" country="141" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
@@ -4264,6 +4611,51 @@
     </runways>
   </airport>
   <!--Switzerland (LS**)-->
+    <airport name="Bern Belp Airport" icao="LSZB" iata="BRN" type="Regional" season="All_Year">
+    <town town="Bern" country="164" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°54'50''N" />
+      <longitude value="007°29'49''E" />
+    </coordinates>
+    <size value="Very_small" pax="271" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="1510" surface="Asphalt" />
+      <runway name="14L/32R" length="650" surface="Asphalt" />
+      <runway name="14R/32L" length="648" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Lugano Airport" icao="LSZA" iata="LUG" type="Regional" season="All_Year">
+    <town town="Lugano" country="164" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°00'15''N" />
+      <longitude value="008°54'38''E" />
+    </coordinates>
+    <size value="Smallest" pax="116" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1350" surface="Asphalt" />
+    </runways>
+  </airport>
+   <airport name="Sion Airport" icao="LSGS" iata="SIR" type="Regional" season="Winter">
+    <town town="Sion" country="164" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="046°13'10''N" />
+      <longitude value="007°19'36''E" />
+    </coordinates>
+    <size value="Smallest" pax="5" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07L/25R" length="555" surface="Asphalt" />
+      <runway name="07R/25L" length="2000" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Geneva International Airport" icao="LSGG" iata="GVA" type="Long_Haul_International" season="All_Year">
     <town town="Geneva" country="164" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
