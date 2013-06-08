@@ -1782,7 +1782,18 @@
       <nl-NL name="Ivoorkust" />
       <zh-CN name="科特迪瓦" />
       <da-DK name="Elfenbenskysten" />
-      <es-ES name="Costa_de_Marfil" />
+      <es-ES name="Costa de Marfil" />
+    </translations>
+  </country>
+        <country uid="276" shortname="MLV" region="109" flag="Maldives" tailformat="8Q-\\s3">
+    <translations>
+      <en-US name="Maldives" />
+      <de-DE name="Malediven" />
+      <en-GB name="Maldives" />
+      <nl-NL name="Maldiven" />
+      <zh-CN name="马尔代夫" />
+      <da-DK name="Maldiverne" />
+      <es-ES name="Maldivas" />
     </translations>
   </country>
   <!--Territories-->
