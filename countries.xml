@@ -1795,8 +1795,118 @@
       <da-DK name="Maldiverne" />
       <es-ES name="Maldivas" />
     </translations>
+    </country>
+       <country uid="277" shortname="BRU" region="110" flag="Brunei" tailformat="V8-\\s3">
+    <translations>
+      <en-US name="Brunei" />
+      <de-DE name="Brunei" />
+      <en-GB name="Brunei" />
+      <nl-NL name="Brunei" />
+      <zh-CN name="Brunei" />
+      <da-DK name="Brunei" />
+      <es-ES name="Brunei" />
+    </translations>
   </country>
-  <!--Territories-->
+       <country uid="278" shortname="MYA" region="110" flag="Myanmar - New" tailformat="XY-\\s3">
+    <translations>
+      <en-US name="Myanmar" />
+      <de-DE name="Myanmar" />
+      <en-GB name="Myanmar" />
+      <nl-NL name="Myanmar" />
+      <zh-CN name="Myanmar" />
+      <da-DK name="Myanmar" />
+      <es-ES name="Myanmar" />
+    </translations>
+  </country>
+         <country uid="279" shortname="LAO" region="110" flag="Laos" tailformat="RDPL-\\d5">
+    <translations>
+      <en-US name="Laos" />
+      <de-DE name="Laos" />
+      <en-GB name="Laos" />
+      <nl-NL name="Laos" />
+      <zh-CN name="Laos" />
+      <da-DK name="Laos" />
+      <es-ES name="Laos" />
+    </translations>
+  </country>
+        <country uid="280" shortname="PNG" region="111" flag="Papua New Guinea" tailformat="P2-\\s3">
+    <translations>
+      <en-US name="Papua New Guinea" />
+      <de-DE name="Papua New Guinea" />
+      <en-GB name="Papua New Guinea" />
+      <nl-NL name="Papua New Guinea" />
+      <zh-CN name="Papua New Guinea" />
+      <da-DK name="Papua New Guinea" />
+      <es-ES name="Papua New Guinea" />
+    </translations>
+  </country>
+        <country uid="281" shortname="SYR" region="105" flag="Syria" tailformat="YK-\\s3">
+    <translations>
+      <en-US name="Syria" />
+      <de-DE name="Syria" />
+      <en-GB name="Syria" />
+      <nl-NL name="Syria" />
+      <zh-CN name="Syria" />
+      <da-DK name="Syrien" />
+      <es-ES name="Syria" />
+    </translations>
+  </country>
+  <country uid="282" shortname="YEM" region="105" flag="Yemen" tailformat="7O-\\s3">
+    <translations>
+      <en-US name="Yemen" />
+      <de-DE name="Yemen" />
+      <en-GB name="Yemen" />
+      <nl-NL name="Yemen" />
+      <zh-CN name="Yemen" />
+      <da-DK name="Yemen" />
+      <es-ES name="Yemen" />
+    </translations>
+  </country>
+    <country uid="283" shortname="MOZ" region="109" flag="Mozambique" tailformat="C9-\\s3">
+    <translations>
+      <en-US name="Mozambique" />
+      <de-DE name="Mozambique" />
+      <en-GB name="Mozambique" />
+      <nl-NL name="Mozambique" />
+      <zh-CN name="Mozambique" />
+      <da-DK name="Mozambique" />
+      <es-ES name="Mozambique" />
+    </translations>
+  </country>
+    <country uid="284" shortname="MAC" region="106" flag="Macedonia" tailformat="Z3-\\s3">
+    <translations>
+      <en-US name="Republic of Macedonia" />
+      <de-DE name="Republic of Macedonia" />
+      <en-GB name="Republic of Macedonia" />
+      <nl-NL name="Republic of Macedonia" />
+      <zh-CN name="Republic of Macedonia" />
+      <da-DK name="Republic of Macedonia" />
+      <es-ES name="Republic of Macedonia" />
+    </translations>
+  </country>
+    <country uid="285" shortname="CAV" region="109" flag="Cape Verde" tailformat="D4-\\s3">
+    <translations>
+      <en-US name="Cape Verde" />
+      <de-DE name="Cape Verde" />
+      <en-GB name="Cape Verde" />
+      <nl-NL name="Cape Verde" />
+      <zh-CN name="Cape Verde" />
+      <da-DK name="Cape Verde" />
+      <es-ES name="Cape Verde" />
+    </translations>
+  </country>
+    <country uid="286" shortname="MLW" region="109" flag="Malawi" tailformat="7Q-\\s3">
+    <translations>
+      <en-US name="Malawi" />
+      <de-DE name="Malawi" />
+      <en-GB name="Malawi" />
+      <nl-NL name="Malawi" />
+      <zh-CN name="Malawi" />
+      <da-DK name="Malawi" />
+      <es-ES name="Malawi" />
+    </translations>
+  </country>
+   <!--Territories-->
   <country uid="246" shortname="CAW" region="104" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />
     <translations>

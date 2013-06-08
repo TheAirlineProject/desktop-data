@@ -10,7 +10,7 @@
 	<state country="140" name="French Polynesia" shortname="PF"  flag="France - French Polynesia" overseas="True"></state>
 	<!--United Kingdom-->
 	<state country="130" name="Bermuda" shortname="BM"  flag="UK - Bermuda" overseas="True"></state>
-	<state country="130" name="Caymand Islands" shortname="KY"  flag="UK - Cayman Islands"></state>
+	<state country="130" name="Cayman Islands" shortname="KY"  flag="UK - Cayman Islands"></state>
 	<state country="130" name="England" shortname="ENG"  flag="UK - England"></state>
 	<state country="130" name="Guernsey" shortname="GG"  flag="UK - Guernsey"></state>
 	<state country="130" name="Gibraltar" shortname="GI"  flag="UK - Gibraltar"></state>
