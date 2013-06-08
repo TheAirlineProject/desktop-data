@@ -2727,4 +2727,10 @@ Good luck.</value>
   <data name="PanelAirline_1009_name" xml:space="preserve">
     <value>Insurances</value>
   </data>
+  <data name="PageAirlineInsurances_1000_name" xml:space="preserve">
+    <value>Airline Insurance Policies</value>
+  </data>
+  <data name="PageAirlineInsurances_1001_name" xml:space="preserve">
+    <value>Create Insurance</value>
+  </data>
 </root>
