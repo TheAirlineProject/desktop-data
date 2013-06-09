@@ -1594,7 +1594,7 @@
     <value>Ingen ledige hovedlufthavn</value>
   </data>
   <data name="MessageBox_2000_message" xml:space="preserve">
-    <value></value>
+    <value>Du skal bruge en homebase for at bestille fly</value>
   </data>
   <data name="MessageBox_2001_name" xml:space="preserve">
     <value>Ikke nok penge</value>
@@ -2020,7 +2020,7 @@
     <value></value>
   </data>
   <data name="MessageBox_2704_message" xml:space="preserve">
-    <value></value>
+    <value>Ankomst og adgange er ikke muligt</value>
   </data>
   <data name="MessageBox_2801_name" xml:space="preserve">
     <value>Ansæt pilot</value>
@@ -2488,10 +2488,10 @@
     <value>Eftersyn</value>
   </data>
   <data name="PageFinances_2016_name" xml:space="preserve">
-    <value></value>
+    <value>Renovering af motor</value>
   </data>
   <data name="PageFinances_2017_name" xml:space="preserve">
-    <value></value>
+    <value>Udskiftning af dele</value>
   </data>
   <data name="PageFinances_2018_name" xml:space="preserve">
     <value></value>
@@ -2527,7 +2527,7 @@
     <value>Samlet budget</value>
   </data>
   <data name="PageFinances_2029_name" xml:space="preserve">
-    <value></value>
+    <value>Tilbageværende budget</value>
   </data>
   <data name="PageFinances_2030_name" xml:space="preserve">
     <value>Årssaldo</value>
@@ -2662,13 +2662,13 @@
     <value>Årlig betaling</value>
   </data>
   <data name="MessageBox_2224_message" xml:space="preserve">
-    <value></value>
+    <value>Det er ikke muligt at opsige kontrakten, idet en eller flere gates er i brug</value>
   </data>
   <data name="MessageBox_2224_name" xml:space="preserve">
     <value>Kontrakt i brug</value>
   </data>
   <data name="MessageBox_2225_message" xml:space="preserve">
-    <value></value>
+    <value>Er du sikker på, at du vil opsige kontrakten for {0}?</value>
   </data>
   <data name="MessageBox_2225_name" xml:space="preserve">
     <value>Opsig kontrakt</value>
@@ -2677,7 +2677,7 @@
     <value>Opret kontrakt for et antal gates</value>
   </data>
   <data name="MessageBox_2226_message" xml:space="preserve">
-    <value></value>
+    <value>Kontrakten er en del af din terminal {0}, så den kan ikke opsiges</value>
   </data>
   <data name="MessageBox_2226_name" xml:space="preserve">
     <value>Kan ikke fjerne kontrakt</value>
@@ -2714,5 +2714,14 @@
   </data>
   <data name="PageAirport_1030_name" xml:space="preserve">
     <value>Afgange</value>
+  </data>
+  <data name="PanelAirline_1009_name" xml:space="preserve">
+    <value>Forsikringer</value>
+  </data>
+  <data name="PageAirlineInsurances_1000_name" xml:space="preserve">
+    <value>Forsikringspolitikker</value>
+  </data>
+  <data name="PageAirlineInsurances_1001_name" xml:space="preserve">
+    <value>Opret forsikring</value>
   </data>
 </root>

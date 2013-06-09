@@ -2733,4 +2733,22 @@ Good luck.</value>
   <data name="PageAirlineInsurances_1001_name" xml:space="preserve">
     <value>Create Insurance</value>
   </data>
+  <data name="PageAirlineStatistics_1013_name" xml:space="preserve">
+    <value>Customer happiness</value>
+  </data>
+  <data name="PageAirlineStatistics_1014_name" xml:space="preserve">
+    <value>Employee happiness</value>
+  </data>
+  <data name="PageAirlineStatistics_1015_name" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="PageAirlineStatistics_1016_name" xml:space="preserve">
+    <value>Safety</value>
+  </data>
+  <data name="PageAirlineStatistics_1017_name" xml:space="preserve">
+    <value>Security</value>
+  </data>
+  <data name="PageAirlineStatistics_1018_name" xml:space="preserve">
+    <value>Airline Ratings (0-100)</value>
+  </data>
 </root>

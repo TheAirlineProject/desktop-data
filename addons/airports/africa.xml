@@ -3236,4 +3236,91 @@
       <runway name="03/21" length="3000" surface="Asphalt" />
     </runways>
   </airport>
+      <!--Eritrea (HH**)-->
+    <airport name="Asmara International Airport" icao="HHAS" iata="ASM" type="Long_Haul_International" season="All_Year">
+    <town town="Asmara" country="264" GMT="03:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="015°17'30''N" />
+      <longitude value="038°54'38''E" />
+    </coordinates>
+    <size value="Smallest" pax="140" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3000" surface="Asphalt" />
+      <runway name="12/30" length="1814" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Massawa International Airport" icao="HHMS" iata="MSW" type="Short_Haul_International" season="All_Year">
+    <town town="Massawa" country="264" GMT="03:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="015°40'12''N" />
+      <longitude value="039°22'12''E" />
+    </coordinates>
+    <size value="Smallest" pax="25" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="3470" surface="Concrete" />
+    </runways>
+  </airport>
+   <!--Chad (FT**)-->
+    <airport name="Abeche Airport" icao="FTTC" iata="AEH" type="Domestic" season="All_Year">
+    <town town="" country="265" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="013°50'49''N" />
+      <longitude value="020°50'39''E" />
+    </coordinates>
+    <size value="Smallest" pax="1" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Faya Largeau Airport" icao="FTTY" iata="FYT" type="Domestic" season="All_Year">
+    <town town="" country="265" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="017°55'01''N" />
+      <longitude value="019°06'39''E" />
+    </coordinates>
+    <size value="Smallest" pax="1" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2800" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="N'Djamena International Airport" icao="FTTJ" iata="NDJ" type="Long_Haul_International" season="All_Year">
+    <town town="N'Djamena" country="265" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="012°08'01''N" />
+      <longitude value="015°02'02''E" />
+    </coordinates>
+    <size value="Smallest" pax="25" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="2800" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Sarh Airport" icao="FTTA" iata="SRH" type="Domestic" season="All_Year">
+    <town town="Sarh" country="265" GMT="01:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="009°08'39''N" />
+      <longitude value="018°22'27''E" />
+    </coordinates>
+    <size value="Smallest" pax="1" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1800" surface="Asphalt" />
+    </runways>
+  </airport>
 </airports>
