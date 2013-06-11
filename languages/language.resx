@@ -2751,4 +2751,7 @@ Good luck.</value>
   <data name="PageAirlineStatistics_1018_name" xml:space="preserve">
     <value>Airline Ratings (0-100)</value>
   </data>
+  <data name="PageFleetInsurances_1000_name" xml:space="preserve">
+    <value>Airliner Insurance Policies</value>
+  </data>
 </root>
