@@ -3104,6 +3104,118 @@
       <runway name="02/20" length="549" surface="Concrete"/>
     </runways>
   </airport>
+   <!--Brunei (WB**)-->
+     <airport name="Brunei International Airport" icao="WBSB" iata="BWN" type="Long_Haul_International" season="All_Year">
+    <town town="Bandar Seri Begawan" country="277" GMT="08:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="004°56'39''N" />
+      <longitude value="114°55'40''E" />
+    </coordinates>
+    <size value="Small" pax="1700" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="3658" surface="Asphalt" />
+    </runways>
+  </airport>
+    <!--Laos (VL**)-->
+      <airport name="Luang Namtha Airport" icao="VLLN" iata="LXG" type="Domestic" season="All_Year">
+    <town town="Luang Namtha" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="020°58'01''N" />
+      <longitude value="101°24'00''E" />
+    </coordinates>
+    <size value="Smallest" pax="15" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Luang Phabang International Airport" icao="VLLB" iata="LPQ" type="Domestic" season="All_Year">
+    <town town="Luang Phabang" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="019°53'50''N" />
+      <longitude value="102°09'39''E" />
+    </coordinates>
+    <size value="Very_small" pax="400" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Oudomsay Airport" icao="VLOS" iata="ODY" type="Domestic" season="All_Year">
+    <town town="Oudomsay" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="020°40'57''N" />
+      <longitude value="101°59'38''E" />
+    </coordinates>
+    <size value="Smallest" pax="25" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Pakse International Airport" icao="VLPS" iata="PKZ" type="Regional" season="All_Year">
+    <town town="Pakse" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="015°07'55''N" />
+      <longitude value="105°46'51''E" />
+    </coordinates>
+    <size value="Very_small" pax="300" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1625" surface="Concrete" />
+    </runways>
+  </airport>
+   <airport name="Xieng Khouang Airport" icao="VLXK" iata="XKH" type="Regional" season="All_Year">
+    <town town="Xieng Khouang" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="019°27'00''N" />
+      <longitude value="103°09'28''E" />
+    </coordinates>
+    <size value="Smallest" pax="45" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2608" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Savannakhet Airport" icao="VLSK" iata="ZVK" type="Short_Haul_International" season="All_Year">
+    <town town="" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="016°33'23''N" />
+      <longitude value="104°45'36''E" />
+    </coordinates>
+    <size value="Small" pax="1400" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+      <terminal name="Terminal B" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1633" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Wattay International Airport" icao="VLVT" iata="VTE" type="Short_Haul_International" season="All_Year">
+    <town town="Vientiane" country="279" GMT="07:00:00" DST="00:00:00" />
+    <coordinates>
+      <latitude value="017°59'17''N" />
+      <longitude value="102°33'46''E" />
+    </coordinates>
+    <size value="Small" pax="1400" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+      <terminal name="Terminal B" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--Malaysia (WB**, WM**)-->
   <airport name="Kuching International Airport" icao="WBGG" iata="KCH" type="Short_Haul_International" season="All_Year">
     <town town="Kuching" country="173" GMT="08:00:00" DST="08:00:00"/>

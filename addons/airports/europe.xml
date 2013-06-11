@@ -7316,4 +7316,32 @@
       <runway name="15/33" length="3900" surface="Concrete" />
     </runways>
   </airport>
+  <airport name="Ohrid St. Paul the Apostle Airport" icao="LWOH" iata="OHD" type="Regional" season="All_Year">
+    <town town="Ohrid" country="284" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="041°10'48''N" />
+      <longitude value="020°44'32''E" />
+    </coordinates>
+    <size value="Smallest" pax="78" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="2550" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Skopje Alexander the Great Airport" icao="LWSK" iata="SKP" type="Short_Haul_International" season="All_Year">
+    <town town="Skopje" country="284" GMT="01:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="041°57'41''N" />
+      <longitude value="021°37'17''E" />
+    </coordinates>
+    <size value="Smallest" pax="829" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2450" surface="Asphalt" />
+    </runways>
+  </airport>
 </airports>

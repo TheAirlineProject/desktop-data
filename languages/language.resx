@@ -2754,6 +2754,15 @@ Good luck.</value>
   <data name="PageFleetInsurances_1000_name" xml:space="preserve">
     <value>Airliner Insurance Policies</value>
   </data>
+  <data name="General_118_name" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="PageFleetMaintenance_1000_name" xml:space="preserve">
+    <value>Scheduled Airliner Maintenance</value>
+  </data>
+  <data name="PageFleetMaintenance_1001_name" xml:space="preserve">
+    <value>Quick Maintenance</value>
+  </data>
   <data name="PanelFleetAirliner_205_name" xml:space="preserve">
     <value>Maintenance</value>
   </data>
