@@ -2754,4 +2754,13 @@ Good luck.</value>
   <data name="PageFleetInsurances_1000_name" xml:space="preserve">
     <value>Airliner Insurance Policies</value>
   </data>
+  <data name="PanelFleetAirliner_205_name" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="PopUpConfirmInsurance_1000_name" xml:space="preserve">
+    <value>Confirm airline insurance</value>
+  </data>
+  <data name="PopUpConfirmInsurance_1001_name" xml:space="preserve">
+    <value>Are you sure you want to create an insurance with the following terms?</value>
+  </data>
 </root>
