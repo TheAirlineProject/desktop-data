@@ -2723,12 +2723,12 @@ Viel Erfolg.</value>
     <value>Abflüge</value>
   </data>
   <data name="PanelAirline_1009_name" xml:space="preserve">
-    <value></value>
+    <value>Versicherungen</value>
   </data>
   <data name="PageAirlineInsurances_1000_name" xml:space="preserve">
-    <value></value>
+    <value>Fluglinien-Versicherungs-Richtlinien</value>
   </data>
   <data name="PageAirlineInsurances_1001_name" xml:space="preserve">
-    <value></value>
+    <value>Erstelle Versicherung</value>
   </data>
 </root>
