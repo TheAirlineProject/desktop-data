@@ -2766,6 +2766,15 @@ Good luck.</value>
   <data name="PageFleetMaintenance_1001_name" xml:space="preserve">
     <value>Quick Maintenance</value>
   </data>
+  <data name="PageFleetMaintenance_1002_name" xml:space="preserve">
+    <value>Maintenance C</value>
+  </data>
+  <data name="PageFleetMaintenance_1003_name" xml:space="preserve">
+    <value>Maintenance D</value>
+  </data>
+  <data name="PageFleetMaintenance_1004_name" xml:space="preserve">
+    <value>Maintenance A + B</value>
+  </data>
   <data name="PanelFleetAirliner_205_name" xml:space="preserve">
     <value>Maintenance</value>
   </data>
