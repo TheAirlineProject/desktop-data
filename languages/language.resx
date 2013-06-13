@@ -2775,6 +2775,12 @@ Good luck.</value>
   <data name="PageFleetMaintenance_1004_name" xml:space="preserve">
     <value>Maintenance A + B</value>
   </data>
+  <data name="PageFleetMaintenance_1005_name" xml:space="preserve">
+    <value>Select Date</value>
+  </data>
+  <data name="PageFleetMaintenance_1006_name" xml:space="preserve">
+    <value>Select Interval</value>
+  </data>
   <data name="PanelFleetAirliner_205_name" xml:space="preserve">
     <value>Maintenance</value>
   </data>
