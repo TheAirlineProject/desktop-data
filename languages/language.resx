@@ -937,7 +937,7 @@
     <value>Fleet Route Information</value>
   </data>
   <data name="PageAirlineFleet_1003_name" xml:space="preserve">
-    <value>Airline Fleet</value>
+    <value>Airline Fleet - Owned</value>
   </data>
   <data name="PageAirlineFleet_1004_name" xml:space="preserve">
     <value>Airliners In Order</value>
@@ -957,7 +957,7 @@
   <data name="PageAirlineFleet_1009_name" xml:space="preserve">
     <value>Ordered</value>
   </data>
-  <data name="PageAirlineFleet_1101_name" xml:space="preserve">
+  <data name="PageAirlineFleet_1011_name" xml:space="preserve">
     <value>Airline Fleet</value>
   </data>
   <data name="PageAirlineFinances_1001_name" xml:space="preserve">
@@ -2789,5 +2789,8 @@ Good luck.</value>
   </data>
   <data name="PopUpConfirmInsurance_1001_name" xml:space="preserve">
     <value>Are you sure you want to create an insurance with the following terms?</value>
+  </data>
+  <data name="PageAirlineFleet_1012_name" xml:space="preserve">
+    <value>Airline Fleet - Leased</value>
   </data>
 </root>
