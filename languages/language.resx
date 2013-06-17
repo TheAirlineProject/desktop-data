@@ -2793,4 +2793,7 @@ Good luck.</value>
   <data name="PageAirlineFleet_1012_name" xml:space="preserve">
     <value>Airline Fleet - Leased</value>
   </data>
+  <data name="PopUpDifficulty_205_name" xml:space="preserve">
+    <value>Startdata Level</value>
+  </data>
 </root>
