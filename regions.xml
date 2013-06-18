@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <regions>
+  <!--World-->
   <region uid="100">
     <translations>
       <en-US name="All regions" />
@@ -11,51 +12,131 @@
       <es-ES name="Todas las regiones" />
     </translations>
   </region>
+  <!--Africa-->
   <region uid="101">
     <translations>
-      <en-US name="South America" />
-      <de-DE name="Südamerika" />
-      <en-GB name="South America" />
-      <nl-NL name="Zuid-Amerika" />
-      <zh-CN name="南美洲" />
-      <da-DK name="Sydamerika" />
-      <es-ES name="América del Sur" />
+      <en-US name="Central Africa" />
+      <de-DE name="Missing" />
+      <en-GB name="Central Africa" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
     </translations>
   </region>
   <region uid="102">
     <translations>
-      <en-US name="North America" />
-      <de-DE name="Nordamerika" />
-      <en-GB name="North America" />
-      <nl-NL name="Noord-Amerika" />
-      <zh-CN name="北美洲" />
-      <da-DK name="Nordamerika" />
-      <es-ES name="América del Norte" />
+      <en-US name="East Africa" />
+      <de-DE name="Missing" />
+      <en-GB name="East Africa" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
     </translations>
   </region>
   <region uid="103">
     <translations>
-      <en-US name="Central America" />
-      <de-DE name="Zentralamerika" />
-      <en-GB name="Central America" />
-      <nl-NL name="Centraal-Amerika" />
-      <zh-CN name="中美洲" />
-      <da-DK name="Centralamerika" />
-      <es-ES name="América Central" />
+      <en-US name="North Africa" />
+      <de-DE name="Missing" />
+      <en-GB name="North Africa" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
     </translations>
   </region>
   <region uid="104">
     <translations>
-      <en-US name="Caribbean" />
-      <de-DE name="Karibik" />
-      <en-GB name="Caribbean" />
-      <nl-NL name="Caraïben" />
-      <zh-CN name="加勒比地区" />
-      <da-DK name="Caribbien" />
-      <es-ES name="Caribe" />
+      <en-US name="Southern Africa" />
+      <de-DE name="Missing" />
+      <en-GB name="Southern Africa" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
     </translations>
   </region>
   <region uid="105">
+    <translations>
+      <en-US name="West Africa" />
+      <de-DE name="Missing" />
+      <en-GB name="West Africa" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <!--Asia-->
+  <region uid="106">
+    <translations>
+      <en-US name="Central Asia" />
+      <de-DE name="Missing" />
+      <en-GB name="Central Asia" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="107">
+    <translations>
+      <en-US name="East Asia" />
+      <de-DE name="Missing" />
+      <en-GB name="East Asia" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="108">
+    <translations>
+      <en-US name="South Asia" />
+      <de-DE name="Missing" />
+      <en-GB name="South Asia" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="109">
+    <translations>
+      <en-US name="Southeast Asia" />
+      <de-DE name="Missing" />
+      <en-GB name="Southeast Asia" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="110">
+    <translations>
+      <en-US name="West Asia" />
+      <de-DE name="Missing" />
+      <en-GB name="West Asia" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <!--Australia/Oceania-->
+  <region uid="111">
+    <translations>
+      <en-US name="Australia and New Zealand" />
+      <de-DE name="Missing" />
+      <en-GB name="Australia and New Zealand" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="112">
     <translations>
       <en-US name="Oceania" />
       <de-DE name="Ozeanien" />
@@ -66,7 +147,8 @@
       <es-ES name="Oceanía" />
     </translations>
   </region>
-  <region uid="106">
+  <!--Europe-->
+  <region uid="113">
     <translations>
       <en-US name="Eastern Europe" />
       <de-DE name="Osteuropa" />
@@ -77,7 +159,18 @@
       <es-ES name="Europa Oriental" />
     </translations>
   </region>
-  <region uid="107">
+  <region uid="114">
+    <translations>
+      <en-US name="Northern Europe" />
+      <de-DE name="Missing" />
+      <en-GB name="Northern Europe" />
+      <nl-NL name="Missing" />
+      <zh-CN name="Missing" />
+      <da-DK name="Missing" />
+      <es-ES name="Missing" />
+    </translations>
+  </region>
+  <region uid="115">
     <translations>
       <en-US name="Southern Europe" />
       <de-DE name="Südeuropa" />
@@ -88,7 +181,7 @@
       <es-ES name="Sur de Europa" />
     </translations>
   </region>
-  <region uid="108">
+  <region uid="116">
     <translations>
       <en-US name="Western Europe" />
       <de-DE name="Westeuropa" />
@@ -99,59 +192,50 @@
       <es-ES name="Europa occidental" />
     </translations>
   </region>
-  <region uid="109">
+  <!--North America-->
+  <region uid="117">
     <translations>
-      <en-US name="Africa" />
-      <de-DE name="Afrika" />
-      <en-GB name="Africa" />
-      <nl-NL name="Afrika" />
-      <zh-CN name="非洲" />
-      <da-DK name="Afrika" />
-      <es-ES name="África" />
+      <en-US name="Caribbean" />
+      <de-DE name="Karibik" />
+      <en-GB name="Caribbean" />
+      <nl-NL name="Caraïben" />
+      <zh-CN name="加勒比地区" />
+      <da-DK name="Caribbien" />
+      <es-ES name="Caribe" />
     </translations>
   </region>
-  <region uid="110">
+  <region uid="118">
     <translations>
-      <en-US name="Asia" />
-      <de-DE name="Asien" />
-      <en-GB name="Asia" />
-      <nl-NL name="Azië" />
-      <zh-CN name="亚洲" />
-      <da-DK name="Asien" />
-      <es-ES name="Asia" />
+      <en-US name="Central America" />
+      <de-DE name="Zentralamerika" />
+      <en-GB name="Central America" />
+      <nl-NL name="Centraal-Amerika" />
+      <zh-CN name="中美洲" />
+      <da-DK name="Centralamerika" />
+      <es-ES name="América Central" />
     </translations>
   </region>
-  <region uid="111">
+  <region uid="119">
     <translations>
-      <en-US name="Middle East" />
-      <de-DE name="Mittlerer Osten" />
-      <en-GB name="Middle East" />
-      <nl-NL name="Midden-Oosten" />
-      <zh-CN name="中东" />
-      <da-DK name="Mellemøsten" />
-      <es-ES name="Medio Oriente" />
+      <en-US name="North America" />
+      <de-DE name="Nordamerika" />
+      <en-GB name="North America" />
+      <nl-NL name="Noord-Amerika" />
+      <zh-CN name="北美洲" />
+      <da-DK name="Nordamerika" />
+      <es-ES name="América del Norte" />
     </translations>
   </region>
-  <region uid="112">
+  <!--South America-->
+  <region uid="120">
     <translations>
-      <en-US name="Great Britain" />
-      <de-DE name="Großbritannien" />
-      <en-GB name="Great Britain" />
-      <nl-NL name="Groot-Brittannië" />
-      <zh-CN name="大英" />
-      <da-DK name="Storbrittanien" />
-      <es-ES name="Gran Bretaña" />
-    </translations>
-  </region>
-  <region uid="113">
-    <translations>
-      <en-US name="Scandinavia" />
-      <de-DE name="Skandinavien" />
-      <en-GB name="Scandinavia" />
-      <nl-NL name="Scandinavië" />
-      <zh-CN name="斯堪的纳维亚" />
-      <da-DK name="Skandinavien" />
-      <es-ES name="Scandinavia" />
+      <en-US name="South America" />
+      <de-DE name="Südamerika" />
+      <en-GB name="South America" />
+      <nl-NL name="Zuid-Amerika" />
+      <zh-CN name="南美洲" />
+      <da-DK name="Sydamerika" />
+      <es-ES name="América del Sur" />
     </translations>
   </region>
 </regions>

@@ -2040,7 +2040,7 @@
     </runways>
   </airport>
   <airport name="Dzaoudzi Pamandzi International Airport" icao="FMCZ" iata="DZA" type="Long_Haul_International" season="All_Year">
-    <town town="Dzaoudzi" country="272" GMT="02:00:00" DST="02:00:00" />
+    <town town="Dzaoudzi, YT" country="140" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="012°48'16''S" />
       <longitude value="045°16'51''E" />
@@ -2054,7 +2054,7 @@
     </runways>
   </airport>
   <airport name="Pierrefonds Airport" icao="FMEP" iata="ZSE" type="Domestic" season="All_Year">
-    <town town="St Pierre" country="272" GMT="02:00:00" DST="02:00:00" />
+    <town town="St Pierre, YT" country="140" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="021°19'15''S" />
       <longitude value="055°25'29''E" />
@@ -2068,7 +2068,7 @@
     </runways>
   </airport>
   <airport name="Roland Garros Airport" icao="FMEE" iata="RUN" type="Long_Haul_International" season="All_Year">
-    <town town="St Denis" country="272" GMT="02:00:00" DST="02:00:00" />
+    <town town="St Denis, YT" country="140" GMT="02:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="020°53'13''S" />
       <longitude value="055°30'37''E" />
