@@ -2796,4 +2796,7 @@ Good luck.</value>
   <data name="PopUpDifficulty_205_name" xml:space="preserve">
     <value>Startdata Level</value>
   </data>
+  <data name="PageNewGame_1022_name" xml:space="preserve">
+    <value>Select Playing Continent</value>
+  </data>
 </root>
