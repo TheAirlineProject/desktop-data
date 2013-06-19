@@ -2,16 +2,16 @@
 <states>
 	<!--Denmark-->
 	<state country="110" name="Faroe Islands" shortname="FO"  flag="Denmark - Faroe Islands"></state>
-	<state country="110" name="Greenland" shortname="GL"  flag="Denmark - Greenland"></state>
+	<state country="110" name="Greenland" shortname="GL"  flag="Denmark - Greenland" overseas="True" region="119"></state>
 	<!--France-->
-	<state country="140" name="French Guiana" shortname="GF"  flag="France - French Guiana" overseas="True"></state>
-	<state country="140" name="French Polynesia" shortname="PF"  flag="France - French Polynesia" overseas="True"></state>
-	<state country="140" name="Mayotte" shortname="YT"  flag="France - Mayotte" overseas="True"></state>
-	<state country="140" name="Réunion" shortname="RE"  flag="France - Reunion" overseas="True"></state>
-	<state country="140" name="Saint Pierre and Miquelon" shortname="PM"  flag="France - Saint Pierre and Miquelon" overseas="True"></state>
+	<state country="140" name="French Guiana" shortname="GF"  flag="France - French Guiana" overseas="True" region="120"></state>
+	<state country="140" name="French Polynesia" shortname="PF"  flag="France - French Polynesia" overseas="True" region="112"></state>
+	<state country="140" name="Mayotte" shortname="YT"  flag="France - Mayotte" overseas="True" region="102"></state>
+	<state country="140" name="Réunion" shortname="RE"  flag="France - Reunion" overseas="True" region="102"></state>
+	<state country="140" name="Saint Pierre and Miquelon" shortname="PM"  flag="France - Saint Pierre and Miquelon" overseas="True" region="119"></state>
 	<!--United Kingdom-->
-	<state country="130" name="Bermuda" shortname="BM"  flag="UK - Bermuda" overseas="True"></state>
-	<state country="130" name="Cayman Islands" shortname="KY"  flag="UK - Cayman Islands"></state>
+	<state country="130" name="Bermuda" shortname="BM"  flag="UK - Bermuda" overseas="True" region="119"></state>
+	<state country="130" name="Cayman Islands" shortname="KY"  flag="UK - Cayman Islands" overseas="True" region="117"></state>
 	<state country="130" name="England" shortname="ENG"  flag="UK - England"></state>
 	<state country="130" name="Guernsey" shortname="GG"  flag="UK - Guernsey"></state>
 	<state country="130" name="Gibraltar" shortname="GI"  flag="UK - Gibraltar"></state>
@@ -19,13 +19,13 @@
 	<state country="130" name="Northern Ireland" shortname="NIR"  flag="UK - Northern Ireland"></state>
 	<state country="130" name="Jersey" shortname="JE"  flag="UK - Jersey"></state>
 	<state country="130" name="Scotland" shortname="SCT"  flag="UK - Scotland"></state>
-	<state country="130" name="Turks and Caicos Islands" shortname="TC"  flag="UK - Turks and Caicos Islands" overseas="True"></state>
-	<state country="130" name="Virgin Islands (British)" shortname="VG"  flag="UK - Virgin Islands" overseas="True"></state>
+	<state country="130" name="Turks and Caicos Islands" shortname="TC"  flag="UK - Turks and Caicos Islands" overseas="True" region="117"></state>
+	<state country="130" name="Virgin Islands (British)" shortname="VG"  flag="UK - Virgin Islands" overseas="True" region="117"></state>
 	<state country="130" name="Wales" shortname="WAL"  flag="UK - Wales"></state>
 	<!--United States-->
 	<state country="122" name="Alabama" shortname="AL"  flag="USA - Alabama"></state>
 	<state country="122" name="Alaska" shortname="AK"  flag="USA - Alaska"></state>
-	<state country="122" name="American Samoa" shortname="AS"  flag="USA - American Samoa"></state>
+	<state country="122" name="American Samoa" shortname="AS"  flag="USA - American Samoa" overseas="True" region="112"></state>
 	<state country="122" name="Arizona" shortname="AZ"  flag="USA - Arizona"></state>
 	<state country="122" name="Arkansas" shortname="AR"  flag="USA - Arkansas"></state>
 	<state country="122" name="California" shortname="CA"  flag="USA - California"></state>
@@ -34,7 +34,7 @@
 	<state country="122" name="Delaware" shortname="DE"  flag="USA - Delaware"></state>
 	<state country="122" name="Florida" shortname="FL"  flag="USA - Florida"></state>
 	<state country="122" name="Georgia" shortname="GA"  flag="USA - Georgia"></state>
-	<state country="122" name="Guam" shortname="GU"  flag="USA - Guam"></state>
+	<state country="122" name="Guam" shortname="GU"  flag="USA - Guam" overseas="True" region="112"></state>
 	<state country="122" name="Hawaii" shortname="HI"  flag="USA - Hawaii"></state>
 	<state country="122" name="Idaho" shortname="ID"  flag="USA - Idaho"></state>
 	<state country="122" name="Illinios" shortname="IL"  flag="USA - Illinois"></state>
@@ -63,7 +63,7 @@
 	<state country="122" name="Oklahoma" shortname="OK"  flag="USA - Oklahoma"></state>
 	<state country="122" name="Oregon" shortname="OR"  flag="USA - Oregon"></state>
 	<state country="122" name="Pennsylvania" shortname="PA"  flag="USA - Pennsylvania"></state>
-	<state country="122" name="Puerto Rico" shortname="PR"  flag="USA - Puerto Rico"></state>
+	<state country="122" name="Puerto Rico" shortname="PR"  flag="USA - Puerto Rico" overseas="True" region="117"></state>
 	<state country="122" name="Rhode Island" shortname="RI"  flag="USA - Rhode Island"></state>
 	<state country="122" name="South Carolina" shortname="SC"  flag="USA - South Carolina"></state>
 	<state country="122" name="South Dakota" shortname="SD"  flag="USA - South Dakota"></state>
@@ -71,7 +71,7 @@
 	<state country="122" name="Texas" shortname="TX"  flag="USA - Texas"></state>
 	<state country="122" name="Utah" shortname="UT"  flag="USA - Utah"></state>
 	<state country="122" name="Vermont" shortname="VT"  flag="USA - Vermont"></state>
-	<state country="122" name="Virgin Islands (US)" shortname="VI"  flag="USA - Virgin Islands"></state>
+	<state country="122" name="Virgin Islands (US)" shortname="VI"  flag="USA - Virgin Islands" overseas="True" region="117"></state>
 	<state country="122" name="Virginia" shortname="VA"  flag="USA - Virginia"></state>
 	<state country="122" name="Washington" shortname="WA"  flag="USA - Washington"></state>
 	<state country="122" name="West Virginia" shortname="WV"  flag="USA - West Virginia"></state>
