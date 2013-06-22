@@ -274,7 +274,7 @@
     </runways>
   </airport>
   <airport name="Hokitika Airfield" icao="NZHK" iata="HKK" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Hokitika" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="042°42'48''S" />
       <longitude value="170°59'06''E" />
@@ -306,7 +306,7 @@
     </runways>
   </airport>
   <airport name="Kaikoura Airport" icao="NZKI" iata="KBZ" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Kaikoura" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="042°25'29''S" />
       <longitude value="173°36'17''E" />
@@ -369,7 +369,7 @@
     </runways>
   </airport>
   <airport name="Mount Cook Airport" icao="NZMC" iata="MON" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Mount Cook Village" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="043°45'53''S" />
       <longitude value="170°07'58''E" />
@@ -382,8 +382,8 @@
       <runway name="13/31" length="1572" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Napier Airport" icao="NZNR" iata="NPE" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+  <airport name="Hawke's Bay Airport" icao="NZNR" iata="NPE" type="Domestic" season="All_Year">
+    <town town="Auckland" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="039°27'56''S" />
       <longitude value="176°52'11''E" />
@@ -433,7 +433,7 @@
     </runways>
   </airport>
   <airport name="Oamaru Airport" icao="NZOU" iata="OAM" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Oamaru" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="044°58'12''S" />
       <longitude value="171°04'55''E" />
@@ -448,8 +448,8 @@
       <runway name="18/36" length="1283" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Palmerston North Airport" icao="NZPM" iata="PMR" type="Short_Haul_International" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+  <airport name="Palmerston North International Airport" icao="NZPM" iata="PMR" type="Short_Haul_International" season="All_Year">
+    <town town="Palmerston North" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="040°19'14''S" />
       <longitude value="175°37'01''E" />
@@ -463,8 +463,8 @@
       <runway name="07R/25L" length="608" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Paraparaumu Airport" icao="NZPP" iata="PPQ" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+  <airport name="Kapiti Coast Airport" icao="NZPP" iata="PPQ" type="Domestic" season="All_Year">
+    <town town="Kapiti Coast" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="040°54'16''S" />
       <longitude value="174°59'20''E" />
@@ -572,7 +572,7 @@
     </runways>
   </airport>
   <airport name="Timaru Airport" icao="NZTU" iata="TIU" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Timaru" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="044°18'10''S" />
       <longitude value="171°13'30''E" />
@@ -588,7 +588,7 @@
     </runways>
   </airport>
   <airport name="Wanaka Airport" icao="NZWF" iata="WKA" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Wanaka" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="044°43'19''S" />
       <longitude value="169°14'45''E" />
@@ -620,7 +620,7 @@
     </runways>
   </airport>
   <airport name="Westport Airport" icao="NZWS" iata="WSZ" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Westport" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="041°44'17''S" />
       <longitude value="171°34'51''E" />
@@ -634,7 +634,7 @@
     </runways>
   </airport>
   <airport name="Whakatane Airport" icao="NZWK" iata="WHK" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Whakatane" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="037°55'14''S" />
       <longitude value="176°54'50''E" />
@@ -649,7 +649,7 @@
     </runways>
   </airport>
   <airport name="Whangarei Airport" icao="NZWR" iata="WRE" type="Domestic" season="All_Year">
-    <town town="" country="186" GMT="12:00:00" DST="11:00:00" />
+    <town town="Whangarei" country="186" GMT="12:00:00" DST="11:00:00" />
     <coordinates>
       <latitude value="035°46'05''S" />
       <longitude value="174°21'54''E" />
@@ -1299,7 +1299,7 @@
     </runways>
   </airport>
   <airport name="Bourke Airport" icao="YBKE" iata="BRK" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Bourke" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="030°02'21''S" />
       <longitude value="145°57'07''E" />
@@ -1329,7 +1329,7 @@
     </runways>
   </airport>
   <airport name="Cobar Airport" icao="YCBA" iata="CAZ" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Cobar" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="031°32'17''S" />
       <longitude value="145°47'38''E" />
@@ -1374,7 +1374,7 @@
     </runways>
   </airport>
   <airport name="Coonamble Airport" icao="YCNM" iata="CNB" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Coonamble" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="030°58'59''S" />
       <longitude value="148°22'33''E" />
@@ -1403,8 +1403,8 @@
       <runway name="11/29" length="1067" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Grafton Airport" icao="YGFN" iata="GFN" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+  <airport name="Clarence Valley Regional Airport" icao="YGFN" iata="GFN" type="Domestic" season="All_Year">
+    <town town="Grafton" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="029°45'33''S" />
       <longitude value="153°01'47''E" />
@@ -1433,7 +1433,7 @@
     </runways>
   </airport>
   <airport name="Inverell Airport" icao="YIVL" iata="IVR" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Inverell" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="029°53'17''S" />
       <longitude value="151°08'38''E" />
@@ -1448,7 +1448,7 @@
     </runways>
   </airport>
   <airport name="Lightning Ridge Airport" icao="YLRD" iata="LHG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Lightning Ridge" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="029°27'24''S" />
       <longitude value="147°59'02''E" />
@@ -1685,8 +1685,8 @@
       <runway name="12/30" length="1526" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Wollongong Airport" icao="YWOL" iata="WOL" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="13:00:00" DST="13:00:00" />
+  <airport name="Illawarra Regional Airport" icao="YWOL" iata="WOL" type="Domestic" season="All_Year">
+    <town town="Wollongong" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="034°33'39''S" />
       <longitude value="150°47'20''E" />
@@ -1745,7 +1745,7 @@
     </runways>
   </airport>
   <airport name="Lake Evella Airport" icao="YLEV" iata="LEL" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Gapuwiyak" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="012°29'56''S" />
       <longitude value="135°48'21''E" />
@@ -1773,7 +1773,7 @@
     </runways>
   </airport>
   <airport name="Kalkgurung Airport" icao="YKKG" iata="KFG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Daguragu" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="017°25'54''S" />
       <longitude value="130°48'28''E" />
@@ -1788,7 +1788,7 @@
     </runways>
   </airport>
   <airport name="Hooker Creek Airport" icao="YHOO" iata="HOK" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Lajamanu" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="018°20'12''S" />
       <longitude value="130°38'16''E" />
@@ -1844,7 +1844,7 @@
     </runways>
   </airport>
   <airport name="Ramingining Airport" icao="YRNG" iata="RAM" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Ramingining" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="012°21'23''S" />
       <longitude value="134°53'52''E" />
@@ -1886,8 +1886,8 @@
       <runway name="13/31" length="2599" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Bamaga Injinoo Airport" icao="YBAM" iata="ABM" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+  <airport name="Northern Peninsula Airport" icao="YBAM" iata="ABM" type="Domestic" season="All_Year">
+    <town town="Bamaga" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="010°57'02''S" />
       <longitude value="142°27'32''E" />
@@ -1916,7 +1916,7 @@
     </runways>
   </airport>
   <airport name="Bedourie Airport" icao="YBIE" iata="BEU" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Bedourie" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="024°20'45''S" />
       <longitude value="139°27'36''E" />
@@ -1930,7 +1930,7 @@
     </runways>
   </airport>
   <airport name="Birdsville Airport" icao="YBDV" iata="BVI" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Birdsville" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="025°53'50''S" />
       <longitude value="139°20'52''E" />
@@ -1960,7 +1960,7 @@
     </runways>
   </airport>
   <airport name="Blackwater Airport" icao="YBTR" iata="BLT" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Blackwater" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="023°36'11''S" />
       <longitude value="148°48'25''E" />
@@ -1973,8 +1973,8 @@
       <runway name="18/36" length="1531" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Boigu Airport" icao="YBOI" iata="GIC" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+  <airport name="Boigu Island Airport" icao="YBOI" iata="GIC" type="Domestic" season="All_Year">
+    <town town="Boigu Island" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="009°13'58''S" />
       <longitude value="142°13'04''E" />
@@ -1988,7 +1988,7 @@
     </runways>
   </airport>
   <airport name="Boulia Airport" icao="YBOU" iata="BQL" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Boulia" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="022°54'47''S" />
       <longitude value="139°53'59''E" />
@@ -2017,7 +2017,7 @@
     </runways>
   </airport>
   <airport name="Burketown Airport" icao="YBKT" iata="BUC" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Burketown" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="017°44'54''S" />
       <longitude value="139°32'02''E" />
@@ -2047,7 +2047,7 @@
     </runways>
   </airport>
   <airport name="Charters Towers Airport" icao="YCHT" iata="CXT" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Charters Towers" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="020°02'35''S" />
       <longitude value="146°16'22''E" />
@@ -2077,7 +2077,7 @@
     </runways>
   </airport>
   <airport name="Cooktown Airport" icao="YCKN" iata="CTN" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Cooktown" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="015°26'40''S" />
       <longitude value="145°11'02''E" />
@@ -2091,7 +2091,7 @@
     </runways>
   </airport>
   <airport name="Cunnamulla Airport" icao="YCMU" iata="CMA" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Cunnamulla" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="028°01'48''S" />
       <longitude value="145°37'19''E" />
@@ -2106,7 +2106,7 @@
     </runways>
   </airport>
   <airport name="Doomadgee Airport" icao="YDMG" iata="DMD" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Doomadgee" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="017°56'25''S" />
       <longitude value="138°49'19''E" />
@@ -2149,7 +2149,7 @@
     </runways>
   </airport>
   <airport name="Gympie Airport" icao="YGYM" iata="GYP" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Gympie" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="026°16'58''S" />
       <longitude value="152°42'07''E" />
@@ -2207,7 +2207,7 @@
     </runways>
   </airport>
   <airport name="Hughenden Airport" icao="YHUG" iata="HGD" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Hughenden" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="020°48'54''S" />
       <longitude value="144°13'30''E" />
@@ -2222,7 +2222,7 @@
     </runways>
   </airport>
   <airport name="Julia Creek Airport" icao="YJLC" iata="JCK" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Julia Creek" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="020°40'05''S" />
       <longitude value="141°43'22''E" />
@@ -2236,7 +2236,7 @@
     </runways>
   </airport>
   <airport name="Karumba Airport" icao="YKMB" iata="KRB" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Karumba" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="017°27'24''S" />
       <longitude value="140°49'48''E" />
@@ -2264,7 +2264,7 @@
     </runways>
   </airport>
   <airport name="Kubin Airport" icao="YKUB" iata="KUG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Kubin" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="010°13'30''S" />
       <longitude value="142°13'04''E" />
@@ -2278,7 +2278,7 @@
     </runways>
   </airport>
   <airport name="Lockhart River Airport" icao="YLHR" iata="IRG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Lockhart River" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="012°47'12''S" />
       <longitude value="143°18'17''E" />
@@ -2337,7 +2337,7 @@
     </runways>
   </airport>
   <airport name="Maryborough Airport" icao="YMYB" iata="MBH" type="Regional" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Maryborough" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="025°30'47''S" />
       <longitude value="152°42'53''E" />
@@ -2352,7 +2352,7 @@
     </runways>
   </airport>
   <airport name="Mornington Island Airport" icao="YMTI" iata="ONG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Mornington Island" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="016°39'45''S" />
       <longitude value="139°10'40''E" />
@@ -2367,7 +2367,7 @@
     </runways>
   </airport>
   <airport name="Normanton Airport" icao="YNTN" iata="NTN" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Normanton" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="017°41'00''S" />
       <longitude value="141°04'12''E" />
@@ -2381,7 +2381,7 @@
     </runways>
   </airport>
   <airport name="Palm Island Airport" icao="YPAM" iata="PMK" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Palm Island" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="018°45'19''S" />
       <longitude value="146°34'51''E" />
@@ -2394,8 +2394,8 @@
       <runway name="14/32" length="1137" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Pormpuraaw Airport" icao="YPMP" iata="EDR" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+  <airport name="Edward River Airport" icao="YPMP" iata="EDR" type="Domestic" season="All_Year">
+    <town town="Pormpuraaw" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="014°53'48''S" />
       <longitude value="141°36'32''E" />
@@ -2424,7 +2424,7 @@
     </runways>
   </airport>
   <airport name="Quilpie Airport" icao="YQLP" iata="ULP" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Quilpie" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="026°36'43''S" />
       <longitude value="144°15'10''E" />
@@ -2439,7 +2439,7 @@
     </runways>
   </airport>
   <airport name="Richmond Airport" icao="YRMD" iata="RCM" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Richmond" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="020°42'06''S" />
       <longitude value="143°06'54''E" />
@@ -2483,7 +2483,7 @@
     </runways>
   </airport>
   <airport name="St George Airport" icao="YSGE" iata="SGO" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="St George Airport" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="028°02'58''S" />
       <longitude value="148°35'42''E" />
@@ -2497,7 +2497,7 @@
     </runways>
   </airport>
   <airport name="Springvale Airport" icao="YSPV" iata="KSV" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Springvale" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="023°32'59''S" />
       <longitude value="140°41'59''E" />
@@ -2527,7 +2527,7 @@
     </runways>
   </airport>
   <airport name="Thargomindah Airport" icao="YTGM" iata="XTG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Thargomindah" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="027°59'11''S" />
       <longitude value="143°48'39''E" />
@@ -2542,7 +2542,7 @@
     </runways>
   </airport>
   <airport name="Toowoomba Airport" icao="YTWB" iata="TWB" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Toowoomba" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="027°32'34''S" />
       <longitude value="151°54'57''E" />
@@ -2571,7 +2571,7 @@
     </runways>
   </airport>
   <airport name="Windorah Airport" icao="YWDH" iata="WNR" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Windorah" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="025°24'47''S" />
       <longitude value="142°40'01''E" />
@@ -2585,7 +2585,7 @@
     </runways>
   </airport>
   <airport name="Winton Airport" icao="YWTN" iata="WIN" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Winton" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="022°21'48''S" />
       <longitude value="143°05'09''E" />
@@ -2600,7 +2600,7 @@
     </runways>
   </airport>
   <airport name="Ceduna Airport" icao="YCDU" iata="CED" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Ceduna" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="032°07'50''S" />
       <longitude value="133°42'36''E" />
@@ -2615,7 +2615,7 @@
     </runways>
   </airport>
   <airport name="Coober Pedy Airport" icao="YCBP" iata="CPD" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Coober Pedy" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="029°02'24''S" />
       <longitude value="134°43'15''E" />
@@ -2630,7 +2630,7 @@
     </runways>
   </airport>
   <airport name="Kingscote Airport" icao="YKSC" iata="KGC" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Kingscote" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="035°42'50''S" />
       <longitude value="137°31'15''E" />
@@ -2646,7 +2646,7 @@
     </runways>
   </airport>
   <airport name="Mount Gambier Airport" icao="YMTG" iata="MGB" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Mount Gambier" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="037°44'44''S" />
       <longitude value="140°47'06''E" />
@@ -2662,7 +2662,7 @@
     </runways>
   </airport>
   <airport name="Port Augusta Airport" icao="YPAG" iata="PUG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="09:30:00" DST="09:30:00" />
+    <town town="Port Augusta" country="116" GMT="09:30:00" DST="09:30:00" />
     <coordinates>
       <latitude value="032°30'24''S" />
       <longitude value="137°43'01''E" />
@@ -2722,7 +2722,7 @@
     </runways>
   </airport>
   <airport name="Flinders Island Airport" icao="YFLI" iata="FLS" type="Regional" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Whitemark" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="040°05'30''S" />
       <longitude value="147°59'34''E" />
@@ -2737,7 +2737,7 @@
     </runways>
   </airport>
   <airport name="King Island Airport" icao="YKII" iata="KNS" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Currie" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="039°52'38''S" />
       <longitude value="143°52'40''E" />
@@ -2798,7 +2798,7 @@
     </runways>
   </airport>
   <airport name="Hamilton Airport" icao="YHML" iata="HLT" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Hamilton" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="037°38'56''S" />
       <longitude value="142°03'54''E" />
@@ -2813,7 +2813,7 @@
     </runways>
   </airport>
   <airport name="Melbourne Essendon Airport" icao="YMEN" iata="MEB" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Melbourne" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="037°43'41''S" />
       <longitude value="144°54'07''E" />
@@ -2861,7 +2861,7 @@
     </runways>
   </airport>
   <airport name="Portland Airport" icao="YPOD" iata="PTJ" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Portland" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="038°19'05''S" />
       <longitude value="141°28'15''E" />
@@ -2905,7 +2905,7 @@
     </runways>
   </airport>
   <airport name="Carnarvon Airport" icao="YCAR" iata="CVQ" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Carnarvon" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="024°52'50''S" />
       <longitude value="113°40'19''E" />
@@ -2920,7 +2920,7 @@
     </runways>
   </airport>
   <airport name="Esperance Airport" icao="YESP" iata="EPR" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Esperance" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="033°41'03''S" />
       <longitude value="121°49'22''E" />
@@ -2949,7 +2949,7 @@
     </runways>
   </airport>
   <airport name="Geraldton Airport" icao="YGEL" iata="GET" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Geraldton" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="028°47'45''S" />
       <longitude value="114°42'25''E" />
@@ -2965,7 +2965,7 @@
     </runways>
   </airport>
   <airport name="Kalbarri Airport" icao="YKBR" iata="KAX" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="Kalbarri" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="027°41'24''S" />
       <longitude value="114°15'43''E" />
@@ -3022,7 +3022,7 @@
     </runways>
   </airport>
   <airport name="Laverton Airport" icao="YLTN" iata="LVO" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Laverton" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="028°36'48''S" />
       <longitude value="122°25'26''E" />
@@ -3037,7 +3037,7 @@
     </runways>
   </airport>
   <airport name="Leinster Airport" icao="YLST" iata="LER" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Leinster" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="027°50'35''S" />
       <longitude value="120°42'10''E" />
@@ -3066,7 +3066,7 @@
     </runways>
   </airport>
   <airport name="Meekatharra Airport" icao="YMEK" iata="MKR" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Meekatharra" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="026°36'42''S" />
       <longitude value="118°32'52''E" />
@@ -3081,7 +3081,7 @@
     </runways>
   </airport>
   <airport name="Mount Magnet Airport" icao="YMOG" iata="MMG" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Mount Magnet" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="028°06'57''S" />
       <longitude value="117°50'31''E" />
@@ -3139,7 +3139,7 @@
     </runways>
   </airport>
   <airport name="Ravensthorpe Airport" icao="YNRV" iata="RVT" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Ravensthorpe" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="033°47'49''S" />
       <longitude value="120°12'28''E" />
@@ -3154,7 +3154,7 @@
     </runways>
   </airport>
   <airport name="Wiluna Airport" icao="YWLU" iata="WUN" type="Domestic" season="All_Year">
-    <town town="" country="116" GMT="08:00:00" DST="08:00:00" />
+    <town town="Wiluna" country="116" GMT="08:00:00" DST="08:00:00" />
     <coordinates>
       <latitude value="026°37'45''S" />
       <longitude value="120°13'15''E" />

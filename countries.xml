@@ -1565,7 +1565,7 @@
 		<es-ES name="Afghanistan" />
 	</translations>
   </country>
-  <country uid="255" shortname="ZIM" region="107" flag="Zimbabwe" tailformat="NP-\\s3">
+  <country uid="255" shortname="ZIM" region="104" flag="Zimbabwe" tailformat="NP-\\s3">
     <translations>
       <en-US name="Zimbabwe" />
       <de-DE name="Zimbabwe" />

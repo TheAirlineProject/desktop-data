@@ -1906,7 +1906,7 @@
     </runways>
   </airport>
   <airport name="Borlange Airport" icao="ESSD" iata="BLE" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Borlänge" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°25'19''N" />
       <longitude value="015°30'54''E" />
@@ -1949,7 +1949,7 @@
     </runways>
   </airport>
   <airport name="Hagfors Airport" icao="ESOH" iata="HFS" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Hagfors" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°01'12''N" />
       <longitude value="013°34'44''E" />
@@ -1977,7 +1977,7 @@
     </runways>
   </airport>
   <airport name="Hemavan Airport" icao="ESUT" iata="HMV" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Hemavan" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="065°48'21''N" />
       <longitude value="015°04'58''E" />
@@ -2006,7 +2006,7 @@
     </runways>
   </airport>
   <airport name="Kalmar Airport" icao="ESMQ" iata="KLR" type="Regional" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Kalmar" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="056°41'07''N" />
       <longitude value="016°17'15''E" />
@@ -2036,7 +2036,7 @@
     </runways>
   </airport>
   <airport name="Kiruna Airport" icao="ESNQ" iata="KRN" type="Regional" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Kiruna" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="067°49'19''N" />
       <longitude value="020°20'12''E" />
@@ -2106,7 +2106,7 @@
     </runways>
   </airport>
   <airport name="Lycksele Airport" icao="ESNL" iata="LYC" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Lycksele" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="064°32'53''N" />
       <longitude value="018°42'58''E" />
@@ -2120,7 +2120,7 @@
     </runways>
   </airport>
   <airport name="Mora Airport" icao="ESKM" iata="MXX" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Mora" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°57'28''N" />
       <longitude value="014°30'41''E" />
@@ -2149,7 +2149,7 @@
     </runways>
   </airport>
   <airport name="Oskarshamn Airport" icao="ESMO" iata="OSK" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Oskarshamn" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="057°21'01''N" />
       <longitude value="016°29'52''E" />
@@ -2162,8 +2162,8 @@
       <runway name="01/19" length="1500" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Pajala Airport" icao="ESUP" iata="PJA" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+  <airport name="Pajala-Ylläs Airport" icao="ESUP" iata="PJA" type="Domestic" season="All_Year">
+    <town town="Pajala" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="067°14'44''N" />
       <longitude value="023°04'08''E" />
@@ -2177,7 +2177,7 @@
     </runways>
   </airport>
   <airport name="Ronneby Airport" icao="ESDF" iata="RNB" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Ronneby" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="056°16'00''N" />
       <longitude value="015°15'54''E" />
@@ -2219,7 +2219,7 @@
     </runways>
   </airport>
   <airport name="Storuman Airport" icao="ESUD" iata="SQO" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Storuman" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="064°57'39''N" />
       <longitude value="017°41'47''E" />
@@ -2247,7 +2247,7 @@
     </runways>
   </airport>
   <airport name="Sveg Airport" icao="ESND" iata="EVG" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Sveg" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="062°02'52''N" />
       <longitude value="014°25'22''E" />
@@ -2261,7 +2261,7 @@
     </runways>
   </airport>
   <airport name="Torsby Airport" icao="ESST" iata="TYF" type="Domestic" season="All_Year">
-    <town town="" country="168" GMT="01:00:00" DST="01:00:00" />
+    <town town="Torsby" country="168" GMT="01:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°09'27''N" />
       <longitude value="012°59'28''E" />
@@ -4081,7 +4081,7 @@
   </airport>
   <!--Slovenia (LJ**)-->
   <airport name="Maribor Airport" icao="LJMB" iata="MBX" type="Short_Haul_International" season="All_Year">
-    <town town="" country="105" GMT="00:00:00" DST="-01:00:00" />
+    <town town="Maribor" country="105" GMT="00:00:00" DST="-01:00:00" />
     <coordinates>
       <latitude value="046°28'47''N" />
       <longitude value="015°41'09''E" />
@@ -4425,8 +4425,8 @@
       <runway name="07/25" length="950" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Braganca Airport" icao="LPBG" iata="BGC" type="Domestic" season="All_Year">
-    <town town="" country="150" GMT="00:00:00" DST="01:00:00" />
+  <airport name="Bragança Airport" icao="LPBG" iata="BGC" type="Domestic" season="All_Year">
+    <town town="Bragança" country="150" GMT="00:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°51'28''N" />
       <longitude value="006°42'25''W" />
@@ -4454,7 +4454,7 @@
     </runways>
   </airport>
   <airport name="Coimbra Airport" icao="LPCO" iata="CBP" type="Domestic" season="All_Year">
-    <town town="" country="150" GMT="00:00:00" DST="01:00:00" />
+    <town town="Coimbra" country="150" GMT="00:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="040°09'25''N" />
       <longitude value="008°28'12''W" />
@@ -4468,7 +4468,7 @@
     </runways>
   </airport>
   <airport name="Vila Real Airport" icao="LPVR" iata="VRL" type="Domestic" season="All_Year">
-    <town town="" country="150" GMT="00:00:00" DST="01:00:00" />
+    <town town="Vila Real " country="150" GMT="00:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="041°16'27''N" />
       <longitude value="007°43'13''W" />
@@ -4482,7 +4482,7 @@
     </runways>
   </airport>
   <airport name="Viseu Airport" icao="LPVZ" iata="VSE" type="Domestic" season="All_Year">
-    <town town="" country="150" GMT="00:00:00" DST="01:00:00" />
+    <town town="Viseu" country="150" GMT="00:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="040°43'31''N" />
       <longitude value="007°53'20''W" />
@@ -6882,7 +6882,7 @@
     </runways>
   </airport>
   <airport name="Tunoshna Airport" icao="UUDL" iata="IAR" type="Regional" season="All_Year">
-    <town town="" country="149" GMT="03:00:00" DST="02:00:00" />
+    <town town="Yaroslavl" country="149" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="057°33'38''N" />
       <longitude value="040°09'26''E" />

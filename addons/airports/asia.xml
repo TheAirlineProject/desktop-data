@@ -3187,7 +3187,7 @@
     </runways>
   </airport>
   <airport name="Savannakhet Airport" icao="VLSK" iata="ZVK" type="Short_Haul_International" season="All_Year">
-    <town town="" country="279" GMT="07:00:00" DST="00:00:00" />
+    <town town="Savannakhet" country="279" GMT="07:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="016°33'23''N" />
       <longitude value="104°45'36''E" />
@@ -4376,7 +4376,7 @@
     </runways>
   </airport>
   <airport name="Momeik Airport" icao="VYMO" iata="MOE" type="Domestic" season="All_Year">
-    <town town="" country="278" GMT="06:00:00" DST="07:00:00" />
+    <town town="Momeik" country="278" GMT="06:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="023°05'33''N" />
       <longitude value="096°38'43''E" />

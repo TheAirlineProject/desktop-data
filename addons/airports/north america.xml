@@ -4205,7 +4205,7 @@
     </runways>
   </airport>
     <airport name="General Mariano Matamoros Airport" icao="MMCB" iata="CVJ" type="Domestic" season="All_Year">
-    <town town="" country="157" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Cuernavaca" country="157" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="018°50'05''N" />
       <longitude value="099°15'40''W" />
@@ -4248,7 +4248,7 @@
     </runways>
   </airport>
   <airport name="Chichen Itza International Airport" icao="MMCT" iata="CZA" type="Domestic" season="All_Year">
-    <town town="" country="157" GMT="-06:00:00" DST="-07:00:00" />
+    <town town="Chichen Itza" country="157" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="020°38'28''N" />
       <longitude value="088°26'46''W" />
@@ -4374,8 +4374,8 @@
       <runway name="09/27" length="2000" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Monclova International Airport" icao="MMMV" iata="LOV" type="Domestic" season="All_Year">
-    <town town="" country="157" GMT="-06:00:00" DST="-07:00:00" />
+  <airport name="Venustiano Carranza International Airport" icao="MMMV" iata="LOV" type="Domestic" season="All_Year">
+    <town town="Monclova" country="157" GMT="-06:00:00" DST="-07:00:00" />
     <coordinates>
       <latitude value="026°57'20''N" />
       <longitude value="101°28'12''W" />
