@@ -2799,4 +2799,10 @@ Good luck.</value>
   <data name="PageNewGame_1022_name" xml:space="preserve">
     <value>Select Playing Continent</value>
   </data>
+  <data name="MessageBox_1007_message" xml:space="preserve">
+    <value>This file already exists. Do you wish to overwrite it?</value>
+  </data>
+  <data name="MessageBox_1007_name" xml:space="preserve">
+    <value>Saved file exists</value>
+  </data>
 </root>
