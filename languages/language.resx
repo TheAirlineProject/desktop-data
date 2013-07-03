@@ -2805,4 +2805,7 @@ Good luck.</value>
   <data name="MessageBox_1007_name" xml:space="preserve">
     <value>Saved file exists</value>
   </data>
+  <data name="PageOrderAirliners_202_name" xml:space="preserve">
+    <value>Apply configuration</value>
+  </data>
 </root>
