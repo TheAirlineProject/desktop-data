@@ -2805,6 +2805,12 @@ Good luck.</value>
   <data name="MessageBox_1007_name" xml:space="preserve">
     <value>Saved file exists</value>
   </data>
+  <data name="MessageBox_2012_message" xml:space="preserve">
+    <value>Are you sure you want to add {0} {1} with {2} class(es) to the order?</value>
+  </data>
+  <data name="MessageBox_2012_name" xml:space="preserve">
+    <value>Add airliner order</value>
+  </data>
   <data name="PageOrderAirliners_202_name" xml:space="preserve">
     <value>Apply configuration</value>
   </data>
