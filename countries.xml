@@ -582,7 +582,7 @@
       <es-ES name="Sri Lanka" />
     </translations>
   </country>
-  <country uid="154" shortname="CYP" region="110" flag="Cyprus" tailformat="5B-\\s3">
+  <country uid="154" shortname="CYP" region="114" flag="Cyprus" tailformat="5B-\\s3">
     <translations>
       <en-US name="Cyprus" />
       <de-DE name="Zypern" />
@@ -947,7 +947,7 @@
       <es-ES name="Nueva Zelanda" />
     </translations>
   </country>
-  <country uid="187" shortname="BEN" region="110" flag="Benin" tailformat="TY-\s3">
+  <country uid="187" shortname="BEN" region="105" flag="Benin" tailformat="TY-\s3">
     <translations>
       <en-US name="Benin" />
       <de-DE name="Benin" />
@@ -958,7 +958,7 @@
       <es-ES name="Benin" />
     </translations>
   </country>
-  <country uid="188" shortname="TOG" region="110" flag="Togo" tailformat="5V-\s3">
+  <country uid="188" shortname="TOG" region="105" flag="Togo" tailformat="5V-\s3">
     <translations>
       <en-US name="Togo" />
       <de-DE name="Togo" />
@@ -969,7 +969,7 @@
       <es-ES name="Togo" />
     </translations>
   </country>
-  <country uid="189" shortname="GHA" region="110" flag="Ghana" tailformat="9G-\s3">
+  <country uid="189" shortname="GHA" region="105" flag="Ghana" tailformat="9G-\s3">
     <translations>
       <en-US name="Ghana" />
       <de-DE name="Ghana" />
@@ -980,7 +980,7 @@
       <es-ES name="Ghana" />
     </translations>
   </country>
-  <country uid="190" shortname="BF" region="110" flag="Burkina Faso" tailformat="XT-\s3">
+  <country uid="190" shortname="BF" region="105" flag="Burkina Faso" tailformat="XT-\s3">
     <translations>
       <en-US name="Burkina Faso" />
       <de-DE name="Burkina Faso" />
@@ -1841,7 +1841,7 @@
       <es-ES name="Yemen" />
     </translations>
   </country>
-  <country uid="283" shortname="MOZ" region="107" flag="Mozambique" tailformat="C9-\\s3">
+  <country uid="283" shortname="MOZ" region="102" flag="Mozambique" tailformat="C9-\\s3">
     <translations>
       <en-US name="Mozambique" />
       <de-DE name="Mozambique" />
