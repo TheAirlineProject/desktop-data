@@ -665,6 +665,21 @@
   </airport>
   <!--Eastern Pacific (P***)-->
   <!--United States (Alaska) (PA**)-->
+  <airport name="Cold Bay Airport" icao="PACD" iata="CDB" type="Regional" season="All_Year">
+    <town town="Cold Bay, AK" country="122" GMT="-08:00:00" DST="-09:00:00" />
+    <coordinates>
+      <latitude value="055°12'21''N" />
+      <longitude value="162°43'30''W" />
+    </coordinates>
+    <size value="Smallest" pax="0" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="1291" surface="Asphalt" />
+      <runway name="14/32" length="3174" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Bethel Airport" icao="PABE" iata="BET" type="Regional" season="All_Year">
     <town town="Bethel, AK" country="122" GMT="-08:00:00" DST="-09:00:00"/>
     <coordinates>

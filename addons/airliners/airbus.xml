@@ -134,7 +134,7 @@
   </airliner>
   <airliner manufacturer="Airbus" name="Airbus A380-800" price="49678710"> <!--347900000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
-    <specs wingspan="79.75" length="72.73" range="15400" speed="945" fuelcapacity="320000" consumption="0.024" runwaylengthrequired="3400"/>
+    <specs wingspan="79.75" length="72.73" range="15400" speed="945" fuelcapacity="320000" consumption="0.024" runwaylengthrequired="2900"/>
     <capacity passengers="853" cockpitcrew="2" cabincrew="17" maxclasses="3"/>
     <produced from="2007" to="2025" rate="12"/>
   </airliner>
