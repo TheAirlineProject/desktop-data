@@ -582,7 +582,7 @@
       <es-ES name="Sri Lanka" />
     </translations>
   </country>
-  <country uid="154" shortname="CYP" region="114" flag="Cyprus" tailformat="5B-\\s3">
+  <country uid="154" shortname="CYP" region="110" flag="Cyprus" tailformat="5B-\\s3">
     <translations>
       <en-US name="Cyprus" />
       <de-DE name="Zypern" />
