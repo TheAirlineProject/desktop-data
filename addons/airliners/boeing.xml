@@ -45,7 +45,7 @@
   <airliner type="Cargo" manufacturer="Boeing" name="Boeing 707-320C" price="7029700"> <!--7100000-->
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="44.42" length="46.61" range="6920" speed="974" fuelcapacity="90290" consumption="0.064" runwaylengthrequired="3450"/>
-    <capacity cockpitcrew="4" cargo="162"/>
+    <capacity cockpitcrew="4" cargo="277"/>
     <produced from="1963" to="1979" rate="48"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 717-200" image="Boeing 717-200" price="5847100"> <!--32200000-->
@@ -58,6 +58,12 @@
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="32.90" length="40.60" range="4000" speed="1042" fuelcapacity="29100" consumption="0.049" runwaylengthrequired="1460"/>
     <capacity passengers="149" cockpitcrew="3" cabincrew="3" maxclasses="2"/>
+    <produced from="1963" to="1972" rate="87"/>
+  </airliner>
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 727-100C" image="Boeing 727-100" price="4061900"> <!--4200000-->
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="32.90" length="40.60" range="4000" speed="1042" fuelcapacity="29100" consumption="0.049" runwaylengthrequired="1460"/>
+    <capacity cockpitcrew="3" cargo="118"/>
     <produced from="1963" to="1972" rate="87"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 727-200" image="Boeing 727-200" price="6382980"> <!--7200000-->
@@ -88,6 +94,12 @@
 	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="28.35" length="30.53" range="4300" speed="780" fuelcapacity="19500" consumption="0.033" runwaylengthrequired="1280"/>
     <capacity passengers="136" cockpitcrew="2" cabincrew="3" maxclasses="2"/>
+    <produced from="1971" to="1986" rate="160"/>
+  </airliner>
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 737-200C" image="Boeing 737-200" price="6578950"> <!--9000000-->
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="28.35" length="30.53" range="4300" speed="780" fuelcapacity="19500" consumption="0.033" runwaylengthrequired="1280"/>
+    <capacity cockpitcrew="2" cargo="103"/>
     <produced from="1971" to="1986" rate="160"/>
   </airliner>
   <airliner manufacturer="Boeing" name="Boeing 737-300" image="Boeing 737-300" price="6980060"> <!--24500000-->

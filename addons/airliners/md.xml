@@ -15,7 +15,7 @@
   <airliner type="Cargo" manufacturer="MD" name="MD-11F" price="15933030"> <!--59000000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="51.66" length="58.65" range="7320" speed="945" fuelcapacity="146170" consumption="0.026" runwaylengthrequired="2745"/>
-    <capacity cockpitcrew="2" cargo="440"/>
+    <capacity cockpitcrew="2" cargo="610"/>
     <produced from="1986" to="2000"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-8-71" price="3972650"> <!--12200000-->
@@ -90,6 +90,12 @@
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
     <produced from="1971" to="1981" rate="20"/>
   </airliner>
+  <airliner type="Cargo" manufacturer="MD" name="MD DC-10-10F" price="15643270"> <!--21400000-->
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="47.34" length="51.97" range="6114" speed="908" fuelcapacity="88000" consumption="0.036" runwaylengthrequired="3000"/>
+    <capacity cockpitcrew="3" cargo="402"/>
+    <produced from="1974" to="1981" rate="20"/>
+  </airliner>
   <airliner manufacturer="MD" name="MD DC-10-15" price="9172440"> <!--22500000-->
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="47.34" length="51.97" range="7000" speed="908" fuelcapacity="100000" consumption="0.036" runwaylengthrequired="3080"/>
@@ -100,6 +106,12 @@
 	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
     <specs wingspan="50.40" length="51.97" range="10620" speed="908" fuelcapacity="150000" consumption="0.035" runwaylengthrequired="2735"/>
     <capacity passengers="399" cockpitcrew="3" cabincrew="8" maxclasses="2"/>
+    <produced from="1972" to="1988" rate="20"/>
+  </airliner>
+    <airliner type="Cargo" manufacturer="MD" name="MD DC-10-30F" image="MD DC-10-30" price="16855520"> <!--23800000-->
+	<type body="Wide_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="50.40" length="51.97" range="10620" speed="908" fuelcapacity="150000" consumption="0.035" runwaylengthrequired="2735"/>
+    <capacity cockpitcrew="3" cargo="402"/>
     <produced from="1972" to="1988" rate="20"/>
   </airliner>
   <airliner manufacturer="MD" name="MD DC-10-40" image="MD DC-10-30" price="16000000"> <!--24000000-->
