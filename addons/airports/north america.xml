@@ -2672,7 +2672,7 @@
       <runway name="10/28" length="1951" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="Southwest Florida International Airport" icao="KRSW" iata="RSW" type="Long_Haul_International" season="Summer">
+  <airport name="Southwest Florida International Airport" icao="KRSW" iata="RSW" type="Long_Haul_International" season="Winter">
     <town town="Fort Myers, FL" country="122" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="026°32'10''N"/>
