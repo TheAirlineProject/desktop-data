@@ -2318,7 +2318,7 @@
     </coordinates>
     <size value="Small" pax="516" cargo="Smallest" cargovolume="0"/>
     <terminals>
-      <terminal name="Terminal" gates="4"/>
+      <terminal name="Terminal A" gates="8"/>
     </terminals>
     <runways>
       <runway name="06/24" length="4700" surface="Concrete"/>
@@ -2602,20 +2602,6 @@
     </terminals>
     <runways>
       <runway name="18/36" length="2200" surface="Asphalt" />
-    </runways>
-  </airport>
-  <airport name="Ndjili International Airport" icao="FZAA" iata="FIH" type="Long_Haul_International" season="All_Year">
-    <town town="Kinshasa" country="221" GMT="00:00:00" DST="-01:00:00" />
-    <coordinates>
-      <latitude value="004°23'08''S" />
-      <longitude value="015°26'40''E" />
-    </coordinates>
-    <size value="Small" pax="638" cargo="Smallest" cargovolume="0"/>
-    <terminals>
-      <terminal name="Terminal A" gates="8" />
-    </terminals>
-    <runways>
-      <runway name="06/24" length="4700" surface="Concrete" />
     </runways>
   </airport>
   <airport name="Ndolo Airport" icao="FZAB" iata="NLO" type="Domestic" season="All_Year">
