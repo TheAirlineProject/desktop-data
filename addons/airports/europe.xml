@@ -458,6 +458,7 @@
     </runways>
   </airport>
   <airport name="Munich Airport" icao="EDDM" iata="MUC" type="Long_Haul_International" season="All_Year">
+  <period from="05.16.1992 00:00:00" to="12.31.2199 00:00:00" />
     <town town="Munich" country="1002" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="048°21'13''N" />
@@ -471,6 +472,22 @@
     <runways>
       <runway name="08L/26R" length="4000" surface="Concrete" />
       <runway name="08R/26L" length="4000" surface="Concrete" />
+    </runways>
+  </airport>
+  <airport name="Munich-Riem Airport" icao="EDDM" iata="MUC" type="Long_Haul_International" season="All_Year">
+  <period from="10.25.1939 00:00:00" to="05.16.1992 00:00:00" />
+    <town town="Munich" country="1002" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="048°8'16''N" />
+      <longitude value="011°41'25''E" />
+    </coordinates>
+    <size value="Very_large" pax="18343" cargo="Smallest" cargovolume="0"/>
+    <terminals>
+      <terminal name="Terminal" gates="21" />
+      </terminals>
+    <runways>
+      <runway name="07R/25L" length="2804" surface="Concrete" />
+      <runway name="07L/25R" length="814" surface="Concrete" />
     </runways>
   </airport>
   <airport name="Nuremberg Airport" icao="EDDN" iata="NUE" type="Long_Haul_International" season="All_Year">
@@ -1681,7 +1698,24 @@
       <runway name="17/35" length="2990" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Oslo-Gardermoen Airport" icao="ENGM" iata="OSL" type="Long_Haul_International" season="All_Year">
+  <airport name="Oslo-Fornebu Airport" icao="ENFB" iata="FBU" type="Long_Haul_International" season="All_Year">
+  <period from="01.07.1939 00:00:00" to="10.07.1998 00:00:00" />
+    <town town="Oslo" country="139" GMT="02:00:00" DST="01:00:00" />
+    <coordinates>
+      <latitude value="059°53'38''N" />
+      <longitude value="010°37'01''E" />
+    </coordinates>
+    <size value="Large" pax="10073" cargo="Smallest" cargovolume="0"/>
+    <terminals>
+      <terminal name="Terminal" gates="8" />
+    </terminals>
+    <runways>
+      <runway name="01L/19R" length="3600" surface="Asphalt" />
+      <runway name="01R/19L" length="2950" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Oslo-Gardermoen Airport" icao="ENGM" iata="OSL" type="Long_Haul_International" season="All_Year">
+  <period from="10.07.1998 00:00:00" to="01.01.2199 00:00:00" />
     <town town="Oslo" country="139" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="060°11'38''N" />
@@ -3422,6 +3456,7 @@
   </airport>
   <!--Greece (LG**)-->
   <airport name="Athens International Airport" icao="LGAV" iata="ATH" type="Long_Haul_International" season="All_Year">
+   <period from="03.29.2001 00:00:00" to="01.01.2199 00:00:00" />
     <town town="Athens" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="037°56'11''N" />
@@ -3434,6 +3469,22 @@
     <runways>
       <runway name="03L/21L" length="3800" surface="Asphalt" />
       <runway name="03R/21R" length="4000" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Ellinikon International Airport" icao="LGAT" iata="ATH" type="Long_Haul_International" season="All_Year">
+   <period from="03.29.1941 00:00:00" to="03.29.2001 00:00:00" />
+    <town town="Athens" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°53'54''N" />
+      <longitude value="023°43'46''E" />
+    </coordinates>
+    <size value="Large" pax="12132" cargo="Smallest" cargovolume="0"/>
+    <terminals>
+      <terminal name="Terminal" gates="16" />
+    </terminals>
+    <runways>
+      <runway name="15L/33L" length="3500" surface="Paved" />
+      <runway name="15R/33R" length="3148" surface="Paved" />
     </runways>
   </airport>
   <airport name="Heraklion International Airport" icao="LGIR" iata="HER" type="Long_Haul_International" season="All_Year">
