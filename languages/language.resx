@@ -889,10 +889,10 @@
     <value>Select Timezone</value>
   </data>
   <data name="PageNewGame_1010_name" xml:space="preserve">
-    <value>Select # of Opponents</value>
+    <value>Select Opponents</value>
   </data>
   <data name="PageNewGame_1011_name" xml:space="preserve">
-    <value>Difficulty</value>
+    <value>Select Difficulty</value>
   </data>
   <data name="PageNewGame_1012_name" xml:space="preserve">
     <value>Select Playing Region</value>
@@ -2308,7 +2308,7 @@ Good luck.</value>
     <value>Select Opponents</value>
   </data>
   <data name="PageNewGame_1020_name" xml:space="preserve">
-    <value>Generate Opponents</value>
+    <value>Select Opponents Generator</value>
   </data>
   <data name="PopUpSelectOpponents_1000_name" xml:space="preserve">
     <value>Select Opponents</value>
@@ -2813,5 +2813,14 @@ Good luck.</value>
   </data>
   <data name="PageOrderAirliners_202_name" xml:space="preserve">
     <value>Apply configuration</value>
+  </data>
+  <data name="PageNewGame_1023_name" xml:space="preserve">
+    <value>Select Gameturn Length</value>
+  </data>
+  <data name="PageNewGame_1024_name" xml:space="preserve">
+    <value>24Hours</value>
+  </data>
+  <data name="PageNewGame_1025_name" xml:space="preserve">
+    <value>Minutes</value>
   </data>
 </root>
