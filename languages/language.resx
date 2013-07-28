@@ -2823,4 +2823,43 @@ Good luck.</value>
   <data name="PageNewGame_1025_name" xml:space="preserve">
     <value>Minutes</value>
   </data>
+  <data name="PageNewAirline_1001_name" xml:space="preserve">
+    <value>Airline Name</value>
+  </data>
+  <data name="PageNewAirline_1002_name" xml:space="preserve">
+    <value>IATA Code</value>
+  </data>
+  <data name="PageNewAirline_1003_name" xml:space="preserve">
+    <value>Airline Type</value>
+  </data>
+  <data name="PageNewAirline_1004_name" xml:space="preserve">
+    <value>Airline Logo</value>
+  </data>
+  <data name="PageNewAirline_1005_name" xml:space="preserve">
+    <value>Airline Color</value>
+  </data>
+  <data name="PageNewAirline_1006_name" xml:space="preserve">
+    <value>Preferred Airport</value>
+  </data>
+  <data name="PageNewAirline_1007_name" xml:space="preserve">
+    <value>Passenger Airline</value>
+  </data>
+  <data name="PageNewAirline_1008_name" xml:space="preserve">
+    <value>Cargo Airline</value>
+  </data>
+  <data name="PageNewAirline_201_name" xml:space="preserve">
+    <value>Create Airline</value>
+  </data>
+  <data name="MessageBox_2404_message" xml:space="preserve">
+    <value>The IATA code most be 2 characters and digits long</value>
+  </data>
+  <data name="MessageBox_2404_name" xml:space="preserve">
+    <value>Invalid names</value>
+  </data>
+  <data name="MessageBox_2405_message" xml:space="preserve">
+    <value>The airline has been created</value>
+  </data>
+  <data name="MessageBox_2405_name" xml:space="preserve">
+    <value>Airline created</value>
+  </data>
 </root>
