@@ -2862,4 +2862,7 @@ Good luck.</value>
   <data name="MessageBox_2405_name" xml:space="preserve">
     <value>Airline created</value>
   </data>
+  <data name="PageNewAirline_1009_name" xml:space="preserve">
+    <value>Airline CEO</value>
+  </data>
 </root>
