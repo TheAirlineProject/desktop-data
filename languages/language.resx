@@ -670,16 +670,16 @@
     <value>Search Options</value>
   </data>
   <data name="PageSearchAirports_1005_name" xml:space="preserve">
-    <value>Region</value>
+    <value>Search for Region</value>
   </data>
   <data name="PageSearchAirports_1006_name" xml:space="preserve">
-    <value>Country</value>
+    <value>Search for Country</value>
   </data>
   <data name="PageSearchAirports_1007_name" xml:space="preserve">
-    <value>Airport Size</value>
+    <value>Search for Airport Size</value>
   </data>
   <data name="PageSearchAirports_1008_name" xml:space="preserve">
-    <value>Search For</value>
+    <value>Search For Text</value>
   </data>
   <data name="PageExtendedSearchAirports_1001_name" xml:space="preserve">
     <value>Extended Airport Search Options</value>
@@ -2864,5 +2864,20 @@ Good luck.</value>
   </data>
   <data name="PageNewAirline_1009_name" xml:space="preserve">
     <value>Airline CEO</value>
+  </data>
+  <data name="PageShowAirports_1000_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageShowAirports_1001_name" xml:space="preserve">
+    <value>IATA/ICAO</value>
+  </data>
+  <data name="PageShowAirports_1002_name" xml:space="preserve">
+    <value>Town</value>
+  </data>
+  <data name="PageShowAirports_1003_name" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="PageShowAirports_1004_name" xml:space="preserve">
+    <value>Gates (Free/Total)</value>
   </data>
 </root>
