@@ -2850,6 +2850,33 @@ Good luck.</value>
   <data name="PageNewAirline_201_name" xml:space="preserve">
     <value>Create Airline</value>
   </data>
+  <data name="MainMenu_1000_name" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="MainMenu_1001_name" xml:space="preserve">
+    <value>Routes Manager</value>
+  </data>
+  <data name="MainMenu_1002_name" xml:space="preserve">
+    <value>Buy/Lease Airliners</value>
+  </data>
+  <data name="MainMenu_1003_name" xml:space="preserve">
+    <value>Airports</value>
+  </data>
+  <data name="MainMenu_1004_name" xml:space="preserve">
+    <value>Create Alliance</value>
+  </data>
+  <data name="MainMenu_1005_name" xml:space="preserve">
+    <value>Hire Pilots</value>
+  </data>
+  <data name="MainMenu_1006_name" xml:space="preserve">
+    <value>Take Out Loan</value>
+  </data>
+  <data name="MainMenu_1007_name" xml:space="preserve">
+    <value>Airlines</value>
+  </data>
+  <data name="MainMenu_1008_name" xml:space="preserve">
+    <value>Options</value>
+  </data>
   <data name="MessageBox_2404_message" xml:space="preserve">
     <value>The IATA code most be 2 characters and digits long</value>
   </data>
@@ -2861,6 +2888,15 @@ Good luck.</value>
   </data>
   <data name="MessageBox_2405_name" xml:space="preserve">
     <value>Airline created</value>
+  </data>
+  <data name="PageAlliances_1001_name" xml:space="preserve">
+    <value>Alliances</value>
+  </data>
+  <data name="PageAlliances_1002_name" xml:space="preserve">
+    <value>Create Alliance</value>
+  </data>
+  <data name="PageAlliances_1003_name" xml:space="preserve">
+    <value>Largest Alliances</value>
   </data>
   <data name="PageNewAirline_1009_name" xml:space="preserve">
     <value>Airline CEO</value>
@@ -2879,5 +2915,50 @@ Good luck.</value>
   </data>
   <data name="PageShowAirports_1004_name" xml:space="preserve">
     <value>Gates (Free/Total)</value>
+  </data>
+  <data name="PageAlliances_1004_name" xml:space="preserve">
+    <value>Human Alliances</value>
+  </data>
+  <data name="PageCreateAlliance_1000_name" xml:space="preserve">
+    <value>Select Alliance Name</value>
+  </data>
+  <data name="PageCreateAlliance_1001_name" xml:space="preserve">
+    <value>Select Headquarter</value>
+  </data>
+  <data name="PageCreateAlliance_1002_name" xml:space="preserve">
+    <value>Select Alliance Logo</value>
+  </data>
+  <data name="PageCreateAlliance_1003_name" xml:space="preserve">
+    <value>Select Alliance Type</value>
+  </data>
+  <data name="PageCreateAlliance_1004_name" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  <data name="PageCreateAlliance_1005_name" xml:space="preserve">
+    <value>Codesharing</value>
+  </data>
+  <data name="PageCreateAlliance_200_name" xml:space="preserve">
+    <value>Create Alliance</value>
+  </data>
+  <data name="PageShowAlliances_1000_name" xml:space="preserve">
+    <value>Alliance</value>
+  </data>
+  <data name="PageShowAlliances_1001_name" xml:space="preserve">
+    <value>Headquarter</value>
+  </data>
+  <data name="PageShowAlliance_1000_name" xml:space="preserve">
+    <value>Alliance Members</value>
+  </data>
+  <data name="PageShowAlliance_1001_name" xml:space="preserve">
+    <value>Pending Alliance Members</value>
+  </data>
+  <data name="PageShowAlliance_200_name" xml:space="preserve">
+    <value>Join Alliance</value>
+  </data>
+  <data name="PageShowAlliance_201_name" xml:space="preserve">
+    <value>Invite to Alliance</value>
+  </data>
+  <data name="PageShowAlliance_202_name" xml:space="preserve">
+    <value>Exit from Alliance</value>
   </data>
 </root>

@@ -4572,8 +4572,8 @@
       <runway name="08/26" length="3100" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Al Ghaidah International Airport" icao="OYGD" iata="AAY" type="Domestic" season="All_Year">
-    <town town="" country="282" GMT="03:00:00" DST="00:00:00" />
+  <airport name="Al Ghaydah International Airport" icao="OYGD" iata="AAY" type="Domestic" season="All_Year">
+    <town town="Al Ghaydah" country="282" GMT="03:00:00" DST="00:00:00" />
     <coordinates>
       <latitude value="016°11'30''N" />
       <longitude value="052°10'29''E" />
