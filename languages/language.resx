@@ -2961,4 +2961,118 @@ Good luck.</value>
   <data name="PageShowAlliance_202_name" xml:space="preserve">
     <value>Exit from Alliance</value>
   </data>
+  <data name="PageCreateRoute_1000_name" xml:space="preserve">
+    <value>Ticket Price</value>
+  </data>
+  <data name="PageCreateRoute_1001_name" xml:space="preserve">
+    <value>Route Information</value>
+  </data>
+  <data name="PageCreateRoute_1002_name" xml:space="preserve">
+    <value>Outbound</value>
+  </data>
+  <data name="PageCreateRoute_1003_name" xml:space="preserve">
+    <value>Homebound</value>
+  </data>
+  <data name="PageCreateRoute_1004_name" xml:space="preserve">
+    <value>Stopover</value>
+  </data>
+  <data name="PageCreateRoute_1005_name" xml:space="preserve">
+    <value>Distance</value>
+  </data>
+  <data name="PageCreateRoute_1006_name" xml:space="preserve">
+    <value>Cargo Information</value>
+  </data>
+  <data name="PageCreateRoute_1007_name" xml:space="preserve">
+    <value>Cargo Unit Price</value>
+  </data>
+  <data name="PageCreateRoute_1008_name" xml:space="preserve">
+    <value>Passenger Route</value>
+  </data>
+  <data name="PageCreateRoute_1009_name" xml:space="preserve">
+    <value>Cargo Route</value>
+  </data>
+  <data name="PageCreateRoute_1010_name" xml:space="preserve">
+    <value>Classes, Prices and Facilities</value>
+  </data>
+  <data name="PageCreateRoute_1011_name" xml:space="preserve">
+    <value>Route Type</value>
+  </data>
+  <data name="PageCreateRoute_200_name" xml:space="preserve">
+    <value>Create Route</value>
+  </data>
+  <data name="PageCreateRoute_201_name" xml:space="preserve">
+    <value>Load Configuration</value>
+  </data>
+  <data name="PageHumanRoutes_1000_name" xml:space="preserve">
+    <value>Origin</value>
+  </data>
+  <data name="PageHumanRoutes_1001_name" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="PageHumanRoutes_1002_name" xml:space="preserve">
+    <value>Stopovers</value>
+  </data>
+  <data name="PageHumanRoutes_1003_name" xml:space="preserve">
+    <value>Route Balance</value>
+  </data>
+  <data name="PageRoutes_1004_name" xml:space="preserve">
+    <value>Create Route</value>
+  </data>
+  <data name="PageRoutes_1005_name" xml:space="preserve">
+    <value>Assign Airliners &amp; Flight Restrictions</value>
+  </data>
+  <data name="PageRoutes_1006_name" xml:space="preserve">
+    <value>Most Profitable Routes</value>
+  </data>
+  <data name="PageRoutes_1007_name" xml:space="preserve">
+    <value>Most Requested Routes</value>
+  </data>
+  <data name="PageShowRoute_1000_name" xml:space="preserve">
+    <value>Stopovers</value>
+  </data>
+  <data name="PageShowRoute_1001_name" xml:space="preserve">
+    <value>Route Statistics</value>
+  </data>
+  <data name="PageShowRoute_1002_name" xml:space="preserve">
+    <value>Route Finances</value>
+  </data>
+  <data name="MessageBox_3000_message" xml:space="preserve">
+    <value>One or more of the airports doesn't have free gates</value>
+  </data>
+  <data name="MessageBox_3000_name" xml:space="preserve">
+    <value>No free gates</value>
+  </data>
+  <data name="MessageBox_3001_message" xml:space="preserve">
+    <value>The distances between the airports are not valid</value>
+  </data>
+  <data name="MessageBox_3001_name" xml:space="preserve">
+    <value>Distance error</value>
+  </data>
+  <data name="MessageBox_3002_message" xml:space="preserve">
+    <value>One or more airports are not of appropriate type (Regional/Domestic/Intl) or are missing some facilities</value>
+  </data>
+  <data name="MessageBox_3002_name" xml:space="preserve">
+    <value>Airport error</value>
+  </data>
+  <data name="PageAssignAirliners_1000_name" xml:space="preserve">
+    <value>Flight Restrictions</value>
+  </data>
+  <data name="PageAssignAirliners_1001_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageAssignAirliners_1002_name" xml:space="preserve">
+    <value>Airliner Type</value>
+  </data>
+  <data name="PageAssignAirliners_1003_name" xml:space="preserve">
+    <value>Routes</value>
+  </data>
+  <data name="PageCreateRoute_1012_name" xml:space="preserve">
+    <value>Select Configuration</value>
+  </data>
+  <data name="PageShowRoute_1003_name" xml:space="preserve">
+    <value>Edit Route</value>
+  </data>
+  <data name="PageShowRoute_200_name" xml:space="preserve">
+    <value>Save Route</value>
+  </data>
 </root>

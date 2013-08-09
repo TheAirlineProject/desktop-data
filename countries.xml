@@ -1179,7 +1179,7 @@
       <es-ES name="Bolivia" />
     </translations>
   </country>
-  <country uid="212" shortname="URY" region="120" flag="Uruguay" tailformat="CX-\\s3">
+  <country uid="212" shortname="URU" region="120" flag="Uruguay" tailformat="CX-\\s3">
     <translations>
       <en-US name="Uruguay" />
       <de-DE name="Uruguay" />
