@@ -859,7 +859,7 @@
     <value>Create Game</value>
   </data>
   <data name="PageNewGame_202_name" xml:space="preserve">
-    <value>Start Menu</value>
+    <value>Back to Start Menu</value>
   </data>
   <data name="PageNewGame_1001_name" xml:space="preserve">
     <value>Airline Profile</value>
@@ -3054,6 +3054,21 @@ Good luck.</value>
   <data name="MessageBox_3002_name" xml:space="preserve">
     <value>Airport error</value>
   </data>
+  <data name="PageAirports_1002_name" xml:space="preserve">
+    <value>Largest Human Airports</value>
+  </data>
+  <data name="PageAirports_1003_name" xml:space="preserve">
+    <value>Human Hubs</value>
+  </data>
+  <data name="PageAirports_2000_name" xml:space="preserve">
+    <value>Airports</value>
+  </data>
+  <data name="PageAirports_2001_name" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="PageAirports_2002_name" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
   <data name="PageAssignAirliners_1000_name" xml:space="preserve">
     <value>Flight Restrictions</value>
   </data>
@@ -3069,10 +3084,40 @@ Good luck.</value>
   <data name="PageCreateRoute_1012_name" xml:space="preserve">
     <value>Select Configuration</value>
   </data>
+  <data name="PageNewGame_2000_name" xml:space="preserve">
+    <value>New Game</value>
+  </data>
+  <data name="PageNewGame_2001_name" xml:space="preserve">
+    <value>Create Airline</value>
+  </data>
+  <data name="PageNewGame_2002_name" xml:space="preserve">
+    <value>Create Difficulty</value>
+  </data>
   <data name="PageShowRoute_1003_name" xml:space="preserve">
     <value>Edit Route</value>
   </data>
   <data name="PageShowRoute_200_name" xml:space="preserve">
     <value>Save Route</value>
+  </data>
+  <data name="PageShowRoute_201_name" xml:space="preserve">
+    <value>Delete Route</value>
+  </data>
+  <data name="PageShowScenario_1000_name" xml:space="preserve">
+    <value>Difficulty Level</value>
+  </data>
+  <data name="PageShowScenario_1001_name" xml:space="preserve">
+    <value>Human Airline</value>
+  </data>
+  <data name="PageShowScenario_1002_name" xml:space="preserve">
+    <value>Start Year</value>
+  </data>
+  <data name="PageShowScenario_1003_name" xml:space="preserve">
+    <value>Opponents</value>
+  </data>
+  <data name="PageShowScenario_200_name" xml:space="preserve">
+    <value>Play Scenario</value>
+  </data>
+  <data name="PageShowScenario_201_name" xml:space="preserve">
+    <value>Back to Start Menu</value>
   </data>
 </root>
