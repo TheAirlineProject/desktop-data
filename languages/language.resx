@@ -3054,6 +3054,15 @@ Good luck.</value>
   <data name="MessageBox_3002_name" xml:space="preserve">
     <value>Airport error</value>
   </data>
+  <data name="PageAirportsStatistics_1002_name" xml:space="preserve">
+    <value>Largest Airports</value>
+  </data>
+  <data name="PageAirportsStatistics_1003_name" xml:space="preserve">
+    <value>Airport</value>
+  </data>
+  <data name="PageAirportsStatistics_1004_name" xml:space="preserve">
+    <value>Passengers</value>
+  </data>
   <data name="PageAirports_1002_name" xml:space="preserve">
     <value>Largest Human Airports</value>
   </data>
@@ -3093,6 +3102,12 @@ Good luck.</value>
   <data name="PageNewGame_2002_name" xml:space="preserve">
     <value>Create Difficulty</value>
   </data>
+  <data name="PagePilotsFS_2000_name" xml:space="preserve">
+    <value>Pilots</value>
+  </data>
+  <data name="PagePilotsFS_2001_name" xml:space="preserve">
+    <value>Flight Schools &amp; Instructors</value>
+  </data>
   <data name="PageShowRoute_1003_name" xml:space="preserve">
     <value>Edit Route</value>
   </data>
@@ -3119,5 +3134,131 @@ Good luck.</value>
   </data>
   <data name="PageShowScenario_201_name" xml:space="preserve">
     <value>Back to Start Menu</value>
+  </data>
+  <data name="PageFlightSchools_1000_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageFlightSchools_1001_name" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="PageFlightSchools_1002_name" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="PageFlightSchools_1003_name" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="PageFlightSchools_1004_name" xml:space="preserve">
+    <value>Airport</value>
+  </data>
+  <data name="PageFlightSchools_1005_name" xml:space="preserve">
+    <value>Instructors</value>
+  </data>
+  <data name="PageFlightSchools_1006_name" xml:space="preserve">
+    <value>Students</value>
+  </data>
+  <data name="PageFlightSchools_1007_name" xml:space="preserve">
+    <value>Instructors</value>
+  </data>
+  <data name="PageFlightSchools_1008_name" xml:space="preserve">
+    <value>Flight Schools</value>
+  </data>
+  <data name="PageFlightSchools_200_name" xml:space="preserve">
+    <value>Build Flight School</value>
+  </data>
+  <data name="PagePilots_1005_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PagePilots_1006_name" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="PagePilots_1007_name" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="PagePilots_1008_name" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="PageShowFlightSchool_1000_name" xml:space="preserve">
+    <value>Airport</value>
+  </data>
+  <data name="PageShowFlightSchool_1001_name" xml:space="preserve">
+    <value>Instructors</value>
+  </data>
+  <data name="PageShowFlightSchool_1002_name" xml:space="preserve">
+    <value>Students</value>
+  </data>
+  <data name="PageShowFlightSchool_1003_name" xml:space="preserve">
+    <value>Training Aircrafts</value>
+  </data>
+  <data name="PageShowFlightSchool_1004_name" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="PageShowFlightSchool_1005_name" xml:space="preserve">
+    <value>Fligth School Instructors</value>
+  </data>
+  <data name="PageShowFlightSchool_1006_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageShowFlightSchool_1007_name" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="PageShowFlightSchool_1008_name" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="PageShowFlightSchool_1009_name" xml:space="preserve">
+    <value>Town</value>
+  </data>
+  <data name="PageShowFlightSchool_1010_name" xml:space="preserve">
+    <value>Flight School Students</value>
+  </data>
+  <data name="PageShowFlightSchool_1011_name" xml:space="preserve">
+    <value>Education</value>
+  </data>
+  <data name="PageShowFlightSchool_1012_name" xml:space="preserve">
+    <value>Instructor</value>
+  </data>
+  <data name="PageShowFlightSchool_1013_name" xml:space="preserve">
+    <value>Aircraft Type</value>
+  </data>
+  <data name="PageShowFlightSchool_200_name" xml:space="preserve">
+    <value>Buy Aircraft</value>
+  </data>
+  <data name="PageShowFlightSchool_201_name" xml:space="preserve">
+    <value>Hire Students</value>
+  </data>
+  <data name="PageShowFlightSchool_202_name" xml:space="preserve">
+    <value>Delete Flight School</value>
+  </data>
+  <data name="PageShowPilot_1000_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageShowPilot_1001_name" xml:space="preserve">
+    <value>Born</value>
+  </data>
+  <data name="PageShowPilot_1002_name" xml:space="preserve">
+    <value>Hometown</value>
+  </data>
+  <data name="PageShowPilot_1003_name" xml:space="preserve">
+    <value>Date of Education</value>
+  </data>
+  <data name="PageShowPilot_1004_name" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="PageShowPilot_1005_name" xml:space="preserve">
+    <value>Salary</value>
+  </data>
+  <data name="PageShowPilot_200_name" xml:space="preserve">
+    <value>Hire Pilot</value>
+  </data>
+  <data name="MessageBox_2809_message" xml:space="preserve">
+    <value>Are you sure you want to sell this training aircraft?</value>
+  </data>
+  <data name="MessageBox_2809_name" xml:space="preserve">
+    <value>Sell aircraft</value>
+  </data>
+  <data name="MessageBox_2810_message" xml:space="preserve">
+    <value>You can't sell this aircraft since it is used by students</value>
+  </data>
+  <data name="MessageBox_2810_name" xml:space="preserve">
+    <value>Can't sell aircraft</value>
   </data>
 </root>
