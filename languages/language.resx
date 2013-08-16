@@ -484,10 +484,10 @@
     <value>Average Pax</value>
   </data>
   <data name="PageAirliners_1000_name" xml:space="preserve">
-    <value>Airliners</value>
+    <value>Most Used Aircrafts</value>
   </data>
   <data name="PageAirliners_1001_name" xml:space="preserve">
-    <value>Order New Airliner</value>
+    <value>Newest Aircrafts</value>
   </data>
   <data name="PageAirliners_1002_name" xml:space="preserve">
     <value>Buy Used Airliner</value>
@@ -3260,5 +3260,101 @@ Good luck.</value>
   </data>
   <data name="MessageBox_2810_name" xml:space="preserve">
     <value>Can't sell aircraft</value>
+  </data>
+  <data name="PageAirliners_2000_name" xml:space="preserve">
+    <value>Used Airliners</value>
+  </data>
+  <data name="PageAirliners_2001_name" xml:space="preserve">
+    <value>Order New Airliners</value>
+  </data>
+  <data name="PageUsedAirliner_200_name" xml:space="preserve">
+    <value>Buy Airliner</value>
+  </data>
+  <data name="PageUsedAirliner_201_name" xml:space="preserve">
+    <value>Lease Airliner</value>
+  </data>
+  <data name="PageManufacturers_1000_name" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="PageManufacturers_1001_name" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="PageManufacturer_1000_name" xml:space="preserve">
+    <value>Aircraft</value>
+  </data>
+  <data name="PageManufacturer_1001_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="PageManufacturer_1002_name" xml:space="preserve">
+    <value>Range</value>
+  </data>
+  <data name="PageManufacturer_1003_name" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="PageManufacturer_1004_name" xml:space="preserve">
+    <value>Min. Runway</value>
+  </data>
+  <data name="PageManufacturer_1005_name" xml:space="preserve">
+    <value>Fuel Consumption</value>
+  </data>
+  <data name="PageManufacturer_1006_name" xml:space="preserve">
+    <value>Produced</value>
+  </data>
+  <data name="PageManufacturer_1007_name" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="PageManufacturer_1008_name" xml:space="preserve">
+    <value>Orders</value>
+  </data>
+  <data name="PageManufacturer_1009_name" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="PageManufacturer_1010_name" xml:space="preserve">
+    <value>Total Amount</value>
+  </data>
+  <data name="PageManufacturer_1011_name" xml:space="preserve">
+    <value>Pay on Delivery</value>
+  </data>
+  <data name="PageManufacturer_1012_name" xml:space="preserve">
+    <value>Select Homebase</value>
+  </data>
+  <data name="PageManufacturer_200_name" xml:space="preserve">
+    <value>Order Airliners</value>
+  </data>
+  <data name="PageUsedAirliners_1000_name" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="PageUsedAirliners_1001_name" xml:space="preserve">
+    <value>Built Year</value>
+  </data>
+  <data name="PageUsedAirliners_1002_name" xml:space="preserve">
+    <value>Flown</value>
+  </data>
+  <data name="PageUsedAirliner_1000_name" xml:space="preserve">
+    <value>Number of Seats</value>
+  </data>
+  <data name="PageUsedAirliner_1001_name" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="PageUsedAirliner_1002_name" xml:space="preserve">
+    <value>Leasing Price</value>
+  </data>
+  <data name="PageUsedAirliner_1003_name" xml:space="preserve">
+    <value>Yearly Maintenance</value>
+  </data>
+  <data name="PageUsedAirliner_1004_name" xml:space="preserve">
+    <value>Registered in</value>
+  </data>
+  <data name="PageUsedAirliner_1005_name" xml:space="preserve">
+    <value>Airliner Classes</value>
+  </data>
+  <data name="PageUsedAirliner_1006_name" xml:space="preserve">
+    <value>Price Information</value>
+  </data>
+  <data name="PageUsedAirliner_1007_name" xml:space="preserve">
+    <value>Select Homebase</value>
+  </data>
+  <data name="PageUsedAirliner_1008_name" xml:space="preserve">
+    <value>Aircraft Specifications</value>
   </data>
 </root>

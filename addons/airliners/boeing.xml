@@ -210,7 +210,7 @@
     <capacity cockpitcrew="2" cargo="855"/>
     <produced from="2011" to="2025" rate="32"/>
   </airliner>
-  <airliner manufacturer="Boeing" name="Boeing 747-8I" image="Boeing 747-8I" price="43941480"> <!--351400000-->
+  <airliner manufacturer="Boeing" name="Boeing 747-8I" image="Boeing 747-8I" family="Boeing 747" price="43941480"> <!--351400000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="68.45" length="76.25" range="14100" speed="917" fuelcapacity="243120" consumption="0.030" runwaylengthrequired="2785"/>
     <capacity passengers="605" cockpitcrew="2" cabincrew="12" maxclasses="3"/>
@@ -288,7 +288,7 @@
     <capacity passengers="440" cockpitcrew="2" cabincrew="9" maxclasses="3"/>
     <produced from="2006" to="2015" rate="54"/>
   </airliner>
-  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 777F" image="Boeing 777-200" price="38918140"> <!--295700000-->
+  <airliner type="Cargo" manufacturer="Boeing" name="Boeing 777F" family="Boeing 777"  image="Boeing 777-200" price="38918140"> <!--295700000-->
 	<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
     <specs wingspan="64.80" length="63.70" range="9070" speed="905" fuelcapacity="181283" consumption="0.028" runwaylengthrequired="2830"/>
     <capacity cockpitcrew="2" cargo="653"/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <airliners>
 	<airliner manufacturer="Ark" name="Ark 365-100" price="29374230"> <!--160000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
@@ -18,7 +18,7 @@
 		<capacity passengers="344" cockpitcrew="3" cabincrew="8" maxclasses="3"/>
 		<produced from="2015" to="2022"/>
 		</airliner>
-	<airliner manufacturer="Ark" name="Ark 375" price="39070714"> <!--244000000-->
+	<airliner manufacturer="Ark" name="Ark 375" family="Ark 375" price="39070714"> <!--244000000-->
 		<type body="Wide_Body" rangetype="Long_Range" engine="Jet"/>
 		<specs wingspan="54.5" length="64.5" range="9700" speed="1810" fuelcapacity="245700" consumption="0.045" runwaylengthrequired="3070"/>
 		<capacity passengers="338" cockpitcrew="2" cabincrew="6" maxclasses="3"/>
