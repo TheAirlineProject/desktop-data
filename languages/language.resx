@@ -697,13 +697,13 @@
     <value>Largest Airports / Passengers</value>
   </data>
   <data name="PageAirline_1000_name" xml:space="preserve">
-    <value>Airline</value>
+    <value>Most Profitable Routes</value>
   </data>
   <data name="PageAirline_1001_name" xml:space="preserve">
-    <value>Profile</value>
+    <value>Most Used Aircrafts</value>
   </data>
   <data name="PageAirline_1002_name" xml:space="preserve">
-    <value>Name of Airline</value>
+    <value>Most Gates</value>
   </data>
   <data name="PageAirline_1003_name" xml:space="preserve">
     <value>IATA code</value>
@@ -961,22 +961,22 @@
     <value>Airline Fleet</value>
   </data>
   <data name="PageAirlineFinances_1001_name" xml:space="preserve">
-    <value>Airline Finances</value>
+    <value>Cash On Hand</value>
   </data>
   <data name="PageAirlineFinances_1002_name" xml:space="preserve">
-    <value>Financial Summary</value>
+    <value>Balance</value>
   </data>
   <data name="PageAirlineFinances_1003_name" xml:space="preserve">
-    <value>Current Cash</value>
+    <value>Financial Specifications</value>
   </data>
   <data name="PageAirlineFinances_1004_name" xml:space="preserve">
-    <value>Total Balance</value>
+    <value>Category</value>
   </data>
   <data name="PageAirlineFinances_1005_name" xml:space="preserve">
-    <value>Loans</value>
+    <value>This Month</value>
   </data>
   <data name="PageAirlineFinances_1006_name" xml:space="preserve">
-    <value>Apply for Loan</value>
+    <value>Last Month</value>
   </data>
   <data name="PageAirlineFacilities_1001_name" xml:space="preserve">
     <value>Airline Facilities</value>
@@ -2727,10 +2727,10 @@ Good luck.</value>
   <data name="PanelAirline_1009_name" xml:space="preserve">
     <value>Insurances</value>
   </data>
-  <data name="PageAirlineInsurances_1000_name" xml:space="preserve">
+  <data name="PageAirlineInsurance_1000_name" xml:space="preserve">
     <value>Airline Insurance Policies</value>
   </data>
-  <data name="PageAirlineInsurances_1001_name" xml:space="preserve">
+  <data name="PageAirlineInsurance_200_name" xml:space="preserve">
     <value>Create Insurance</value>
   </data>
   <data name="PageAirlineStatistics_1013_name" xml:space="preserve">
@@ -3356,5 +3356,131 @@ Good luck.</value>
   </data>
   <data name="PageUsedAirliner_1008_name" xml:space="preserve">
     <value>Aircraft Specifications</value>
+  </data>
+  <data name="PageAirlineEmployees_1000_name" xml:space="preserve">
+    <value>Employees</value>
+  </data>
+  <data name="PageAirlineEmployees_1001_name" xml:space="preserve">
+    <value>Cockpit Crew</value>
+  </data>
+  <data name="PageAirlineEmployees_1002_name" xml:space="preserve">
+    <value>Cabin Crew</value>
+  </data>
+  <data name="PageAirlineEmployees_1003_name" xml:space="preserve">
+    <value>Support Crew</value>
+  </data>
+  <data name="PageAirlineEmployees_1004_name" xml:space="preserve">
+    <value>Maintenance Crew</value>
+  </data>
+  <data name="PageAirlineEmployees_1005_name" xml:space="preserve">
+    <value>Airline Pilots</value>
+  </data>
+  <data name="PageAirlineEmployees_1006_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageAirlineEmployees_1007_name" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="PageAirlineEmployees_1008_name" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="PageAirlineEmployees_1009_name" xml:space="preserve">
+    <value>Hometown</value>
+  </data>
+  <data name="PageAirlineEmployees_1010_name" xml:space="preserve">
+    <value>Employee Wages</value>
+  </data>
+  <data name="PageAirlineEmployees_200_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageAirlineEmployees_201_name" xml:space="preserve">
+    <value>Undo Changes</value>
+  </data>
+  <data name="PageAirlineFinances_1000_name" xml:space="preserve">
+    <value>Financial Summary</value>
+  </data>
+  <data name="PageAirlineFinances_1007_name" xml:space="preserve">
+    <value>Year to Date</value>
+  </data>
+  <data name="PageAirlineInfo_1000_name" xml:space="preserve">
+    <value>Airline Profile</value>
+  </data>
+  <data name="PageAirlineInfo_1001_name" xml:space="preserve">
+    <value>CEO</value>
+  </data>
+  <data name="PageAirlineInfo_1002_name" xml:space="preserve">
+    <value>Airline Color</value>
+  </data>
+  <data name="PageAirlineInfo_1003_name" xml:space="preserve">
+    <value>Home Country</value>
+  </data>
+  <data name="PageAirlineInfo_1004_name" xml:space="preserve">
+    <value>Founded</value>
+  </data>
+  <data name="PageAirlineInfo_1005_name" xml:space="preserve">
+    <value>Airline Focus</value>
+  </data>
+  <data name="PageAirlineInfo_1006_name" xml:space="preserve">
+    <value>Airline Subsidiaries</value>
+  </data>
+  <data name="PageAirlineInfo_1007_name" xml:space="preserve">
+    <value>Airline Fleet</value>
+  </data>
+  <data name="PageAirlineInfo_1008_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageAirlineInfo_1009_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="PageAirlineInfo_1010_name" xml:space="preserve">
+    <value>Airline Ordered Fleet</value>
+  </data>
+  <data name="PageAirlineInfo_1011_name" xml:space="preserve">
+    <value>Airline Destinations</value>
+  </data>
+  <data name="PageAirlineInfo_1012_name" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="PageAirlineInfo_200_name" xml:space="preserve">
+    <value>Create Subsidiary</value>
+  </data>
+  <data name="PageAirlineInsurance_1001_name" xml:space="preserve">
+    <value>Insurance Type</value>
+  </data>
+  <data name="PageAirlineInsurance_1002_name" xml:space="preserve">
+    <value>Insurance Scope</value>
+  </data>
+  <data name="PageAirlineInsurance_1003_name" xml:space="preserve">
+    <value>Payment Terms</value>
+  </data>
+  <data name="PageAirlineInsurance_1004_name" xml:space="preserve">
+    <value>Insured Amount</value>
+  </data>
+  <data name="PageAirlineInsurance_1005_name" xml:space="preserve">
+    <value>Insure All Airliners</value>
+  </data>
+  <data name="PageAirlineInsurance_1006_name" xml:space="preserve">
+    <value>Insurance Length</value>
+  </data>
+  <data name="PageAirlineInsurance_1007_name" xml:space="preserve">
+    <value>Airline Advertisements</value>
+  </data>
+  <data name="PageAirlineInsurance_201_name" xml:space="preserve">
+    <value>Set Advertisements</value>
+  </data>
+  <data name="PageAirline_2000_name" xml:space="preserve">
+    <value>Rating &amp; Statistics</value>
+  </data>
+  <data name="PageAirline_2001_name" xml:space="preserve">
+    <value>Employees</value>
+  </data>
+  <data name="PageAirline_2002_name" xml:space="preserve">
+    <value>Advertisements  &amp; Insurances</value>
+  </data>
+  <data name="PageAirline_2003_name" xml:space="preserve">
+    <value>Services &amp; Fees</value>
+  </data>
+  <data name="PageAirline_2004_name" xml:space="preserve">
+    <value>Finances</value>
   </data>
 </root>
