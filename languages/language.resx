@@ -3468,6 +3468,93 @@ Good luck.</value>
   <data name="PageAirlineInsurance_201_name" xml:space="preserve">
     <value>Set Advertisements</value>
   </data>
+  <data name="PageAirlineRatings_1000_name" xml:space="preserve">
+    <value>Airline Ratings</value>
+  </data>
+  <data name="PageAirlineRatings_1001_name" xml:space="preserve">
+    <value>Airline Scores</value>
+  </data>
+  <data name="PageAirlineRatings_1002_name" xml:space="preserve">
+    <value>Airline Statistics</value>
+  </data>
+  <data name="PageAirlineRatings_1003_name" xml:space="preserve">
+    <value>Statistics Type</value>
+  </data>
+  <data name="PageAirlineRatings_1004_name" xml:space="preserve">
+    <value>Last Year</value>
+  </data>
+  <data name="PageAirlineRatings_1005_name" xml:space="preserve">
+    <value>Current Year</value>
+  </data>
+  <data name="PageAirlineRatings_1006_name" xml:space="preserve">
+    <value>Change%</value>
+  </data>
+  <data name="PageAirlineRatings_1007_name" xml:space="preserve">
+    <value>Security Rating</value>
+  </data>
+  <data name="PageAirlineRatings_1008_name" xml:space="preserve">
+    <value>Safety Rating</value>
+  </data>
+  <data name="PageAirlineRatings_1009_name" xml:space="preserve">
+    <value>Employee Happiness Rating</value>
+  </data>
+  <data name="PageAirlineRatings_1010_name" xml:space="preserve">
+    <value>Customer Happiness Rating</value>
+  </data>
+  <data name="PageAirlineRatings_1011_name" xml:space="preserve">
+    <value>Maintenance Rating</value>
+  </data>
+  <data name="PageAirlineRatings_1012_name" xml:space="preserve">
+    <value>Overall Score</value>
+  </data>
+  <data name="PageAirlineRatings_1013_name" xml:space="preserve">
+    <value>Reputation</value>
+  </data>
+  <data name="PageAirlineRatings_1014_name" xml:space="preserve">
+    <value>Flight On-time Percent</value>
+  </data>
+  <data name="PageAirlineRatings_1015_name" xml:space="preserve">
+    <value>Average Fill Degree</value>
+  </data>
+  <data name="PageAirlineServices_1000_name" xml:space="preserve">
+    <value>Airline Chargers</value>
+  </data>
+  <data name="PageAirlineServices_1001_name" xml:space="preserve">
+    <value>Airline Fees</value>
+  </data>
+  <data name="PageAirlineServices_1002_name" xml:space="preserve">
+    <value>Airline Discounts</value>
+  </data>
+  <data name="PageAirlineServices_1003_name" xml:space="preserve">
+    <value>General Policies</value>
+  </data>
+  <data name="PageAirlineServices_1004_name" xml:space="preserve">
+    <value>Cancellation Policy</value>
+  </data>
+  <data name="PageAirlineServices_1005_name" xml:space="preserve">
+    <value>Airline Facilities</value>
+  </data>
+  <data name="PageAirlineServices_1006_name" xml:space="preserve">
+    <value>Facility</value>
+  </data>
+  <data name="PageAirlineServices_1007_name" xml:space="preserve">
+    <value>Per Month</value>
+  </data>
+  <data name="PageAirlineServices_1008_name" xml:space="preserve">
+    <value>Inflight Services</value>
+  </data>
+  <data name="PageAirlineServices_200_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageAirlineServices_201_name" xml:space="preserve">
+    <value>Undo Change</value>
+  </data>
+  <data name="PageAirlineServices_202_name" xml:space="preserve">
+    <value>Save Configuration</value>
+  </data>
+  <data name="PageAirlineServices_203_name" xml:space="preserve">
+    <value>Load Configuration</value>
+  </data>
   <data name="PageAirline_2000_name" xml:space="preserve">
     <value>Rating &amp; Statistics</value>
   </data>
@@ -3482,5 +3569,20 @@ Good luck.</value>
   </data>
   <data name="PageAirline_2004_name" xml:space="preserve">
     <value>Finances</value>
+  </data>
+  <data name="PageNewGame_1026_name" xml:space="preserve">
+    <value>Game Paused On Start</value>
+  </data>
+  <data name="PageOptions_1000_name" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="PageOptions_1001_name" xml:space="preserve">
+    <value>Save Game</value>
+  </data>
+  <data name="PageOptions_1002_name" xml:space="preserve">
+    <value>Load Game</value>
+  </data>
+  <data name="PageOptions_1003_name" xml:space="preserve">
+    <value>Credits</value>
   </data>
 </root>
