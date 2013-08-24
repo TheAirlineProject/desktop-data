@@ -3585,4 +3585,43 @@ Good luck.</value>
   <data name="PageOptions_1003_name" xml:space="preserve">
     <value>Credits</value>
   </data>
+  <data name="PageLoadSaveGame_1000_name" xml:space="preserve">
+    <value>Saves</value>
+  </data>
+  <data name="PageLoadSaveGame_1001_name" xml:space="preserve">
+    <value>Load Game: </value>
+  </data>
+  <data name="PageLoadSaveGame_200_name" xml:space="preserve">
+    <value>Load Game</value>
+  </data>
+  <data name="PageLoadSaveGame_201_name" xml:space="preserve">
+    <value>Save Game</value>
+  </data>
+  <data name="PageShowOptions_1000_name" xml:space="preserve">
+    <value>Select Language</value>
+  </data>
+  <data name="PageShowOptions_1001_name" xml:space="preserve">
+    <value>Select Gamespeed</value>
+  </data>
+  <data name="PageShowOptions_1002_name" xml:space="preserve">
+    <value>Display Airport Codes</value>
+  </data>
+  <data name="PageShowOptions_1003_name" xml:space="preserve">
+    <value>Select Minutes per Turn</value>
+  </data>
+  <data name="PageShowOptions_1004_name" xml:space="preserve">
+    <value>Use Shorten Currency</value>
+  </data>
+  <data name="PageShowOptions_1005_name" xml:space="preserve">
+    <value>Send Mails on Landings</value>
+  </data>
+  <data name="PageShowOptions_1006_name" xml:space="preserve">
+    <value>Send Mails on Bad Weather</value>
+  </data>
+  <data name="PageShowOptions_200_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageShowOptions_201_name" xml:space="preserve">
+    <value>Undo Changes</value>
+  </data>
 </root>
