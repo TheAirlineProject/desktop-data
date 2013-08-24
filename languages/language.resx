@@ -3585,6 +3585,18 @@ Good luck.</value>
   <data name="PageOptions_1003_name" xml:space="preserve">
     <value>Credits</value>
   </data>
+  <data name="MainMenu_3000_name" xml:space="preserve">
+    <value>Start New Game</value>
+  </data>
+  <data name="MainMenu_3001_name" xml:space="preserve">
+    <value>Exit Game</value>
+  </data>
+  <data name="MainMenu_3002_name" xml:space="preserve">
+    <value>Pause Game</value>
+  </data>
+  <data name="MainMenu_3003_name" xml:space="preserve">
+    <value>Start Game</value>
+  </data>
   <data name="PageAirlinesStatistics_1000_name" xml:space="preserve">
     <value>Airline</value>
   </data>
