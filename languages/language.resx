@@ -772,13 +772,13 @@
     <value>Founded</value>
   </data>
   <data name="PageAirlines_1000_name" xml:space="preserve">
-    <value>Airlines</value>
+    <value>Largest Fleet</value>
   </data>
   <data name="PageAirlines_1001_name" xml:space="preserve">
-    <value>Human Airline</value>
+    <value>Most Gates</value>
   </data>
   <data name="PageAirlines_1002_name" xml:space="preserve">
-    <value>Subsidiary Airline</value>
+    <value>Most Routes</value>
   </data>
   <data name="PageCalendar_1000_name" xml:space="preserve">
     <value>Calendar</value>
@@ -3584,6 +3584,36 @@ Good luck.</value>
   </data>
   <data name="PageOptions_1003_name" xml:space="preserve">
     <value>Credits</value>
+  </data>
+  <data name="PageAirlinesStatistics_1000_name" xml:space="preserve">
+    <value>Airline</value>
+  </data>
+  <data name="PageAirlinesStatistics_1001_name" xml:space="preserve">
+    <value>Reputation</value>
+  </data>
+  <data name="PageAirlinesStatistics_1002_name" xml:space="preserve">
+    <value>Fleet Size</value>
+  </data>
+  <data name="PageAirlinesStatistics_1003_name" xml:space="preserve">
+    <value>Avg. Fleet Age</value>
+  </data>
+  <data name="PageAirlinesStatistics_1004_name" xml:space="preserve">
+    <value>Destinations</value>
+  </data>
+  <data name="PageAirlinesStatistics_1005_name" xml:space="preserve">
+    <value>Flights</value>
+  </data>
+  <data name="PageAirlinesStatistics_1006_name" xml:space="preserve">
+    <value>Passengers</value>
+  </data>
+  <data name="PageAirlinesStatistics_1007_name" xml:space="preserve">
+    <value>Pax per Flight</value>
+  </data>
+  <data name="PageAirlinesStatistics_1008_name" xml:space="preserve">
+    <value>Profit</value>
+  </data>
+  <data name="PageAirlines_2000_name" xml:space="preserve">
+    <value>Airlines</value>
   </data>
   <data name="PageLoadSaveGame_1000_name" xml:space="preserve">
     <value>Saves</value>
