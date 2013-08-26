@@ -3627,6 +3627,15 @@ Good luck.</value>
   <data name="PageAirlines_2000_name" xml:space="preserve">
     <value>Airlines</value>
   </data>
+  <data name="PageFleetAirliner_2000_name" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="PageFleetAirliner_2001_name" xml:space="preserve">
+    <value>Routes &amp; Statistics</value>
+  </data>
+  <data name="PageFleetAirliner_2002_name" xml:space="preserve">
+    <value>Maintenace &amp; Insurances</value>
+  </data>
   <data name="PageLoadSaveGame_1000_name" xml:space="preserve">
     <value>Saves</value>
   </data>

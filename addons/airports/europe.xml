@@ -3516,21 +3516,21 @@
       <runway name="14/32" length="2390" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Rhodes International Airport" icao="LGRP" iata="RHO" type="Long_Haul_International" season="All_Year">
-    <town town="Rhodes" country="118" GMT="03:00:00" DST="02:00:00" />
+   <airport name="Diagoras Airport" icao="LGRP" iata="RHO" type="Long_Haul_International" season="All_Year">
+    <town town="Rodes Island" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="036°24'19''N" />
       <longitude value="028°05'10''E" />
     </coordinates>
-    <size value="Very_small" pax="4149" cargo="Smallest" cargovolume="0"/>
+    <size value="Medium" pax="3813" />
     <terminals>
       <terminal name="Terminal" gates="7" />
     </terminals>
     <runways>
-      <runway name="07/25" length="3305" surface="Asphalt" />
+      <runway name="07/25" length="3306" surface="Asphalt" />
     </runways>
   </airport>
-  <airport name="Thessaloniki International Airport" icao="LGTS" iata="SKG" type="Long_Haul_International" season="All_Year">
+   <airport name="Thessaloniki International Airport" icao="LGTS" iata="SKG" type="Long_Haul_International" season="All_Year">
     <town town="Thessaloniki" country="118" GMT="03:00:00" DST="02:00:00" />
     <coordinates>
       <latitude value="040°31'11''N" />
@@ -3543,6 +3543,467 @@
     <runways>
       <runway name="10/28" length="2440" surface="Asphalt" />
       <runway name="16/34" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Ioannis Kapodistrias International Airport" icao="LGKR" iata="CFU" type="Short_Haul_International" season="All_Year">
+    <town town="Kerkyra Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°36'06''N" />
+      <longitude value="019°54'42''E" />
+    </coordinates>
+    <size value="Small" pax="1915" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="17/35" length="2375" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Chania International Airport" icao="LGSA" iata="CHQ" type="Long_Haul_International" season="All_Year">
+    <town town="Souda" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="035°31'54''N" />
+      <longitude value="024°08'58''E" />
+    </coordinates>
+    <size value="Small" pax="1833" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="3347" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dionysios Solomos Airport" icao="LGZA" iata="ZTH" type="Short_Haul_International" season="All_Year">
+    <town town="Zakynthos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°45'03''N" />
+      <longitude value="020°53'03''E" />
+    </coordinates>
+    <size value="Small" pax="871" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="2228" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Santorini Airport" icao="LGSR" iata="JTR" type="Short_Haul_International" season="All_Year">
+    <town town="Santorini Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="036°23'57''N" />
+      <longitude value="025°28'45''E" />
+    </coordinates>
+    <size value="Small" pax="764" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="16L/34R" length="2125" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Mikonos Airport" icao="LGMK" iata="JMK" type="Short_Haul_International" season="All_Year">
+    <town town="Mykonos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°26'06''N" />
+      <longitude value="025°20'53''E" />
+    </coordinates>
+    <size value="Small" pax="502" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="16/34" length="1903" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Mytilene International Airport" icao="LGMT" iata="MJT" type="Short_Haul_International" season="All_Year">
+    <town town="Mytilene" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°03'24''N" />
+      <longitude value="026°35'53''E" />
+    </coordinates>
+    <size value="Very_small" pax="413" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2406" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kefallinia Airport" icao="LGKF" iata="EFL" type="Short_Haul_International" season="All_Year">
+    <town town="Kefallinia Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°07'12''N" />
+      <longitude value="020°30'01''E" />
+    </coordinates>
+    <size value="Very_small" pax="379" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2436" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Samos Airport" icao="LGSM" iata="SMI" type="Short_Haul_International" season="All_Year">
+    <town town="Samos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°41'23''N" />
+      <longitude value="026°54'42''E" />
+    </coordinates>
+    <size value="Very_small" pax="365" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2044" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Aktion National Airport" icao="LGPZ" iata="PVK" type="Domestic" season="All_Year">
+    <town town="Preveza/Lefkada" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°55'31''N" />
+      <longitude value="020°45'55''E" />
+    </coordinates>
+    <size value="Very_small" pax="289" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="07L/25R" length="2871" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Skiathos Island National Airport" icao="LGSK" iata="JSI" type="Domestic" season="All_Year">
+    <town town="Skiathos" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°10'37''N" />
+      <longitude value="023°30'13''E" />
+    </coordinates>
+    <size value="Very_small" pax="255" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1628" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Dimokritos Airport" icao="LGAL" iata="AXD" type="Domestic" season="All_Year">
+    <town town="Alexandroupolis" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°51'21''N" />
+      <longitude value="025°57'22''E" />
+    </coordinates>
+    <size value="Very_small" pax="212" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2582" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Alexander the Great International Airport" icao="LGKV" iata="KVA" type="Short_Haul_International" season="All_Year">
+    <town town="Kavala" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°54'47''N" />
+      <longitude value="024°37'09''E" />
+    </coordinates>
+    <size value="Very_small" pax="203" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="05R/23L" length="3000" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Chios Island National Airport" icao="LGHI" iata="JKH" type="Short_Haul_International" season="All_Year">
+    <town town="Chios Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°20'35''N" />
+      <longitude value="026°08'26''E" />
+    </coordinates>
+    <size value="Very_small" pax="187" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="01/19" length="1511" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Karpathos Airport" icao="LGKP" iata="AOK" type="Short_Haul_International" season="All_Year">
+    <town town="Karpathos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="035°25'17''N" />
+      <longitude value="027°08'45''E" />
+    </coordinates>
+    <size value="Very_small" pax="169" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2399" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Araxos Airport" icao="LGRX" iata="GPA" type="Regional" season="All_Year">
+    <town town="Patras" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°09'03''N" />
+      <longitude value="021°25'32''E" />
+    </coordinates>
+    <size value="Smallest" pax="133" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18L/36R" length="3352" surface="Asphalt" />
+      <runway name="18R/36L" length="3352" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kalamata Airport" icao="LGKL" iata="KLX" type="Short_Haul_International" season="All_Year">
+    <town town="Kalamata" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°04'05''N" />
+      <longitude value="022°01'31''E" />
+    </coordinates>
+    <size value="Smallest" pax="101" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="17R/35L" length="2822" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Limnos Airport" icao="LGLM" iata="LXS" type="Regional" season="All_Year">
+    <town town="Limnos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°55'01''N" />
+      <longitude value="025°14'10''E" />
+    </coordinates>
+    <size value="Smallest" pax="84" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="04R/22L" length="3016" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Nea Anchialos Airport" icao="LGBL" iata="VOL" type="Short_Haul_International" season="All_Year">
+    <town town="Nea Anchialos" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°13'10''N" />
+      <longitude value="022°47'39''E" />
+    </coordinates>
+    <size value="Smallest" pax="78" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="2759" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ioannina Airport" icao="LGIO" iata="IOA" type="Domestic" season="All_Year">
+    <town town="Ioannina" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="039°41'47''N" />
+      <longitude value="020°49'21''E" />
+    </coordinates>
+    <size value="Smallest" pax="71" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="2400" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Ikaria Airport" icao="LGIK" iata="JIK" type="Domestic" season="All_Year">
+    <town town="Ikaria Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°40'57''N" />
+      <longitude value="026°20'49''E" />
+    </coordinates>
+    <size value="Smallest" pax="38" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="1381" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Sitia Airport" icao="LGST" iata="JSH" type="Regional" season="All_Year">
+    <town town="Crete Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="035°12'57''N" />
+      <longitude value="026°06'04''E" />
+    </coordinates>
+    <size value="Smallest" pax="37" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="2074" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Paros Airport" icao="LGPA" iata="PAS" type="Domestic" season="All_Year">
+    <town town="Paros Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°00'37''N" />
+      <longitude value="025°07'41''E" />
+    </coordinates>
+    <size value="Smallest" pax="35" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
+  <airport name="Milos Airport" icao="LGML" iata="MLO" type="Domestic" season="All_Year">
+    <town town="Milos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="036°41'48''N" />
+      <longitude value="024°28'36''E" />
+    </coordinates>
+    <size value="Smallest" pax="32" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="795" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Leros Airport" icao="LGLE" iata="LRS" type="Domestic" season="All_Year">
+    <town town="Leros Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°11'05''N" />
+      <longitude value="026°48'01''E" />
+    </coordinates>
+    <size value="Smallest" pax="29" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="1012" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kithira Airport" icao="LGKC" iata="KIT" type="Regional" season="All_Year">
+    <town town="Kithira Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="036°16'27''N" />
+      <longitude value="023°01'01''E" />
+    </coordinates>
+    <size value="Smallest" pax="28" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="02/20" length="1461" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Naxos Airport" icao="LGNX" iata="JNX" type="Regional" season="All_Year">
+    <town town="Naxos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°04'51''N" />
+      <longitude value="025°22'05''E" />
+    </coordinates>
+    <size value="Smallest" pax="23" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="900" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Skiros Airport" icao="LGSY" iata="SKU" type="Domestic" season="All_Year">
+    <town town="Skiros Island" country="118" GMT="02:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="038°58'03''N" />
+      <longitude value="024°29'13''E" />
+    </coordinates>
+    <size value="Smallest" pax="15" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="3002" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Astypalaia Airport" icao="LGPL" iata="JTY" type="Domestic" season="All_Year">
+    <town town="Astypalaia Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="036°34'47''N" />
+      <longitude value="026°22'32''E" />
+    </coordinates>
+    <size value="Smallest" pax="13" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="15/33" length="989" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Syros Airport" icao="LGSO" iata="JSY" type="Domestic" season="All_Year">
+    <town town="Syros Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="037°25'22''N" />
+      <longitude value="024°57'03''E" />
+    </coordinates>
+    <size value="Smallest" pax="12" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="18/36" length="1080" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kastelorizo Airport" icao="LGKJ" iata="KZS" type="Domestic" season="All_Year">
+    <town town="Kastelorizo Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="036°08'30''N" />
+      <longitude value="029°34'35''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="13/31" length="798" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kastoria National Airport" icao="LGKA" iata="KSO" type="Domestic" season="All_Year">
+    <town town="Kastoria" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°26'46''N" />
+      <longitude value="021°16'55''E" />
+    </coordinates>
+    <size value="Smallest" pax="5" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2698" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Kasos Airport" icao="LGKS" iata="KSJ" type="Domestic" season="All_Year">
+    <town town="Kasos Island" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="035°25'17''N" />
+      <longitude value="026°54'35''E" />
+    </coordinates>
+    <size value="Smallest" pax="4" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="982" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Filippos Airport" icao="LGKZ" iata="KZI" type="Domestic" season="All_Year">
+    <town town="Kozani" country="118" GMT="03:00:00" DST="02:00:00" />
+    <coordinates>
+      <latitude value="040°17'09''N" />
+      <longitude value="021°50'26''E" />
+    </coordinates>
+    <size value="Smallest" pax="3" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="14/32" length="1822" surface="Asphalt" />
     </runways>
   </airport>
   <!--Hungary (LH**)-->
