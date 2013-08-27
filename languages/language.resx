@@ -3675,4 +3675,46 @@ Good luck.</value>
   <data name="PageShowOptions_201_name" xml:space="preserve">
     <value>Undo Changes</value>
   </data>
+  <data name="PageAirlineInfo_1013_name" xml:space="preserve">
+    <value>Airline Routes</value>
+  </data>
+  <data name="PageAirlineInfo_1014_name" xml:space="preserve">
+    <value>Route</value>
+  </data>
+  <data name="PageAirlineInfo_1015_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="PageAirlineInfo_1016_name" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="PageAirlineInfo_1017_name" xml:space="preserve">
+    <value>Filling Degree</value>
+  </data>
+  <data name="PageAirlineInfo_1018_name" xml:space="preserve">
+    <value>Add Subsidiary</value>
+  </data>
+  <data name="PageAirlineInfo_1019_name" xml:space="preserve">
+    <value>Select Subsidiary Name</value>
+  </data>
+  <data name="PageAirlineInfo_1020_name" xml:space="preserve">
+    <value>Select IATA Code</value>
+  </data>
+  <data name="PageAirlineInfo_1021_name" xml:space="preserve">
+    <value>Select Airline Type</value>
+  </data>
+  <data name="PageAirlineInfo_1022_name" xml:space="preserve">
+    <value>Select Airline Color</value>
+  </data>
+  <data name="PageAirlineInfo_1023_name" xml:space="preserve">
+    <value>Select Airline Logo</value>
+  </data>
+  <data name="PageAirlineInfo_1024_name" xml:space="preserve">
+    <value>Select Homebase</value>
+  </data>
+  <data name="PageAirlinesStatistics_3000_name" xml:space="preserve">
+    <value>The airline is a subsidiary</value>
+  </data>
+  <data name="PageUsedAirliner_1009_name" xml:space="preserve">
+    <value>Built Year</value>
+  </data>
 </root>
