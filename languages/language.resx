@@ -3675,6 +3675,30 @@ Good luck.</value>
   <data name="PageShowOptions_201_name" xml:space="preserve">
     <value>Undo Changes</value>
   </data>
+  <data name="PageAirlineFinances_1008_name" xml:space="preserve">
+    <value>Airline Loan</value>
+  </data>
+  <data name="PageAirlineFinances_1009_name" xml:space="preserve">
+    <value>Loan Amount</value>
+  </data>
+  <data name="PageAirlineFinances_1010_name" xml:space="preserve">
+    <value>Monthly Payment</value>
+  </data>
+  <data name="PageAirlineFinances_1011_name" xml:space="preserve">
+    <value>Months Left</value>
+  </data>
+  <data name="PageAirlineFinances_1012_name" xml:space="preserve">
+    <value>Loan Length</value>
+  </data>
+  <data name="PageAirlineFinances_1013_name" xml:space="preserve">
+    <value>Loan Rate</value>
+  </data>
+  <data name="PageAirlineFinances_1014_name" xml:space="preserve">
+    <value>Apply for new Loan</value>
+  </data>
+  <data name="PageAirlineFinances_200_name" xml:space="preserve">
+    <value>Apply for Loan</value>
+  </data>
   <data name="PageAirlineInfo_1013_name" xml:space="preserve">
     <value>Airline Routes</value>
   </data>
@@ -3716,5 +3740,17 @@ Good luck.</value>
   </data>
   <data name="PageUsedAirliner_1009_name" xml:space="preserve">
     <value>Built Year</value>
+  </data>
+  <data name="PageShowAirports_1005_name" xml:space="preserve">
+    <value>Show Only Human Airports</value>
+  </data>
+  <data name="PageAirlineInfo_1025_name" xml:space="preserve">
+    <value>Hub</value>
+  </data>
+  <data name="PageAirport_2000_name" xml:space="preserve">
+    <value>Facilities &amp; Statistics</value>
+  </data>
+  <data name="PageAirport_2001_name" xml:space="preserve">
+    <value>Flights &amp; Traffic</value>
   </data>
 </root>
