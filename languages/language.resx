@@ -160,7 +160,7 @@
     <value>Search</value>
   </data>
   <data name="General_110_name" xml:space="preserve">
-    <value>Clear Filter</value>
+    <value>Clear</value>
   </data>
   <data name="General_111_name" xml:space="preserve">
     <value>All</value>
@@ -493,7 +493,7 @@
     <value>Buy Used Airliner</value>
   </data>
   <data name="PageAirport_1000_name" xml:space="preserve">
-    <value>Airport</value>
+    <value>Distances</value>
   </data>
   <data name="PageAirport_1001_name" xml:space="preserve">
     <value>Weather Information</value>
@@ -580,7 +580,7 @@
     <value>Airline Facilities</value>
   </data>
   <data name="PageAirportFacilities_1002_name" xml:space="preserve">
-    <value>Facilities</value>
+    <value>Buy New Facility</value>
   </data>
   <data name="PageAirportStatistics_1001_name" xml:space="preserve">
     <value>Airport Statistics</value>
@@ -598,7 +598,7 @@
     <value>Weather Forecast</value>
   </data>
   <data name="PageAirportTraffic_1001_name" xml:space="preserve">
-    <value>Passengers to Destination</value>
+    <value>Destination</value>
   </data>
   <data name="PageAirportFlights_1001_name" xml:space="preserve">
     <value>Flights</value>
@@ -2635,7 +2635,7 @@ Good luck.</value>
     <value>Cargo</value>
   </data>
   <data name="PageAirportTraffic_1002_name" xml:space="preserve">
-    <value>Cargo to Destination</value>
+    <value>Weekly Flights</value>
   </data>
   <data name="MessageBox_2123_message" xml:space="preserve">
     <value>Are you sure you want to convert {0} to a cargo airliner for {1}?</value>
@@ -2650,7 +2650,7 @@ Good luck.</value>
     <value>Cargo Route</value>
   </data>
   <data name="PageAirportFacilities_1003_name" xml:space="preserve">
-    <value>Airport Facilities</value>
+    <value>Facility Type</value>
   </data>
   <data name="PageFleetAirliner_1032_name" xml:space="preserve">
     <value>Convert to Cargo Airliner</value>
@@ -3746,6 +3746,147 @@ Good luck.</value>
   </data>
   <data name="PageAirlineInfo_1025_name" xml:space="preserve">
     <value>Hub</value>
+  </data>
+  <data name="PageAirportFacilities_1000_name" xml:space="preserve">
+    <value>Airport Facilities</value>
+  </data>
+  <data name="PageAirportFacilities_1004_name" xml:space="preserve">
+    <value>Facility Name</value>
+  </data>
+  <data name="PageAirportFacilities_1005_name" xml:space="preserve">
+    <value>Airlines</value>
+  </data>
+  <data name="PageAirportFacilities_1006_name" xml:space="preserve">
+    <value>Flights</value>
+  </data>
+  <data name="PageAirportFacilities_1007_name" xml:space="preserve">
+    <value>Passengers</value>
+  </data>
+  <data name="PageAirportFacilities_1008_name" xml:space="preserve">
+    <value>Pax per Flight</value>
+  </data>
+  <data name="PageAirportFacilities_200_name" xml:space="preserve">
+    <value>Buy Facility</value>
+  </data>
+  <data name="PageAirportInfo_1000_name" xml:space="preserve">
+    <value>Airport Profile</value>
+  </data>
+  <data name="PageAirportInfo_1001_name" xml:space="preserve">
+    <value>IATA / ICAO</value>
+  </data>
+  <data name="PageAirportInfo_1002_name" xml:space="preserve">
+    <value>Town</value>
+  </data>
+  <data name="PageAirportInfo_1003_name" xml:space="preserve">
+    <value>Opened</value>
+  </data>
+  <data name="PageAirportInfo_1004_name" xml:space="preserve">
+    <value>Timezone</value>
+  </data>
+  <data name="PageAirportInfo_1005_name" xml:space="preserve">
+    <value>Passenger Size</value>
+  </data>
+  <data name="PageAirportInfo_1006_name" xml:space="preserve">
+    <value>Cargo Size</value>
+  </data>
+  <data name="PageAirportInfo_1007_name" xml:space="preserve">
+    <value>Weather Forecast</value>
+  </data>
+  <data name="PageAirportInfo_1008_name" xml:space="preserve">
+    <value>Terminals</value>
+  </data>
+  <data name="PageAirportInfo_1009_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageAirportInfo_1010_name" xml:space="preserve">
+    <value>Owner</value>
+  </data>
+  <data name="PageAirportInfo_1011_name" xml:space="preserve">
+    <value>Gates</value>
+  </data>
+  <data name="PageAirportInfo_1012_name" xml:space="preserve">
+    <value>Build New Terminal</value>
+  </data>
+  <data name="PageAirportInfo_1013_name" xml:space="preserve">
+    <value>Select Terminal Name</value>
+  </data>
+  <data name="PageAirportInfo_1014_name" xml:space="preserve">
+    <value>Select Gates</value>
+  </data>
+  <data name="PageAirportInfo_1015_name" xml:space="preserve">
+    <value>Terminal Price</value>
+  </data>
+  <data name="PageAirportInfo_1016_name" xml:space="preserve">
+    <value>Price per Gate</value>
+  </data>
+  <data name="PageAirportInfo_1017_name" xml:space="preserve">
+    <value>Runways</value>
+  </data>
+  <data name="PageAirportInfo_1018_name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PageAirportInfo_1019_name" xml:space="preserve">
+    <value>Length</value>
+  </data>
+  <data name="PageAirportInfo_1020_name" xml:space="preserve">
+    <value>Surface</value>
+  </data>
+  <data name="PageAirportInfo_1021_name" xml:space="preserve">
+    <value>Airport Contracts</value>
+  </data>
+  <data name="PageAirportInfo_1022_name" xml:space="preserve">
+    <value>Airline</value>
+  </data>
+  <data name="PageAirportInfo_1023_name" xml:space="preserve">
+    <value>Gates</value>
+  </data>
+  <data name="PageAirportInfo_1024_name" xml:space="preserve">
+    <value>Months Left</value>
+  </data>
+  <data name="PageAirportInfo_1025_name" xml:space="preserve">
+    <value>Sign New Contract</value>
+  </data>
+  <data name="PageAirportInfo_1026_name" xml:space="preserve">
+    <value>Select Gates</value>
+  </data>
+  <data name="PageAirportInfo_1027_name" xml:space="preserve">
+    <value>Select Length</value>
+  </data>
+  <data name="PageAirportInfo_1028_name" xml:space="preserve">
+    <value>Yearly Payment</value>
+  </data>
+  <data name="PageAirportInfo_1029_name" xml:space="preserve">
+    <value>Passenger Demand</value>
+  </data>
+  <data name="PageAirportInfo_1030_name" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="PageAirportInfo_1031_name" xml:space="preserve">
+    <value>Passengers</value>
+  </data>
+  <data name="PageAirportInfo_1032_name" xml:space="preserve">
+    <value>Cargo</value>
+  </data>
+  <data name="PageAirportInfo_200_name" xml:space="preserve">
+    <value>Build Terminal</value>
+  </data>
+  <data name="PageAirportInfo_201_name" xml:space="preserve">
+    <value>Sign Contract</value>
+  </data>
+  <data name="PageAirports_1004_name" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="PageAirportTraffic_1000_name" xml:space="preserve">
+    <value>Airport Flights</value>
+  </data>
+  <data name="PageAirportTraffic_1003_name" xml:space="preserve">
+    <value>Airport Traffic</value>
+  </data>
+  <data name="PageAirportTraffic_1004_name" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="PageAirportTraffic_1005_name" xml:space="preserve">
+    <value>Value</value>
   </data>
   <data name="PageAirport_2000_name" xml:space="preserve">
     <value>Facilities &amp; Statistics</value>
