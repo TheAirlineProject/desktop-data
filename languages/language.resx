@@ -291,22 +291,19 @@
   <data name="PopUpEditAirlinerName_1000_name" xml:space="preserve">
     <value>Airliner Name</value>
   </data>
-  <data name="PopUpDifficulty_1000_name" xml:space="preserve">
-    <value>Custom Difficulty Level</value>
-  </data>
-  <data name="PopUpDifficulty_200_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1000_name" xml:space="preserve">
     <value>Money Level</value>
   </data>
-  <data name="PopUpDifficulty_201_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1001_name" xml:space="preserve">
     <value>Price Level</value>
   </data>
-  <data name="PopUpDifficulty_202_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1002_name" xml:space="preserve">
     <value>Loan Level</value>
   </data>
-  <data name="PopUpDifficulty_203_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1003_name" xml:space="preserve">
     <value>Passengers Level</value>
   </data>
-  <data name="PopUpDifficulty_204_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1004_name" xml:space="preserve">
     <value>AI Level</value>
   </data>
   <data name="PopUpNewSubsidiary_1000_name" xml:space="preserve">
@@ -2793,7 +2790,7 @@ Good luck.</value>
   <data name="PageAirlineFleet_1012_name" xml:space="preserve">
     <value>Airline Fleet - Leased</value>
   </data>
-  <data name="PopUpDifficulty_205_name" xml:space="preserve">
+  <data name="PageCreateDifficulty_1005_name" xml:space="preserve">
     <value>Startdata Level</value>
   </data>
   <data name="PageNewGame_1022_name" xml:space="preserve">
@@ -3893,5 +3890,29 @@ Good luck.</value>
   </data>
   <data name="PageAirport_2001_name" xml:space="preserve">
     <value>Flights &amp; Traffic</value>
+  </data>
+  <data name="PageShowAirports_1006_name" xml:space="preserve">
+    <value>Show For Airline</value>
+  </data>
+  <data name="MessageBox_2406_message" xml:space="preserve">
+    <value>Are you sure you want to create the difficulty level?</value>
+  </data>
+  <data name="MessageBox_2406_name" xml:space="preserve">
+    <value>Create difficulty</value>
+  </data>
+  <data name="PageCreateDifficulty_1006_name" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="PageCreateDifficulty_1007_name" xml:space="preserve">
+    <value>Easy</value>
+  </data>
+  <data name="PageCreateDifficulty_1008_name" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="PageCreateDifficulty_1009_name" xml:space="preserve">
+    <value>Hard</value>
+  </data>
+  <data name="PageCreateDifficulty_200_name" xml:space="preserve">
+    <value>Create Difficulty</value>
   </data>
 </root>
