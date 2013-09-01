@@ -2386,7 +2386,7 @@ Good luck.</value>
     <value>Can't Delete Airliner</value>
   </data>
   <data name="MessageBox_2222_message" xml:space="preserve">
-    <value>Are you sure you want to rent a gate at {0}?</value>
+    <value>Are you sure you want to rent {0} gate(s) at {1}?</value>
   </data>
   <data name="MessageBox_2222_name" xml:space="preserve">
     <value>Rent Gate</value>
@@ -3900,6 +3900,12 @@ Good luck.</value>
   <data name="MessageBox_2406_name" xml:space="preserve">
     <value>Create difficulty</value>
   </data>
+  <data name="PageAirlineInfo_1026_name" xml:space="preserve">
+    <value>Select Cash</value>
+  </data>
+  <data name="PageAirlineInfo_1027_name" xml:space="preserve">
+    <value>Parent Airline</value>
+  </data>
   <data name="PageCreateDifficulty_1006_name" xml:space="preserve">
     <value>Level</value>
   </data>
@@ -3914,5 +3920,80 @@ Good luck.</value>
   </data>
   <data name="PageCreateDifficulty_200_name" xml:space="preserve">
     <value>Create Difficulty</value>
+  </data>
+  <data name="PageShowAirports_1007_name" xml:space="preserve">
+    <value>Airlines Operating</value>
+  </data>
+  <data name="PageShowAirports_1008_name" xml:space="preserve">
+    <value>Total Routes</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1000_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1001_name" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1002_name" xml:space="preserve">
+    <value>Airliner Type</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1003_name" xml:space="preserve">
+    <value>Body Type</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1004_name" xml:space="preserve">
+    <value>Engine Type</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1005_name" xml:space="preserve">
+    <value>Length</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1006_name" xml:space="preserve">
+    <value>Wing Span</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1007_name" xml:space="preserve">
+    <value>Range</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1008_name" xml:space="preserve">
+    <value>Cruising Speed</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1009_name" xml:space="preserve">
+    <value>Req. Runway Length</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1010_name" xml:space="preserve">
+    <value>Fuel Comsuption</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1011_name" xml:space="preserve">
+    <value>Seating Capacity</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1012_name" xml:space="preserve">
+    <value>Max. Airliner Classes</value>
+  </data>
+  <data name="AirlinerTypeSpecifications_1013_name" xml:space="preserve">
+    <value>Cargo Capacity</value>
+  </data>
+  <data name="MessageBox_2013_message" xml:space="preserve">
+    <value>Are you sure you want to sign a contract with {0}?</value>
+  </data>
+  <data name="MessageBox_2013_name" xml:space="preserve">
+    <value>Sign manufacturer contract</value>
+  </data>
+  <data name="PageAirlineInfo_1028_name" xml:space="preserve">
+    <value>Switch Playing Airline</value>
+  </data>
+  <data name="PageManufacturers_1003_name" xml:space="preserve">
+    <value>Contract</value>
+  </data>
+  <data name="PageManufacturer_1013_name" xml:space="preserve">
+    <value>Sign Manufacturer Contract</value>
+  </data>
+  <data name="PageManufacturer_1014_name" xml:space="preserve">
+    <value>Contract Length</value>
+  </data>
+  <data name="PageManufacturer_1015_name" xml:space="preserve">
+    <value>Current Contract</value>
+  </data>
+  <data name="PageManufacturer_201_name" xml:space="preserve">
+    <value>Sign Contract</value>
+  </data>
+  <data name="PageManufacturer_202_name" xml:space="preserve">
+    <value>Extend Contract</value>
   </data>
 </root>
