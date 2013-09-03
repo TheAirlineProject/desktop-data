@@ -1885,6 +1885,28 @@
       <es-ES name="Malawi" />
     </translations>
   </country>
+      <country uid="287" shortname="RMI" region="112" flag="Marshall Islands" tailformat="V7-\\d4">
+    <translations>
+      <en-US name="Marshall Islands" />
+      <de-DE name="Marshall Islands" />
+      <en-GB name="Marshall Islands" />
+      <nl-NL name="Marshall Islands" />
+      <zh-CN name="馬紹爾群島" />
+      <da-DK name="Marshalløerne" />
+      <es-ES name="Marshall Islands" />
+    </translations>
+  </country>
+       <country uid="288" shortname="PAL" region="112" flag="Palau" tailformat="V9-\\d4">
+    <translations>
+      <en-US name="Palau" />
+      <de-DE name="Palau" />
+      <en-GB name="Palau" />
+      <nl-NL name="Palau" />
+      <zh-CN name="Palau" />
+      <da-DK name="Palau" />
+      <es-ES name="Palau" />
+    </translations>
+  </country>
   <!--272 and 273 unused-->
   <!--Territories-->
   <country uid="246" shortname="CAW" region="117" flag="Curacao" tailformat="PJ-\\s3">

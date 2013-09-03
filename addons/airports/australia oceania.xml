@@ -3183,4 +3183,33 @@
       <runway name="15/33" length="1811" surface="Asphalt" />
     </runways>
   </airport>
+  <!--some random oceania airport-->
+    <airport name="Roman Tmetuchl International Airport" icao="PTRO" iata="ROR" type="Short_Haul_International" season="All_Year">
+    <town town="Airai" country="288" GMT="09:00:00" DST="09:00:00" />
+    <coordinates>
+      <latitude value="007°22'03''N" />
+      <longitude value="134°32'38''E" />
+    </coordinates>
+    <size value="Smallest" pax="13" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2195" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Marshall Islands International Airport" icao="PKMJ" iata="MAJ" type="Short_Haul_International" season="All_Year">
+    <town town="Majuro Atoll" country="287" GMT="12:00:00" DST="12:00:00" />
+    <coordinates>
+      <latitude value="007°03'53''N" />
+      <longitude value="171°16'19''E" />
+    </coordinates>
+    <size value="Smallest" pax="8" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="2407" surface="Asphalt" />
+    </runways>
+  </airport>
 </airports>

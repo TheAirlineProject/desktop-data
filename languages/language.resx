@@ -3996,4 +3996,25 @@ Good luck.</value>
   <data name="PageManufacturer_202_name" xml:space="preserve">
     <value>Extend Contract</value>
   </data>
+  <data name="MessageBox_2227_message" xml:space="preserve">
+    <value>Are you sure you want to remove your hub at {0}?</value>
+  </data>
+  <data name="MessageBox_2227_name" xml:space="preserve">
+    <value>Remove hub</value>
+  </data>
+  <data name="PageAirlineFinances_1015_name" xml:space="preserve">
+    <value>Payment Left</value>
+  </data>
+  <data name="PageAirlineInfo_1029_name" xml:space="preserve">
+    <value>Airline License</value>
+  </data>
+  <data name="PageAirportInfo_1033_name" xml:space="preserve">
+    <value>Airline Hubs</value>
+  </data>
+  <data name="PageAirportInfo_202_name" xml:space="preserve">
+    <value>Create Hub</value>
+  </data>
+  <data name="PageCreateRoute_202_name" xml:space="preserve">
+    <value>Create Route &amp; Start Another</value>
+  </data>
 </root>
