@@ -1907,7 +1907,39 @@
       <es-ES name="Palau" />
     </translations>
   </country>
-  <!--272 and 273 unused-->
+         <country uid="289" shortname="SOL" region="112" flag="Solomon Islands" tailformat="H4-\\s3">
+    <translations>
+      <en-US name="Solomon Islands" />
+      <de-DE name="Solomon Islands" />
+      <en-GB name="Solomon Islands" />
+      <nl-NL name="Solomon Islands" />
+      <zh-CN name="Solomon Islands" />
+      <da-DK name="Solomon Islands" />
+      <es-ES name="Solomon Islands" />
+    </translations>
+  </country>
+      <country uid="290" shortname="FSM" region="112" flag="Micronesia" tailformat="V6-\\s3">
+    <translations>
+      <en-US name="Federated States of Micronesia" />
+      <de-DE name="Federated States of Micronesia" />
+      <en-GB name="Federated States of Micronesia" />
+      <nl-NL name="Federated States of Micronesia" />
+      <zh-CN name="Federated States of Micronesia" />
+      <da-DK name="Federated States of Micronesia" />
+      <es-ES name="Federated States of Micronesia" />
+    </translations>
+  </country>
+        <country uid="291" shortname="NAU" region="112" flag="Nauru" tailformat="V6-\\s3">
+    <translations>
+      <en-US name="Republic of Nauru" />
+      <de-DE name="Republic of Nauru" />
+      <en-GB name="Republic of Nauru" />
+      <nl-NL name="Republic of Nauru" />
+      <zh-CN name="Republic of Nauru" />
+      <da-DK name="Republic of Nauru" />
+      <es-ES name="Republic of Nauru" />
+    </translations>
+  </country>
   <!--Territories-->
   <country uid="246" shortname="CAW" region="117" flag="Curacao" tailformat="PJ-\\s3">
     <territoryof uid="179" />

@@ -4017,4 +4017,13 @@ Good luck.</value>
   <data name="PageCreateRoute_202_name" xml:space="preserve">
     <value>Create Route &amp; Start Another</value>
   </data>
+  <data name="MessageBox_2228_message" xml:space="preserve">
+    <value>Are you sure you want to extend your contract with {0} years?</value>
+  </data>
+  <data name="MessageBox_2228_name" xml:space="preserve">
+    <value>Extend contract</value>
+  </data>
+  <data name="General_1001_name" xml:space="preserve">
+    <value>Fuel:</value>
+  </data>
 </root>

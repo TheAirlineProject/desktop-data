@@ -3198,6 +3198,20 @@
       <runway name="09/27" length="2195" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Honiara International Airport" icao="AGGH" iata="HIR" type="Regional" season="All_Year">
+    <town town="Honiara" country="289" GMT="11:00:00" DST="11:00:00" />
+    <coordinates>
+      <latitude value="009°25'40''S" />
+      <longitude value="160°03'17''E" />
+    </coordinates>
+    <size value="Smallest" pax="6" />
+    <terminals>
+      <terminal name="Terminal A" gates="6" />
+    </terminals>
+    <runways>
+      <runway name="06/24" length="2200" surface="Asphalt" />
+    </runways>
+  </airport>
     <airport name="Marshall Islands International Airport" icao="PKMJ" iata="MAJ" type="Short_Haul_International" season="All_Year">
     <town town="Majuro Atoll" country="287" GMT="12:00:00" DST="12:00:00" />
     <coordinates>
@@ -3210,6 +3224,34 @@
     </terminals>
     <runways>
       <runway name="07/25" length="2407" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Chuuk International Airport" icao="PTKK" iata="TKK" type="Regional" season="All_Year">
+    <town town="Weno Island" country="290" GMT="11:00:00" DST="11:00:00" />
+    <coordinates>
+      <latitude value="007°27'42''N" />
+      <longitude value="151°50'34''E" />
+    </coordinates>
+    <size value="Smallest" pax="6" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="04/22" length="1831" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Nauru International Airport" icao="ANYN" iata="INU" type="Regional" season="All_Year">
+    <town town="Yaren District" country="291" GMT="12:00:00" DST="12:00:00" />
+    <coordinates>
+      <latitude value="000°32'50''S" />
+      <longitude value="166°55'08''E" />
+    </coordinates>
+    <size value="Smallest" pax="5" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2150" surface="Asphalt" />
     </runways>
   </airport>
 </airports>
