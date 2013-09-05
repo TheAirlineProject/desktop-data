@@ -4026,4 +4026,7 @@ Good luck.</value>
   <data name="General_1001_name" xml:space="preserve">
     <value>Fuel:</value>
   </data>
+  <data name="MainMenu_1009_name" xml:space="preserve">
+    <value>Flights</value>
+  </data>
 </root>
