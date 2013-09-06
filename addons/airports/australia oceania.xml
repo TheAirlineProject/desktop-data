@@ -3254,4 +3254,46 @@
       <runway name="12/30" length="2150" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Port Moresby Jacksons International Airport" icao="AYPY" iata="POM" type="Domestic" season="All_Year">
+    <town town="Port Moresby" country="280" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="009°26'36''S" />
+      <longitude value="147°13'12''E" />
+    </coordinates>
+    <size value="Smallest" pax="11" />
+    <terminals>
+      <terminal name="Terminal A" gates="7" />
+    </terminals>
+    <runways>
+      <runway name="14L/32R" length="2750" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Wewak International Airport" icao="AYWK" iata="WWK" type="Regional" season="All_Year">
+    <town town="Wewak" country="280" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="003°35'01''S" />
+      <longitude value="143°40'08''E" />
+    </coordinates>
+    <size value="Smallest" pax="4" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1595" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Lae Nadzab Airport" icao="AYNZ" iata="LAE" type="Regional" season="All_Year">
+    <town town="Nadzab" country="280" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="006°34'11''S" />
+      <longitude value="146°43'33''E" />
+    </coordinates>
+    <size value="Smallest" pax="6" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="2440" surface="Asphalt" />
+    </runways>
+  </airport>
 </airports>

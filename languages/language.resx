@@ -784,7 +784,7 @@
     <value>Show All Holidays</value>
   </data>
   <data name="PageFlights_1000_name" xml:space="preserve">
-    <value>Flights</value>
+    <value>Airline</value>
   </data>
   <data name="PagePilots_200_name" xml:space="preserve">
     <value>Build Flight School</value>
@@ -2815,7 +2815,7 @@ Good luck.</value>
     <value>Select Gameturn Length</value>
   </data>
   <data name="PageNewGame_1024_name" xml:space="preserve">
-    <value>24Hours</value>
+    <value>24 Hours</value>
   </data>
   <data name="PageNewGame_1025_name" xml:space="preserve">
     <value>Minutes</value>
@@ -2848,7 +2848,7 @@ Good luck.</value>
     <value>Create Airline</value>
   </data>
   <data name="MainMenu_1000_name" xml:space="preserve">
-    <value>Home</value>
+    <value>Airline Manager</value>
   </data>
   <data name="MainMenu_1001_name" xml:space="preserve">
     <value>Routes Manager</value>
@@ -3514,13 +3514,13 @@ Good luck.</value>
     <value>Average Fill Degree</value>
   </data>
   <data name="PageAirlineServices_1000_name" xml:space="preserve">
-    <value>Airline Chargers</value>
+    <value>In-Flight Service Charges</value>
   </data>
   <data name="PageAirlineServices_1001_name" xml:space="preserve">
-    <value>Airline Fees</value>
+    <value>Fees</value>
   </data>
   <data name="PageAirlineServices_1002_name" xml:space="preserve">
-    <value>Airline Discounts</value>
+    <value>Discounts</value>
   </data>
   <data name="PageAirlineServices_1003_name" xml:space="preserve">
     <value>General Policies</value>
@@ -4028,5 +4028,50 @@ Good luck.</value>
   </data>
   <data name="MainMenu_1009_name" xml:space="preserve">
     <value>Flights</value>
+  </data>
+  <data name="MainMenu_3004_name" xml:space="preserve">
+    <value>News and Mails</value>
+  </data>
+  <data name="PageAirportFacilities_1009_name" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="PageAirportFacilities_1010_name" xml:space="preserve">
+    <value>Employees</value>
+  </data>
+  <data name="PageFlights_1001_name" xml:space="preserve">
+    <value>Flight</value>
+  </data>
+  <data name="PageFlights_1002_name" xml:space="preserve">
+    <value>Origin</value>
+  </data>
+  <data name="PageFlights_1003_name" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="PageFlights_1004_name" xml:space="preserve">
+    <value>Dept. Time</value>
+  </data>
+  <data name="PageFlights_1005_name" xml:space="preserve">
+    <value>Route Type</value>
+  </data>
+  <data name="PageFlights_2000_name" xml:space="preserve">
+    <value>Monday</value>
+  </data>
+  <data name="PageFlights_2001_name" xml:space="preserve">
+    <value>Tuesday</value>
+  </data>
+  <data name="PageFlights_2002_name" xml:space="preserve">
+    <value>Wednesday</value>
+  </data>
+  <data name="PageFlights_2003_name" xml:space="preserve">
+    <value>Thursday</value>
+  </data>
+  <data name="PageFlights_2004_name" xml:space="preserve">
+    <value>Friday</value>
+  </data>
+  <data name="PageFlights_2005_name" xml:space="preserve">
+    <value>Saturday</value>
+  </data>
+  <data name="PageFlights_2006_name" xml:space="preserve">
+    <value>Sunday</value>
   </data>
 </root>
