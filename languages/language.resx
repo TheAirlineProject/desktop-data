@@ -3799,7 +3799,7 @@ Good luck.</value>
     <value>Owner</value>
   </data>
   <data name="PageAirportInfo_1011_name" xml:space="preserve">
-    <value>Gates</value>
+    <value>Gates (Free/Total)</value>
   </data>
   <data name="PageAirportInfo_1012_name" xml:space="preserve">
     <value>Build New Terminal</value>
@@ -3853,7 +3853,7 @@ Good luck.</value>
     <value>Yearly Payment</value>
   </data>
   <data name="PageAirportInfo_1029_name" xml:space="preserve">
-    <value>Passenger Demand</value>
+    <value>Demand</value>
   </data>
   <data name="PageAirportInfo_1030_name" xml:space="preserve">
     <value>Destination</value>
@@ -4073,5 +4073,26 @@ Good luck.</value>
   </data>
   <data name="PageFlights_2006_name" xml:space="preserve">
     <value>Sunday</value>
+  </data>
+  <data name="PageAirlinesStatistics_1009_name" xml:space="preserve">
+    <value>Cargo</value>
+  </data>
+  <data name="PageAirlinesStatistics_1010_name" xml:space="preserve">
+    <value>Cargo Per Flight</value>
+  </data>
+  <data name="PageAirlineInfo_201_name" xml:space="preserve">
+    <value>Buy Airline</value>
+  </data>
+  <data name="PageAirlineInfo_202_name" xml:space="preserve">
+    <value>Buy Airline As Subsidiary</value>
+  </data>
+  <data name="PageScreenMode_1000_name" xml:space="preserve">
+    <value>Fullscreen Mode</value>
+  </data>
+  <data name="PageScreenMode_1001_name" xml:space="preserve">
+    <value>Windowed Mode</value>
+  </data>
+  <data name="PageSelectLanguage_1000_name" xml:space="preserve">
+    <value>Select Language</value>
   </data>
 </root>
