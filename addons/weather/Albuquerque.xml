@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Albuquerque">
+<weather type="town" value="Albuquerque, NM">
   <months>
     <month month="1" precipitation="12">
       <temp min="-5" max="9" />

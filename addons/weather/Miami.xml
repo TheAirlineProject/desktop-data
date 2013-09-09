@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Miami">
+<weather type="town" value="Miami, FL">
   <months>
     <month month="1" precipitation="41">
       <temp min="15" max="25" />

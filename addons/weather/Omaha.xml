@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Omaha">
+<weather type="town" value="Omaha, NE">
   <months>
     <month month="1" precipitation="19">
       <temp min="-10" max="1" />

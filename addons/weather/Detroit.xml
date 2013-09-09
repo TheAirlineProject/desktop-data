@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Detroit">
+<weather type="town" value="Detroit, MI">
   <months>
     <month month="1" precipitation="50">
       <temp min="-8" max="0" />

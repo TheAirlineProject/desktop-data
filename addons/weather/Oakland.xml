@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Oakland">
+<weather type="town" value="Oakland, CA">
   <months>
     <month month="1" precipitation="120">
       <temp min="7" max="14" />

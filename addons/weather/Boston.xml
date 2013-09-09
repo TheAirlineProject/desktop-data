@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Boston">
+<weather type="town" value="Boston, MA">
   <months>
     <month month="1" precipitation="85">
       <temp min="-5" max="2" />

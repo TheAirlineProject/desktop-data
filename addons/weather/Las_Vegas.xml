@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Las Vegas">
+
+<weather type="town" value="Las Vegas, NV">
   <months>
     <month month="1" precipitation="12">
 	  <temp min="0" max="15"/>

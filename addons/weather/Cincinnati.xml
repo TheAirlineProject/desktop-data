@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Cincinnati">
+<weather type="town" value="Cincinnati, OH">
   <months>
     <month month="1" precipitation="76">
       <temp min="-5" max="4" />

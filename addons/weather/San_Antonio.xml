@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="San Antonio">
+<weather type="town" value="San Antonio, TX">
   <months>
     <month month="1" precipitation="45">
       <temp min="5" max="17" />

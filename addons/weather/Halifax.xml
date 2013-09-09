@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Halifax">
+<weather type="town" value="Halifax, NS">
   <months>
     <month month="1" precipitation="151">
       <temp min="-9" max="0" />

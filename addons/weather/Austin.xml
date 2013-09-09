@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Austin">
+<weather type="town" value="Austin, TX">
   <months>
     <month month="1" precipitation="56">
       <temp min="5" max="16" />

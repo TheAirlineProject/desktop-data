@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="San Diego">
+<weather type="town" value="San Diego, Ca">
   <months>
     <month month="1" precipitation="50">
       <temp min="10" max="19" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Denver">
+<weather type="town" value="Denver, CO">
   <months>
     <month month="1" precipitation="12">
       <temp min="-8" max="7" />

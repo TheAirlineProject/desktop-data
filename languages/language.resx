@@ -4086,6 +4086,9 @@ Good luck.</value>
   <data name="PageAirlineInfo_202_name" xml:space="preserve">
     <value>Buy Airline As Subsidiary</value>
   </data>
+  <data name="PageAirportInfo_1034_name" xml:space="preserve">
+    <value> </value>
+  </data>
   <data name="PageScreenMode_1000_name" xml:space="preserve">
     <value>Fullscreen Mode</value>
   </data>

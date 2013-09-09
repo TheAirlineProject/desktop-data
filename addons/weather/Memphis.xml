@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Memphis">
+<weather type="town" value="Memphis, TN">
   <months>
     <month month="1" precipitation="101">
       <temp min="0" max="10" />

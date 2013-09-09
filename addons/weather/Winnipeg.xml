@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Winnipeg">
+<weather type="town" value="Winnipeg, MB">
   <months>
     <month month="1" precipitation="20">
       <temp min="-23" max="-12" />

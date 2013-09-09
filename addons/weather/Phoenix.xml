@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Phoenix">
+<weather type="town" value="Phoenix, AZ">
   <months>
     <month month="1" precipitation="23">
       <temp min="8" max="20" />

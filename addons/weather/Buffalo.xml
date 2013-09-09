@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="Buffalo">
+<weather type="town" value="Buffalo, NY">
   <months>
     <month month="1" precipitation="81">
       <temp min="-7" max="0" />
