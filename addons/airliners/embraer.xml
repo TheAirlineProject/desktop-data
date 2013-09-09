@@ -32,13 +32,13 @@
   </airliner>
   <airliner manufacturer="Embraer" name="Embraer E-170" price="4689040"> <!--28500000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="26.00" length="29.90" range="3334" speed="890" fuelcapacity="6760" consumption="0.026" runwaylengthrequired="1650"/>
-    <capacity passengers="78" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
+    <specs wingspan="26.00" length="29.90" range="3334" speed="890" fuelcapacity="6760" consumption="0.026" runwaylengthrequired="1640"/>
+    <capacity passengers="80" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="2002" to="2019" rate="77"/>
   </airliner>
   <airliner manufacturer="Embraer" name="Embraer E-175" price="5264890"> <!--32000000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="26.00" length="31.68" range="3334" speed="890" fuelcapacity="6760" consumption="0.023" runwaylengthrequired="2200"/>
+    <specs wingspan="26.00" length="31.68" range="3334" speed="890" fuelcapacity="6760" consumption="0.023" runwaylengthrequired="2240"/>
     <capacity passengers="88" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="2002" to="2019" rate="77"/>
   </airliner>

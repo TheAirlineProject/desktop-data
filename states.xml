@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <states>
+	<!--Canada-->
+	<state country="113" name="Alberta" shortname="AB"  flag="Canada - Alberta"></state>
+	<state country="113" name="British Columbia" shortname="BC"  flag="Canada - British Columbia"></state>
+	<state country="113" name="Manitoba" shortname="MB"  flag="Canada - Manitoba"></state>
+	<state country="113" name="New Brunswick" shortname="NB"  flag="Canada - New Brunswick"></state>
+	<state country="113" name="Newfoundland and Labrador" shortname="NL"  flag="Canada - Newfoundland and Labrador"></state>
+	<state country="113" name="Nova Scotia" shortname="NS"  flag="Canada - Nova Scotia"></state>
+	<state country="113" name="Ontario" shortname="ON"  flag="Canada - Ontario"></state>
+	<state country="113" name="Quebec" shortname="QC"  flag="Canada - Quebec"></state>
+	<state country="113" name="Prince Edward Island" shortname="PE"  flag="Canada - Prince Edward Island"></state>
+	<state country="113" name="Saskatchewan" shortname="SK"  flag="Canada - Saskatchewan"></state>
 	<!--Denmark-->
 	<state country="110" name="Faroe Islands" shortname="FO"  flag="Denmark - Faroe Islands"></state>
 	<state country="110" name="Greenland" shortname="GL"  flag="Denmark - Greenland" overseas="True" region="119"></state>
@@ -22,17 +33,6 @@
 	<state country="130" name="Turks and Caicos Islands" shortname="TC"  flag="UK - Turks and Caicos Islands" overseas="True" region="117"></state>
 	<state country="130" name="Virgin Islands (British)" shortname="VG"  flag="UK - Virgin Islands" overseas="True" region="117"></state>
 	<state country="130" name="Wales" shortname="WAL"  flag="UK - Wales"></state>
-	<!--Canada-->
-		<state country="113" name="Ontario" shortname="ON"  flag="Canada - Ontario"></state>
-		<state country="113" name="Quebec" shortname="QC"  flag="Canada - Quebec"></state>
-		<state country="113" name="Nova Scotia" shortname="NS"  flag="Canada - Nova Scotia"></state>
-		<state country="113" name="New Brunswick" shortname="NB"  flag="Canada - New Brunswick"></state>
-		<state country="113" name="Manitoba" shortname="MB"  flag="Canada - Manitoba"></state>
-		<state country="113" name="British Columbia" shortname="BC"  flag="Canada - British Columbia"></state>
-		<state country="113" name="Prince Edward Island" shortname="PE"  flag="Canada - Prince Edward Island"></state>
-		<state country="113" name="Saskatchewan" shortname="SK"  flag="Canada - Saskatchewan"></state>
-		<state country="113" name="Alberta" shortname="AB"  flag="Canada - Alberta"></state>
-		<state country="113" name="Newfoundland and Labrador" shortname="NL"  flag="Canada - Newfoundland and Labrador"></state>
 	<!--United States-->
 	<state country="122" name="Alabama" shortname="AL"  flag="USA - Alabama"></state>
 	<state country="122" name="Alaska" shortname="AK"  flag="USA - Alaska"></state>

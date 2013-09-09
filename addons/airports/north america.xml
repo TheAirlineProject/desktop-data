@@ -45,7 +45,7 @@
     </runways>
   </airport>
   <airport name="Kelowna International Airport" icao="CYLW" iata="YLW" type="Short_Haul_International" season="All_Year">
-    <town town="Kelowa, BC" country="113" GMT="-07:00:00" DST="-08:00:00"/>
+    <town town="Kelowna, BC" country="113" GMT="-07:00:00" DST="-08:00:00"/>
     <coordinates>
       <latitude value="049°57'21''N"/>
       <longitude value="119°22'40''W"/>
@@ -75,7 +75,7 @@
     </runways>
   </airport>
   <airport name="Québec City Jean Lesage International Airport" icao="CYQB" iata="YQB" type="Short_Haul_International" season="All_Year">
-    <town town="Quebec, QC" country="113" GMT="-04:00:00" DST="-05:00:00"/>
+    <town town="Quebec City, QC" country="113" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="046°47'32''N"/>
       <longitude value="071°23'03''W"/>
@@ -152,7 +152,7 @@
   </airport>
     <airport name="Montréal-Mirabel International Airport" icao="CYMX" iata="YMX" type="Long_Haul_International" season="All_Year">
     <period from="10.04.1975 00:00:00" to="01.01.2199 00:00:00"/>
-    <town town="Montréal, QC" country="113" GMT="-04:00:00" DST="-05:00:00" />
+    <town town="Montreal, QC" country="113" GMT="-04:00:00" DST="-05:00:00" />
     <coordinates>
       <latitude value="045°40'46''N" />
       <longitude value="074°02'19''W" />
@@ -1301,7 +1301,7 @@
     </runways>
   </airport>
   <airport name="Ronald Reagan Washington National Airport" icao="KDCA" iata="DCA" type="Short_Haul_International" season="All_Year">
-    <town town="Washington, DC" country="122" GMT="-03:00:00" DST="-04:00:00"/>
+    <town town="Washington DC" country="122" GMT="-03:00:00" DST="-04:00:00"/>
     <coordinates>
       <latitude value="038°51'08''N"/>
       <longitude value="077°02'16''W"/>
@@ -1715,7 +1715,7 @@
   </airport>
   <airport name="Washington Dulles International Airport" icao="KIAD" iata="IAD" type="Long_Haul_International" season="All_Year">
   <period from="11.17.1962 00:00:00" to="01.01.2199 00:00:00"/>
-	<town town="Washington, DC" country="122" GMT="-04:00:00" DST="-05:00:00"/>
+	<town town="Washington DC" country="122" GMT="-04:00:00" DST="-05:00:00"/>
     <coordinates>
       <latitude value="038°56'40''N"/>
       <longitude value="077°27'20''W"/>

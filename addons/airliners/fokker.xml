@@ -20,7 +20,7 @@
   </airliner>
   <airliner manufacturer="Fokker" name="Fokker 100" price="4978730"> <!--19900000-->
 	<type body="Narrow_Body" rangetype="Short_Range" engine="Jet"/>
-    <specs wingspan="28.08" length="35.53" range="2450" speed="845" fuelcapacity="13365" consumption="0.051" runwaylengthrequired="1195"/>
+    <specs wingspan="28.08" length="35.53" range="2450" speed="845" fuelcapacity="13365" consumption="0.051" runwaylengthrequired="1520"/>
     <capacity passengers="107" cockpitcrew="2" cabincrew="2" maxclasses="2"/>
     <produced from="1988" to="1997" rate="24"/>
   </airliner>
