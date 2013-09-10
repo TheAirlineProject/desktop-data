@@ -4087,7 +4087,13 @@ Good luck.</value>
     <value>Buy Airline As Subsidiary</value>
   </data>
   <data name="PageAirportInfo_1034_name" xml:space="preserve">
-    <value> </value>
+    <value>Current Weather</value>
+  </data>
+  <data name="PageAirportInfo_1035_name" xml:space="preserve">
+    <value>Windspeed</value>
+  </data>
+  <data name="PageAirportInfo_1036_name" xml:space="preserve">
+    <value>Direction</value>
   </data>
   <data name="PageScreenMode_1000_name" xml:space="preserve">
     <value>Fullscreen Mode</value>
@@ -4097,5 +4103,8 @@ Good luck.</value>
   </data>
   <data name="PageSelectLanguage_1000_name" xml:space="preserve">
     <value>Select Language</value>
+  </data>
+  <data name="PageShowAirports_1009_name" xml:space="preserve">
+    <value>Show For Aircraft</value>
   </data>
 </root>
