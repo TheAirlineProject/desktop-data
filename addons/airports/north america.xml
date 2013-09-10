@@ -29,6 +29,36 @@
       <runway name="12/30" length="3109" surface="Asphalt"/>
     </runways>
   </airport>
+    <airport name="Sioux Lookout Airport" icao="CYXL" iata="YXL" type="Domestic" season="All_Year">
+    <town town="Sioux Lookout, ON" country="113" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="050°06'50''N" />
+      <longitude value="091°54'19''W" />
+    </coordinates>
+    <size value="Smallest" pax="102" />
+    <terminals>
+      <terminal name="Terminal A" gates="5" />
+    </terminals>
+    <runways>
+      <runway name="03/21" length="671" surface="Asphalt" />
+      <runway name="16/34" length="1615" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Dryden Regional Airport" icao="CYHD" iata="YHD" type="Domestic" season="All_Year">
+    <town town="Dryden, ON" country="113" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="049°49'54''N" />
+      <longitude value="092°44'39''W" />
+    </coordinates>
+    <size value="Smallest" pax="61" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="610" surface="Asphalt" />
+      <runway name="11/29" length="1829" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Halifax Stanfield International Airport" icao="CYHZ" iata="YHZ" type="Long_Haul_International" season="All_Year">
     <town town="Halifax, NS" country="113" GMT="-03:00:00" DST="-04:00:00"/>
     <coordinates>
@@ -233,6 +263,21 @@
     <runways>
       <runway name="09/27" length="2530" surface="Asphalt"/>
       <runway name="15/33" length="1890" surface="Asphalt"/>
+    </runways>
+  </airport>
+    <airport name="Churchill Airport" icao="CYYQ" iata="YYQ" type="Domestic" season="All_Year">
+    <town town="Churchill, MB" country="113" GMT="-05:00:00" DST="-06:00:00" />
+    <coordinates>
+      <latitude value="058°44'21''N" />
+      <longitude value="094°03'54''W" />
+    </coordinates>
+    <size value="Smallest" pax="73" />
+    <terminals>
+      <terminal name="Terminal A" gates="4" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="1219" surface="Asphalt" />
+      <runway name="15/33" length="2804" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="St. John's International Airport" icao="CYYT" iata="YYT" type="Long_Haul_International" season="All_Year">
