@@ -2075,8 +2075,8 @@
       <runway name="07R/25L" length="3800" surface="Concrete"/>
     </runways>
   </airport>
-  <airport name="Trà Nóc Airport" icao="VVCT" iata="VCA" type="Short_Haul_International" season="All_Year">
-    <town town="Can Tho" country="170" GMT="07:00:00" DST="07:00:00" />
+  <airport name="Can Tho International Airport" icao="VVCT" iata="VCA" type="Short_Haul_International" season="All_Year">
+    <town town="Can Tho" country="1008" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="010°05'06''N" />
       <longitude value="105°42'43''E" />
@@ -2091,7 +2091,7 @@
     </runways>
   </airport>
   <airport name="Lien Khuong Airport" icao="VVDL" iata="DLI" type="Short_Haul_International" season="All_Year">
-    <town town="Dalat" country="170" GMT="07:00:00" DST="07:00:00" />
+    <town town="Dalat" country="1008" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="011°45'00''N" />
       <longitude value="108°22'01''E" />
@@ -2105,7 +2105,7 @@
     </runways>
   </airport>
   <airport name="Da Nang International Airport" icao="VVDN" iata="DAD" type="Short_Haul_International" season="All_Year">
-    <town town="Da Nang" country="170" GMT="07:00:00" DST="07:00:00" />
+    <town town="Da Nang" country="1008" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="016°02'38''N" />
       <longitude value="108°11'56''E" />
@@ -2120,7 +2120,7 @@
     </runways>
   </airport>
   <airport name="Cat Bi International Airport" icao="VVCI" iata="HPH" type="Short_Haul_International" season="All_Year">
-    <town town="Haiphong" country="170" GMT="07:00:00" DST="07:00:00" />
+    <town town="Haiphong" country="1007" GMT="07:00:00" DST="07:00:00" />
     <coordinates>
       <latitude value="020°49'09''N" />
       <longitude value="106°43'29''E" />
