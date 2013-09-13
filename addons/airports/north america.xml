@@ -4101,7 +4101,7 @@
       <runway name="12R/30L" length="3500" surface="Asphalt"/>
     </runways>
   </airport>
-  <airport name="General Abelardo L. Rodríguez International Airport" icao="MMTJ" iata="TIJ" type="Short_Haul_International" season="All_Year">
+  <airport name="Tijuana International Airport" icao="MMTJ" iata="TIJ" type="Short_Haul_International" season="All_Year">
     <town town="Tijuana" country="157" GMT="-08:00:00" DST="-09:00:00" />
     <coordinates>
       <latitude value="032°32'27''N" />

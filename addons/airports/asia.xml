@@ -19,7 +19,7 @@
   </airport>
   <!--Bahrain (OB**)-->
   <airport name="Bahrain International Airport" icao="OBII" iata="BAH" type="Long_Haul_International" season="All_Year">
-    <town town="Bahrain" country="151" GMT="03:00:00" DST="03:00:00"/>
+    <town town="Al Muharraq" country="151" GMT="03:00:00" DST="03:00:00"/>
     <coordinates>
       <latitude value="026°16'15''N"/>
       <longitude value="050°38'01''E"/>
