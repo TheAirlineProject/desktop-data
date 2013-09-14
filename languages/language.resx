@@ -820,16 +820,16 @@
     <value>News</value>
   </data>
   <data name="PageSettings_1000_name" xml:space="preserve">
-    <value>Settings</value>
+    <value>Fullscreen Mode</value>
   </data>
   <data name="PageSettings_1001_name" xml:space="preserve">
-    <value>Game Speed</value>
+    <value>Windowed Mode</value>
   </data>
   <data name="PageSettings_1002_name" xml:space="preserve">
-    <value>Language</value>
+    <value>Screen Mode</value>
   </data>
   <data name="PageSettings_1003_name" xml:space="preserve">
-    <value>Skin</value>
+    <value>Language</value>
   </data>
   <data name="PageSettings_1004_name" xml:space="preserve">
     <value>Mail on Landings</value>
@@ -2965,10 +2965,10 @@ Good luck.</value>
     <value>Route Information</value>
   </data>
   <data name="PageCreateRoute_1002_name" xml:space="preserve">
-    <value>Outbound</value>
+    <value>Origin</value>
   </data>
   <data name="PageCreateRoute_1003_name" xml:space="preserve">
-    <value>Homebound</value>
+    <value>Destination</value>
   </data>
   <data name="PageCreateRoute_1004_name" xml:space="preserve">
     <value>Stopover</value>
@@ -3091,7 +3091,7 @@ Good luck.</value>
     <value>Select Configuration</value>
   </data>
   <data name="PageNewGame_2000_name" xml:space="preserve">
-    <value>New Game</value>
+    <value>Standard Game</value>
   </data>
   <data name="PageNewGame_2001_name" xml:space="preserve">
     <value>Create Airline</value>
@@ -4090,10 +4090,10 @@ Good luck.</value>
     <value>Current Weather</value>
   </data>
   <data name="PageAirportInfo_1035_name" xml:space="preserve">
-    <value>Windspeed</value>
+    <value>Weather</value>
   </data>
   <data name="PageAirportInfo_1036_name" xml:space="preserve">
-    <value>Direction</value>
+    <value>Wind</value>
   </data>
   <data name="PageScreenMode_1000_name" xml:space="preserve">
     <value>Fullscreen Mode</value>
@@ -4106,5 +4106,23 @@ Good luck.</value>
   </data>
   <data name="PageShowAirports_1009_name" xml:space="preserve">
     <value>Show For Aircraft</value>
+  </data>
+  <data name="PageAirportInfo_1037_name" xml:space="preserve">
+    <value>Airport Type</value>
+  </data>
+  <data name="PageAirportInfo_1038_name" xml:space="preserve">
+    <value>Travel Season</value>
+  </data>
+  <data name="PageNewGame_2003_name" xml:space="preserve">
+    <value>Play Scenario</value>
+  </data>
+  <data name="PageShowScenario_1004_name" xml:space="preserve">
+    <value>Select Scenario</value>
+  </data>
+  <data name="PageSettings_200_name" xml:space="preserve">
+    <value>Save Settings</value>
+  </data>
+  <data name="PageSettings_201_name" xml:space="preserve">
+    <value>Undo Settings</value>
   </data>
 </root>
