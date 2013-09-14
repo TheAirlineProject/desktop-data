@@ -4119,6 +4119,9 @@ Good luck.</value>
   <data name="PageShowScenario_1004_name" xml:space="preserve">
     <value>Select Scenario</value>
   </data>
+  <data name="PageAirportInfo_1039_name" xml:space="preserve">
+    <value>Total Terminal Cost</value>
+  </data>
   <data name="PageSettings_200_name" xml:space="preserve">
     <value>Save Settings</value>
   </data>
