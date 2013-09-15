@@ -1671,7 +1671,7 @@
     </runways>
   </airport>
   <airport name="Taree Airport" icao="YTRE" iata="TRO" type="Domestic" season="All_Year">
-    <town town="Greater Taree City Council - aiport is council owned &amp; operated." country="116" GMT="13:00:00" DST="13:00:00" />
+    <town town="Taree" country="116" GMT="13:00:00" DST="13:00:00" />
     <coordinates>
       <latitude value="031°53'18''S" />
       <longitude value="152°30'50''E" />
@@ -2498,7 +2498,7 @@
     </runways>
   </airport>
   <airport name="St George Airport" icao="YSGE" iata="SGO" type="Domestic" season="All_Year">
-    <town town="St George Airport" country="116" GMT="10:00:00" DST="10:00:00" />
+    <town town="St George" country="116" GMT="10:00:00" DST="10:00:00" />
     <coordinates>
       <latitude value="028°02'58''S" />
       <longitude value="148°35'42''E" />

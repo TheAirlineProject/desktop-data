@@ -3604,7 +3604,7 @@
       <latitude value="031°08'36''N"/>
       <longitude value="121°48'19''E"/>
     </coordinates>
-    <size value="Very_large" pax="41450" cargo="Smallest" cargovolume="0"/>  cargo="Largest" cargovolume="3227"/>
+    <size value="Very_large" pax="41450" cargo="Largest" cargovolume="3227"/>
     <terminals>
       <terminal name="Terminal 1" gates="28"/>
       <terminal name="Terminal 2" gates="30"/>

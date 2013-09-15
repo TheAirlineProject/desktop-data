@@ -2821,7 +2821,7 @@
   </airport>
   <!--Canary Islands (GC**)-->
   <airport name="Fuerteventura Airport" icao="GCFV" iata="FUE" type="Long_Haul_International" season="All_Year">
-    <town town="Fuerteventura" country="123" GMT="01:00:00" DST="00:00:00"/>
+    <town town="Puerto del Rosario" country="123" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="028°27'09''N"/>
       <longitude value="013°51'49''W"/>
@@ -2835,7 +2835,7 @@
     </runways>
   </airport>
   <airport name="Gran Canaria Airport" icao="GCLP" iata="LPA" type="Long_Haul_International" season="All_Year">
-    <town town="Gran Canaria" country="123" GMT="01:00:00" DST="00:00:00"/>
+    <town town="Telde" country="123" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="027°55'54''N"/>
       <longitude value="015°23'11''W"/>
@@ -2850,7 +2850,7 @@
     </runways>
   </airport>
   <airport name="Lanzarote Airport" icao="GCRR" iata="ACE" type="Long_Haul_International" season="All_Year">
-    <town town="Lanzerote" country="123" GMT="01:00:00" DST="00:00:00"/>
+    <town town="San Bartolomé" country="123" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="028°56'43''N"/>
       <longitude value="013°36'18''W"/>
@@ -2865,7 +2865,7 @@
     </runways>
   </airport>
   <airport name="Tenerife South Airport" icao="GCTS" iata="TFS" type="Long_Haul_International" season="All_Year">
-    <town town="Tenerife" country="123" GMT="01:00:00" DST="00:00:00"/>
+    <town town="Granadilla de Abona" country="123" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="028°02'40''N"/>
       <longitude value="016°34'20''W"/>
@@ -2879,7 +2879,7 @@
     </runways>
   </airport>
   <airport name="Tenerife North Airport" icao="GCXO" iata="TFN" type="Long_Haul_International" season="All_Year">
-    <town town="Tenerife" country="123" GMT="01:00:00" DST="00:00:00"/>
+    <town town="San Cristóbal de La Laguna" country="123" GMT="01:00:00" DST="00:00:00"/>
     <coordinates>
       <latitude value="028°28'57''N"/>
       <longitude value="016°20'29''W"/>

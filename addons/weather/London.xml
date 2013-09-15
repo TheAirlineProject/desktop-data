@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<weather type="town" value="London">
+<weather type="town" value="London, ENG">
   <months>
     <month month="1" precipitation="52">
       <temp min="3" max="8" />
