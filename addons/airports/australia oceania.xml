@@ -89,6 +89,20 @@
       <runway name="09/27" length="2136" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Nausori International Airport" icao="NFNA" iata="SUV" type="Domestic" season="All_Year">
+    <town town="Nausori" country="114" GMT="12:00:00" DST="12:00:00" />
+    <coordinates>
+      <latitude value="018°02'35''S" />
+      <longitude value="178°33'32''E" />
+    </coordinates>
+    <size value="Smallest" pax="103" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="10/28" length="1868" surface="Asphalt" />
+    </runways>
+  </airport>
   <airport name="Fuaʻamotu International Airport" icao="NFTF" iata="TBU" type="Long_Haul_International" season="All_Year">
     <town town="Nukuʻalofa" country="208" GMT="12:00:00" DST="13:00:00" />
     <coordinates>
@@ -3238,6 +3252,48 @@
     </terminals>
     <runways>
       <runway name="04/22" length="1831" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Yap International Airport" icao="PTYA" iata="YAP" type="Regional" season="All_Year">
+    <town town="Yap Island" country="290" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="009°29'56''N" />
+      <longitude value="138°04'58''E" />
+    </coordinates>
+    <size value="Smallest" pax="76" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="07/25" length="1829" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Pohnpei International Airport" icao="PTPN" iata="PNI" type="Regional" season="All_Year">
+    <town town="Pohnpei Island" country="290" GMT="11:00:00" DST="11:00:00" />
+    <coordinates>
+      <latitude value="006°59'06''N" />
+      <longitude value="158°12'32''E" />
+    </coordinates>
+    <size value="Smallest" pax="98" />
+    <terminals>
+      <terminal name="Terminal A" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="09/27" length="1829" surface="Asphalt" />
+    </runways>
+  </airport>
+    <airport name="Kosrae International Airport" icao="PTSA" iata="KSA" type="Regional" season="All_Year">
+    <town town="Okat" country="290" GMT="11:00:00" DST="11:00:00" />
+    <coordinates>
+      <latitude value="005°21'25''N" />
+      <longitude value="162°57'28''E" />
+    </coordinates>
+    <size value="Smallest" pax="71" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="05/23" length="1753" surface="Asphalt" />
     </runways>
   </airport>
     <airport name="Nauru International Airport" icao="ANYN" iata="INU" type="Regional" season="All_Year">
