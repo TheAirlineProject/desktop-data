@@ -4128,4 +4128,13 @@ Good luck.</value>
   <data name="PageSettings_201_name" xml:space="preserve">
     <value>Undo Settings</value>
   </data>
+  <data name="PageAirportInfo_1040_name" xml:space="preserve">
+    <value>Local Time</value>
+  </data>
+  <data name="PageLoadSaveGame_2000_name" xml:space="preserve">
+    <value>Main Menu</value>
+  </data>
+  <data name="PageLoadSaveGame_2001_name" xml:space="preserve">
+    <value>Load Game</value>
+  </data>
 </root>
