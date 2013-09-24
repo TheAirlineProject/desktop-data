@@ -4137,4 +4137,97 @@ Good luck.</value>
   <data name="PageLoadSaveGame_2001_name" xml:space="preserve">
     <value>Load Game</value>
   </data>
+  <data name="PageRoutePlanner_1000_name" xml:space="preserve">
+    <value>Region</value>
+  </data>
+  <data name="PageRoutePlanner_1001_name" xml:space="preserve">
+    <value>Route</value>
+  </data>
+  <data name="PageRoutePlanner_1002_name" xml:space="preserve">
+    <value>Flight No.</value>
+  </data>
+  <data name="PageRoutePlanner_1003_name" xml:space="preserve">
+    <value>Start Time</value>
+  </data>
+  <data name="PageRoutePlanner_1004_name" xml:space="preserve">
+    <value>Flights Per</value>
+  </data>
+  <data name="PageRoutePlanner_1005_name" xml:space="preserve">
+    <value>Stopover Time</value>
+  </data>
+  <data name="PageRoutePlanner_1006_name" xml:space="preserve">
+    <value>Ops. Schedule</value>
+  </data>
+  <data name="PageRoutePlanner_1007_name" xml:space="preserve">
+    <value>Route Scheduler</value>
+  </data>
+  <data name="PageRoutePlanner_1008_name" xml:space="preserve">
+    <value>Outbound</value>
+  </data>
+  <data name="PageRoutePlanner_1009_name" xml:space="preserve">
+    <value>Depart</value>
+  </data>
+  <data name="PageRoutePlanner_1010_name" xml:space="preserve">
+    <value>Homebound</value>
+  </data>
+  <data name="PageRoutePlanner_1011_name" xml:space="preserve">
+    <value>Flight No.</value>
+  </data>
+  <data name="PageRoutePlanner_1012_name" xml:space="preserve">
+    <value>Interval</value>
+  </data>
+  <data name="PageRoutePlanner_1013_name" xml:space="preserve">
+    <value>Routes</value>
+  </data>
+  <data name="PageRoutePlanner_1014_name" xml:space="preserve">
+    <value>Route</value>
+  </data>
+  <data name="PageRoutePlanner_1015_name" xml:space="preserve">
+    <value>Stopovers</value>
+  </data>
+  <data name="PageRoutePlanner_1016_name" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="PageRoutePlanner_1017_name" xml:space="preserve">
+    <value>Flight Time</value>
+  </data>
+  <data name="PageRoutePlanner_1018_name" xml:space="preserve">
+    <value>Route Generator</value>
+  </data>
+  <data name="PageRoutePlanner_1019_name" xml:space="preserve">
+    <value>Daily</value>
+  </data>
+  <data name="PageRoutePlanner_1020_name" xml:space="preserve">
+    <value>Weekdays</value>
+  </data>
+  <data name="PageRoutePlanner_1021_name" xml:space="preserve">
+    <value>TTS</value>
+  </data>
+  <data name="PageRoutePlanner_1022_name" xml:space="preserve">
+    <value>Every Other</value>
+  </data>
+  <data name="PageRoutePlanner_1023_name" xml:space="preserve">
+    <value>Weekend</value>
+  </data>
+  <data name="PageRoutePlanner_1024_name" xml:space="preserve">
+    <value>MWF</value>
+  </data>
+  <data name="PageRoutePlanner_1025_name" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="PageRoutePlanner_200_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageRoutePlanner_201_name" xml:space="preserve">
+    <value>Undo All</value>
+  </data>
+  <data name="PageRoutePlanner_202_name" xml:space="preserve">
+    <value>Clear Timetable</value>
+  </data>
+  <data name="PageRoutePlanner_203_name" xml:space="preserve">
+    <value>Swap Airports</value>
+  </data>
+  <data name="PageRoutePlanner_204_name" xml:space="preserve">
+    <value>Add</value>
+  </data>
 </root>
