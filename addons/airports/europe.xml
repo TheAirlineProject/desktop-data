@@ -1454,7 +1454,7 @@
       <runway name="14/32" length="782" surface="Concrete" />
     </runways>
   </airport>
-  <airport name="Odense Airport" icao="EKOD" iata="ODE" type="Domestic" season="All_Year">
+  <airport name="Hans Christian Andersen Airport" icao="EKOD" iata="ODE" type="Domestic" season="All_Year">
     <town town="Odense" country="110" GMT="02:00:00" DST="01:00:00" />
     <coordinates>
       <latitude value="055°28'36''N" />

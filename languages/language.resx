@@ -4236,4 +4236,85 @@ Good luck.</value>
   <data name="PageRoutePlanner_204_name" xml:space="preserve">
     <value>Add</value>
   </data>
+  <data name="PageFleetAirlinerInformation_1000_name" xml:space="preserve">
+    <value>Number of Seats</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1001_name" xml:space="preserve">
+    <value>Airliner Information</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1002_name" xml:space="preserve">
+    <value>Homebase</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1003_name" xml:space="preserve">
+    <value>Built Date</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1004_name" xml:space="preserve">
+    <value>Date of Purchase</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1005_name" xml:space="preserve">
+    <value>Condition Level</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1006_name" xml:space="preserve">
+    <value>Total Flown</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1007_name" xml:space="preserve">
+    <value>Flown Since Last Service</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1008_name" xml:space="preserve">
+    <value>Registered in</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1009_name" xml:space="preserve">
+    <value>Aircraft Specifications</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1010_name" xml:space="preserve">
+    <value>Airliner Classes</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_200_name" xml:space="preserve">
+    <value>Add Airliner Class</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_201_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_202_name" xml:space="preserve">
+    <value>Undo Changes</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_1000_name" xml:space="preserve">
+    <value>Scheduled Airliner Maintenance</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_1001_name" xml:space="preserve">
+    <value>Maintenance A</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_1002_name" xml:space="preserve">
+    <value>Maintenance B</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_1003_name" xml:space="preserve">
+    <value>Set Maintenance</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_1004_name" xml:space="preserve">
+    <value>Airliner Insurance Policies</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_200_name" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="PageFleetAirlinerInsurances_204_name" xml:space="preserve">
+    <value>Undo Changes</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1000_name" xml:space="preserve">
+    <value>Airliner Statistics</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1001_name" xml:space="preserve">
+    <value>Airliner Routes</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1002_name" xml:space="preserve">
+    <value>Route</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1003_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1004_name" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="PageFleetAirlinerStatistics_1005_name" xml:space="preserve">
+    <value>Filling Degree</value>
+  </data>
 </root>
