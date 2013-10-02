@@ -778,9 +778,9 @@
     <value>Most Routes</value>
   </data>
   <data name="PageCalendar_1000_name" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Show Home Country Holidays</value>
   </data>
-  <data name="PageCalendar_200_name" xml:space="preserve">
+  <data name="PageCalendar_1001_name" xml:space="preserve">
     <value>Show All Holidays</value>
   </data>
   <data name="PageFlights_1000_name" xml:space="preserve">
@@ -4235,6 +4235,9 @@ Good luck.</value>
   </data>
   <data name="PageRoutePlanner_204_name" xml:space="preserve">
     <value>Add</value>
+  </data>
+  <data name="MainMenu_3005_name" xml:space="preserve">
+    <value>Calendar</value>
   </data>
   <data name="PageFleetAirlinerInformation_1000_name" xml:space="preserve">
     <value>Number of Seats</value>
