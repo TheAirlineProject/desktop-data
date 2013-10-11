@@ -4320,4 +4320,7 @@ Good luck.</value>
   <data name="PageFleetAirlinerStatistics_1005_name" xml:space="preserve">
     <value>Filling Degree</value>
   </data>
+  <data name="MainMenu_3006_name" xml:space="preserve">
+    <value>Go to Previous Page</value>
+  </data>
 </root>

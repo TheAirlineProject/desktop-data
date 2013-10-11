@@ -149,6 +149,20 @@
       <runway name="04/22" length="3420" surface="Asphalt" />
     </runways>
   </airport>
+    <airport name="Bora Bora Airport" icao="NTTB" iata="BOB" type="Short_Haul_International" season="All_Year">
+    <town town="Motu Mute, PF" country="140" GMT="10:00:00" DST="10:00:00" />
+    <coordinates>
+      <latitude value="016°26'37''S" />
+      <longitude value="151°45'09''W" />
+    </coordinates>
+    <size value="Small" pax="1169" cargo="Smallest" cargovolume="0"/>
+    <terminals>
+      <terminal name="Terminal" gates="3" />
+    </terminals>
+    <runways>
+      <runway name="11/29" length="4921" surface="Asphalt" />
+    </runways>
+  </airport>
   <!--New Zealand (NZ**)-->
   <airport name="Auckland Airport" icao="NZAA" iata="AKL" type="Long_Haul_International" season="All_Year">
     <town town="Auckland" country="186" GMT="12:00:00" DST="13:00:00" />
