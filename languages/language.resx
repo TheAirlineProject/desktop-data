@@ -4323,4 +4323,10 @@ Good luck.</value>
   <data name="MainMenu_3006_name" xml:space="preserve">
     <value>Go to Previous Page</value>
   </data>
+  <data name="PageShowAirports_1010_name" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="PageShowAirports_1011_name" xml:space="preserve">
+    <value>Type</value>
+  </data>
 </root>
