@@ -4323,6 +4323,9 @@ Good luck.</value>
   <data name="MainMenu_3006_name" xml:space="preserve">
     <value>Go to Previous Page</value>
   </data>
+  <data name="PageAirlineServices_204_name" xml:space="preserve">
+    <value>Create New Configuration</value>
+  </data>
   <data name="PageShowAirports_1010_name" xml:space="preserve">
     <value>Size</value>
   </data>
