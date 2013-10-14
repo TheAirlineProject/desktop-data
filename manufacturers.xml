@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <manufacturers>
   <manufacturer name="Aerospatiale" shortname="Aerospatiale" country="140"/>
   <manufacturer name="Airbus" shortname="Airbus" country="140"/>
@@ -12,6 +12,7 @@
   <manufacturer name="British Aircraft Corporation" shortname="BAC" country="130"/>
   <manufacturer name="Cessna Aircraft Company" shortname="Cessna" country="122"/>
   <manufacturer name="Convair" shortname="Convair" country="122"/>
+  <manufacturer name="de Havilland" shortname="DH" country="130"/>
   <manufacturer name="Douglas Aircraft Company" shortname="Douglas" country="122"/>
   <manufacturer name="Dornier Flugzeugwerke" shortname="Dornier" country="1002"/>
   <manufacturer name="Empresa Brasileira de Aeronáutica" shortname="Embraer" country="138"/>

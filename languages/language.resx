@@ -4326,10 +4326,22 @@ Good luck.</value>
   <data name="PageAirlineServices_204_name" xml:space="preserve">
     <value>Create New Configuration</value>
   </data>
+  <data name="PageNewAirline_1010_name" xml:space="preserve">
+    <value>Country</value>
+  </data>
   <data name="PageShowAirports_1010_name" xml:space="preserve">
     <value>Size</value>
   </data>
   <data name="PageShowAirports_1011_name" xml:space="preserve">
     <value>Type</value>
+  </data>
+  <data name="PageUsedAirliners_1003_name" xml:space="preserve">
+    <value>Show Only with Homebase</value>
+  </data>
+  <data name="PageUsedAirliners_1004_name" xml:space="preserve">
+    <value>Capacity</value>
+  </data>
+  <data name="PageUsedAirliners_1005_name" xml:space="preserve">
+    <value>Compare Airliners</value>
   </data>
 </root>
