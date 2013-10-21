@@ -4290,7 +4290,7 @@ Good luck.</value>
   <data name="PageFleetAirlinerInsurances_1002_name" xml:space="preserve">
     <value>Maintenance B</value>
   </data>
-  <data name="PageFleetAirlinerInsurances_1003_name" xml:space="preserve">
+  <data name="PageFleetAirlinerInsurances_202_name" xml:space="preserve">
     <value>Set Maintenance</value>
   </data>
   <data name="PageFleetAirlinerInsurances_1004_name" xml:space="preserve">
@@ -4299,7 +4299,7 @@ Good luck.</value>
   <data name="PageFleetAirlinerInsurances_200_name" xml:space="preserve">
     <value>Save Changes</value>
   </data>
-  <data name="PageFleetAirlinerInsurances_204_name" xml:space="preserve">
+  <data name="PageFleetAirlinerInsurances_201_name" xml:space="preserve">
     <value>Undo Changes</value>
   </data>
   <data name="PageFleetAirlinerStatistics_1000_name" xml:space="preserve">
@@ -4335,6 +4335,18 @@ Good luck.</value>
   <data name="PageShowAirports_1011_name" xml:space="preserve">
     <value>Type</value>
   </data>
+  <data name="AirlinerTypeSpecifications_1014_name" xml:space="preserve">
+    <value>Cockpit Crew</value>
+  </data>
+  <data name="PageFleetAirlinerInformation_1011_name" xml:space="preserve">
+    <value>Select Class to Add</value>
+  </data>
+  <data name="PageHumanRoutes_200_name" xml:space="preserve">
+    <value>Routes Map</value>
+  </data>
+  <data name="PageShowFlightSchool_1014_name" xml:space="preserve">
+    <value>Select Training Aircraft</value>
+  </data>
   <data name="PageUsedAirliners_1003_name" xml:space="preserve">
     <value>Show Only with Homebase</value>
   </data>
@@ -4346,5 +4358,8 @@ Good luck.</value>
   </data>
   <data name="PageUsedAirliners_1006_name" xml:space="preserve">
     <value>Tail Number</value>
+  </data>
+  <data name="PageUsedAirliners_1007_name" xml:space="preserve">
+    <value>Classes</value>
   </data>
 </root>
