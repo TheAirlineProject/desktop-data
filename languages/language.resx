@@ -4362,4 +4362,25 @@ Good luck.</value>
   <data name="PageUsedAirliners_1007_name" xml:space="preserve">
     <value>Classes</value>
   </data>
+  <data name="PopUpAirlinerSeatsConfiguration_1000_name" xml:space="preserve">
+    <value>Seating Capacity:</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_1001_name" xml:space="preserve">
+    <value>Classes</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_1002_name" xml:space="preserve">
+    <value>Facilities</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_1003_name" xml:space="preserve">
+    <value>Airliner Configuration</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_200_name" xml:space="preserve">
+    <value>Add New Class</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_201_name" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="PopUpAirlinerSeatsConfiguration_202_name" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
 </root>
