@@ -4383,4 +4383,19 @@ Good luck.</value>
   <data name="PopUpAirlinerSeatsConfiguration_202_name" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="MessageBox_2124_message" xml:space="preserve">
+    <value>You can't apply for that loan since you have reached your limit amount</value>
+  </data>
+  <data name="MessageBox_2124_name" xml:space="preserve">
+    <value>Can't apply for loan</value>
+  </data>
+  <data name="News_1014_message" xml:space="preserve">
+    <value>[LI airline={0}] has started operating to {1}</value>
+  </data>
+  <data name="News_1014_name" xml:space="preserve">
+    <value>New airline destination</value>
+  </data>
+  <data name="PageShowOptions_1007_name" xml:space="preserve">
+    <value>Send Mails on Airline News</value>
+  </data>
 </root>
