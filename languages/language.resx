@@ -4390,7 +4390,7 @@ Good luck.</value>
     <value>Can't apply for loan</value>
   </data>
   <data name="News_1014_message" xml:space="preserve">
-    <value>[LI airline={0}] has started operating to {1}</value>
+    <value>[LI airline={0}] launces scheduled services to {1}</value>
   </data>
   <data name="News_1014_name" xml:space="preserve">
     <value>New airline destination</value>
