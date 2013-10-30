@@ -4398,4 +4398,10 @@ Good luck.</value>
   <data name="PageShowOptions_1007_name" xml:space="preserve">
     <value>Send Mails on Airline News</value>
   </data>
+  <data name="MessageBox_1008_message" xml:space="preserve">
+    <value>The game has now been saved</value>
+  </data>
+  <data name="MessageBox_1008_name" xml:space="preserve">
+    <value>Game saved</value>
+  </data>
 </root>
