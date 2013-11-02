@@ -4404,4 +4404,22 @@ Good luck.</value>
   <data name="MessageBox_1008_name" xml:space="preserve">
     <value>Game saved</value>
   </data>
+  <data name="PageNews_1000_name" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="PageNews_1001_name" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="PageNews_200_name" xml:space="preserve">
+    <value>Select All</value>
+  </data>
+  <data name="PageNews_201_name" xml:space="preserve">
+    <value>Deselect All</value>
+  </data>
+  <data name="PageNews_202_name" xml:space="preserve">
+    <value>Mark Selected as Read</value>
+  </data>
+  <data name="PageNews_203_name" xml:space="preserve">
+    <value>Delete Selected</value>
+  </data>
 </root>
