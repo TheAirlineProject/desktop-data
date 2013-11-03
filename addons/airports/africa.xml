@@ -3538,7 +3538,7 @@
       <terminal name="Terminal A" gates="2" />
     </terminals>
     <runways>
-      <runway name="18/36" length="1700" surface="UnAsphalt" />
+      <runway name="18/36" length="1700" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Entebbe International Airport" icao="HUEN" iata="EBB" type="Long_Haul_International" season="All_Year">
@@ -3581,7 +3581,7 @@
       <terminal name="Terminal A" gates="2" />
     </terminals>
     <runways>
-     <runway name="02/20" length="1300" surface="UnAsphalt" />
+     <runway name="02/20" length="1300" surface="Asphalt" />
     </runways>
   </airport>  
   <!--Malawi (FW**)-->
@@ -3789,7 +3789,7 @@
       <terminal name="Terminal A" gates="2" />
     </terminals>
     <runways >
-      <runway name="18/36" length="1700" surface="UnAsphalt" />
+      <runway name="18/36" length="1700" surface="Asphalt" />
     </runways>
   </airport>
   <airport name="Entebbe International Airport" icao="HUEN" iata="EBB" type="Long_Haul_International" season="All_Year">
@@ -3832,7 +3832,7 @@
       <terminal name="Terminal A" gates="2" />
     </terminals>
     <runways>
-     <runway name="02/20" length="1300" surface="UnAsphalt" />
+     <runway name="02/20" length="1300" surface="Asphalt" />
     </runways>
   </airport>
   <!--Cape Verde(GV**)-->
