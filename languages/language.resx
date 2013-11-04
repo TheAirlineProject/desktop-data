@@ -4422,6 +4422,9 @@ Good luck.</value>
   <data name="PageNews_203_name" xml:space="preserve">
     <value>Delete Selected</value>
   </data>
+  <data name="PageAirlineInfo_1030_name" xml:space="preserve">
+    <value>Member of Alliance</value>
+  </data>
   <data name="PageShowAlliance_203_name" xml:space="preserve">
     <value>Alliance Routes Map</value>
   </data>
