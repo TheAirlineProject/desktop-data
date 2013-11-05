@@ -4741,6 +4741,46 @@
       <runway name="10/28" length="2443" surface="Concrete"/>
     </runways>
   </airport>
+  <airport name="Rafael Hernandez Airport" icao="TJBQ" iata="BQN" type="Short_Haul_International" season="All_Year">
+    <town town="Aguadilla, PR" country="122" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°29'41''N" />
+      <longitude value="067°07'45''W" />
+    </coordinates>
+    <size value="Smallest" pax="434" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="08/26" length="3567" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Mercedita Airport" icao="TJPS" iata="PSE" type="Regional" season="All_Year">
+    <town town="Ponce, PR" country="122" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°00'29''N" />
+      <longitude value="066°33'46''W" />
+    </coordinates>
+    <size value="Smallest" pax="205" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways>
+      <runway name="12/30" length="2104" surface="Asphalt" />
+    </runways>
+  </airport>
+  <airport name="Vieques Airport" icao="TJCG" iata="VQS" type="Regional" season="All_Year">
+    <town town="Vieques Island, PR" country="122" GMT="-04:00:00" DST="-04:00:00" />
+    <coordinates>
+      <latitude value="018°06'56''N" />
+      <longitude value="065°25'21''W" />
+    </coordinates>
+    <size value="Smallest" pax="165" />
+    <terminals>
+      <terminal name="Terminal A" gates="2" />
+    </terminals>
+    <runways />
+  </airport>
   <!--Saint Kitts and Nevis (TK**)-->
   <airport name="Robert L. Bradshaw International Airport" icao="TKPK" iata="SKB" type="Long_Haul_International" season="Summer">
     <town town="Basseterre" country="230" GMT="-04:00:00" DST="-04:00:00"/>
