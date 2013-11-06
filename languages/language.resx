@@ -4428,4 +4428,7 @@ Good luck.</value>
   <data name="PageShowAlliance_203_name" xml:space="preserve">
     <value>Alliance Routes Map</value>
   </data>
+  <data name="PageNewGame_1027_name" xml:space="preserve">
+    <value>Selecting more than 100 opponents will make the game unstable</value>
+  </data>
 </root>
