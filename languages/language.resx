@@ -4429,6 +4429,6 @@ Good luck.</value>
     <value>Alliance Routes Map</value>
   </data>
   <data name="PageNewGame_1027_name" xml:space="preserve">
-    <value>Selecting more than 100 opponents will make the game unstable</value>
+    <value>Selecting more than 50 opponents will make the game unstable</value>
   </data>
 </root>
