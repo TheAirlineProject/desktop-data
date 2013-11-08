@@ -4431,4 +4431,7 @@ Good luck.</value>
   <data name="PageNewGame_1027_name" xml:space="preserve">
     <value>Selecting more than 50 opponents will make the game unstable</value>
   </data>
+  <data name="PageNewGame_1028_name" xml:space="preserve">
+    <value>Use Only Major Airports</value>
+  </data>
 </root>
