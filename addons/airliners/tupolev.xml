@@ -13,3 +13,10 @@
     <produced from="1972" to="2006" rate="22"/>
   </airliner>
 </airliners>
+  <airliner manufacturer="Tupolev" name="Tupolev Tu-204-100" price="33605721"> <!--3500000-->
+	<type body="Narrow_Body" rangetype="Medium_Range" engine="Jet"/>
+    <specs wingspan="41.80" length="46.14" range="6900" speed="850" fuelcapacity="30820" consumption="0.021" runwaylengthrequired="2150"/>
+    <capacity passengers="114" cockpitcrew="3" cabincrew="5" maxclasses="3"/>
+    <produced from="1996" to="2020" rate="2"/>
+  </airliner>
+</airliners>
